@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+ 
+
+<channels>
+ <channel>
+      <name>[COLOR blue][COLOR  lime]•   [/COLOR] CANALES TDT [COLOR] SportsDevil, HD, SD[/COLOR]</name>
+      <thumbnail>http://zonadjjavi.webcindario.com/Kodi/imagen/cantdt4.png</thumbnail>
+      <fanart>http://zonadjjavi.webcindario.com/Kodi/fondo2.jpg</fanart>
+      <link>http://ignoreme</link>
+      <externallink>http://zonadjjavi.webcindario.com/Kodi/menus/tdt.xml</externallink>
+ </channel>
+</channels>
+
+<channels>
+ <channel>
+      <name>[COLOR blue][COLOR  lime]•   [/COLOR] CANAL DIGITAL [COLOR] SportsDevil[/COLOR]</name>
+      <thumbnail>http://zonadjjavi.webcindario.com/Kodi/imagen/candigital1.png</thumbnail>
+      <fanart>http://zonadjjavi.webcindario.com/Kodi/fondo2.jpg</fanart>
+      <link>http://ignoreme</link>
+      <externallink>http://zonadjjavi.webcindario.com/Kodi/menus/Sportsdevil.xml</externallink>
+ </channel>
+</channels>
+
+<channels>
+<channel>
+      <name>[COLOR blue][COLOR  lime]•   [/COLOR]CANALES INFANTIL[COLOR] SportsDevil[/COLOR]</name>
+      <thumbnail>http://zonadjjavi.webcindario.com/Kodi/imagen/caninfa1.png</thumbnail>
+      <fanart>http://zonadjjavi.webcindario.com/Kodi/fondo2.jpg</fanart>
+      <link>http://ignoreme</link>
+	  <externallink>http://zonadjjavi.webcindario.com/Kodi/menus/infantil.xml</externallink>
+</channel>
+</channels>
+
+<channels>
+ <channel>
+      <name>[COLOR blue][COLOR  lime]•   [/COLOR]CANALES AUTONOMIICOS [/COLOR]</name>
+      <thumbnail>http://zonadjjavi.webcindario.com/Kodi/imagen/canauto1.png</thumbnail>
+      <fanart>http://zonadjjavi.webcindario.com/Kodi/fondo2.jpg</fanart>
+      <link>http://ignoreme</link>
+      <externallink>http://zonadjjavi.webcindario.com/Kodi/menus/autonomicos.xml</externallink>
+ </channel>
+</channels>

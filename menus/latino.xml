@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+//////////////////////////////////////LATINOS//////////////////////////////////////
+
+
+<channel>
+    <name>          <<<<<<<<<Canales Latinos>>>>>>>></name>
+     <thumbnail>http://zonadjjavi.webcindario.com/Kodi/darkman212.png</thumbnail>
+      <fanart>http://zonadjjavi.webcindario.com/Kodi/fondo2.jpg</fanart>
+        <items>
+		
+		                        <item><title>[COLOR=yellow]                                      <<[/COLOR][COLOR=yellow]Canales Latinos[/COLOR][COLOR=yellow]>>[/COLOR]</title>   <link>http://zonadjjavi.webcindario.com</link></item>
+     
+<item>
+<title>[COLOR white] TV Latina [COLOR]  Latino [/COLOR]</title>
+<link>http://cialive-live.hds.adaptive.level3.net/hls-live/ciaremux-live/_definst_/live/stream1.m3u8</link>
+<thumbnail>http://4.bp.blogspot.com/-KDEl04IijX0/VedzVBDiUtI/AAAAAAAApek/mpYHFN99wYA/s1600/latina-tv.jpg</thumbnail>
+<fanart>http://zonadjjavi.webcindario.com/Kodi/fondo2.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR white] TV Latina 2 [COLOR] Latino [/COLOR]</title>
+<link>http://cialive-live.hds.adaptive.level3.net/hls-live/ciaremux-live/_definst_/live/stream2.m3u8</link>
+<thumbnail>http://4.bp.blogspot.com/-KDEl04IijX0/VedzVBDiUtI/AAAAAAAApek/mpYHFN99wYA/s1600/latina-tv.jpg</thumbnail>
+<fanart>http://zonadjjavi.webcindario.com/Kodi/fondo2.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR white]26 TV[COLOR] Latino [/COLOR]</title>
+<link>http://live-edge01.telecentro.net.ar/live/smil:c26.smil/chunklist_w55466811_b414000_sleng.m3u8</link>
+<thumbnail>https://3.bp.blogspot.com/-zEGACEdxGMw/V_PpeVzIiGI/AAAAAAABGAI/GQ3ckWZD8DAmNkdqMcneWvcPiP8vXBL1wCLcB/s640/LOGO%2BCANAL%2B26.jpg</thumbnail>
+<fanart>http://zonadjjavi.webcindario.com/Kodi/fondo2.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR white]DW ESPAÑA[/COLOR]</title>
+<link>http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_1_av-b.m3u8?sd=10&rebase=on</link>
+<thumbnail>http://www.oneafrica.tv/wp-content/uploads/2016/07/DW-Journal-News.jpg</thumbnail>
+<fanart>http://zonadjjavi.webcindario.com/Kodi/fondo2.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR white]RT ESPAÑOL[/COLOR]</title>
+<link>http://rt-esp-live.hls.adaptive.level3.net/rt/esp/index1600.m3u8</link>
+<thumbnail>http://media.revistasenal.com/wp-content/uploads/2016/07/RT-Espa%C3%B1ol.jpg</thumbnail>
+<fanart>http://zonadjjavi.webcindario.com/Kodi/fondo2.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR white]A24 [COLOR] Latino [/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=yZGc05q7ajA</link>
+<thumbnail></thumbnail>
+<fanart>http://zonadjjavi.webcindario.com/Kodi/fondo2.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR white]CANAL 8 SAN JUAN [COLOR] Latino [/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=yiwJzHW123c</link>
+<thumbnail></thumbnail>
+<fanart>http://zonadjjavi.webcindario.com/Kodi/fondo2.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR white]TN EN DIRECTO[COLOR] Latino [/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=BY-kkZulNhI</link>
+<thumbnail></thumbnail>
+<fanart>http://zonadjjavi.webcindario.com/Kodi/fondo2.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR white]Ta Te Ti[COLOR] Latino [/COLOR]</title>
+<link>http://ionlive1-lh.akamaihd.net/i/tateti_1@126174/index_846_av-p.m3u8?sd=10&rebase=on</link>
+<thumbnail>http://www.fox.com/sites/default/files/fox_logo_1.jpg</thumbnail>
+<fanart>http://zonadjjavi.webcindario.com/Kodi/fondo2.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR white]TyC Sports [COLOR] Latino [/COLOR]</title>
+<link>http://clairinlive-a.akamaihd.net/dc-1/live/hls/p/1885581/e/1_8xzo6fux/t/YO19xXbHgW_22sNZezlmTg/index-s32.m3u8</link>
+<thumbnail>http://statictycf5b.tycsports.com/sites/default/files/nota_periodistica/play_0.jpg</thumbnail>
+<fanart>http://zonadjjavi.webcindario.com/Kodi/fondo2.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR white]C5N [COLOR] Latino [/COLOR]</title>
+<link>http://server3.stweb.tv/c5n/ngrp:live_all/chunklist_w124085376_b1634304.m3u8</link>
+<thumbnail>http://www.sitiosargentina.com.ar/wp-content/uploads/2016/03/c5n.jpg</thumbnail>
+<fanart>http://zonadjjavi.webcindario.com/Kodi/fondo2.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR white]Telesur [COLOR] Latino [/COLOR]</title>
+<link>http://cdna.telesur.ultrabase.net/mbliveMain/ngrp:mblive_all/chunklist_b603136.m3u8</link>
+<thumbnail>http://www.sitiosargentina.com.ar/wp-content/uploads/2016/03/c5n.jpg</thumbnail>
+<fanart>http://zonadjjavi.webcindario.com/Kodi/fondo2.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR white]TELEVISA: Gala TV Cuernavaca [COLOR] Latino [/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=-5cZ0fOjk2c</link>
+<thumbnail></thumbnail>
+<fanart>http://zonadjjavi.webcindario.com/Kodi/fondo2.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR white]TELEVISA: Bajio TV Leon[COLOR] Latino [/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=_neQwmEtL2I</link>
+<thumbnail></thumbnail>
+<fanart>http://zonadjjavi.webcindario.com/Kodi/fondo2.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR white]TELEVISA: 24 TV Golfo [COLOR] Latino [/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=HhbhdjN68aA</link>
+<thumbnail></thumbnail>
+<fanart>http://zonadjjavi.webcindario.com/Kodi/fondo2.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR white]TELEVISA: Campeche [COLOR] Latino [/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=6eJPGYK2N5M</link>
+<thumbnail></thumbnail>
+<fanart>http://zonadjjavi.webcindario.com/Kodi/fondo2.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR white]TELEVISA: Puebla [COLOR] Latino [/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=vGQReDz9-iQ</link>
+<thumbnail></thumbnail>
+<fanart>http://zonadjjavi.webcindario.com/Kodi/fondo2.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR white]Cable Noticias[COLOR] Latino [/COLOR]</title>
+<link>http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TIEM/tu1_1.m3u8</link>
+<thumbnail>http://portal2.iptvprivateserver.tv/stalker_portal/misc/logos/320/361.png</thumbnail>
+<fanart>http://zonadjjavi.webcindario.com/Kodi/fondo2.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR white]Azteca Noticias[COLOR] Latino [/COLOR]</title>
+<link>http://aztecalive-lh.akamaihd.net/i/0pd7p6ys0_1@175672/index_3_av-p.m3u8?sd=10&rebase=on</link>
+<thumbnail>http://portal2.iptvprivateserver.tv/stalker_portal/misc/logos/320/1610.png</thumbnail>
+<fanart>http://zonadjjavi.webcindario.com/Kodi/fondo2.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR white]DXTV[COLOR] Latino [/COLOR]</title>
+<link>http://186.33.227.198/DXTV/smil:DXTV.smil/playlist.m3u8</link>
+<thumbnail>http://portal2.iptvprivateserver.tv/stalker_portal/misc/logos/320/2854.png</thumbnail>
+<fanart>http://zonadjjavi.webcindario.com/Kodi/fondo2.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR white]Sun Channel HD[COLOR] Latino [/COLOR]</title>
+<link>http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/SUN/tu1_manifest.m3u8?</link>
+<thumbnail>https://www.brandsoftheworld.com/sites/default/files/styles/logo-thumbnail/public/0016/8006/brand.gif</thumbnail>
+<fanart>http://zonadjjavi.webcindario.com/Kodi/fondo2.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR white]Sun Channel HD[COLOR] Latino [/COLOR]</title>
+<link>http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/SUN/tu1_manifest.m3u8?</link>
+<thumbnail>https://www.brandsoftheworld.com/sites/default/files/styles/logo-thumbnail/public/0016/8006/brand.gif</thumbnail>
+<fanart>http://zonadjjavi.webcindario.com/Kodi/fondo2.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR white]Cosmovision[COLOR] Latino [/COLOR]</title>
+<link>http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/COSM/tu1_1.m3u8</link>
+<thumbnail>https://spiderdigitalmarketing.com/fbapps/cosmovision_etapa2/img/logoCosmovision.png</thumbnail>
+<fanart>http://zonadjjavi.webcindario.com/Kodi/fondo2.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR white]Trendy Channel[COLOR] Latino [/COLOR]</title>
+<link>http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TREN/tu1_1.m3u8</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/TC_LOGO.png/245px-TC_LOGO.png</thumbnail>
+<fanart>http://zonadjjavi.webcindario.com/Kodi/fondo2.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR white]Mi musica[COLOR] Latino [/COLOR]</title>
+<link>http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MMHD/tu1_1.m3u8</link>
+<thumbnail>http://www.canalmimusica.com/wp-content/uploads/2012/11/logo-mimusica.png</thumbnail>
+<fanart>http://zonadjjavi.webcindario.com/Kodi/fondo2.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR white]Tigo Music[COLOR] Latino [/COLOR]</title>
+<link>http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MESH/tu1_1.m3u8</link>
+<thumbnail>http://www.laurakalop.com/wordpress/wp-content/uploads/2015/08/TigoMusic_LogoOK.png</thumbnail>
+<fanart>http://zonadjjavi.webcindario.com/Kodi/fondo2.jpg</fanart>
+</item>
+
+
+
+
+ ---------------------CANAL DIGITAL------------------
+
+
+<item>
+<title>[COLOR white]CINEMAX[/COLOR]</title>
+<sportsdevil>http://www.vercanalestv.com/ver-cinemax-en-vivo-online-gratis-24h/</sportsdevil>
+<referer>http://cinestrenostv.tv</referer>
+<thumbnail>http://cdn.hbowatch.com/wp-content/uploads/2015/08/streaming-cinemax-online.jpg</thumbnail>
+<fanart>http://zonadjjavi.webcindario.com/Kodi/fondo2.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR white]FOX[/COLOR]</title>
+<sportsdevil>http://www.vercanalestv.com/fox-latino-en-vivo-por-internet/</sportsdevil>
+<referer>http://www.vercanalestv.com</referer>
+<thumbnail>http://www.fox.com/sites/default/files/fox_logo_1.jpg</thumbnail>
+<fanart>http://zonadjjavi.webcindario.com/Kodi/fondo2.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR white]CINEMAX[/COLOR]</title>
+<sportsdevil>http://www.sintelevisor.com/tv/canal/nickelodeon.php</sportsdevil>
+<referer>http://cinestrenostv.tv</referer>
+<thumbnail>http://cdn.hbowatch.com/wp-content/uploads/2015/08/streaming-cinemax-online.jpg</thumbnail>
+<fanart>http://zonadjjavi.webcindario.com/Kodi/fondo2.jpg</fanart>
+</item>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

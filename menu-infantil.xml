@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<channel>
+    <name>          <<<<<<<<<Salon Infantil>>>>>>>></name>
+    <thumbnail>http://zonadjjavi.webcindario.com/Kodi/darkman212.png</thumbnail>
+      <fanart>http://zonadjjavi.webcindario.com/Kodi/fondo2.jpg</fanart>
+        <items>
+		
+		
+		
+		
+		
+		
+		
+		 <item><title>[COLOR=yellow]                                      <<[/COLOR][COLOR=yellow] Salon Infantil[/COLOR][COLOR=yellow]>>[/COLOR]</title>   <link>http://zonadjjavi.webcindario.com</link></item>
+                    
+
+        <item>
+        <title>[COLOR blue]Canales Infantil[/COLOR]</title>
+        <link>http://Ignoreme</link>
+	    <externallink>http://zonadjjavi.webcindario.com/Kodi/menus/infantil.xml</externallink>
+        <thumbnail>http://zonadjjavi.webcindario.com/Kodi/imagen/caninfa.gif</thumbnail>
+        <fanart>http://zonadjjavi.webcindario.com/Kodi/fondo2.jpg</fanart>
+        </item>		
+
+        <item>
+        <title>[COLOR blue]Pelicula infantil[/COLOR]</title>
+        <link>http://Ignoreme</link>
+        <externallink>http://zonadjjavi.webcindario.com/Kodi/menus/videoclubinfa.xml</externallink>
+        <thumbnail>http://zonadjjavi.webcindario.com/Kodi/imagen/pelisinfa.gif</thumbnail>
+        <fanart>http://zonadjjavi.webcindario.com/Kodi/fondo2.jpg</fanart>
+        </item>	
+        </items>
+</channel>		

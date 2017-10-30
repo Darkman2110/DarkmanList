@@ -1,0 +1,362 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+ <channel>
+    <name>          <<<<<<<<<Canales TDT HD>>>>>>>></name>
+    <thumbnail>http://zonadjjavi.webcindario.com/Kodi/darkman212.png</thumbnail>
+      <fanart>http://zonadjjavi.webcindario.com/Kodi/fondo2.jpg</fanart>
+        <items>
+
+
+
+
+
+               
+                        <item><title>[COLOR=yellow]                                      <<[/COLOR][COLOR=yellow] Canales TDT HD[/COLOR][COLOR=yellow]>>[/COLOR]</title>   <link>http://zonadjjavi.webcindario.com</link></item>
+ 
+
+ 
+ 
+ <item>
+<title>[COLOR white]GRAN HERMANO  24H[/COLOR]</title>
+<link>http://mediasetooyala-lh.akamaihd.net/i/reality_model4_geo_delivery@458346/index_2500_av-b.m3u8</link>
+<thumbnail>http://www.ocio.net/wp-content/uploads/2015/05/gh.png</thumbnail>
+<fanart>http://zonadjjavi.webcindario.com/Kodi/fondo2.jpg</fanart>
+</item>
+ 
+ 
+ 
+<item>
+<title>[COLOR white]LA 1 HD[/COLOR]</title>
+<link>http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl7/la1_lv3_aosv4_gl7/la1_lv3_aosv4_gl7.isml/la1_lv3_aosv4_gl7-audio=128000-video=650000.m3u8</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/7/76/La_1_HD_TVE.png</thumbnail>
+<fanart>http://zonadjjavi.webcindario.com/Kodi/fondo2.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR white]LA 2 HD[/COLOR]</title>
+<link>http://hlsackdn_gl1-lh.akamaihd.net/i/hlslive_1@439397/index_1500_av-b.m3u8?sd=10&rebase=on</link>
+<thumbnail>http://img.rtve.es/a/3803139?w=1180&preview=1479280957704.jpg</thumbnail>
+<fanart>http://zonadjjavi.webcindario.com/Kodi/fondo2.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR white]Cuatro HD[/COLOR]</title>
+<link>http://mset-prgb-2.live-delivery.ooyala.com/out/u/3vkkbgnvsm2r5/104951/NmbWM5YjE6LAH8o-VL3vr3hw3JqSTnRU/cn/fb3d6852c1ac44c982aa727fe9e791cd_3.m3u8</link>
+<thumbnail>http://zonadjjavi.webcindario.com/Kodi/logos/cuatro1.jpg</thumbnail>
+<fanart>http://zonadjjavi.webcindario.com/Kodi/fondo2.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR white]Telecinco[/COLOR]</title>
+<link>http://mset-prod-1.live-delivery.ooyala.com/out/u/3vkkbgnvsm2r5/104951/RsZXlnNTE6re1fFuFEI0UrdA2Uj7pNGM/cn/5d62490854b545598f64eaa84709400b_4.m3u8</link>
+<thumbnail>http://zonadjjavi.webcindario.com/Kodi/logos/telecinco1.jpg</thumbnail>
+<fanart>http://zonadjjavi.webcindario.com/Kodi/fondo2.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR white] FDF[/COLOR]</title>
+<link>http://mset-prod-1.live-delivery.ooyala.com/out/u/3vkkbgnvsm2r5/104951/5vMGFjYjE6FW20QNvfFor1J8AiF0JAyp/cn/73742da67a5947919a8bb82035fa9224_4.m3u8</link>
+<thumbnail>http://zonadjjavi.webcindario.com/Kodi/logos/fdf1.jpg</thumbnail>
+<fanart>http://zonadjjavi.webcindario.com/Kodi/fondo2.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR white]Be Mad[/COLOR]</title>
+<link>http://mset-prgb-2.live-delivery.ooyala.com/out/u/3vkkbgnvsm2r5/104951/9oczVsNTE66uaerrrQhhZZ2KqsRPyxAa/cn/a8ed7dadb9984eb59f16c572caa62cb0_3.m3u8</link>
+<thumbnail>http://zonadjjavi.webcindario.com/Kodi/logos/bemad1.jpg</thumbnail>
+<fanart>http://zonadjjavi.webcindario.com/Kodi/fondo2.jpg</fanart>
+</item>
+
+
+
+<item>
+<title>[COLOR white]Divinity[/COLOR]</title>
+<link>http://mset-prgb-2.live-delivery.ooyala.com/out/u/3vkkbgnvsm2r5/104951/IybDNyYTE6j7PZaKerX9iKFSCuctjf5B/cn/95d3fccb2d6f4ad6b09d23e7c67d3acf_4.m3u8</link>
+<referer>http://cinestrenostv.tv</referer>
+<thumbnail>http://zonadjjavi.webcindario.com/Kodi/logos/divinity1.jpg</thumbnail>
+<fanart>http://zonadjjavi.webcindario.com/Kodi/fondo2.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR white] Energy[/COLOR]</title>
+<link>http://mset-prgb-2.live-delivery.ooyala.com/out/u/3vkkbgnvsm2r5/104951/5zbW9tYzE6c6Xd1o5Y12HgBkAd3upNLp/cn/ab297324953a402895aa2edb6928b0c3_1.m3u8</link>
+<referer>http://cinestrenostv.tv</referer>
+<thumbnail>http://zonadjjavi.webcindario.com/Kodi/logos/energy1.jpg</thumbnail>
+<fanart>http://zonadjjavi.webcindario.com/Kodi/fondo2.jpg</fanart>
+</item>
+
+
+
+<item>
+<title>[COLOR white]Antena 3 HD[/COLOR]</title>
+<link>http://a3live-lh.akamaihd.net/i/antena3_1@35248/master.m3u8</link>
+<thumbnail>http://zonadjjavi.webcindario.com/Kodi/logos/antena31.jpg</thumbnail>
+<fanart>http://zonadjjavi.webcindario.com/Kodi/fondo2.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR white]Neox HD[/COLOR]</title>
+<link>http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/master.m3u8</link>
+<thumbnail>http://zonadjjavi.webcindario.com/Kodi/logos/neox1.jpg</thumbnail>
+<fanart>http://zonadjjavi.webcindario.com/Kodi/fondo2.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR white]LA Sexta HD[/COLOR]</title>
+<link>http://a3live-lh.akamaihd.net/i/lasexta_1@35272/master.m3u8</link>
+<thumbnail>http://zonadjjavi.webcindario.com/Kodi/logos/lasexta1.jpg</thumbnail>
+<fanart>http://zonadjjavi.webcindario.com/Kodi/fondo2.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR white] Mega HD[/COLOR]</title>
+<link>http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/master.m3u8</link>
+<thumbnail>http://zonadjjavi.webcindario.com/Kodi/logos/mega1.jpg</thumbnail>
+<fanart>http://zonadjjavi.webcindario.com/Kodi/fondo2.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR white]A3 Series HD[/COLOR]</title>
+<link>http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/master.m3u8</link>
+<thumbnail>http://zonadjjavi.webcindario.com/Kodi/logos/A3SS.jpg</thumbnail>
+<fanart>http://zonadjjavi.webcindario.com/Kodi/fondo2.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR white]Nova HD[/COLOR]</title>
+<link>http://a3live-lh.akamaihd.net/i/nvhds/geonova_1@379404/master.m3u8</link>
+<thumbnail>http://zonadjjavi.webcindario.com/Kodi/logos/nova1.jpg</thumbnail>
+<fanart>http://zonadjjavi.webcindario.com/Kodi/fondo2.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR white]24 HORAS[/COLOR]</title>
+<link>http://hlsackdn_gl8-lh.akamaihd.net/i/hlsdvrlive_1@81183/index_0400_av-p.m3u8?sd=10&rebase=on</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/1200px-Logo_TVE-24h.svg.png</thumbnail>
+<fanart>http://zonadjjavi.webcindario.com/Kodi/fondo2.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR white]13 TV[/COLOR]</title>
+<link>http://streaming13tv.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/smil:live.smil/chunklist_w617464262_b498000.m3u8</link>
+<thumbnail>http://zonadjjavi.webcindario.com/Kodi/logos/c13tv1.jpg</thumbnail>
+<fanart>http://zonadjjavi.webcindario.com/Kodi/fondo2.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR white]Real Madrid[/COLOR]</title>
+<link>http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/index_3_av-p.m3u8?sd=10&rebase=on</link>
+<thumbnail>http://zonadjjavi.webcindario.com/Kodi/logos/real_madrid.jpg</thumbnail>
+<fanart>http://zonadjjavi.webcindario.com/Kodi/fondo2.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR white]Hit TV[/COLOR]</title>
+<link>http://kissfm-cires21-video.secure.footprint.net/hittv/bitrate_4.m3u8</link>
+<thumbnail>http://zonadjjavi.webcindario.com/Kodi/logos/hittv.jpg</thumbnail>
+<fanart>http://zonadjjavi.webcindario.com/Kodi/fondo2.jpg</fanart>
+</item>
+
+<channel>
+    <name>          <<<<<<<<<Canales TDT SD>>>>>>>></name>
+    <thumbnail>http://zonadjjavi.webcindario.com/Kodi/darkman212.png</thumbnail>
+      <fanart>http://zonadjjavi.webcindario.com/Kodi/fondo2.jpg</fanart>
+        <items>
+ 
+ 
+ 
+ 
+<channel>
+    <name>          <<<<<<<<<Canales TDT SportsDevil>>>>>>>></name>
+    <thumbnail>http://zonadjjavi.webcindario.com/Kodi/darkman212.png</thumbnail>
+      <fanart>http://zonadjjavi.webcindario.com/Kodi/fondo2.jpg</fanart>
+        <items>
+
+
+                                     <item><title>[COLOR=yellow]                                      <<[/COLOR][COLOR=yellow] Canales TDT SportsDevil[/COLOR][COLOR=yellow]>>[/COLOR]</title>   <link>http://zonadjjavi.webcindario.com</link></item>
+     
+<item>
+<title>[COLOR white]GH 17 24H[COLOR] SportsDevil[/COLOR]</title>
+<SportsDevil>http://cinestrenostv.tv/canales/nacionales/GH/1.html</SportsDevil>
+<referer>http://cinestrenostv.tv</referer>
+<thumbnail>http://www.ocio.net/wp-content/uploads/2015/05/gh.png</thumbnail>
+<fanart>http://zonadjjavi.webcindario.com/Kodi/fondo2.jpg</fanart>
+</item> 
+
+<item>
+<title>[COLOR white]Cuatro[COLOR] SportsDevil[/COLOR]</title>
+<SportsDevil>http://cinestrenostv.tv/canales/nacionales/la-cuatro.php</SportsDevil>
+<referer>http://cinestrenostv.tv</referer>
+<thumbnail>http://zonadjjavi.webcindario.com/Kodi/logos/cuatro1.jpg</thumbnail>
+<fanart>http://zonadjjavi.webcindario.com/Kodi/fondo2.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR white]Telecinco[COLOR] SportsDevil[/COLOR]</title>
+<SportsDevil>http://cinestrenostv.tv/canales/nacionales/telecinco.php</SportsDevil>
+<referer>http://cinestrenostv.tv</referer>
+<thumbnail>http://zonadjjavi.webcindario.com/Kodi/logos/telecinco1.jpg</thumbnail>
+<fanart>http://zonadjjavi.webcindario.com/Kodi/fondo2.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR white] FDF[COLOR] SportsDevil[/COLOR]</title>
+<SportsDevil>http://cinestrenostv.tv/canales/nacionales/fdf.php</SportsDevil>
+<referer>http://cinestrenostv.tv</referer>
+<thumbnail>http://zonadjjavi.webcindario.com/Kodi/logos/fdf1.jpg</thumbnail>
+<fanart>http://zonadjjavi.webcindario.com/Kodi/fondo2.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR white]Divinity[COLOR] SportsDevil[/COLOR]</title>
+<SportsDevil>http://cinestrenostv.tv/canales/nacionales/divinity.php</SportsDevil>
+<referer>http://cinestrenostv.tv</referer>
+<thumbnail>http://zonadjjavi.webcindario.com/Kodi/logos/divinity1.jpg</thumbnail>
+<fanart>http://zonadjjavi.webcindario.com/Kodi/fondo2.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR white] Energy[COLOR] SportsDevil[/COLOR]</title>
+<SportsDevil>http://cinestrenostv.tv/canales/nacionales/energy.php</SportsDevil>
+<referer>http://cinestrenostv.tv</referer>
+<thumbnail>http://zonadjjavi.webcindario.com/Kodi/logos/energy1.jpg</thumbnail>
+<fanart>http://zonadjjavi.webcindario.com/Kodi/fondo2.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR white] Be Mad [COLOR] SportsDevil[/COLOR]</title>
+<SportsDevil>http://cinestrenostv.tv/canales/nacionales/bemad.php</SportsDevil>
+<referer>http://cinestrenostv.tv</referer>
+<thumbnail>http://zonadjjavi.webcindario.com/Kodi/logos/bemad1.jpg</thumbnail>
+<fanart>http://zonadjjavi.webcindario.com/Kodi/fondo2.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR white]Ten[COLOR] SportsDevil[/COLOR]</title>
+<SportsDevil>http://cinestrenostv.tv/canales/nacionales/ten.php</SportsDevil>
+<referer>http://cinestrenostv.tv</referer>
+<thumbnail>http://zonadjjavi.webcindario.com/Kodi/logos/ten1.jpg</thumbnail>
+<fanart>http://zonadjjavi.webcindario.com/Kodi/fondo2.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR white]DKISS[COLOR] SportsDevil[/COLOR]</title>
+<SportsDevil>http://cinestrenostv.tv/canales/nacionales/dkiss.php</SportsDevil>
+<referer>http://cinestrenostv.tv</referer>
+<thumbnail>http://zonadjjavi.webcindario.com/Kodi/logos/dkiss.png</thumbnail>
+<fanart>http://zonadjjavi.webcindario.com/Kodi/fondo2.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR white]Antena 3 HD[COLOR] SportsDevil[/COLOR]</title>
+<SportsDevil>http://cinestrenostv.tv/canales/nacionales/antena-3.php</SportsDevil>
+<referer>http://cinestrenostv.tv</referer>
+<thumbnail>http://zonadjjavi.webcindario.com/Kodi/logos/antena31.jpg</thumbnail>
+<fanart>http://zonadjjavi.webcindario.com/Kodi/fondo2.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR white]Neox HD[COLOR] SportsDevil[/COLOR]</title>
+<SportsDevil>http://cinestrenostv.tv/canales/nacionales/neox.php</SportsDevil>
+<referer>http://cinestrenostv.tv</referer>
+<thumbnail>http://zonadjjavi.webcindario.com/Kodi/logos/neox1.jpg</thumbnail>
+<fanart>http://zonadjjavi.webcindario.com/Kodi/fondo2.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR white]LA Sexta HD[COLOR] SportsDevil[/COLOR]</title>
+<SportsDevil>http://cinestrenostv.tv/canales/nacionales/la-sexta.php</SportsDevil>
+<referer>http://cinestrenostv.tv</referer>
+<thumbnail>http://zonadjjavi.webcindario.com/Kodi/logos/lasexta1.jpg</thumbnail>
+<fanart>http://zonadjjavi.webcindario.com/Kodi/fondo2.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR white]Mega  HD[COLOR] SportsDevil[/COLOR]</title>
+<SportsDevil>http://cinestrenostv.tv/canales/nacionales/mega.php</SportsDevil>
+<referer>http://cinestrenostv.tv</referer>
+<thumbnail>http://zonadjjavi.webcindario.com/Kodi/logos/mega1.jpg</thumbnail>
+<fanart>http://zonadjjavi.webcindario.com/Kodi/fondo2.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR white]Nova HD[COLOR] SportsDevil[/COLOR]</title>
+<SportsDevil>http://cinestrenostv.tv/canales/nacionales/mega.php</SportsDevil>
+<referer>http://cinestrenostv.tv</referer>
+<thumbnail>http://zonadjjavi.webcindario.com/Kodi/logos/nova1.jpg</thumbnail>
+<fanart>http://zonadjjavi.webcindario.com/Kodi/fondo2.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR white]A3 Series HD[COLOR] SportsDevil[/COLOR]</title>
+<SportsDevil>http://cinestrenostv.tv/canales/nacionales/mega.php</SportsDevil>
+<referer>http://cinestrenostv.tv</referer>
+<thumbnail>http://zonadjjavi.webcindario.com/Kodi/logos/A3SS.jpg</thumbnail>
+<fanart>http://zonadjjavi.webcindario.com/Kodi/fondo2.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR white]Paramout Channel[COLOR] SportsDevil[/COLOR]</title>
+<SportsDevil>http://cinestrenostv.tv/canales/nacionales/p-channel.php</SportsDevil>
+<referer>http://cinestrenostv.tv</referer>
+<thumbnail>http://zonadjjavi.webcindario.com/Kodi/logos/paramountcannel1.jpg</thumbnail>
+<fanart>http://zonadjjavi.webcindario.com/Kodi/fondo2.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR white]La 1[COLOR] SportsDevil[/COLOR]</title>
+<SportsDevil>http://cinestrenostv.tv/canales/nacionales/tve1.php</SportsDevil>
+<referer>http://cinestrenostv.tv</referer>
+<thumbnail>http://zonadjjavi.webcindario.com/Kodi/logos/la11.jpg</thumbnail>
+<fanart>http://zonadjjavi.webcindario.com/Kodi/fondo2.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR white]LA 2[COLOR] SportsDevil[/COLOR]</title>
+<SportsDevil>http://cinestrenostv.tv/canales/nacionales/tve2.php</SportsDevil>
+<referer>http://cinestrenostv.tv</referer>
+<thumbnail>http://zonadjjavi.webcindario.com/Kodi/logos/la21.jpg</thumbnail>
+<fanart>http://zonadjjavi.webcindario.com/Kodi/fondo2.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR white]24H[COLOR] SportsDevil[/COLOR]</title>
+<SportsDevil>http://cinestrenostv.tv/canales/nacionales/tve24h.php</SportsDevil>
+<referer>http://cinestrenostv.tv</referer>
+<thumbnail>http://zonadjjavi.webcindario.com/Kodi/logos/24hh.jpg</thumbnail>
+<fanart>http://zonadjjavi.webcindario.com/Kodi/fondo2.jpg</fanart>
+</item>
+
+
+
+
+
+
+
+
+
+
+               
+                        <item><title>[COLOR=yellow]                                      <<[/COLOR][COLOR=yellow] Canales TDT SD[/COLOR][COLOR=yellow]>>[/COLOR]</title>   <link>http://zonadjjavi.webcindario.com</link></item>
+     
+<item>
+<title>[COLOR white]Antena 3 [/COLOR]</title>
+<link>http://a3live-lh.akamaihd.net/i/antena3_1@35248/index_1_av-p.m3u8?sd=10&rebase=on</link>
+<thumbnail>http://zonadjjavi.webcindario.com/Kodi/logos/antena31.jpg</thumbnail>
+<fanart>http://zonadjjavi.webcindario.com/Kodi/fondo2.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR white] Mega [/COLOR]</title>
+<link>http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/index_2_av-b.m3u8</link>
+<thumbnail>http://zonadjjavi.webcindario.com/Kodi/logos/mega1.jpg</thumbnail>
+<fanart>http://zonadjjavi.webcindario.com/Kodi/fondo2.jpg</fanart>
+</item>
+
+
+
+
+
+
+

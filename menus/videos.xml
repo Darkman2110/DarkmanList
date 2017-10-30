@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<channel>
+    <name>          <<<<<<<<<Videos Musicales >>>>>>>></name>
+       <thumbnail>http://zonadjjavi.webcindario.com/Kodi/darkman212.png</thumbnail>
+      <fanart>http://zonadjjavi.webcindario.com/Kodi/fondo2.jpg</fanart>
+        <items>
+		
+		
+		                        <item><title>[COLOR=yellow]                                      <<[/COLOR][COLOR=yellow]Videos Musicales[/COLOR][COLOR=yellow]>>[/COLOR]</title>   <link>http://zonadjjavi.webcindario.com</link></item>
+                    
+
+	
+	
+	 <item>
+<title>[COLOR white]Top Latino TV[/COLOR]</title>
+ <link>http://online.radiodifusion.net:1935/livetv/latinoSD.stream/chunklist_w413972136.m3u8</link>
+<thumbnail></thumbnail>
+<fanart>http://zonadjjavi.webcindario.com/Kodi/fondo2.jpg</fanart>
+</item>	
+
+ <item>
+<title>[COLOR white]Mola TV HD[/COLOR]</title>
+ <link>http://archlinux.frigola.cat:8080/mola/directe.m3u8</link>
+<thumbnail></thumbnail>
+<fanart>http://zonadjjavi.webcindario.com/Kodi/fondo2.jpg</fanart>
+</item>
+ 
+ <item>
+<title>[COLOR white]M2O Music[/COLOR]</title>
+<link>http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?sd=10&rebase=on</link>
+<thumbnail></thumbnail>
+<fanart>http://zonadjjavi.webcindario.com/Kodi/fondo2.jpg</fanart>
+</item>
+
+ <item>
+<title>[COLOR white]Montecarlo Music[/COLOR]</title>
+<link>rtmp://fms.105.net/live/rmc1</link>
+<thumbnail></thumbnail>
+<fanart>http://zonadjjavi.webcindario.com/Kodi/fondo2.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR white]Hit TV[/COLOR]</title>
+<link>rtmp://tst.es.flash.glb.ipercast.net/tst.es-live//live</link>
+<thumbnail>http://zonadjjavi.webcindario.com/Kodi/logos/hittv.jpg</thumbnail>
+<fanart>http://zonadjjavi.webcindario.com/Kodi/fondo2.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR white]TVS Satelital HD[/COLOR]</title>
+<link>http://181.198.10.23:1935/live/smil:myStream.smil/chunklist_w81602403_b1396000_sleng.m3u8</link>
+<thumbnail></thumbnail>
+<fanart>http://zonadjjavi.webcindario.com/Kodi/fondo2.jpg</fanart>
+</item>
+ 
+<item>
+<title>[COLOR white]HEART TV HD[/COLOR]</title>
+<link>http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/master.m3u8</link>
+<thumbnail></thumbnail>
+<fanart>http://zonadjjavi.webcindario.com/Kodi/fondo2.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR white]DJING Dance Floor HD[/COLOR]</title>
+<link>http://www.djing.com/tv/d-05.m3u8</link>
+<thumbnail></thumbnail>
+<fanart>http://zonadjjavi.webcindario.com/Kodi/fondo2.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR white]DJING Dancefloor HD[/COLOR]</title>
+<link>http://www.djing.com/tv/dancefloor.m3u8</link>
+<thumbnail></thumbnail>
+<fanart>http://zonadjjavi.webcindario.com/Kodi/fondo2.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR white]DJING Animation HD[/COLOR]</title>
+<link>http://www.djing.com/tv/a-05.m3u8</link>
+<thumbnail></thumbnail>
+<fanart>http://zonadjjavi.webcindario.com/Kodi/fondo2.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR white]DJING Classic HD[/COLOR]</title>
+<link>http://www.djing.com/tv/i-05.m3u8</link>
+<thumbnail></thumbnail>
+<fanart>http://zonadjjavi.webcindario.com/Kodi/fondo2.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR white]Vevo TV 1 HD[/COLOR]</title>
+<link>http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/06/prog_index.m3u8</link>
+<thumbnail></thumbnail>
+<fanart>http://zonadjjavi.webcindario.com/Kodi/fondo2.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR white]Vevo TV 2 HD[/COLOR]</title>
+<link>http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/06/prog_index.m3u8</link>
+<thumbnail></thumbnail>
+<fanart>http://zonadjjavi.webcindario.com/Kodi/fondo2.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR white]Vevo TV 3 HD[/COLOR]</title>
+<link>http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/06/prog_index.m3u8</link>
+<thumbnail></thumbnail>
+<fanart>http://zonadjjavi.webcindario.com/Kodi/fondo2.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR white]CT FM HD[/COLOR]</title>
+<link>rtmp://80.245.113.12/live/pubtalk1</link>
+<thumbnail></thumbnail>
+<fanart>http://zonadjjavi.webcindario.com/Kodi/fondo2.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR white]Capital TV[/COLOR]</title>
+<link>http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/index_656_av-p.m3u8?sd=10&rebase=on</link>
+<thumbnail></thumbnail>
+<fanart>http://zonadjjavi.webcindario.com/Kodi/fondo2.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR white]Miami Music TV Live[/COLOR]</title>
+<link>http://74.208.152.93/music/stream3/stream.m3u8</link>
+<thumbnail></thumbnail>
+<fanart>http://zonadjjavi.webcindario.com/Kodi/fondo2.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR white]Colosal Music[/COLOR]</title>
+<link>http://k3.usastreams.com:1935/colosaltv1/colosaltv1/chunklist_w978150749.m3u8</link>
+<thumbnail></thumbnail>
+<fanart>http://zonadjjavi.webcindario.com/Kodi/fondo2.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR white]Dream TV[/COLOR]</title>
+<link>http://live.netd.com.tr/S1/HLS_LIVE/dreamtv/1000/prog_index.m3u8</link>
+<thumbnail></thumbnail>
+<fanart>http://zonadjjavi.webcindario.com/Kodi/fondo2.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR white]Si TV[/COLOR]</title>
+<link>http://hd.worldkast.com:1935/8436/8436/playlist.m3u8</link>
+<thumbnail></thumbnail>
+<fanart>http://zonadjjavi.webcindario.com/Kodi/fondo2.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR white]Top Music – CityTV[/COLOR]</title>
+<link>http://nodeb.gocaster.net:1935/CGL/_definst_/mp4:TODAYFM_TEST2/live.m3u8</link>
+<thumbnail></thumbnail>
+<fanart>http://zonadjjavi.webcindario.com/Kodi/fondo2.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR white]Radio 105 TV[/COLOR]</title>
+<link>rtmp://fms.105.net:1935/live/105Test1</link>
+<thumbnail></thumbnail>
+<fanart>http://zonadjjavi.webcindario.com/Kodi/fondo2.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR white]MUSIC HITS[/COLOR]</title>
+<link>http://sslhls.m6tv.cdn.sfr.net/hls-live/livepkgr/_definst_/m6_music_hits_hls_aes/m6_music_hits_hls_aes_856.m3u8</link>
+<thumbnail></thumbnail>
+<fanart>http://zonadjjavi.webcindario.com/Kodi/fondo2.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR white]VIRGIN TV[/COLOR]</title>
+<link>http://wow01.105.net/live/virgin1/.m3u8</link>
+<thumbnail></thumbnail>
+<fanart>http://zonadjjavi.webcindario.com/Kodi/fondo2.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR white]Amazing[/COLOR]</title>
+<link>http://redir.atmcdn.pl/hls/mm/multimedia/live/amazing/live.livx/playlist.m3u8?sessionId=ABA74CBC0702307FF0B559F938FC9B21.node1&stream=2</link>
+<thumbnail></thumbnail>
+<fanart>http://zonadjjavi.webcindario.com/Kodi/fondo2.jpg</fanart>
+</item>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
