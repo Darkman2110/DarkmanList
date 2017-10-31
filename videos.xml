@@ -103,13 +103,6 @@
 </item>
 
 <item>
-<title>[COLOR white]Miami Music TV Live[/COLOR]</title>
-<link>http://74.208.152.93/music/stream3/stream.m3u8</link>
-<thumbnail></thumbnail>
-<fanart>http://zonadjjavi.webcindario.com/Kodi/fondo2.jpg</fanart>
-</item>
-
-<item>
 <title>[COLOR white]Colosal Music[/COLOR]</title>
 <link>http://k3.usastreams.com:1935/colosaltv1/colosaltv1/chunklist_w978150749.m3u8</link>
 <thumbnail></thumbnail>
@@ -125,7 +118,7 @@
 
 <item>
 <title>[COLOR white]Si TV[/COLOR]</title>
-<link>http://hd.worldkast.com:1935/8436/8436/playlist.m3u8</link>
+<link>http://st2.worldkast.com/8030/8030/playlist.m3u8</link>
 <thumbnail></thumbnail>
 <fanart>http://zonadjjavi.webcindario.com/Kodi/fondo2.jpg</fanart>
 </item>
@@ -145,47 +138,9 @@
 </item>
 
 <item>
-<title>[COLOR white]MUSIC HITS[/COLOR]</title>
-<link>http://sslhls.m6tv.cdn.sfr.net/hls-live/livepkgr/_definst_/m6_music_hits_hls_aes/m6_music_hits_hls_aes_856.m3u8</link>
-<thumbnail></thumbnail>
-<fanart>http://zonadjjavi.webcindario.com/Kodi/fondo2.jpg</fanart>
-</item>
-
-<item>
 <title>[COLOR white]VIRGIN TV[/COLOR]</title>
 <link>http://wow01.105.net/live/virgin1/.m3u8</link>
 <thumbnail></thumbnail>
 <fanart>http://zonadjjavi.webcindario.com/Kodi/fondo2.jpg</fanart>
 </item>
-
-<item>
-<title>[COLOR white]Amazing[/COLOR]</title>
-<link>http://redir.atmcdn.pl/hls/mm/multimedia/live/amazing/live.livx/playlist.m3u8?sessionId=ABA74CBC0702307FF0B559F938FC9B21.node1&stream=2</link>
-<thumbnail></thumbnail>
-<fanart>http://zonadjjavi.webcindario.com/Kodi/fondo2.jpg</fanart>
-</item>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
