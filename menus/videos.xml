@@ -19,13 +19,6 @@
 </item>	
 
  <item>
-<title>[COLOR white]Mola TV HD[/COLOR]</title>
- <link>http://archlinux.frigola.cat:8080/mola/directe.m3u8</link>
-<thumbnail></thumbnail>
-<fanart>http://zonadjjavi.webcindario.com/Kodi/fondo2.jpg</fanart>
-</item>
- 
- <item>
 <title>[COLOR white]M2O Music[/COLOR]</title>
 <link>http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?sd=10&rebase=on</link>
 <thumbnail></thumbnail>

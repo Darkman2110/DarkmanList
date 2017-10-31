@@ -1,88 +1,105 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
-<channel>
-    <name>          <<<<<<<<< Canales Digital Sportsdevil>>>>>>>></name>
-    <thumbnail>http://zonadjjavi.webcindario.com/Kodi/darkman212.png</thumbnail>
-      <fanart>http://zonadjjavi.webcindario.com/Kodi/fondo2.jpg</fanart>
-        <items>
-
-
-
-
-
-               
-                        <item><title>[COLOR=yellow]                                      <<[/COLOR][COLOR=lime] Canales Digital [COLOR=blue]Sportsdevil[/COLOR][COLOR=yellow]>>[/COLOR]</title>   <link>http://zonadjjavi.webcindario.com</link></item>
-                    
 
 <item>
-<title>[COLOR white]Disney Channel[/COLOR]</title>
-<link>http://xxedge162.livesports.pw/live/verdisneychannelb3cece21d/index.m3u8?token=f_QE_RAn3cTS48QDZ-E0Gg&expires=1507457598</link>
-<thumbnail>http://zonadjjavi.webcindario.com/Kodi/logos/DisneyChannel1.jpg</thumbnail>
+<title>[COLOR white]Canal #0[/COLOR]</title>
+<link>http://xxedge160.livesports.pw/live/versysfesp42975d2f318954b/index.m3u8?token=cQlbVkC6VS61lh0LGv1uBg&expires=1509448660</link>
+<thumbnail>http://zonadjjavi.webcindario.com/Kodi/logos/hittv.jpg</thumbnail>
 <fanart>http://zonadjjavi.webcindario.com/Kodi/fondo2.jpg</fanart>
-</item>	
+</item>
 
 <item>
-<title>[COLOR white]Canal Fox[/COLOR]</title>
-<link>http://xxedge160.livesports.pw/live/verfoxespana247756767558f1/index.m3u8?token=dCB7glBK-6xgWEywSNC22w&expires=1507457209</link>
-<thumbnail>http://zonadjjavi.webcindario.com/Kodi/logos/fox1.jpg</thumbnail>
- <fanart>http://zonadjjavi.webcindario.com/Kodi/fondo2.jpg</fanart>
+<title>[COLOR white]Canal Estrenos[/COLOR]</title>
+<link>http://xxedge160.livesports.pw/live/versysfesp42975d2f318954b/index.m3u8?token=cQlbVkC6VS61lh0LGv1uBg&expires=1509448660</link>
+<thumbnail>http://zonadjjavi.webcindario.com/Kodi/logos/hittv.jpg</thumbnail>
+<fanart>http://zonadjjavi.webcindario.com/Kodi/fondo2.jpg</fanart>
 </item>
+
+<item>
+<title>[COLOR white]Canal Comedia[/COLOR]</title>
+<link>http://xxedge160.livesports.pw/live/versysfesp42975d2f318954b/index.m3u8?token=cQlbVkC6VS61lh0LGv1uBg&expires=1509448660</link>
+<thumbnail>http://zonadjjavi.webcindario.com/Kodi/logos/hittv.jpg</thumbnail>
+<fanart>http://zonadjjavi.webcindario.com/Kodi/fondo2.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR white]Canal Acción[/COLOR]</title>
+<link>http://xxedge160.livesports.pw/live/versysfesp42975d2f318954b/index.m3u8?token=cQlbVkC6VS61lh0LGv1uBg&expires=1509448660</link>
+<thumbnail>http://zonadjjavi.webcindario.com/Kodi/logos/hittv.jpg</thumbnail>
+<fanart>http://zonadjjavi.webcindario.com/Kodi/fondo2.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR white]Canal Dcine[/COLOR]</title>
+<link>http://xxedge160.livesports.pw/live/versysfesp42975d2f318954b/index.m3u8?token=cQlbVkC6VS61lh0LGv1uBg&expires=1509448660</link>
+<thumbnail>http://zonadjjavi.webcindario.com/Kodi/logos/hittv.jpg</thumbnail>
+<fanart>http://zonadjjavi.webcindario.com/Kodi/fondo2.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR white]Canal Dcine Ñ[/COLOR]</title>
+<link>http://xxedge160.livesports.pw/live/versysfesp42975d2f318954b/index.m3u8?token=cQlbVkC6VS61lh0LGv1uBg&expires=1509448660</link>
+<thumbnail>http://zonadjjavi.webcindario.com/Kodi/logos/hittv.jpg</thumbnail>
+<fanart>http://zonadjjavi.webcindario.com/Kodi/fondo2.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR white]Canal Hollywood[/COLOR]</title>
+<link>http://xxedge160.livesports.pw/live/versysfesp42975d2f318954b/index.m3u8?token=cQlbVkC6VS61lh0LGv1uBg&expires=1509448660</link>
+<thumbnail>http://zonadjjavi.webcindario.com/Kodi/logos/hittv.jpg</thumbnail>
+<fanart>http://zonadjjavi.webcindario.com/Kodi/fondo2.jpg</fanart>
+</item>
+
+
 
 <item>
 <title>[COLOR white]Canal Syfy[/COLOR]</title>
-<link>http://xxedge162.livesports.pw/live/versysfesp42975d2f318954b/index.m3u8?token=6icoHCjuL3DZ-nkIpbSPCQ&expires=1507457359</link>
-<thumbnail>http://zonadjjavi.webcindario.com/Kodi/logos/syfy1.jpg</thumbnail>
- <fanart>http://zonadjjavi.webcindario.com/Kodi/fondo2.jpg</fanart>
+<link>http://xxedge160.livesports.pw/live/versysfesp42975d2f318954b/index.m3u8?token=cQlbVkC6VS61lh0LGv1uBg&expires=1509448660</link>
+<thumbnail>http://zonadjjavi.webcindario.com/Kodi/logos/hittv.jpg</thumbnail>
+<fanart>http://zonadjjavi.webcindario.com/Kodi/fondo2.jpg</fanart>
 </item>
 
 <item>
-<title>[COLOR white]Canal Amc[/COLOR]</title>
-<link>http://xxedge160.livesports.pw/live/veramcespteledd21791245ff/index.m3u8?token=P71wFuABAYBkYbMedlG4Hw&expires=1507457809</link>
-<thumbnail>http://zonadjjavi.webcindario.com/Kodi/logos/amc1.jpg</thumbnail>
+<title>[COLOR white]Canal Axn[/COLOR]</title>
+<link>http://xxedge160.livesports.pw/live/versysfesp42975d2f318954b/index.m3u8?token=cQlbVkC6VS61lh0LGv1uBg&expires=1509448660</link>
+<thumbnail>http://zonadjjavi.webcindario.com/Kodi/logos/hittv.jpg</thumbnail>
+<fanart>http://zonadjjavi.webcindario.com/Kodi/fondo2.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR white]Canal Axn White[/COLOR]</title>
+<link>http://xxedge160.livesports.pw/live/versysfesp42975d2f318954b/index.m3u8?token=cQlbVkC6VS61lh0LGv1uBg&expires=1509448660</link>
+<thumbnail>http://zonadjjavi.webcindario.com/Kodi/logos/hittv.jpg</thumbnail>
+<fanart>http://zonadjjavi.webcindario.com/Kodi/fondo2.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR white]Canal Fox[/COLOR]</title>
+<link>http://xxedge160.livesports.pw/live/versysfesp42975d2f318954b/index.m3u8?token=cQlbVkC6VS61lh0LGv1uBg&expires=1509448660</link>
+<thumbnail>http://zonadjjavi.webcindario.com/Kodi/logos/hittv.jpg</thumbnail>
+<fanart>http://zonadjjavi.webcindario.com/Kodi/fondo2.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR white]Canal Fox Life[/COLOR]</title>
+<link>http://xxedge160.livesports.pw/live/versysfesp42975d2f318954b/index.m3u8?token=cQlbVkC6VS61lh0LGv1uBg&expires=1509448660</link>
+<thumbnail>http://zonadjjavi.webcindario.com/Kodi/logos/hittv.jpg</thumbnail>
 <fanart>http://zonadjjavi.webcindario.com/Kodi/fondo2.jpg</fanart>
 </item>
 
 <item>
 <title>[COLOR white]Canal Tnt[/COLOR]</title>
-<link>http://xxedge162.livesports.pw/live/vertntesp65a5b8508dd5e287/index.m3u8?token=FFq25740lQsPKGJ2rt3YBA&expires=1507458075</link>
-<thumbnail>http://zonadjjavi.webcindario.com/Kodi/logos/tnt1.jpg</thumbnail>
+<link>http://xxedge160.livesports.pw/live/versysfesp42975d2f318954b/index.m3u8?token=cQlbVkC6VS61lh0LGv1uBg&expires=1509448660</link>
+<thumbnail>http://zonadjjavi.webcindario.com/Kodi/logos/hittv.jpg</thumbnail>
 <fanart>http://zonadjjavi.webcindario.com/Kodi/fondo2.jpg</fanart>
 </item>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<item>
+<title>[COLOR white]Canal Calle 13[/COLOR]</title>
+<link>http://xxedge160.livesports.pw/live/versysfesp42975d2f318954b/index.m3u8?token=cQlbVkC6VS61lh0LGv1uBg&expires=1509448660</link>
+<thumbnail>http://zonadjjavi.webcindario.com/Kodi/logos/hittv.jpg</thumbnail>
+<fanart>http://zonadjjavi.webcindario.com/Kodi/fondo2.jpg</fanart>
+</item>
 
 
