@@ -70,61 +70,56 @@
 </channels>
 
 <channels>
- <channel>
-<name>[COLOR blue][COLOR lime] •  [/COLOR]SAGAS[COLOR]  28/2/2017[/COLOR]</name>
-<externallink>http://zonadjjavi.webcindario.com/Kodi/menu-sagas.xml</externallink>
-<thumbnail>http://zonadjjavi.webcindario.com/Kodi/imagen/sagas.png</thumbnail>
-<fanart>http://zonadjjavi.webcindario.com/Kodi/fondo2.jpg</fanart> 
- </channel>
+      <channel>
+      <name>[COLOR blue][COLOR lime] •  [/COLOR]SAGAS[COLOR]  28/2/2017[/COLOR]</name>
+      <externallink>https://raw.githubusercontent.com/Darkman2110/DarkmanList/master/sagas.xml</externallink>
+      <thumbnail>http://zonadjjavi.webcindario.com/Kodi/imagen/sagas.png</thumbnail>
+      <fanart>http://zonadjjavi.webcindario.com/Kodi/fondo2.jpg</fanart> 
+      </channel>
 </channels>
 
 <channels>
- <channel>
+      <channel>
       <name>[COLOR blue][COLOR lime] •  [/COLOR] VIDEOCLUB INFANTIL[/COLOR]</name>
-      <thumbnail>http://zonadjjavi.webcindario.com/Kodi/imagen/vidinfa.png</thumbnail>
-      <fanart>http://zonadjjavi.webcindario.com/Kodi/fondo2.jpg</fanart>
-      <link>http://ignoreme</link>
       <externallink></externallink>
- </channel>
+	  <thumbnail>http://zonadjjavi.webcindario.com/Kodi/imagen/vidinfa.png</thumbnail>
+      <fanart>http://zonadjjavi.webcindario.com/Kodi/fondo2.jpg</fanart>
+     </channel>
 </channels>
 
 <channels>
- <channel>
+	  <channel>
       <name>[COLOR blue][COLOR lime] •  [/COLOR] SERIES DE TV[COLOR]  21/3/2017[/COLOR]</name>
+      <externallink>https://raw.githubusercontent.com/Darkman2110/DarkmanList/master/menu-series.xml</externallink>
       <thumbnail>http://zonadjjavi.webcindario.com/Kodi/imagen/seriestv.png</thumbnail>
       <fanart>http://zonadjjavi.webcindario.com/Kodi/fondo2.jpg</fanart>
-      <link>http://ignoreme</link>
-      <externallink>http://zonadjjavi.webcindario.com/Kodi/menu-series.xml</externallink>
- </channel>
+      </channel>
 </channels>
 
 <channels>
- <channel>
+       <channel>
       <name>[COLOR blue][COLOR lime] •  [/COLOR]CANALES MUSICALES[/COLOR]</name>
+      <externallink>https://raw.githubusercontent.com/Darkman2110/DarkmanList/master/videos.xml</externallink>
       <thumbnail>http://zonadjjavi.webcindario.com/Kodi/imagen/musica1.png</thumbnail>
       <fanart>http://zonadjjavi.webcindario.com/Kodi/fondo2.jpg</fanart>
-      <link>http://ignoreme</link>
-      <externallink>http://zonadjjavi.webcindario.com/Kodi/menus/videos.xml</externallink>
- </channel>
+      </channel>
 </channels>
  
  <channels>
- <channel>
+      <channel>
       <name>[COLOR blue][COLOR lime] •  [/COLOR] CAMARAS DE MUNDO[COLOR]  9/3/2017[/COLOR]</name>
-      <thumbnail>http://zonadjjavi.webcindario.com/Kodi/imagen/camesp1.png</thumbnail>
+      <externallink>https://raw.githubusercontent.com/Darkman2110/DarkmanList/master/camaras.xml</externallink>
+	  <thumbnail>http://zonadjjavi.webcindario.com/Kodi/imagen/camesp1.png</thumbnail>
       <fanart>http://zonadjjavi.webcindario.com/Kodi/fondo2.jpg</fanart>
-      <link>http://ignoreme</link>
-      <externallink>http://zonadjjavi.webcindario.com/Kodi/menus/camaras.xml</externallink>
- </channel>
+      </channel>
 </channels> 
  
 <channels>
- <channel>
+      <channel>
       <name>[COLOR blue][COLOR lime] •  [/COLOR] RADIOS[/COLOR]</name>
+      <externallink>https://raw.githubusercontent.com/Darkman2110/DarkmanList/master/radios.xml</externallink>
       <thumbnail>http://zonadjjavi.webcindario.com/Kodi/imagen/radio1.png</thumbnail>
       <fanart>http://zonadjjavi.webcindario.com/Kodi/fondo2.jpg</fanart>
-      <link>http://ignoreme</link>
-      <externallink>http://zonadjjavi.webcindario.com/Kodi/menus/radios.xml</externallink>
- </channel>
+      </channel>
 </channels>
 
