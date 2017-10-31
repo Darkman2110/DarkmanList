@@ -14,7 +14,7 @@
 	
 <channels>
  <channel>
-    <name>      [COLOR white][B]Esta Lista Es 100X100 GRATIS Para Todos y No Prodeis Venderlo [COLOR red] NOTA:[COLOR white] ESTE SERVIDOR ES PRIVADO [COLOR yellow] Darkman2110@hotmail.com [/B][/COLOR]</name>
+    <name>      [COLOR white][B]Esta Lista Es 100X100 GRATIS Para Todos y No Prodeis Venderlo [COLOR red] NOTA:[COLOR white] ESTE SERVIDOR ES PRIVADO [/COLOR]</name>
     <link>http://Ignoreme</link>
     <thumbnail>http://zonadjjavi.webcindario.com/Kodi/darkman212.png</thumbnail>
     <fanart>http://zonadjjavi.webcindario.com/Kodi/fondo2.jpg</fanart>
@@ -33,7 +33,7 @@
  
  <channels>
  <channel>
-      <name>[COLOR white]                                             Actualizacion:[COLOR] 07 [COLOR white]  Octubre [COLOR] 2017[/COLOR]</name>
+      <name>[COLOR white]                                             Actualizacion:[COLOR] 31 [COLOR white]  Octubre [COLOR] 2017[/COLOR]</name>
       <thumbnail>http://zonadjjavi.webcindario.com/Kodi/imagen/upd.png</thumbnail>
       <fanart>http://zonadjjavi.webcindario.com/Kodi/fondo2.jpg</fanart>
       <link>http://ignoreme</link>
@@ -51,21 +51,10 @@
  </channel>
 </channels>
  
- 
-<channels>
+ <channels>
  <channel>
       <name>[COLOR blue][COLOR lime] •  [/COLOR] CANALES DEPORTES[COLOR]  SportsDevil[COLOR]  11/3/2017[/COLOR]</name>
       <thumbnail>http://zonadjjavi.webcindario.com/Kodi/imagen/deportes1.png</thumbnail>
-      <fanart>http://zonadjjavi.webcindario.com/Kodi/fondo2.jpg</fanart>
-      <link>http://ignoreme</link>
-      <externallink></externallink>
- </channel>
-</channels>
-
-<channels>
- <channel>
-      <name>[COLOR blue][COLOR lime] •  [/COLOR] CANALES LATINOS[COLOR]  9/3/2017[/COLOR]</name>
-      <thumbnail>http://zonadjjavi.webcindario.com/Kodi/imagen/latinos.png</thumbnail>
       <fanart>http://zonadjjavi.webcindario.com/Kodi/fondo2.jpg</fanart>
       <link>http://ignoreme</link>
       <externallink></externallink>
@@ -88,16 +77,6 @@
     <link>http://Ignoreme</link>
     <externallink>http://zonadjjavi.webcindario.com/Kodi/menus/videosclas.xml</externallink>
     <thumbnail>http://zonadjjavi.webcindario.com/Kodi/imagen/pelisclas1.png</thumbnail>
-    <fanart>http://zonadjjavi.webcindario.com/Kodi/fondo2.jpg</fanart>
- </channel>
-</channels>
-
-<channels>
- <channel>
-    <name>[COLOR blue][COLOR lime] •  [/COLOR]ESTRENOS[/COLOR]</name>
-    <link>http://Ignoreme</link>
-    <externallink></externallink>
-    <thumbnail>http://zonadjjavi.webcindario.com/Kodi/imagen/estrenos1.png</thumbnail>
     <fanart>http://zonadjjavi.webcindario.com/Kodi/fondo2.jpg</fanart>
  </channel>
 </channels>
@@ -142,8 +121,7 @@
  </channel>
 </channels>
  
- 
-<channels>
+ <channels>
  <channel>
       <name>[COLOR blue][COLOR lime] •  [/COLOR] CAMARAS DE MUNDO[COLOR]  9/3/2017[/COLOR]</name>
       <thumbnail>http://zonadjjavi.webcindario.com/Kodi/imagen/camesp1.png</thumbnail>
@@ -163,12 +141,3 @@
  </channel>
 </channels>
 
-<channels>
- <channel>
-      <name>[COLOR blue][COLOR lime] •  [/COLOR] YOUTUBE[/COLOR]</name>
-      <thumbnail>http://zonadjjavi.webcindario.com/Kodi/imagen/youtube.png</thumbnail>
-      <fanart>http://zonadjjavi.webcindario.com/Kodi/fondo2.jpg</fanart>
-      <link>http://ignoreme</link>
-      <externallink></externallink>
- </channel>
-</channels>
