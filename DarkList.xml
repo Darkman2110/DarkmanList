@@ -43,7 +43,7 @@
  
  <channels>
  <channel>
-      <name>[COLOR blue][COLOR lime] •  [/COLOR] CANALES TDT[COLOR] 02/11/2017[/COLOR]</name>
+      <name>[COLOR white][COLOR yellow] •  [/COLOR] CANALES TDT[COLOR] 02/11/2017[/COLOR]</name>
       <externallink>https://raw.githubusercontent.com/Darkman2110/DarkmanList/master/tdt.xml</externallink>
 	  <thumbnail>http://zonadjjavi.webcindario.com/Kodi/imagen/cantdt4.png</thumbnail>
       <fanart>http://zonadjjavi.webcindario.com/Kodi/fondo2.jpg</fanart>
@@ -53,7 +53,7 @@
 
  <channels>
  <channel>
-      <name>[COLOR blue][COLOR lime] •  [/COLOR] CANALES DIGITAL + [COLOR] SportsEvil[COLOR] 02/11/2017[/COLOR]</name>
+      <name>[COLOR white][COLOR yellow] •  [/COLOR] CANALES DIGITAL + [COLOR] SportsEvil[COLOR] 02/11/2017[/COLOR]</name>
       <externallink>https://raw.githubusercontent.com/Darkman2110/DarkmanList/master/Sportsdevil.xml</externallink>
 	  <thumbnail>http://zonadjjavi.webcindario.com/Kodi/imagen/candigital1.png</thumbnail>
       <fanart>http://zonadjjavi.webcindario.com/Kodi/fondo2.jpg</fanart>
@@ -63,7 +63,7 @@
  
  <channels>
  <channel>
-      <name>[COLOR blue][COLOR lime] •  [/COLOR] CANALES DEPORTES[COLOR]  SportsDevil[COLOR]  02/11/2017[/COLOR]</name>
+      <name>[COLOR white][COLOR yellow] •  [/COLOR] CANALES DEPORTES[COLOR]  SportsDevil[COLOR]  02/11/2017[/COLOR]</name>
        <externallink>https://raw.githubusercontent.com/Darkman2110/DarkmanList/master/deportes.xml</externallink>
 	  <thumbnail>http://zonadjjavi.webcindario.com/Kodi/imagen/deportes1.png</thumbnail>
       <fanart>http://zonadjjavi.webcindario.com/Kodi/fondo2.jpg</fanart>
@@ -73,7 +73,7 @@
 
 <channels>
  <channel>
-      <name>[COLOR blue][COLOR lime] •  [/COLOR] VIDEOCLUB HD[COLOR]  18/3/2017[/COLOR]</name>
+      <name>[COLOR white][COLOR yellow] •  [/COLOR] VIDEOCLUB HD[COLOR]  18/3/2017[/COLOR]</name>
       <externallink>https://raw.githubusercontent.com/Darkman2110/DarkmanList/master/Genero.xml</externallink>
       <thumbnail>http://zonadjjavi.webcindario.com/Kodi/imagen/videoclub1.png</thumbnail>
       <fanart>http://zonadjjavi.webcindario.com/Kodi/fondo2.jpg</fanart>
@@ -82,7 +82,7 @@
 
 <channels>
       <channel>
-      <name>[COLOR blue][COLOR lime] •  [/COLOR]SAGAS[COLOR]  28/2/2017[/COLOR]</name>
+      <name>[COLOR white][COLOR yellow] •  [/COLOR]SAGAS[COLOR]  28/2/2017[/COLOR]</name>
       <externallink>https://raw.githubusercontent.com/Darkman2110/DarkmanList/master/sagas.xml</externallink>
       <thumbnail>http://zonadjjavi.webcindario.com/Kodi/imagen/sagas.png</thumbnail>
       <fanart>http://zonadjjavi.webcindario.com/Kodi/fondo2.jpg</fanart> 
@@ -91,7 +91,7 @@
 
 <channels>
       <channel>
-      <name>[COLOR blue][COLOR lime] •  [/COLOR] VIDEOCLUB INFANTIL[/COLOR]</name>
+      <name>[COLOR white][COLOR yellow] •  [/COLOR] VIDEOCLUB INFANTIL[/COLOR]</name>
       <externallink></externallink>
 	  <thumbnail>http://zonadjjavi.webcindario.com/Kodi/imagen/vidinfa.png</thumbnail>
       <fanart>http://zonadjjavi.webcindario.com/Kodi/fondo2.jpg</fanart>
@@ -100,7 +100,7 @@
 
 <channels>
 	  <channel>
-      <name>[COLOR blue][COLOR lime] •  [/COLOR] SERIES DE TV[COLOR]  21/3/2017[/COLOR]</name>
+      <name>[COLOR white][COLOR yellow] •  [/COLOR] SERIES DE TV[COLOR]  21/3/2017[/COLOR]</name>
       <externallink>https://raw.githubusercontent.com/Darkman2110/DarkmanList/master/menu-series.xml</externallink>
       <thumbnail>http://zonadjjavi.webcindario.com/Kodi/imagen/seriestv.png</thumbnail>
       <fanart>http://zonadjjavi.webcindario.com/Kodi/fondo2.jpg</fanart>
@@ -109,7 +109,7 @@
 
 <channels>
        <channel>
-      <name>[COLOR blue][COLOR lime] •  [/COLOR]CANALES MUSICALES[/COLOR]</name>
+      <name>[COLOR white][COLOR yellow] •  [/COLOR]CANALES MUSICALES[/COLOR]</name>
       <externallink>https://raw.githubusercontent.com/Darkman2110/DarkmanList/master/videos.xml</externallink>
       <thumbnail>http://zonadjjavi.webcindario.com/Kodi/imagen/musica1.png</thumbnail>
       <fanart>http://zonadjjavi.webcindario.com/Kodi/fondo2.jpg</fanart>
@@ -118,7 +118,7 @@
  
  <channels>
       <channel>
-      <name>[COLOR blue][COLOR lime] •  [/COLOR] CAMARAS DE MUNDO[COLOR]  9/3/2017[/COLOR]</name>
+      <name>[COLOR white][COLOR yellow] •  [/COLOR] CAMARAS DE MUNDO[COLOR]  9/3/2017[/COLOR]</name>
       <externallink>https://raw.githubusercontent.com/Darkman2110/DarkmanList/master/camaras.xml</externallink>
 	  <thumbnail>http://zonadjjavi.webcindario.com/Kodi/imagen/camesp1.png</thumbnail>
       <fanart>http://zonadjjavi.webcindario.com/Kodi/fondo2.jpg</fanart>
@@ -127,7 +127,7 @@
  
 <channels>
       <channel>
-      <name>[COLOR blue][COLOR lime] •  [/COLOR] RADIOS[/COLOR]</name>
+      <name>[COLOR white][COLOR yellow] •  [/COLOR] RADIOS[/COLOR]</name>
       <externallink>https://raw.githubusercontent.com/Darkman2110/DarkmanList/master/radios.xml</externallink>
       <thumbnail>http://zonadjjavi.webcindario.com/Kodi/imagen/radio1.png</thumbnail>
       <fanart>http://zonadjjavi.webcindario.com/Kodi/fondo2.jpg</fanart>
