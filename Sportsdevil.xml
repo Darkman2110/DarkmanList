@@ -36,7 +36,7 @@
 <referer>http://vertelevisor.com/tv/nacionales/axn.html</referer>
 <agent>iPad</agent>
 </regex>
-<thumbnail>http://zonadjjavi.webcindario.com/Kodi/fondo2.jpg</thumbnail>   
+<thumbnail>http://zonadjjavi.webcindario.com/Kodi/logos/fox1.jpg</thumbnail>   
 </item>
 
 <item>
@@ -49,7 +49,7 @@
 <referer>http://vertelevisor.com/tv/nacionales/axn.html</referer>
 <agent>iPad</agent>
 </regex>
-<thumbnail>http://zonadjjavi.webcindario.com/Kodi/fondo2.jpg</thumbnail>   
+<thumbnail>http://zonadjjavi.webcindario.com/Kodi/logos/axn1.jpg</thumbnail>   
 </item>
 
 <item>
@@ -62,7 +62,7 @@
 <referer>http://vertelevisor.com/tv/nacionales/axn.html</referer>
 <agent>iPad</agent>
 </regex>
-<thumbnail>http://zonadjjavi.webcindario.com/Kodi/fondo2.jpg</thumbnail>   
+<thumbnail>http://zonadjjavi.webcindario.com/Kodi/logos/tnt1.jpg</thumbnail>   
 </item>
 
 <item>
@@ -75,7 +75,7 @@
 <referer>http://vertelevisor.com/tv/nacionales/axn.html</referer>
 <agent>iPad</agent>
 </regex>
-<thumbnail>http://zonadjjavi.webcindario.com/Kodi/fondo2.jpg</thumbnail>   
+<thumbnail>http://zonadjjavi.webcindario.com/Kodi/logos/foxlife1.jpg</thumbnail>   
 </item>
 
 <item>
@@ -85,10 +85,10 @@
 <name>get-id</name>
 <expres>[",\'](h.*m3u8.*?)'</expres>
 <page>http://vergol.com/live/dcine.php</page>
-<referer>http://vertelevisor.com/tv/nacionales/axn.html</referer>
+<referer>http://vertelevisor.com/tv/nacionales/dcine.html</referer>
 <agent>iPad</agent>
 </regex>
-<thumbnail>http://zonadjjavi.webcindario.com/Kodi/fondo2.jpg</thumbnail>   
+<thumbnail>http://zonadjjavi.webcindario.com/Kodi/logos/dcine.jpg</thumbnail>   
 </item>
 
 <item>
@@ -101,7 +101,7 @@
 <referer>http://vertelevisor.com/tv/nacionales/axn.html</referer>
 <agent>iPad</agent>
 </regex>
-<thumbnail>http://zonadjjavi.webcindario.com/Kodi/fondo2.jpg</thumbnail>   
+<thumbnail>http://zonadjjavi.webcindario.com/Kodi/logos/cocina1.jpg</thumbnail>   
 </item>
 
 <item>
@@ -114,7 +114,7 @@
 <referer>http://vertelevisor.com/tv/nacionales/axn.html</referer>
 <agent>iPad</agent>
 </regex>
-<thumbnail>http://zonadjjavi.webcindario.com/Kodi/fondo2.jpg</thumbnail>   
+<thumbnail>http://zonadjjavi.webcindario.com/Kodi/logos/historia1.jpg</thumbnail>   
 </item>
 
 <item>
@@ -126,7 +126,7 @@
 <page>http://vergol.com/live1/cinemax.php</page>
 <referer>http://vercanalestv.com/tv/nacionales/canal-plus-estrenos.html</referer>
 </regex>
-<thumbnail>http://zonadjjavi.webcindario.com/Kodi/fondo2.jpg</thumbnail>   
+<thumbnail>http://vignette4.wikia.nocookie.net/doblaje/images/6/69/Cinemax.png/revision/latest?cb=20160831015732&path-prefix=es</thumbnail>   
 </item>
 
 
