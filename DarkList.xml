@@ -44,17 +44,25 @@
  <channels>
  <channel>
       <name>[COLOR white][COLOR yellow] •  [/COLOR] CANALES TDT[/COLOR]</name>
-      <externallink>https://raw.githubusercontent.com/Darkman2110/DarkmanList/master/tdt.xml</externallink>
+      <externallink>https://raw.githubusercontent.com/Darkman2110/DarkmanList/master/menu/menu/tdt.xml</externallink>
 	  <thumbnail>http://zonadjjavi.webcindario.com/Kodi/imagen/cantdt4.png</thumbnail>
       <fanart>http://zonadjjavi.webcindario.com/Kodi/fondo2.jpg</fanart>
  </channel>
+</channels>
 
- </channels>
+ <channels>
+ <channel>
+      <name>[COLOR white][COLOR yellow] •  [/COLOR] CANALES AUTONOMICOS[/COLOR]</name>
+      <externallink>https://raw.githubusercontent.com/Darkman2110/DarkmanList/master/menu/autonomicos.xml</externallink>
+	  <thumbnail>http://zonadjjavi.webcindario.com/Kodi/imagen/cantdt4.png</thumbnail>
+      <fanart>http://zonadjjavi.webcindario.com/Kodi/fondo2.jpg</fanart>
+ </channel>
+</channels>
 
  <channels>
  <channel>
       <name>[COLOR white][COLOR yellow] •  [/COLOR] CANALES DIGITAL + [/COLOR]</name>
-      <externallink>https://raw.githubusercontent.com/Darkman2110/DarkmanList/master/Sportsdevil.xml</externallink>
+      <externallink>https://raw.githubusercontent.com/Darkman2110/DarkmanList/master/menu/Sportsdevil.xml</externallink>
 	  <thumbnail>http://zonadjjavi.webcindario.com/Kodi/imagen/candigital1.png</thumbnail>
       <fanart>http://zonadjjavi.webcindario.com/Kodi/fondo2.jpg</fanart>
  </channel>
@@ -64,7 +72,7 @@
  <channels>
  <channel>
       <name>[COLOR white][COLOR yellow] •  [/COLOR] CANALES DEPORTES[/COLOR]</name>
-       <externallink>https://raw.githubusercontent.com/Darkman2110/DarkmanList/master/deportes.xml</externallink>
+       <externallink>https://raw.githubusercontent.com/Darkman2110/DarkmanList/master/menu/deportes.xml</externallink>
 	  <thumbnail>http://zonadjjavi.webcindario.com/Kodi/imagen/deportes1.png</thumbnail>
       <fanart>http://zonadjjavi.webcindario.com/Kodi/fondo2.jpg</fanart>
       
@@ -74,7 +82,7 @@
 <channels>
  <channel>
       <name>[COLOR white][COLOR yellow] •  [/COLOR] VIDEOCLUB HD[/COLOR]</name>
-      <externallink>https://raw.githubusercontent.com/Darkman2110/DarkmanList/master/videoclub.xml</externallink>
+      <externallink>https://raw.githubusercontent.com/Darkman2110/DarkmanList/master/menu/videoclub.xml</externallink>
       <thumbnail>http://zonadjjavi.webcindario.com/Kodi/imagen/videoclub1.png</thumbnail>
       <fanart>http://zonadjjavi.webcindario.com/Kodi/fondo2.jpg</fanart>
       </channel>
@@ -83,7 +91,7 @@
 <channels>
  <channel>
       <name>[COLOR white][COLOR yellow] •  [/COLOR] VIDEOCLUB POR GENERO[/COLOR]</name>
-      <externallink>https://raw.githubusercontent.com/Darkman2110/DarkmanList/master/Genero.xml</externallink>
+      <externallink>https://raw.githubusercontent.com/Darkman2110/DarkmanList/master/menu/Genero.xml</externallink>
       <thumbnail>http://zonadjjavi.webcindario.com/Kodi/imagen/videoclub1.png</thumbnail>
       <fanart>http://zonadjjavi.webcindario.com/Kodi/fondo2.jpg</fanart>
       </channel>
@@ -92,7 +100,7 @@
 <channels>
  <channel>
       <name>[COLOR white][COLOR yellow] •  [/COLOR] FILMOGRAFIA[/COLOR]</name>
-      <externallink>https://raw.githubusercontent.com/Darkman2110/DarkmanList/master/filmo.xml</externallink>
+      <externallink>https://raw.githubusercontent.com/Darkman2110/DarkmanList/master/menu/filmo.xml</externallink>
       <thumbnail>http://zonadjjavi.webcindario.com/Kodi/imagen/videoclub1.png</thumbnail>
       <fanart>http://zonadjjavi.webcindario.com/Kodi/fondo2.jpg</fanart>
       </channel>
@@ -102,7 +110,7 @@
 <channels>
  <channel>
       <name>[COLOR white][COLOR yellow] •  [/COLOR] SERIES TV[/COLOR]</name>
-      <externallink>https://raw.githubusercontent.com/Darkman2110/DarkmanList/master/menu-series.xml</externallink>
+      <externallink>https://raw.githubusercontent.com/Darkman2110/DarkmanList/master/menu/menu-series.xml</externallink>
       <thumbnail>http://zonadjjavi.webcindario.com/Kodi/imagen/videoclub1.png</thumbnail>
       <fanart>http://zonadjjavi.webcindario.com/Kodi/fondo2.jpg</fanart>
       </channel>
@@ -111,7 +119,7 @@
 <channels>
       <channel>
       <name>[COLOR white][COLOR yellow] •  [/COLOR]SAGAS[/COLOR]</name>
-      <externallink>https://raw.githubusercontent.com/Darkman2110/DarkmanList/master/sagas.xml</externallink>
+      <externallink>https://raw.githubusercontent.com/Darkman2110/DarkmanList/master/menu/sagas.xml</externallink>
       <thumbnail>http://zonadjjavi.webcindario.com/Kodi/imagen/sagas.png</thumbnail>
       <fanart>http://zonadjjavi.webcindario.com/Kodi/fondo2.jpg</fanart> 
       </channel>
@@ -120,7 +128,7 @@
 <channels>
 	  <channel>
       <name>[COLOR white][COLOR yellow] •  [/COLOR] SERIES DE TV[/COLOR]</name>
-      <externallink>https://raw.githubusercontent.com/Darkman2110/DarkmanList/master/menu-series.xml</externallink>
+      <externallink>https://raw.githubusercontent.com/Darkman2110/DarkmanList/master/menu/menu-series.xml</externallink>
       <thumbnail>http://zonadjjavi.webcindario.com/Kodi/imagen/seriestv.png</thumbnail>
       <fanart>http://zonadjjavi.webcindario.com/Kodi/fondo2.jpg</fanart>
       </channel>
@@ -129,7 +137,7 @@
 <channels>
        <channel>
       <name>[COLOR white][COLOR yellow] •  [/COLOR]CANALES MUSICALES[/COLOR]</name>
-      <externallink>https://raw.githubusercontent.com/Darkman2110/DarkmanList/master/videos.xml</externallink>
+      <externallink>https://raw.githubusercontent.com/Darkman2110/DarkmanList/master/menu/videos.xml</externallink>
       <thumbnail>http://zonadjjavi.webcindario.com/Kodi/imagen/musica1.png</thumbnail>
       <fanart>http://zonadjjavi.webcindario.com/Kodi/fondo2.jpg</fanart>
       </channel>
@@ -138,7 +146,7 @@
  <channels>
       <channel>
       <name>[COLOR white][COLOR yellow] •  [/COLOR] CAMARAS DE MUNDO[/COLOR]</name>
-      <externallink>https://raw.githubusercontent.com/Darkman2110/DarkmanList/master/camaras.xml</externallink>
+      <externallink>https://raw.githubusercontent.com/Darkman2110/DarkmanList/master/menu/camaras.xml</externallink>
 	  <thumbnail>http://zonadjjavi.webcindario.com/Kodi/imagen/camesp1.png</thumbnail>
       <fanart>http://zonadjjavi.webcindario.com/Kodi/fondo2.jpg</fanart>
       </channel>
@@ -147,7 +155,7 @@
 <channels>
       <channel>
       <name>[COLOR white][COLOR yellow] •  [/COLOR] RADIOS[/COLOR]</name>
-      <externallink>https://raw.githubusercontent.com/Darkman2110/DarkmanList/master/radios.xml</externallink>
+      <externallink>https://raw.githubusercontent.com/Darkman2110/DarkmanList/master/menu/radios.xml</externallink>
       <thumbnail>http://zonadjjavi.webcindario.com/Kodi/imagen/radio1.png</thumbnail>
       <fanart>http://zonadjjavi.webcindario.com/Kodi/fondo2.jpg</fanart>
       </channel>
