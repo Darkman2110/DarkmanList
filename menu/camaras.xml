@@ -5,7 +5,7 @@
 <channel>
     <name>          <<<<<<<<<Camaras España>>>>>>>></name>
      <thumbnail></thumbnail>
-      <f<fanart>http://zonadjjavi.webcindario.com/Kodi/fanart.jpg</fanart>
+      anart>http://zonadjjavi.webcindario.com/Kodi/fanart.jpg</fanart>
         <items>
 		
 		                        <item><title>[COLOR=yellow]                                      <<[/COLOR][COLOR=yellow] Camaras España[/COLOR][COLOR=yellow]>>[/COLOR]</title>   <link>http://zonadjjavi.webcindario.com</link></item>
@@ -13,7 +13,7 @@
  <channel>
 <name>Barcelona</name>
 <thumbnail></thumbnail>
-<fanart></fanart>
+anart></fanart>
 <items>
 
 <item>
@@ -53,7 +53,7 @@
 <channel>
 <name>Madrid</name>
 <thumbnail></thumbnail>
-<fanart></fanart>
+anart></fanart>
 <items>
 
 <item>
@@ -251,7 +251,7 @@
 <link>plugin://plugin.video.youtube/play/?video_id=jFELUgq46WA</link>
 <referer>http://americatvstream.blogspot.com/</referer>
 <thumbnail></thumbnail>
-<fanart></fanart>
+anart></fanart>
 </item>		
 		
 <item>
@@ -259,13 +259,13 @@
 <link>plugin://plugin.video.youtube/play/?video_id=7D7bVqypm74</link>
 <referer>http://americatvstream.blogspot.com/</referer>
 <thumbnail></thumbnail>
-<fanart></fanart>
+anart></fanart>
 </item>			
 
 <channel>
     <name>          <<<<<<<<<Camaras Israel>>>>>>>></name>
      <thumbnail></thumbnail>
-      <f<fanart>http://zonadjjavi.webcindario.com/Kodi/fanart.jpg</fanart>
+      anart>http://zonadjjavi.webcindario.com/Kodi/fanart.jpg</fanart>
         <items>
 
 
@@ -290,7 +290,7 @@
 <channel>
     <name>          <<<<<<<<<Camaras Italia>>>>>>>></name>
      <thumbnail></thumbnail>
-      <f<fanart>http://zonadjjavi.webcindario.com/Kodi/fanart.jpg</fanart>
+      anart>http://zonadjjavi.webcindario.com/Kodi/fanart.jpg</fanart>
         <items>
 
 
@@ -302,7 +302,7 @@
 <channel>
 <name>Italia</name>
 <thumbnail></thumbnail>
-<fanart></fanart>
+anart></fanart>
 <items>
 
 <channel>
@@ -490,7 +490,7 @@
 <channel>
     <name>          <<<<<<<<<Camaras EE.UU.>>>>>>>></name>
      <thumbnail></thumbnail>
-      <f<fanart>http://zonadjjavi.webcindario.com/Kodi/fanart.jpg</fanart>
+      anart>http://zonadjjavi.webcindario.com/Kodi/fanart.jpg</fanart>
         <items>
 		
 		                        <item><title>[COLOR=yellow]                                      <<[/COLOR][COLOR=yellow] Camaras EE.UU.[/COLOR][COLOR=yellow]>>[/COLOR]</title>   <link>http://zonadjjavi.webcindario.com</link></item>
@@ -555,7 +555,7 @@
 <channel>
     <name>          <<<<<<<<<Camaras Francia>>>>>>>></name>
      <thumbnail></thumbnail>
-      <f<fanart>http://zonadjjavi.webcindario.com/Kodi/fanart.jpg</fanart>
+      anart>http://zonadjjavi.webcindario.com/Kodi/fanart.jpg</fanart>
         <items>
 		
 

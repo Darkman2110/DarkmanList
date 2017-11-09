@@ -2,7 +2,7 @@
 <channel>
     <name>          <<<<<<<<<Canales Autonomicos >>>>>>>></name>
     < <thumbnail></thumbnail>
-      <f<fanart>http://zonadjjavi.webcindario.com/Kodi/fanart.jpg</fanart>
+      anart>http://zonadjjavi.webcindario.com/Kodi/fanart.jpg</fanart>
         <items>
 		
 		<item><title>[COLOR=yellow]                                      <<[/COLOR][COLOR=yellow] Canales Autonomicos [/COLOR][COLOR=yellow]>>[/COLOR]</title>   <link>http://zonadjjavi.webcindario.com</link></item>
@@ -12,118 +12,118 @@
 <title>[COLOR white]TV3 CAT[/COLOR]</title>
 <link>http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:tv3cat_web/playlist.m3u8</link>
 <thumbnail>http://zonadjjavi.webcindario.com/Kodi/logos/tv3cat1.jpg</thumbnail>
-<f<fanart>http://zonadjjavi.webcindario.com/Kodi/fanart.jpg</fanart>
+anart>http://zonadjjavi.webcindario.com/Kodi/fanart.jpg</fanart>
 </item>
 
 <item>
 <title>[COLOR white]Super 3 Y C33[/COLOR]</title>
 <link>http://ccma-tva-es-abertis-live.hls.adaptive.level3.net/es/ngrp:c33_web/chunklist_b1296000.m3u8</link>
 <thumbnail>http://zonadjjavi.webcindario.com/Kodi/logos/super31.jpg</thumbnail>
-<f<fanart>http://zonadjjavi.webcindario.com/Kodi/fanart.jpg</fanart>
+anart>http://zonadjjavi.webcindario.com/Kodi/fanart.jpg</fanart>
 </item>
 
 <item>
 <title>[COLOR white]8 TV [/COLOR]</title>
 <link>rtmp://91.121.143.193:1935/liverepeater/8TV/8aldia-directe</link>
 <thumbnail>http://zonadjjavi.webcindario.com/Kodi/logos/c8tv1.jpg</thumbnail>
-<f<fanart>http://zonadjjavi.webcindario.com/Kodi/fanart.jpg</fanart>
+anart>http://zonadjjavi.webcindario.com/Kodi/fanart.jpg</fanart>
 </item>
 
 <item>
 <title>[COLOR white]3/24[/COLOR]</title>
 <link>http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:324_mobil/chunklist_b548000.m3u8</link>
 <thumbnail>http://zonadjjavi.webcindario.com/Kodi/logos/n3241.jpg</thumbnail>
-<f<fanart>http://zonadjjavi.webcindario.com/Kodi/fanart.jpg</fanart>
+anart>http://zonadjjavi.webcindario.com/Kodi/fanart.jpg</fanart>
 </item>
 
 <item>
 <title>[COLOR white]Telemadrid[/COLOR]</title>
 <link>http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/telemadrid1/bitrate_1.m3u8</link>
 <thumbnail>http://zonadjjavi.webcindario.com/Kodi/logos/telemadrid1.jpg</thumbnail>
-<f<fanart>http://zonadjjavi.webcindario.com/Kodi/fanart.jpg</fanart>
+anart>http://zonadjjavi.webcindario.com/Kodi/fanart.jpg</fanart>
 </item>
 
 <item>
 <title>[COLOR white]La Otra TV[/COLOR]</title>
 <link>http://laotrahls-live.hls.adaptive.level3.net/telemadrid/laotra1/bitrate_1.m3u8</link>
 <thumbnail>http://zonadjjavi.webcindario.com/Kodi/logos/laotra.jpg</thumbnail>
-<f<fanart>http://zonadjjavi.webcindario.com/Kodi/fanart.jpg</fanart>
+anart>http://zonadjjavi.webcindario.com/Kodi/fanart.jpg</fanart>
 </item>
 
 <item>
 <title>[COLOR white]Canal Sur[/COLOR]</title>
 <link>http://sandetel-diversidad-live.flumotion.com/live/chunklist.m3u8</link>
 <thumbnail>http://www.productorafaro.com/sites/default/files/Canalsur-logo_1.jpg</thumbnail>
-<f<fanart>http://zonadjjavi.webcindario.com/Kodi/fanart.jpg</fanart>
+anart>http://zonadjjavi.webcindario.com/Kodi/fanart.jpg</fanart>
 </item>
 
 <item>
 <title>[COLOR white]Euronews[/COLOR]</title>
 <link>http://stream-06.ix7.dailymotion.com/41/dm/3/x2j7hpf/live-2.m3u8</link>
 <thumbnail>http://zonadjjavi.webcindario.com/Kodi/logos/euronews1.jpg</thumbnail>
-<f<fanart>http://zonadjjavi.webcindario.com/Kodi/fanart.jpg</fanart>
+anart>http://zonadjjavi.webcindario.com/Kodi/fanart.jpg</fanart>
 </item>
 
 <item>
 <title>[COLOR white]TV Ceuta[/COLOR]</title>
 <link>http://cls.todostreaming.eu/anguloce/livestream/playlist.m3u8</link>
 <thumbnail>http://zonadjjavi.webcindario.com/Kodi/logos/ceulta1.jpg</thumbnail>
-<f<fanart>http://zonadjjavi.webcindario.com/Kodi/fanart.jpg</fanart>
+anart>http://zonadjjavi.webcindario.com/Kodi/fanart.jpg</fanart>
 </item>
 
 <item>
 <title>[COLOR white]Extremadura TV[/COLOR]</title>
 <link>http://hlstv.canalextremadura.es/livetv/smil:multistream.smil/chunklist_b1596000_DVR.m3u8</link>
 <thumbnail>http://zonadjjavi.webcindario.com/Kodi/logos/extremadura1.jpg</thumbnail>
-<f<fanart>http://zonadjjavi.webcindario.com/Kodi/fanart.jpg</fanart>
+anart>http://zonadjjavi.webcindario.com/Kodi/fanart.jpg</fanart>
 </item>
 
 <item>
 <title>[COLOR white]Galicia TV America[/COLOR]</title>
 <link>http://media3.crtvg.es/live/_definst_/tvga_2/chunklist_w2022541916.m3u8</link>
 <thumbnail>http://zonadjjavi.webcindario.com/Kodi/logos/tvgalicia.jpg</thumbnail>
-<f<fanart>http://zonadjjavi.webcindario.com/Kodi/fanart.jpg</fanart>
+anart>http://zonadjjavi.webcindario.com/Kodi/fanart.jpg</fanart>
 </item>
 
 <item>
 <title>[COLOR white]Galicia TV Europa[/COLOR]</title>
 <link>http://media3.crtvg.es/live/_definst_/tvge_2/chunklist_w1832497470.m3u8</link>
 <thumbnail>http://zonadjjavi.webcindario.com/Kodi/logos/tvgalicia.jpg</thumbnail>
-<f<fanart>http://zonadjjavi.webcindario.com/Kodi/fanart.jpg</fanart>
+anart>http://zonadjjavi.webcindario.com/Kodi/fanart.jpg</fanart>
 </item>
 
 <item>
 <title>[COLOR white]Tele Elx[/COLOR]</title>
 <link>rtmp://teledifusion.tv/teleelx/teleelxlive</link>
 <thumbnail>http://zonadjjavi.webcindario.com/Kodi/logos/tele-elx.jpg</thumbnail>
-<f<fanart>http://zonadjjavi.webcindario.com/Kodi/fanart.jpg</fanart>
+anart>http://zonadjjavi.webcindario.com/Kodi/fanart.jpg</fanart>
 </item>
 
 <item>
 <title>[COLOR white]Andorra TV HD[/COLOR]</title>
 <link>http://194.158.80.31:443/live/rtva/playlist.m3u8</link>
 <thumbnail>http://zonadjjavi.webcindario.com/Kodi/logos/AndorraTV1.jpg</thumbnail>
-<f<fanart>http://zonadjjavi.webcindario.com/Kodi/fanart.jpg</fanart>
+anart>http://zonadjjavi.webcindario.com/Kodi/fanart.jpg</fanart>
 </item>
 
 <item>
 <title>[COLOR white]Etb HD[/COLOR]</title>
 <link>http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/index_0748_av-p.m3u8?sd=8&rebase=on</link>
 <thumbnail>http://zonadjjavi.webcindario.com/Kodi/logos/eitb1.jpg</thumbnail>
-<f<fanart>http://zonadjjavi.webcindario.com/Kodi/fanart.jpg</fanart>
+anart>http://zonadjjavi.webcindario.com/Kodi/fanart.jpg</fanart>
 </item>
 
 <item>
 <title>[COLOR white]Levante TV[/COLOR]</title>
 <link>http://teledifusion.tv:1935/levantetvlive/levantetvlive/chunklist_w1198336921.m3u8</link>
 <thumbnail>http://zonadjjavi.webcindario.com/Kodi/logos/LevanteTV1.jpg</thumbnail>
-<f<fanart>http://zonadjjavi.webcindario.com/Kodi/fanart.jpg</fanart>
+anart>http://zonadjjavi.webcindario.com/Kodi/fanart.jpg</fanart>
 </item>
 
 <item>
 <title>[COLOR white]Aragon TV[/COLOR]</title> 
 <link>http://195.55.74.210/aragontv/hls-live/chunklist.m3u8?GKID=c8710c2804e011e7a39a00163e914f69</link> 
-<f<fanart>http://zonadjjavi.webcindario.com/Kodi/fanart.jpg</fanart> 
+anart>http://zonadjjavi.webcindario.com/Kodi/fanart.jpg</fanart> 
 <thumbnail>http://zonadjjavi.webcindario.com/Kodi/logos/AragonTV1.jpg</thumbnail> 
 <link></link> 
 </item>
@@ -132,90 +132,90 @@
 <title>[COLOR white] Cantabria TV[/COLOR]</title>
 <link>http://streaming2.mad.idec.net/rtvcnet/rtvcnet.drb.smil/chunklist_w1256186728_b480000_sles.m3u8</link>
 <thumbnail>http://st-listas.20minutos.es/images/2009-01/71667/2436643_640px.jpg?1310313725</thumbnail>
-<f<fanart>http://zonadjjavi.webcindario.com/Kodi/fanart.jpg</fanart>
+anart>http://zonadjjavi.webcindario.com/Kodi/fanart.jpg</fanart>
 </item>
 <item>
 <title>[COLOR white]Popular TV Cantabria[/COLOR]</title>
 <link>http://cls.todostreaming.eu/ptvcantabria/livestream/chunklist.m3u8</link>
 <thumbnail>http://zonadjjavi.webcindario.com/Kodi/logos/tvn1.jpg</thumbnail>
-<f<fanart>http://zonadjjavi.webcindario.com/Kodi/fanart.jpg</fanart>
+anart>http://zonadjjavi.webcindario.com/Kodi/fanart.jpg</fanart>
 </item>
 
 <item>
 <title>[COLOR white]Rtpa Asturias[/COLOR]</title>
 <link>http://iphone.rtpa.stream.flumotion.com/rtpa/tv-iphone/main.m3u8</link>
 <thumbnail>http://zonadjjavi.webcindario.com/Kodi/logos/rtpa1.jpg</thumbnail>
-<f<fanart>http://zonadjjavi.webcindario.com/Kodi/fanart.jpg</fanart>
+anart>http://zonadjjavi.webcindario.com/Kodi/fanart.jpg</fanart>
 </item>
 
 <item>
 <title>[COLOR white]Castilla- Leon TV TV[/COLOR]</title>
 <link>http://cdn.s6.eu.nice264.com:1935/niceLiveServer/_definst_/cyl_cyltvlivem_MB_698/chunklist.m3u8</link>
 <thumbnail>http://www.brandemia.org/sites/default/files/sites/default/files/logo_castilla_la-mancha-tv.jpg</thumbnail>
-<f<fanart>http://zonadjjavi.webcindario.com/Kodi/fanart.jpg</fanart>
+anart>http://zonadjjavi.webcindario.com/Kodi/fanart.jpg</fanart>
 </item>
 
 <item>
 <title>[COLOR white]IB3[/COLOR]</title>
 <link>http://ibsatiphone.ib3tv.com/iphoneliveIB3/IB3/IB3.m3u8</link>
 <thumbnail>http://zonadjjavi.webcindario.com/Kodi/logos/ib3tv1.jpg</thumbnail>
-<f<fanart>http://zonadjjavi.webcindario.com/Kodi/fanart.jpg</fanart>
+anart>http://zonadjjavi.webcindario.com/Kodi/fanart.jpg</fanart>
 </item>
 
 <item>
 <title>[COLOR white]13 TV [/COLOR]</title>
 <link>http://streaming.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/smil:live.smil/playlist.m3u8</link>
 <thumbnail>http://zonadjjavi.webcindario.com/Kodi/logos/c13tv1.jpg</thumbnail>
-<f<fanart>http://zonadjjavi.webcindario.com/Kodi/fanart.jpg</fanart>
+anart>http://zonadjjavi.webcindario.com/Kodi/fanart.jpg</fanart>
 </item>
 
 <item>
 <title>[COLOR white]Ribera TV[/COLOR]</title>
 <link>http://orion.comelson.es/ribera/livestream/chunklist_w298369484.m3u8</link>
 <thumbnail>http://zonadjjavi.webcindario.com/Kodi/logos/riberatv1.jpg</thumbnail>
-<f<fanart>http://zonadjjavi.webcindario.com/Kodi/fanart.jpg</fanart>
+anart>http://zonadjjavi.webcindario.com/Kodi/fanart.jpg</fanart>
 </item>
 
  <item>
  <title>[COLOR white]Huelva TV[/COLOR]</title>
  <link>http://cls.todostreaming.eu/telehuelva/restricted/chunklist.m3u8</link>
 <thumbnail>https://pbs.twimg.com/profile_images/645349922103889920/JGbRJMxo.jpg</thumbnail>
-<f<fanart>http://zonadjjavi.webcindario.com/Kodi/fanart.jpg</fanart>
+anart>http://zonadjjavi.webcindario.com/Kodi/fanart.jpg</fanart>
 </item>
  
  <item>
 <title>[COLOR white]Navarra TV[/COLOR]</title>
 <link>http://cdn.s3.eu.nice264.com:1935/niceLiveServer/NTV_livenatvmb_MB_478/chunklist_w1863227773.m3u8</link>
 <thumbnail>http://canaltdt.es/wp-content/uploads/2015/01/navarra_tv.jpg</thumbnail>
-<f<fanart>http://zonadjjavi.webcindario.com/Kodi/fanart.jpg</fanart>
+anart>http://zonadjjavi.webcindario.com/Kodi/fanart.jpg</fanart>
 </item>
 
 <item>
 <title>[COLOR white]Correo TV-Sevilla[/COLOR]</title>
 <link>http://cls.elitehd-audiovisuales.com/luztv/livestream/playlist.m3u8</link>
 <thumbnail>http://www.correotv.es/img/logotipo.jpg</thumbnail>
-<f<fanart>http://zonadjjavi.webcindario.com/Kodi/fanart.jpg</fanart>
+anart>http://zonadjjavi.webcindario.com/Kodi/fanart.jpg</fanart>
 </item>
 
 <item>
 <title>[COLOR white] Murcia TV[/COLOR]</title>
 <link>http://rtvmurcia_01-lh.akamaihd.net/i/rtvmurcia_1_0@507973/index_0_av-p.m3u8?sd=10&rebase=on</link>
 <thumbnail>https://pbs.twimg.com/profile_images/603859282858246144/g6JFDMsK.jpg</thumbnail>
-<f<fanart>http://zonadjjavi.webcindario.com/Kodi/fanart.jpg</fanart>
+anart>http://zonadjjavi.webcindario.com/Kodi/fanart.jpg</fanart>
 </item>
 
 <item>
 <title>[COLOR white]OL CADIZ[/COLOR]</title>
 <link>http://cloud1.cdnstreamserver.com/olcadiz/livestream1/chunklist.m3u8</link>
 <thumbnail>http://www.domainplayers.org/ondaluz/olronda.jpg</thumbnail>
-<f<fanart>http://zonadjjavi.webcindario.com/Kodi/fanart.jpg</fanart>
+anart>http://zonadjjavi.webcindario.com/Kodi/fanart.jpg</fanart>
 </item>
 
 <item>
 <title>[COLOR white]OL MARBELLA[/COLOR]</title>
 <link>http://cloud1.cdnstreamserver.com/olmarbella/livestream1/chunklist.m3u8</link>
 <thumbnail>http://cuadernoagrario.com/wp-content/uploads/sites/6/2016/02/ondaluz.png</thumbnail>
-<f<fanart>http://zonadjjavi.webcindario.com/Kodi/fanart.jpg</fanart>
+anart>http://zonadjjavi.webcindario.com/Kodi/fanart.jpg</fanart>
 </item>
 
 
@@ -223,19 +223,19 @@
 <title>[COLOR white]OL SIERRA [/COLOR]</title>
 <link>http://cloud1.cdnstreamserver.com/olsierra/livestream1/chunklist.m3u8</link>
 <thumbnail>http://cuadernoagrario.com/wp-content/uploads/sites/6/2016/02/ondaluz.png</thumbnail>
-<f<fanart>http://zonadjjavi.webcindario.com/Kodi/fanart.jpg</fanart>
+anart>http://zonadjjavi.webcindario.com/Kodi/fanart.jpg</fanart>
 </item>
 
 <item>
 <title>[COLOR white]Tenerife TV[/COLOR]</title>
 <link>http://teledifusion.tv:1935/dia/dia/playlist.m3u8</link>
 <thumbnail>http://www.canaltenerifetv.com/appearance/logo.png</thumbnail>
-<f<fanart>http://zonadjjavi.webcindario.com/Kodi/fanart.jpg</fanart>
+anart>http://zonadjjavi.webcindario.com/Kodi/fanart.jpg</fanart>
 </item>
 
 <item>
 <title>[COLOR white]Canal 25 Barbastro[/COLOR]</title>
 <link>http://188.165.135.22/tvbarbastro/livestream/chunklist_w1970412804.m3u8</link>
 <thumbnail>http://4.bp.blogspot.com/-lvM6hsmfHe8/VNp26WaW8CI/AAAAAAAACSU/4h2Tk89o6Uc/s340-c/Canal-25-TV-de-Barbastro.png</thumbnail>
-<f<fanart>http://zonadjjavi.webcindario.com/Kodi/fanart.jpg</fanart>
+anart>http://zonadjjavi.webcindario.com/Kodi/fanart.jpg</fanart>
 </item>
