@@ -33,6 +33,104 @@ anart>http://images.complex.com/complex/images/c_limit,w_680/fl_lossy,pg_1,q_aut
 <connection>keep-alive</connection>
 <cookieJar></cookieJar>
 </regex>
-anart>http://images.complex.com/complex/images/c_limit,w_680/fl_lossy,pg_1,q_auto/jason-statham-crank_znrdmb/jason-statham-crank</fanart>
+<fanart>http://images.complex.com/complex/images/c_limit,w_680/fl_lossy,pg_1,q_auto/jason-statham-crank_znrdmb/jason-statham-crank</fanart>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTkxMzk2MDkwOV5BMl5BanBnXkFtZTcwMDAxODQwMg@@._V1_UX214_CR0,0,214,317_AL_.jpg</thumbnail>
 </item>
+
+
+<item>
+<title>[COLOR]filmografia : Bruce Willis [/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+  <name>makelist</name>
+  <listrepeat><![CDATA[
+        <title>[COLOR yellow] [makelist.param3] [/COLOR]</title>
+        <link>$doregex[getUrl]</link>
+<fanart>https://i0.wp.com/eju.tv/wp-content/uploads/2017/04/58eb5de4d7543.jpg</fanart>
+<thumbnail>http://thetango.net/wp-content/uploads/2013/02/bruce_willis.jpg</thumbnail>
+]]></listrepeat>
+<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+<page>http://diskokosmiko.mx/trivianita/bruce-willis-filmografia-87514/list,1,3</page>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&f=[makelist.param1]</page>
+<rawpost>fileId=[makelist.param1]&__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+<connection>keep-alive</connection>
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>tok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<referer>http://diskokosmiko.mx/trivianita/bruce-willis-filmografia-87514/list,1,3</referer>
+<connection>keep-alive</connection>
+<cookieJar></cookieJar>
+</regex>
+<fanart>https://i0.wp.com/eju.tv/wp-content/uploads/2017/04/58eb5de4d7543.jpg</fanart>
+<thumbnail>http://thetango.net/wp-content/uploads/2013/02/bruce_willis.jpg</thumbnail>
+</item>
+
+
+<item>
+<title>[COLOR]filmografia : Clint Eastwood  [/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+  <name>makelist</name>
+  <listrepeat><![CDATA[
+        <title>[COLOR yellow] [makelist.param3] [/COLOR]</title>
+        <link>$doregex[getUrl]</link>
+<fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREvi1vQEhpYYyMku53Z0Be9Uy9QqHsfaV487P3X99rq36J6k3_</fanart>
+<thumbnail>https://janeaustenrunsmylife.files.wordpress.com/2013/03/hang-em-high-clint-eastwood-1968-everett.jpg</thumbnail>
+]]></listrepeat>
+<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+<page>http://diskokosmiko.mx/trivianita/clint-eastwood-filmografia-86913/list,1,2</page>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&f=[makelist.param1]</page>
+<rawpost>fileId=[makelist.param1]&__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+<connection>keep-alive</connection>
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>tok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<referer>http://diskokosmiko.mx/trivianita/clint-eastwood-filmografia-86913/list,1,2</referer>
+<connection>keep-alive</connection>
+<cookieJar></cookieJar>
+</regex>
+<fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREvi1vQEhpYYyMku53Z0Be9Uy9QqHsfaV487P3X99rq36J6k3_</fanart>
+<thumbnail>https://janeaustenrunsmylife.files.wordpress.com/2013/03/hang-em-high-clint-eastwood-1968-everett.jpg</thumbnail>
+</item>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
