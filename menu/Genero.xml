@@ -104,8 +104,8 @@
   <listrepeat><![CDATA[
         <title>[COLOR yellow] [makelist.param3] [/COLOR]</title>
         <link>$doregex[getUrl]</link>
-<fanart>https://cuentosdecienciaficcion.com.mx/wp-content/uploads/2016/03/5-580x324.jpg<fanart>
-<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTkxMzk2MDkwOV5BMl5BanBnXkFtZTcwMDAxODQwMg@@._V1_UX214_CR0,0,214,317_AL_.jpg</thumbnail>
+<fanart>http://radiobuap.com/wp-content/uploads/2015/09/Cyborg_Fantasy_World-e1295286948275.jpg<fanart>
+<thumbnail>http://zonadjjavi.webcindario.com/Kodi/imagen/ficcion.png</thumbnail>
 ]]></listrepeat>
 <expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
 <page>http://diskokosmiko.mx/Jeviathan/cine-ciencia-ficcion-24545/</page>
@@ -130,8 +130,8 @@
 <connection>keep-alive</connection>
 <cookieJar></cookieJar>
 </regex>
-<fanart>http://zonadjjavi.webcindario.com/Kodi/imagen/ficcion.png</fanart>
-<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTkxMzk2MDkwOV5BMl5BanBnXkFtZTcwMDAxODQwMg@@._V1_UX214_CR0,0,214,317_AL_.jpg</thumbnail>
+<fanart>http://radiobuap.com/wp-content/uploads/2015/09/Cyborg_Fantasy_World-e1295286948275.jpg</fanart>
+<thumbnail>http://zonadjjavi.webcindario.com/Kodi/imagen/ficcion.png</thumbnail>
 </item>
 
 
