@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <item>
-<title>[COLOR]filmografia : Jason Statham [/COLOR]</title>
+<title>[COLOR white]filmografia :[/COLOR] [COLOR]Jason Statham [/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
   <name>makelist</name>
@@ -39,7 +39,7 @@ anart>http://images.complex.com/complex/images/c_limit,w_680/fl_lossy,pg_1,q_aut
 
 
 <item>
-<title>[COLOR]filmografia : Bruce Willis [/COLOR]</title>
+<title>[COLOR white]filmografia :[/COLOR][COLOR] Bruce Willis [/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
   <name>makelist</name>
@@ -77,7 +77,7 @@ anart>http://images.complex.com/complex/images/c_limit,w_680/fl_lossy,pg_1,q_aut
 </item>
 
 <item>
-<title>[COLOR]filmografia : HARRISON FORD [/COLOR]</title>
+<title>[COLOR white]filmografia :[/COLOR][COLOR] Harrison Ford [/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
   <name>makelist</name>
@@ -116,7 +116,7 @@ anart>http://images.complex.com/complex/images/c_limit,w_680/fl_lossy,pg_1,q_aut
 
 
 <item>
-<title>[COLOR]filmografia : Clint Eastwood  [/COLOR]</title>
+<title>[COLOR white]filmografia :[/COLOR][COLOR] Clint Eastwood  [/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
   <name>makelist</name>
@@ -156,7 +156,7 @@ anart>http://images.complex.com/complex/images/c_limit,w_680/fl_lossy,pg_1,q_aut
 
 
 <item>
-<title>[COLOR]filmografia : Chuck Norris[/COLOR]</title>
+<title>[COLOR white]filmografia :[/COLOR][COLOR] Chuck Norris[/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
   <name>makelist</name>
@@ -195,7 +195,7 @@ anart>http://images.complex.com/complex/images/c_limit,w_680/fl_lossy,pg_1,q_aut
 
 
 <item>
-<title>[COLOR]filmografia : Sylvester Stallone [/COLOR]</title>
+<title>[COLOR white]filmografia:[/COLOR][COLOR] Sylvester Stallone [/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
   <name>makelist</name>
@@ -235,7 +235,7 @@ anart>http://images.complex.com/complex/images/c_limit,w_680/fl_lossy,pg_1,q_aut
 
 
 <item>
-<title>[COLOR]filmografia : Arnold Schwarzenegger[/COLOR]</title>
+<title>[COLOR white]filmografia:[/COLOR][COLOR] Arnold Schwarzenegger[/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
   <name>makelist</name>
@@ -271,48 +271,6 @@ anart>http://images.complex.com/complex/images/c_limit,w_680/fl_lossy,pg_1,q_aut
 <fanart>http://cine.netknowsl.netdna-cdn.com/cine/wp-content/uploads/2017/04/50-1.jpg</fanart>
 <thumbnail>https://ssl.uh.edu/news-events/stories/2017/March/Arnold%20Schwarzenegger.jpeg</thumbnail>
 </item>
-
-<item>
-<title>[COLOR]filmografia : Jackie Chan[/COLOR]</title>
-<link>$doregex[makelist]</link>
-<regex>
-  <name>makelist</name>
-  <listrepeat><![CDATA[
-        <title>[COLOR yellow] [makelist.param3] [/COLOR]</title>
-        <link>$doregex[getUrl]</link>
-<fanart>http://cdn3-www.comingsoon.net/assets/uploads/2017/08/chanheader.jpg</fanart>
-<thumbnail>http://www.blogseitb.com/wp-content/uploads/sites/31/2012/12/Jackie-chan.jpg</thumbnail>
-]]></listrepeat>
-<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
-<page>http://diskokosmiko.mx/movies/jackie-chan-dvdrip-ultra-super-dooper-mega-pack-1216/list,1,3</page>
-<cookieJar></cookieJar>
-</regex>
-<regex>
-<name>getUrl</name>
-<expres>DownloadUrl":"([^"]+)<expres>
-<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&f=[makelist.param1]</page>
-<rawpost>fileId=[makelist.param1]&__RequestVerificationToken=$doregex[tok]</rawpost>
-<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
-<connection>keep-alive</connection>
-<accept>*/*</accept>
-<X-Req>XMLHttpRequest</X-Req>
-<cookieJar></cookieJar>
-</regex>
-<regex>
-<name>tok</name>
-<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
-<page>http://diskokosmiko.mx/[makelist.param2]</page>
-<referer>http://diskokosmiko.mx/movies/jackie-chan-dvdrip-ultra-super-dooper-mega-pack-1216/list,1,3</referer>
-<connection>keep-alive</connection>
-<cookieJar></cookieJar>
-</regex>
-<fanart>http://cdn3-www.comingsoon.net/assets/uploads/2017/08/chanheader.jpg</fanart>
-<thumbnail>http://www.blogseitb.com/wp-content/uploads/sites/31/2012/12/Jackie-chan.jpg</thumbnail>
-</item>
-
-
-
-
 
 
 
