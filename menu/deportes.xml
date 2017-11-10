@@ -74,7 +74,7 @@
 
 <item>
 <title>LA LIGA TV</title>
-<link>plugin://plugin.video.f4mTester/?url=http://4k.electrodahri.com:8000/live/jose/jose1/53717ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR] LA LIGA TV[/COLOR]</link>
+<link>plugin://plugin.video.f4mTester/?url=http://4k.electrodahri.com:8000/live/jose/jose1/53717.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR] LA LIGA TV[/COLOR]</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
