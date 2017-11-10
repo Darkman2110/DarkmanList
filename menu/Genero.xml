@@ -1,30 +1,30 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <item>
-        <title>[COLOR white]• ACCION[/COLOR] </title>
+        <title>[COLOR yellow]•[COLOR white] ACCION[/COLOR] </title>
         <link>  </link>
         <externallink>https://raw.githubusercontent.com/Darkman2110/DarkmanList/master/Genero/accion.xml</externallink>
         <thumbnail>http://zonadjjavi.webcindario.com/Kodi/imagen/accion.png</thumbnail>
-        <fanart>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQmsUzQ9kZ6UFvgnEip39jCpRxTG15inc06TVq-kKwP6SztIeoL</fanart>
+        <fanart>http://www.cinefagos.es/wp-content/uploads/2012/09/The-Expendables-2-Wallpapers-15.jpg</fanart>
 </item>
 
 <item>
-        <title>[COLOR white]• COMEDIA[/COLOR] </title>
+        <title>[COLOR yellow]•[COLOR white] COMEDIA[/COLOR] </title>
         <link>  </link>
         <externallink>https://raw.githubusercontent.com/Darkman2110/DarkmanList/master/Genero/comedia.xml</externallink>
         <thumbnail>http://zonadjjavi.webcindario.com/Kodi/imagen/comedia.png</thumbnail>
-        <fanart>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQmsUzQ9kZ6UFvgnEip39jCpRxTG15inc06TVq-kKwP6SztIeoL</fanart>
+        <fanart>http://storage.competir.com/post/la-comedia/images/comedia-teatro.jpg</fanart>
 </item>
 
 <item>
-        <title>[COLOR white]• ANIMACION[/COLOR]</title>
+        <title>[COLOR yellow]• [COLOR white]ANIMACION[/COLOR]</title>
         <link>  </link>
         <externallink>https://raw.githubusercontent.com/Darkman2110/DarkmanList/master/Genero/animacion.xml</externallink>
         <thumbnail>http://zonadjjavi.webcindario.com/Kodi/imagen/animacion.png</thumbnail>
-        <fanart>http://www.sipeliculas.com/alvin-y-las-ardillas-aventura-sobre-ruedas</f<fanart>
+        <fanart>http://static5.businessinsider.com/image/502a9763ecad040a1a000000/the-simplified-amazing-theory-for-how-all-pixar-movies-fit-into-one-universe.jpg</fanart>
 </item>
 
 <item>
-        <title>[COLOR white]• DRAMA[/COLOR] </title>
+        <title>[COLOR yellow]• [COLOR white]DRAMA[/COLOR] </title>
         <link>  </link>
         <externallink>https://raw.githubusercontent.com/Darkman2110/DarkmanList/master/Genero/drama.xml</externallink>
         <thumbnail>http://zonadjjavi.webcindario.com/Kodi/imagen/drama.png</thumbnail>
@@ -33,15 +33,15 @@
 </item>
 
 <item>
-        <title>[COLOR white]• AVENTURAS[/COLOR] </title>
+        <title>[COLOR yellow]•[COLOR white] AVENTURAS[/COLOR] </title>
         <link>  </link>
         <externallink>https://raw.githubusercontent.com/Darkman2110/DarkmanList/master/Genero/aventuras.xml</externallink>
         <thumbnail>http://zonadjjavi.webcindario.com/Kodi/imagen/aventura.png</thumbnail>
-        <fanart>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQmsUzQ9kZ6UFvgnEip39jCpRxTG15inc06TVq-kKwP6SztIeoL</fanart>
+        <fanart>http://parentpreviews.com/images/made/legacy-pics/adventures-of-tintin_668_330_80_int_s_c1.jpg</fanart>
 </item>
 
 <item>
-        <title>[COLOR white]• BELICAS[/COLOR]</title>
+        <title>[COLOR yellow]•[COLOR white] BELICAS[/COLOR]</title>
         <link>  </link>
         <externallink>https://raw.githubusercontent.com/Darkman2110/DarkmanList/master/Genero/Belicas.xml</externallink>
         <thumbnail>http://zonadjjavi.webcindario.com/Kodi/imagen/belicas.png</thumbnail>
@@ -49,22 +49,22 @@
 </item>
 
 <item>
-        <title>[COLOR white]• TERROR[/COLOR] </title>
+        <title>[COLOR yellow]• [COLOR white]TERROR[/COLOR] </title>
         <link>  </link>
         <externallink>https://raw.githubusercontent.com/Darkman2110/DarkmanList/master/Genero/terror.xml</externallink>
         <thumbnail>http://zonadjjavi.webcindario.com/Kodi/imagen/terror.png</thumbnail>
-        <fanart>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQmsUzQ9kZ6UFvgnEip39jCpRxTG15inc06TVq-kKwP6SztIeoL</fanart>
+        <fanart>https://i0.wp.com/conectica.com/wp-content/uploads/2016/12/peliculas-de-terror.jpg?fit=1010%2C537&ssl=1</fanart>
 </item>
 
 <item>
-<title>[COLOR white]• MISTERIO[/COLOR]</title>
+<title>[COLOR yellow]• [COLOR white]MISTERIO[/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
   <name>makelist</name>
   <listrepeat><![CDATA[
         <title>[COLOR yellow] [makelist.param3] [/COLOR]</title>
         <link>$doregex[getUrl]</link>
-<fanart>https://storage.googleapis.com/absolute-fiestas/images/textos/v1/gymkana-de-misterio-divertida-madrid.jpg<fanart>
+<fanart>https://storage.googleapis.com/absolute-fiestas/images/textos/v1/gymkana-de-misterio-divertida-madrid.jpg</fanart>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTkxMzk2MDkwOV5BMl5BanBnXkFtZTcwMDAxODQwMg@@._V1_UX214_CR0,0,214,317_AL_.jpg</thumbnail>
 ]]></listrepeat>
 <expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
@@ -97,14 +97,14 @@
 
 
 <item>
-<title>[COLOR white]• CIENCIA FICCION[/COLOR]</title>
+<title>[COLOR yellow]•[COLOR white] CIENCIA FICCION[/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
   <name>makelist</name>
   <listrepeat><![CDATA[
         <title>[COLOR yellow] [makelist.param3] [/COLOR]</title>
         <link>$doregex[getUrl]</link>
-<fanart>http://radiobuap.com/wp-content/uploads/2015/09/Cyborg_Fantasy_World-e1295286948275.jpg<fanart>
+<fanart>http://radiobuap.com/wp-content/uploads/2015/09/Cyborg_Fantasy_World-e1295286948275.jpg</fanart>
 <thumbnail>http://zonadjjavi.webcindario.com/Kodi/imagen/ficcion.png</thumbnail>
 ]]></listrepeat>
 <expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
