@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <item>
-<title>[COLOR white]filmografia :[/COLOR] [COLOR]Jason Statham [/COLOR]</title>
+<title>[COLOR white]filmografia:[/COLOR] [COLOR]Jason Statham [/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
   <name>makelist</name>
@@ -39,7 +39,7 @@ anart>http://images.complex.com/complex/images/c_limit,w_680/fl_lossy,pg_1,q_aut
 
 
 <item>
-<title>[COLOR white]filmografia :[/COLOR][COLOR] Bruce Willis [/COLOR]</title>
+<title>[COLOR white]filmografia:[/COLOR][COLOR] Bruce Willis [/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
   <name>makelist</name>
@@ -77,7 +77,7 @@ anart>http://images.complex.com/complex/images/c_limit,w_680/fl_lossy,pg_1,q_aut
 </item>
 
 <item>
-<title>[COLOR white]filmografia :[/COLOR][COLOR] Harrison Ford [/COLOR]</title>
+<title>[COLOR white]filmografia:[/COLOR][COLOR] Harrison Ford [/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
   <name>makelist</name>
@@ -116,7 +116,7 @@ anart>http://images.complex.com/complex/images/c_limit,w_680/fl_lossy,pg_1,q_aut
 
 
 <item>
-<title>[COLOR white]filmografia :[/COLOR][COLOR] Clint Eastwood  [/COLOR]</title>
+<title>[COLOR white]filmografia:[/COLOR][COLOR] Clint Eastwood  [/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
   <name>makelist</name>
@@ -156,7 +156,7 @@ anart>http://images.complex.com/complex/images/c_limit,w_680/fl_lossy,pg_1,q_aut
 
 
 <item>
-<title>[COLOR white]filmografia :[/COLOR][COLOR] Chuck Norris[/COLOR]</title>
+<title>[COLOR white]filmografia:[/COLOR][COLOR] Chuck Norris[/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
   <name>makelist</name>
