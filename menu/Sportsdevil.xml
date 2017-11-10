@@ -1,6 +1,175 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 <channel>
+    <name>          <<<<<<<<< Canales Digital f4mTester>>>>>>>></name>
+    <thumbnail></thumbnail>
+      anart>http://zonadjjavi.webcindario.com/Kodi/fanart.jpg</fanart>
+        <items>
+
+
+
+
+                       <item><title>[COLOR=yellow]                                      <<[/COLOR][COLOR=lime] Canales Digital [COLOR=blue]f4mTester[/COLOR][COLOR=yellow]>>[/COLOR]</title>   <link>http://zonadjjavi.webcindario.com</link></item>
+                    
+
+<item>
+<title>#0</title>
+<link>plugin://plugin.video.f4mTester/?url=http://4k.electrodahri.com:8000/live/jose/jose1/54009.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR] ESTRENOS[/COLOR]</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>M-ESTRENOS</title>
+<link>plugin://plugin.video.f4mTester/?url=http://4k.electrodahri.com:8000/live/jose/jose1/53798.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR] ESTRENOS[/COLOR]</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>M-ACCION</title>
+<link>plugin://plugin.video.f4mTester/?url=http://4k.electrodahri.com:8000/live/jose/jose1/63737.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR] ESTRENOS[/COLOR]</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>M-COMEDIA</title>
+<link>plugin://plugin.video.f4mTester/?url=http://4k.electrodahri.com:8000/live/jose/jose1/53796.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR] ESTRENOS[/COLOR]</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>M-DCINE</title>
+<link>plugin://plugin.video.f4mTester/?url=http://4k.electrodahri.com:8000/live/jose/jose1/53795.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR] ESTRENOS[/COLOR]</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>SOMOS HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://4k.electrodahri.com:8000/live/jose/jose1/53795.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR] ESTRENOS[/COLOR]</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>DARK</title>
+<link>plugin://plugin.video.f4mTester/?url=http://4k.electrodahri.com:8000/live/jose/jose1/68594.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR] ESTRENOS[/COLOR]</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Hollywood HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://4k.electrodahri.com:8000/live/jose/jose1/67453.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR] ESTRENOS[/COLOR]</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>AMC</title>
+<link>plugin://plugin.video.f4mTester/?url=http://4k.electrodahri.com:8000/live/jose/jose1/53926.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR] ESTRENOS[/COLOR]</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>AXN</title>
+<link>plugin://plugin.video.f4mTester/?url=http://4k.electrodahri.com:8000/live/jose/jose1/53783.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR] ESTRENOS[/COLOR]</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>AXN WHITE</title>
+<link>plugin://plugin.video.f4mTester/?url=http://4k.electrodahri.com:8000/live/jose/jose1/63745.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR] ESTRENOS[/COLOR]</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>CALLE 13</title>
+<link>plugin://plugin.video.f4mTester/?url=http://4k.electrodahri.com:8000/live/jose/jose1/63675.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR] ESTRENOS[/COLOR]</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>FOX HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://4k.electrodahri.com:8000/live/jose/jose1/67456.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR] ESTRENOS[/COLOR]</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>FOX LIFE HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://4k.electrodahri.com:8000/live/jose/jose1/67455.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR] ESTRENOS[/COLOR]</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>SYFY HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://4k.electrodahri.com:8000/live/jose/jose1/67478.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR] ESTRENOS[/COLOR]</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>TNT HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://4k.electrodahri.com:8000/live/jose/jose1/63740.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR] ESTRENOS[/COLOR]</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>XTRM/<title>
+<link>plugin://plugin.video.f4mTester/?url=http://4k.electrodahri.com:8000/live/jose/jose1/68592.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR] ESTRENOS[/COLOR]</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>BABY TV</title>
+<link>plugin://plugin.video.f4mTester/?url=http://4k.electrodahri.com:8000/live/jose/jose1/53714.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR] ESTRENOS[/COLOR]</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>BOING</title>
+<link>plugin://plugin.video.f4mTester/?url=http://4k.electrodahri.com:8000/live/jose/jose1/53716.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR] ESTRENOS[/COLOR]</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>CLAN</title>
+<link>plugin://plugin.video.f4mTester/?url=http://4k.electrodahri.com:8000/live/jose/jose1/53912.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR] ESTRENOS[/COLOR]</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>PANDA SD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://4k.electrodahri.com:8000/live/jose/jose1/53919.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR] ESTRENOS[/COLOR]</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>DISNEY CHANNEL  FHD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://4k.electrodahri.com:8000/live/jose/jose1/54200.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR] ESTRENOS[/COLOR]</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+
+
+
+<channel>
     <name>          <<<<<<<<< Canales Digital Sportsdevil>>>>>>>></name>
     <thumbnail></thumbnail>
       anart>http://zonadjjavi.webcindario.com/Kodi/fanart.jpg</fanart>
