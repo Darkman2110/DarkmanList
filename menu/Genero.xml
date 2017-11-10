@@ -28,7 +28,7 @@
         <link>  </link>
         <externallink>https://raw.githubusercontent.com/Darkman2110/DarkmanList/master/Genero/drama.xml</externallink>
         <thumbnail>http://zonadjjavi.webcindario.com/Kodi/imagen/drama.png</thumbnail>
-        <fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTT_E0ywB62astbE-GULIE3FfltqHB3ol8bWD4KUViCdzKEGqtA</fanart>
+        <fanart>https://i.ytimg.com/vi/We_1H_cZiWg/hqdefault.jpg</fanart>
 
 </item>
 
@@ -64,7 +64,7 @@
   <listrepeat><![CDATA[
         <title>[COLOR yellow] [makelist.param3] [/COLOR]</title>
         <link>$doregex[getUrl]</link>
-<fanart>https://storage.googleapis.com/absolute-fiestas/images/textos/v1/gymkana-de-misterio-divertida-madrid.jpg</fanart>
+<fanart>https://elrobotpescador.files.wordpress.com/2015/02/sc3adndrome-tercer-hombre.png</fanart>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTkxMzk2MDkwOV5BMl5BanBnXkFtZTcwMDAxODQwMg@@._V1_UX214_CR0,0,214,317_AL_.jpg</thumbnail>
 ]]></listrepeat>
 <expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
@@ -90,7 +90,7 @@
 <connection>keep-alive</connection>
 <cookieJar></cookieJar>
 </regex>
-<fanart>https://storage.googleapis.com/absolute-fiestas/images/textos/v1/gymkana-de-misterio-divertida-madrid.jpg</fanart>
+<fanart>https://elrobotpescador.files.wordpress.com/2015/02/sc3adndrome-tercer-hombre.png</fanart>
 <thumbnail>http://zonadjjavi.webcindario.com/Kodi/imagen/misterio.png</thumbnail>
 </item>
 
