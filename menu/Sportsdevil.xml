@@ -81,6 +81,20 @@
 </item>
 
 <item>
+<title>[UPPERCASE][COLOR white] ESTRENOS[/UPPERCASE][/COLOR] </title>
+<link>$doregex[get-id]|User-Agent=iPad</link>
+<regex>
+<name>get-id</name>
+<expres>[",\'](h.*m3u8.*?)'</expres>
+<page>http://cinestrenostv.tv/canales/nacionales/plus-estrenos.php</page>
+<referer>http://vertelevisor.com/tv/nacionales/axn.html</referer>
+<agent>iPad</agent>
+</regex>
+<thumbnail>http://zonadjjavi.webcindario.com/Kodi/logos/estrenos1.jpg</thumbnail>   
+</item>
+
+
+<item>
 <title>[UPPERCASE][COLOR white]dcine[/UPPERCASE][/COLOR] </title>
 <link>$doregex[get-id]|User-Agent=iPad</link>
 <regex>
