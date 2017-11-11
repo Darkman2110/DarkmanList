@@ -120,7 +120,7 @@
 </item>
 
 <item>
-<title>[UPPERCASE][COLOR white]  cinemax[/UPPERCASE][/COLOR] </title>
+<title>[UPPERCASE][COLOR white]cinemax[/UPPERCASE][/COLOR] </title>
 <link>$doregex[GetPageUrl]|Referer=http://vercanalestv.com/tv/argentina/cinemax.html&amp;User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64; rv:55.0) Gecko/20100101 Firefox/55.0</link>
 <regex>
 <name>GetPageUrl</name>
