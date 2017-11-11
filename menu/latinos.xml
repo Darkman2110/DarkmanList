@@ -1,22 +1,21 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-
 <item>
-<title>[COLOR white]CINE SALA 1 [COLOR blue]Latino[/COLOR]</title>
-<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=0298Mt9Z7C8</link>
+<title>[COLOR white]CINE SALA 1 HD[COLOR blue]Latino[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=uFT_ZHKnctk</link>
 </item>
 
 <item>
-<title>[COLOR white]CINE SALA 2 [COLOR blue]Latino[/COLOR]</title>
+<title>[COLOR white]CINE SALA 2 HD[COLOR blue]Latino[/COLOR]</title>
 <link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=qbb0qT1fIAg</link>
 </item>
 
 <item>
-<title>[COLOR white]CINE SALA 3 [COLOR blue]Latino[/COLOR]</title>
+<title>[COLOR white]CINE SALA 3 SD[COLOR blue]Latino[/COLOR]</title>
 <link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=GkHnw7nmPRQ</link>
 </item>
 
 <item>
-<title>[COLOR white]CINE SALA 4 [COLOR blue]Latino[/COLOR]</title>
+<title>[COLOR white]CINE SALA 4 SD[COLOR blue]Latino[/COLOR]</title>
 <link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=9LpJQfoowmQ</link>
 </item>
 
@@ -26,17 +25,17 @@
 </item>
 
 <item>
-<title>[COLOR white]CINE SALA 6 [COLOR blue]Latino[/COLOR]</title>
+<title>[COLOR white]CINE SALA 6 HD[COLOR blue]Latino[/COLOR]</title>
 <link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=P3Cqnw3wBq4</link>
 </item>
 
 <item>
-<title>[COLOR white]CINE SALA 7 [COLOR blue]Latino[/COLOR]</title>
+<title>[COLOR white]CINE SALA 7 HD[COLOR blue]Latino[/COLOR]</title>
 <link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=mQPLS13qQQ0</link>
 </item>
 
 <item>
-<title>[COLOR white]CINE SALA 8 [COLOR blue]Latino[/COLOR]</title>
+<title>[COLOR white]CINE SALA 8 HD [COLOR blue]Latino[/COLOR]</title>
 <link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=XT_9nSiqtxw</link>
 </item>
 
