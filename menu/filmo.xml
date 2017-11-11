@@ -277,7 +277,7 @@ anart>http://images.complex.com/complex/images/c_limit,w_680/fl_lossy,pg_1,q_aut
 
 
 <item>
-<title>[COLOR white]filmografia:[/COLOR] [COLOR]PACO MARTINEZ SORIA [/COLOR]</title>
+<title>[COLOR white]filmografia:[/COLOR] [COLOR]Paco Martinez Soria [/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
   <name>makelist</name>
