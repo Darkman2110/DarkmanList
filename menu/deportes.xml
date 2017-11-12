@@ -23,37 +23,38 @@
 anart>http://zonadjjavi.webcindario.com/Kodi/fanart.jpg</fanart>
 </item>
 
-<item>
-<title>[COLOR white]Partidazo 2[/COLOR]</title>
-<sportsdevil>http://vercanalestv.com/tv/deportes/canal-plus-partidazo.html</sportsdevil>
-<referer>http://cinestrenostv.tv</referer>
-<thumbnail>http://vignette1.wikia.nocookie.net/logopedia/images/c/c2/MovistarPartidazo.png/revision/latest?cb=20160818140828</thumbnail>
-anart>http://zonadjjavi.webcindario.com/Kodi/fanart.jpg</fanart>
-</item>
+
 
 <item>
 <title>[COLOR white]Liga 123[/COLOR]</title>
 <sportsdevil>http://cinestrenostv.tv/canales/deportes/multiliga2/canal1.html</sportsdevil>
 <referer>http://cinestrenostv.tv</referer>
 <thumbnail></thumbnail>
-anart>http://zonadjjavi.webcindario.com/Kodi/fanart.jpg</fanart>
+<fanart>http://zonadjjavi.webcindario.com/Kodi/fanart.jpg</fanart>
 </item>
-
-<item>
-<title>[COLOR white]Liga 123 2[/COLOR]</title>
-<sportsdevil>http://vercanalestv.com/tv/deportes/canal-plus-partidazo.html</sportsdevil>
-<referer>http://cinestrenostv.tv</referer>
-<thumbnail></thumbnail>
-anart>http://zonadjjavi.webcindario.com/Kodi/fanart.jpg</fanart>
-</item>
-http://edge2.livesports.pw/live/verbarliga42d2c0aa34b418d/index.m3u8
 
 <item>
 <title>[COLOR white]La Liga TV[/COLOR] </title>
-<link>http://edge1867.livesports.pw/live/verbarliga42d2c0aa34b418d/index.m3u8</link>
+<link>http://xxedge56.livesports.pw/live/verbarliga42d2c0aa34b418d/index.m3u8?token=zC_SqSzfnlXJoRG6rhuT5g&expires=1510484652</link>
 <thumbnail>http://mydesiserials.com/wp-content/uploads/2017/02/LA-LIGA-TV.jpg</thumbnail>
-anart>http://zonasirena.webcindario.com/kodi/fondo.jpg</fanart>
+<fanart>http://zonadjjavi.webcindario.com/Kodi/fanart.jpg</fanart>
 </item>
+
+<item>
+<title>[UPPERCASE][COLOR white] La Liga TV[/UPPERCASE][/COLOR] </title>
+<link>$doregex[get-id]|User-Agent=iPad</link>
+<regex>
+<name>get-id</name>
+<expres>[",\'](h.*m3u8.*?)'</expres>
+<page>http://verplusonline.com/laligatv/</page>
+<referer>http://vertelevisor.com/tv/nacionales/axn.html</referer>
+<agent>iPad</agent>
+</regex>
+<thumbnail>http://mydesiserials.com/wp-content/uploads/2017/02/LA-LIGA-TV.jpg</thumbnail>
+<fanart>http://zonadjjavi.webcindario.com/Kodi/fanart.jpg</fanart>
+</item>
+
+
 
 <item>
 <title>[COLOR white]M Futbol[/COLOR]</title>
@@ -124,7 +125,7 @@ anart>http://zonadjjavi.webcindario.com/Kodi/fanart.jpg</fanart>
 <title>[COLOR white]Toros TV[/COLOR] </title>
 <link>http://edge2.livesports.pw/live/vertorotvd2330b2b9138e537/index.m3u8</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/xxxuts1436895323.png</thumbnail>
-anart>http://zonasirena.webcindario.com/kodi/fondo.jpg</fanart>
+<fanart>http://zonadjjavi.webcindario.com/Kodi/fanart.jpg</fanart>
 </item>
 
 
