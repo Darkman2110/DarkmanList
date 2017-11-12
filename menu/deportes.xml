@@ -33,28 +33,12 @@ anart>http://zonadjjavi.webcindario.com/Kodi/fanart.jpg</fanart>
 <fanart>http://zonadjjavi.webcindario.com/Kodi/fanart.jpg</fanart>
 </item>
 
-<item>
+item>
 <title>[COLOR white]La Liga TV[/COLOR] </title>
 <link>http://xxedge56.livesports.pw/live/verbarliga42d2c0aa34b418d/index.m3u8?token=zC_SqSzfnlXJoRG6rhuT5g&expires=1510484652</link>
 <thumbnail>http://mydesiserials.com/wp-content/uploads/2017/02/LA-LIGA-TV.jpg</thumbnail>
 <fanart>http://zonadjjavi.webcindario.com/Kodi/fanart.jpg</fanart>
 </item>
-
-<item>
-<title>[UPPERCASE][COLOR white] La Liga TV[/UPPERCASE][/COLOR] </title>
-<link>$doregex[get-id]|User-Agent=iPad</link>
-<regex>
-<name>get-id</name>
-<expres>[",\'](h.*m3u8.*?)'</expres>
-<page>http://telefivegb.com/canales/deporte/ligatvbar</page>
-<referer>http://vertelevisor.com/tv/nacionales/axn.html</referer>
-<agent>iPad</agent>
-</regex>
-<thumbnail>http://mydesiserials.com/wp-content/uploads/2017/02/LA-LIGA-TV.jpg</thumbnail>
-<fanart>http://zonadjjavi.webcindario.com/Kodi/fanart.jpg</fanart>
-</item>
-
-
 
 <item>
 <title>[COLOR white]M Futbol[/COLOR]</title>
