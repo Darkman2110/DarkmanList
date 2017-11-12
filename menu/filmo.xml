@@ -272,10 +272,6 @@ anart>http://images.complex.com/complex/images/c_limit,w_680/fl_lossy,pg_1,q_aut
 <thumbnail>https://ssl.uh.edu/news-events/stories/2017/March/Arnold%20Schwarzenegger.jpeg</thumbnail>
 </item>
 
-
-
-
-
 <item>
 <title>[COLOR white]filmografia:[/COLOR] [COLOR]Paco Martinez Soria [/COLOR]</title>
 <link>$doregex[makelist]</link>
@@ -315,8 +311,84 @@ anart>https://ep00.epimg.net/elpais/imagenes/2016/08/17/estilo/1471430231_568137
 </item>
 
 
+<item>
+<title>[COLOR white]filmografia:[/COLOR] [COLOR]JOHN WAYNE [/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+  <name>makelist</name>
+  <listrepeat><![CDATA[
+        <title>[COLOR yellow] [makelist.param3] [/COLOR]</title>
+        <link>$doregex[getUrl]</link>
+anart>http://www.lavanguardia.com/r/GODO/LV/p3/WebSite/2016/05/26/Recortada/LAVANGUARDIA_G_6820841979-kwDD-U402055857345ag-992x558@LaVanguardia-Web.jpg</fanart>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/John_Wayne_-_still_portrait.jpg/220px-John_Wayne_-_still_portrait.jpg</thumbnail>
+]]></listrepeat>
+<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+<page>http://diskokosmiko.mx/frankiepentangelli/filmografia-john-wayne-41656/list,1,7</page>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&f=[makelist.param1]</page>
+<rawpost>fileId=[makelist.param1]&__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+<connection>keep-alive</connection>
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>tok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<referer>http://diskokosmiko.mx/frankiepentangelli/filmografia-john-wayne-41656/list,1,7</referer>
+<connection>keep-alive</connection>
+<cookieJar></cookieJar>
+</regex>
+<fanart>http://www.lavanguardia.com/r/GODO/LV/p3/WebSite/2016/05/26/Recortada/LAVANGUARDIA_G_6820841979-kwDD-U402055857345ag-992x558@LaVanguardia-Web.jpg</fanart>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/John_Wayne_-_still_portrait.jpg/220px-John_Wayne_-_still_portrait.jpg</thumbnail>
+</item>
 
 
+
+
+<item>
+<title>[COLOR white]filmografia:[/COLOR] [COLOR]JEAN CLAUDE VAN DAMME[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+  <name>makelist</name>
+  <listrepeat><![CDATA[
+        <title>[COLOR yellow] [makelist.param3] [/COLOR]</title>
+        <link>$doregex[getUrl]</link>
+anart>https://i0.wp.com/media2.slashfilm.com/slashfilm/wp/wp-content/images/jcvd-welcometothejungle-ocean.jpg</fanart>
+<thumbnail>https://vignette.wikia.nocookie.net/die-hard-scenario/images/3/3a/DHS-_JCVD.jpg/revision/latest/scale-to-width-down/250?cb=20141009152309</thumbnail>
+]]></listrepeat>
+<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+<page>http://diskokosmiko.mx/trivianita/jean-claude-van-damme-filmografia-86545/list,1,2</page>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&f=[makelist.param1]</page>
+<rawpost>fileId=[makelist.param1]&__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+<connection>keep-alive</connection>
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>tok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<referer>http://diskokosmiko.mx/trivianita/jean-claude-van-damme-filmografia-86545/list,1,2</referer>
+<connection>keep-alive</connection>
+<cookieJar></cookieJar>
+</regex>
+<fanart>https://i0.wp.com/media2.slashfilm.com/slashfilm/wp/wp-content/images/jcvd-welcometothejungle-ocean.jpg</fanart>
+<thumbnail>https://vignette.wikia.nocookie.net/die-hard-scenario/images/3/3a/DHS-_JCVD.jpg/revision/latest/scale-to-width-down/250?cb=20141009152309</thumbnail>
+</item>
 
 
 
