@@ -19,7 +19,7 @@
 
 <item>
 <title>M-ESTRENOS</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://euroiptv.myftp.biz:8000/live/Van/Van/4125.ts name=[COLOR] ESTRENOS[/COLOR]</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://euroiptv.myftp.biz:8000/live/Van/Van/4125.ts;name=[COLOR] ESTRENOS[/COLOR]</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
