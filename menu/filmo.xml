@@ -312,7 +312,7 @@ anart>https://ep00.epimg.net/elpais/imagenes/2016/08/17/estilo/1471430231_568137
 
 
 <item>
-<title>[COLOR white]filmografia:[/COLOR] [COLOR]JOHN WAYNE [/COLOR]</title>
+<title>[UPPERCASE][COLOR white]filmografia:[/COLOR] [COLOR]JOHN WAYNE [/COLOR][/UPPERCASE]</title>
 <link>$doregex[makelist]</link>
 <regex>
   <name>makelist</name>
@@ -353,7 +353,7 @@ anart>http://www.lavanguardia.com/r/GODO/LV/p3/WebSite/2016/05/26/Recortada/LAVA
 
 
 <item>
-<title>[COLOR white]filmografia:[/COLOR] [COLOR]JEAN CLAUDE VAN DAMME[/COLOR]</title>
+<title>[UPPERCASE][COLOR white]filmografia:[/COLOR] [COLOR]JEAN CLAUDE VAN DAMME[/COLOR][/UPPERCASE]</title>
 <link>$doregex[makelist]</link>
 <regex>
   <name>makelist</name>
