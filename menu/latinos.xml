@@ -1,16 +1,15 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
-
 <item>
 <title>[COLOR white]CINE SALA 1 HD[COLOR blue]   Latino[/COLOR]</title>
-<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=qbb0qT1fIAg</link>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=a6Ldg5aNQW8</link>
 <fanart>http://alcabodelacalle.es/wp-content/uploads/2017/10/Cine_Sala.jpg</fanart>
 <thumbnail>https://www.marketingdirecto.com/wp-content/uploads/2012/05/salas-de-cine-digitales.jpg</thumbnail>
 </item>
 
 <item>
 <title>[COLOR white]CINE SALA 2 SD[COLOR blue]   Latino[/COLOR]</title>
-<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=GkHnw7nmPRQ</link>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=8czfyeBqFVQ</link>
 <fanart>http://alcabodelacalle.es/wp-content/uploads/2017/10/Cine_Sala.jpg</fanart>
 <thumbnail>https://www.marketingdirecto.com/wp-content/uploads/2012/05/salas-de-cine-digitales.jpg</thumbnail>
 </item>
@@ -23,59 +22,82 @@
 </item>
 
 <item>
-<title>[COLOR white]CINE SALA 4 HD [COLOR blue]   Latino[/COLOR]</title>
-<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=5luJFzpYfLg</link>
+<title>[COLOR white]CINE SALA 4 SD[COLOR blue]   Latino[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=m0_n2hcQ-MI</link>
+<fanart>http://alcabodelacalle.es/wp-content/uploads/2017/10/Cine_Sala.jpg</fanart>
+<thumbnail>https://www.marketingdirecto.com/wp-content/uploads/2012/05/salas-de-cine-digitales.jpg</thumbnail>
+</item>
+
+
+<item>
+<title>[COLOR white]CINE SALA 5 SD[COLOR blue]   Latino[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=wfMwt0obr8M</link>
 <fanart>http://alcabodelacalle.es/wp-content/uploads/2017/10/Cine_Sala.jpg</fanart>
 <thumbnail>https://www.marketingdirecto.com/wp-content/uploads/2012/05/salas-de-cine-digitales.jpg</thumbnail>
 </item>
 
 <item>
-<title>[COLOR white]CINE SALA 5 HD[COLOR blue]   Latino[/COLOR]</title>
-<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=P3Cqnw3wBq4</link>
+<title>[COLOR white]CINE SALA 6 SD[COLOR blue]   Latino[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=s03cTphri_Y</link>
 <fanart>http://alcabodelacalle.es/wp-content/uploads/2017/10/Cine_Sala.jpg</fanart>
 <thumbnail>https://www.marketingdirecto.com/wp-content/uploads/2012/05/salas-de-cine-digitales.jpg</thumbnail>
 </item>
 
 <item>
-<title>[COLOR white]CINE SALA 6 HD[COLOR blue]   Latino[/COLOR]</title>
-<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=0298Mt9Z7C8</link>
+<title>[COLOR white]CINE SALA 7 SD[COLOR blue]   Latino[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=T8jUaM_AjaM</link>
 <fanart>http://alcabodelacalle.es/wp-content/uploads/2017/10/Cine_Sala.jpg</fanart>
 <thumbnail>https://www.marketingdirecto.com/wp-content/uploads/2012/05/salas-de-cine-digitales.jpg</thumbnail>
 </item>
 
 <item>
-<title>[COLOR white]CINE SALA 7 HD [COLOR blue]   Latino[/COLOR]</title>
-<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=XT_9nSiqtxw</link>
+<title>[COLOR white]CINE SALA 8 SD[COLOR blue]   Latino[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=3VaSuJzPxxw</link>
 <fanart>http://alcabodelacalle.es/wp-content/uploads/2017/10/Cine_Sala.jpg</fanart>
 <thumbnail>https://www.marketingdirecto.com/wp-content/uploads/2012/05/salas-de-cine-digitales.jpg</thumbnail>
 </item>
 
 <item>
-<title>[COLOR white]CINE SALA 8 HD[COLOR blue]   Latino[/COLOR]</title>
-<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=shkDESMM7I4</link>
+<title>[COLOR white]CINE SALA 9 SD[COLOR blue]   Latino[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=sb1Envt0eyk</link>
 <fanart>http://alcabodelacalle.es/wp-content/uploads/2017/10/Cine_Sala.jpg</fanart>
 <thumbnail>https://www.marketingdirecto.com/wp-content/uploads/2012/05/salas-de-cine-digitales.jpg</thumbnail>
 </item>
 
 <item>
-<title>[COLOR white]CINE SALA 9 HD[COLOR blue]   Latino[/COLOR]</title>
-<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=-0qd0WjxFh0</link>
+<title>[COLOR white]CINE SALA 10 SD[COLOR blue]   Latino[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=MpXtDJF5oqw</link>
 <fanart>http://alcabodelacalle.es/wp-content/uploads/2017/10/Cine_Sala.jpg</fanart>
 <thumbnail>https://www.marketingdirecto.com/wp-content/uploads/2012/05/salas-de-cine-digitales.jpg</thumbnail>
 </item>
 
 <item>
-<title>[COLOR white]CINE SALA 10 HD[COLOR blue]   Latino[/COLOR]</title>
-<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=8czfyeBqFVQ</link>
+<title>[COLOR white]CINE SALA 11 SD[COLOR blue]   Latino[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=50KcqR-8p0U</link>
 <fanart>http://alcabodelacalle.es/wp-content/uploads/2017/10/Cine_Sala.jpg</fanart>
 <thumbnail>https://www.marketingdirecto.com/wp-content/uploads/2012/05/salas-de-cine-digitales.jpg</thumbnail>
 </item>
 
-<item>
-<title>[COLOR white]CINE SALA 11 HD[COLOR blue]   Latino[/COLOR]</title>
-<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=hcRz29jspUk</link>
-<fanart>http://alcabodelacalle.es/wp-content/uploads/2017/10/Cine_Sala.jpg</fanart>
-<thumbnail>https://www.marketingdirecto.com/wp-content/uploads/2012/05/salas-de-cine-digitales.jpg</thumbnail>
-</item>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
