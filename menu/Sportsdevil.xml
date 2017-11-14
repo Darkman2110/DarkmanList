@@ -48,7 +48,7 @@
 <regex>
 <name>get-id</name>
 <expres>source: '(.*?)'</expres>
-<page>http://vergol.com/live2/syfy.php</page>
+<page>http://cinestrenostv.tv/canales/nacionales/syfy.php</page>
 <referer>http://vercanalestv.com/tv/nacionales/syfy.html</referer>
 <agent>Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.116 Chrome/48.0.2564.116 Safari/537.36</agent>
 </regex>
