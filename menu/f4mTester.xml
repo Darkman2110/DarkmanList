@@ -46,6 +46,13 @@
 </item>
 
 <item>
+<title>M-DCINE ESPAÑOL</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://euroiptv.myftp.biz:8000/live/Van/Van/11794.ts </link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>DARK</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://euroiptv.myftp.biz:8000/live/Van/Van/68594.ts</link>
 <thumbnail></thumbnail>
@@ -116,8 +123,8 @@
 </item>
 
 <item>
-<title>XTRM</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://euroiptv.myftp.biz:8000/live/Van/Van/68592.ts</link>
+<title>COSMO</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://euroiptv.myftp.biz:8000/live/Van/Van/13661.ts</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
@@ -172,6 +179,70 @@
 <fanart></fanart>
 </item>
 
+<item>
+<title>VIAJAR</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://euroiptv.myftp.biz:8000/live/Van/Van/4108.ts</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>TAQUILLA   1</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://euroiptv.myftp.biz:8000/live/Van/Van/4143.ts</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+
+<item>
+<title>TAQUILLA   2</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://euroiptv.myftp.biz:8000/live/Van/Van/4144.ts</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>TAQUILLA   3</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://euroiptv.myftp.biz:8000/live/Van/Van/4145.ts</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+
+<item>
+<title>TAQUILLA   4</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://euroiptv.myftp.biz:8000/live/Van/Van/4146.ts</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+item>
+<title>TAQUILLA   5</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://euroiptv.myftp.biz:8000/live/Van/Van/4147.ts</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+item>
+<title>TAQUILLA   6</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://euroiptv.myftp.biz:8000/live/Van/Van/4148.ts</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
 </channel>
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
