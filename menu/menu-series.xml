@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 <item>
-<title>[UPPERCASE][COLOR white]Castle[/COLOR]</title>
+<title>[UPPERCASE][COLOR white]Castle[/COLOR][/UPPERCASE]</title>
  <link>http://Ignoreme</link>
 <externallink>https://raw.githubusercontent.com/Darkman2110/DarkmanList/master/series/castle.xml</externallink>
 <thumbnail>https://pbs.twimg.com/media/CNgcN3aWEAAYUY6.jpg</thumbnail>
@@ -9,7 +9,7 @@
 </item>
 
 <item>
-<title>[UPPERCASE][COLOR white]Stargate SG-1[/COLOR]</title>
+<title>[UPPERCASE][COLOR white]Stargate SG-1[/COLOR][/UPPERCASE]</title>
  <link>http://Ignoreme</link>
 <externallink>https://raw.githubusercontent.com/Darkman2110/DarkmanList/master/series/StargateSG1.xml</externallink>
 <thumbnail>https://upload.wikimedia.org/wikipedia/en/9/9a/Stargate_SG-1_cast_minus_Jonas_Quinn.jpg</thumbnail>
@@ -133,7 +133,7 @@
 </item>
 
 <item>
-<title>[UPPERCASE][COLOR white]TWIN PEAK[/COLOR]/UPPERCASE]</title>
+<title>[UPPERCASE][COLOR white]TWIN PEAK[/COLOR][/UPPERCASE]</title>
 <link>$doregex[makelist]</link>
 <regex>
   <name>makelist</name>
