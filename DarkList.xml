@@ -68,15 +68,6 @@
  </channel>
 </channels>
 
-  <channels>
- <channel>
-      <name>[COLOR white][COLOR yellow] •  [/COLOR] CANALES DIGITAL + [COLOR blue]f4mtester[/COLOR]</name>
-      <externallink>https://github.com/Darkman2110/DarkmanList/blob/master/menu/f4mtester.m3u</externallink>
-	  <thumbnail>http://zonadjjavi.webcindario.com/Kodi/imagen/digital.png</thumbnail>
-      <fanart>http://zonadjjavi.webcindario.com/Kodi/fanart.jpg</fanart>
- </channel>
-</channels>
-
  <channels>
  <channel>
       <name>[COLOR white][COLOR yellow] •  [/COLOR] CANALES DEPORTES[/COLOR]</name>
