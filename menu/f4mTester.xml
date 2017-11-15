@@ -216,14 +216,14 @@
 <fanart></fanart>
 </item>
 
-item>
+<item>
 <title>TAQUILLA   5</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://euroiptv.myftp.biz:8000/live/Van/Van/4147.ts</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
 
-item>
+<item>
 <title>TAQUILLA   6</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://euroiptv.myftp.biz:8000/live/Van/Van/4148.ts</link>
 <thumbnail></thumbnail>
