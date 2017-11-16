@@ -30,6 +30,14 @@
 </item>
 
 <item>
+<title>[UPPERCASE][UPPERCASE][COLOR white]FOX*[/UPPERCASE][/COLOR]</title>
+<sportsdevil>http://cinestrenostv.tv/canales/nacionales/fox.php?channel=105363&autoplay=true</sportsdevil>
+<referer>http://www.iguide.to</referer>
+<thumbnail>http://zonadjjavi.webcindario.com/Kodi/logos/fox1.jpg</thumbnail>
+<fanart>http://zonadjjavi.webcindario.com/Kodi/fanart.jpg</fanart> 
+</item>
+
+<item>
 <title>[UPPERCASE][COLOR white]fox life[/UPPERCASE][/COLOR] </title>
 <link>$doregex[get-id]|User-Agent=iPad</link>
 <regex>
@@ -42,13 +50,7 @@
 <thumbnail>http://zonadjjavi.webcindario.com/Kodi/logos/foxlife1.jpg</thumbnail>   
 </item>
 
-<item>
-<title>[UPPERCASE][UPPERCASE][COLOR white]FOX*[/UPPERCASE][/COLOR]</title>
-<sportsdevil>http://cinestrenostv.tv/canales/nacionales/fox.php?channel=105363&autoplay=true</sportsdevil>
-<referer>http://www.iguide.to</referer>
-<thumbnail>http://zonadjjavi.webcindario.com/Kodi/logos/fox1.jpg</thumbnail>
-<fanart>http://zonadjjavi.webcindario.com/Kodi/fanart.jpg</fanart> 
-</item>
+
 
 <item>
 <title>[UPPERCASE][UPPERCASE][COLOR white]dark[/UPPERCASE][/COLOR]</title>
@@ -59,7 +61,7 @@
 </item>
 
 <item>
-<title>[UPPERCASE][COLOR  white] syfy*[/UPPERCASE][/COLOR]</title>
+<title>[UPPERCASE][COLOR  white] syfy[/UPPERCASE][/COLOR]</title>
 <sportsdevil>http://cinestrenostv.tv/canales/nacionales/syfy.php?channel=105580&autoplay=true</sportsdevil>
 <referer>http://www.iguide.to</referer>
 <thumbnail>https://lh3.googleusercontent.com/iXD3qDqUj65V8S2W6FBdoIzAKQf3iIhx7oNR-XsXxspKA-_OHDUFZVpYJ9XHeSoCUA=w300</thumbnail>
@@ -67,7 +69,7 @@
 </item>
 
 <item>
-<title>[UPPERCASE][COLOR white] SYFY [/UPPERCASE][/COLOR] </title>
+<title>[UPPERCASE][COLOR white] SYFY* [/UPPERCASE][/COLOR] </title>
 <link>$doregex[GetPageUrl]|User-Agent=|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
 <regex>
 <name>GetPageUrl</name>
@@ -87,7 +89,7 @@
 <page>http://livesports.pw/embed2.php?file=calltrees&amp;width=650&amp;height=397</page>
 <cookieJar></cookieJar>
 </regex>
-<thumbnail>https://lh3.googleusercontent.com/iXD3qDqUj65V8S2W6FBdoIzAKQf3iIhx7oNR-XsXxspKA-_OHDUFZVpYJ9XHeSoCUA=w300</thumbnail>  
+<thumbnail>https://www.audiovisual451.com/wp-content/uploads/Calle-13-logo-h.jpeg</thumbnail>  
 </item>
 
 <item>
@@ -113,7 +115,7 @@
 <referer>http://vertelevisor.com/tv/nacionales/axn.html</referer>
 <agent>iPad</agent>
 </regex>
-<thumbnail>http://zonadjjavi.webcindario.com/Kodi/logos/tnt1.jpg</thumbnail>   
+<thumbnail>https://www.audiovisual451.com/wp-content/uploads/Calle-13-logo-h.jpeg</thumbnail>   
 </item>
 <item>
 <title>[UPPERCASE][COLOR white] tnt*[/UPPERCASE][/COLOR] </title>
@@ -124,7 +126,7 @@
 <page>http://livesports.pw/embed2.php?file=tntesp&amp;width=650&amp;height=397</page>
 <cookieJar></cookieJar>
 </regex>
-<thumbnail>https://lh3.googleusercontent.com/iXD3qDqUj65V8S2W6FBdoIzAKQf3iIhx7oNR-XsXxspKA-_OHDUFZVpYJ9XHeSoCUA=w300</thumbnail>  
+<thumbnail>https://www.audiovisual451.com/wp-content/uploads/Calle-13-logo-h.jpeg</thumbnail>  
 </item>
 
 <item>
@@ -139,7 +141,7 @@
 <title>[UPPERCASE][COLOR white] ESTRENOS[/UPPERCASE][/COLOR] </title>
 <sportsdevil>http://cinestrenostv.tv/canales/nacionales/plus-accion.php?channel=105242&autoplay=true</sportsdevil>
 <referer>http://www.iguide.to</referer>
-<thumbnail>https://upload.wikimedia.org/wikipedia/commons/a/ac/M_estrenos.png</thumbnail>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Movistar_Estrenos.svg/1783px-Movistar_Estrenos.svg.png</thumbnail>
 <fanart>http://zonadjjavi.webcindario.com/Kodi/fanart.jpg</fanart> 
 </item>
 
@@ -194,7 +196,7 @@
 <page>http://livesports.pw/embed2.php?file=odiseatelef&amp;width=650&amp;height=397</page>
 <cookieJar></cookieJar>
 </regex>
-<thumbnail>https://lh3.googleusercontent.com/iXD3qDqUj65V8S2W6FBdoIzAKQf3iIhx7oNR-XsXxspKA-_OHDUFZVpYJ9XHeSoCUA=w300</thumbnail>  
+<thumbnail>https://www.ono.es/ono-resources/img/products-web/logos_parrilla_tv/img_logo_odisea_hd.png</thumbnail>  
 </item>
 
 <item>
