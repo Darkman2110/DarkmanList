@@ -11,22 +11,9 @@
 
 
 
-
                
                         <item><title>[COLOR=yellow]                                      <<[/COLOR][COLOR=lime] Canales Digital [COLOR=blue]Sportsdevil[/COLOR][COLOR=yellow]>>[/COLOR]</title>   <link>http://zonadjjavi.webcindario.com</link></item>
                     
-<item>
-<title>[UPPERCASE][COLOR white] Discovery Channel [/UPPERCASE][/COLOR] </title>
-<link>$doregex[get-id]|User-Agent=iPad</link>
-<regex>
-<name>get-id</name>
-<expres>[",\'](h.*m3u8.*?)'</expres>
-<page>http://vergol.com/live/discovery-channel.php</page>
-<referer>http://vertelevisor.com/tv/nacionales/axn.html</referer>
-<agent>iPad</agent>
-</regex>
-<thumbnail>https://github.com/Darkman2110/DarkmanList/blob/master/fanart.jpg</thumbnail>   
-</item>
 
 <item>
 <title>[UPPERCASE][COLOR white]FOX[/UPPERCASE][/COLOR] </title>
@@ -40,6 +27,19 @@
 </regex>
 <thumbnail>http://zonadjjavi.webcindario.com/Kodi/logos/fox1.jpg</thumbnail>
 <fanart>http://zonadjjavi.webcindario.com/Kodi/fanart.jpg</fanart>   
+</item>
+
+<item>
+<title>[UPPERCASE][COLOR white]fox life[/UPPERCASE][/COLOR] </title>
+<link>$doregex[get-id]|User-Agent=iPad</link>
+<regex>
+<name>get-id</name>
+<expres>[",\'](h.*m3u8.*?)'</expres>
+<page>http://vergol.com/live/foxlife.php</page>
+<referer>http://vertelevisor.com/tv/nacionales/axn.html</referer>
+<agent>iPad</agent>
+</regex>
+<thumbnail>http://zonadjjavi.webcindario.com/Kodi/logos/foxlife1.jpg</thumbnail>   
 </item>
 
 <item>
@@ -90,8 +90,6 @@
 <thumbnail>https://lh3.googleusercontent.com/iXD3qDqUj65V8S2W6FBdoIzAKQf3iIhx7oNR-XsXxspKA-_OHDUFZVpYJ9XHeSoCUA=w300</thumbnail>  
 </item>
 
-
-
 <item>
 <title>[UPPERCASE][COLOR white] AXN[/UPPERCASE][/COLOR] </title>
 <link>$doregex[get-id]|User-Agent=iPad</link>
@@ -117,24 +115,21 @@
 </regex>
 <thumbnail>http://zonadjjavi.webcindario.com/Kodi/logos/tnt1.jpg</thumbnail>   
 </item>
-
 <item>
-<title>[UPPERCASE][COLOR white]fox life[/UPPERCASE][/COLOR] </title>
-<link>$doregex[get-id]|User-Agent=iPad</link>
+<title>[UPPERCASE][COLOR white] tnt*[/UPPERCASE][/COLOR] </title>
+<link>$doregex[GetPageUrl]|User-Agent=|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
 <regex>
-<name>get-id</name>
-<expres>[",\'](h.*m3u8.*?)'</expres>
-<page>http://vergol.com/live/foxlife.php</page>
-<referer>http://vertelevisor.com/tv/nacionales/axn.html</referer>
-<agent>iPad</agent>
+<name>GetPageUrl</name>
+<expres>source: '(.*?)'</expres>
+<page>http://livesports.pw/embed2.php?file=tntesp&amp;width=650&amp;height=397</page>
+<cookieJar></cookieJar>
 </regex>
-<thumbnail>http://zonadjjavi.webcindario.com/Kodi/logos/foxlife1.jpg</thumbnail>   
+<thumbnail>https://lh3.googleusercontent.com/iXD3qDqUj65V8S2W6FBdoIzAKQf3iIhx7oNR-XsXxspKA-_OHDUFZVpYJ9XHeSoCUA=w300</thumbnail>  
 </item>
 
-
 <item>
-<title>[UPPERCASE][COLOR white] holliwood[/UPPERCASE][/COLOR] </title>
-<sportsdevil>http://cinestrenostv.tv/canales/nacionales/holliwood.php?channel=105242&autoplay=true</sportsdevil>
+<title>[UPPERCASE][COLOR white] amc[/UPPERCASE][/COLOR] </title>
+<sportsdevil>http://cinestrenostv.tv/canales/nacionales/amc.php?channel=105242&autoplay=true</sportsdevil>
 <referer>http://www.iguide.to</referer>
 <thumbnail>http://www.grupocomunica.com/wp-content/uploads/2016/05/Hollywood.jpg</thumbnail>
 <fanart>http://zonadjjavi.webcindario.com/Kodi/fanart.jpg</fanart> 
@@ -143,14 +138,6 @@
 <item>
 <title>[UPPERCASE][COLOR white] ESTRENOS[/UPPERCASE][/COLOR] </title>
 <sportsdevil>http://cinestrenostv.tv/canales/nacionales/plus-accion.php?channel=105242&autoplay=true</sportsdevil>
-<referer>http://www.iguide.to</referer>
-<thumbnail>https://upload.wikimedia.org/wikipedia/commons/a/ac/M_estrenos.png</thumbnail>
-<fanart>http://zonadjjavi.webcindario.com/Kodi/fanart.jpg</fanart> 
-</item>
-
-<item>
-<title>[UPPERCASE][COLOR white] ESTRENOS[/UPPERCASE][/COLOR] </title>
-<sportsdevil>http://cinestrenostv.tv/canales/nacionales/plus-estrenos.php?channel=105242&autoplay=true</sportsdevil>
 <referer>http://www.iguide.to</referer>
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/a/ac/M_estrenos.png</thumbnail>
 <fanart>http://zonadjjavi.webcindario.com/Kodi/fanart.jpg</fanart> 
@@ -169,17 +156,7 @@
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Movistar_DCine.svg/1200px-Movistar_DCine.svg.png</thumbnail>   
 </item>
 
-<item>
-<title>[UPPERCASE][COLOR white] tnt[/UPPERCASE][/COLOR] </title>
-<link>$doregex[GetPageUrl]|User-Agent=|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
-<regex>
-<name>GetPageUrl</name>
-<expres>source: '(.*?)'</expres>
-<page>http://livesports.pw/embed2.php?file=tntesp&amp;width=650&amp;height=397</page>
-<cookieJar></cookieJar>
-</regex>
-<thumbnail>https://lh3.googleusercontent.com/iXD3qDqUj65V8S2W6FBdoIzAKQf3iIhx7oNR-XsXxspKA-_OHDUFZVpYJ9XHeSoCUA=w300</thumbnail>  
-</item>
+
 
 
 <item>
@@ -194,6 +171,18 @@
 <thumbnail>http://vignette4.wikia.nocookie.net/doblaje/images/6/69/Cinemax.png/revision/latest?cb=20160831015732&path-prefix=es</thumbnail>   
 </item>
 
+<item>
+<title>[UPPERCASE][COLOR white] Discovery Channel [/UPPERCASE][/COLOR] </title>
+<link>$doregex[get-id]|User-Agent=iPad</link>
+<regex>
+<name>get-id</name>
+<expres>[",\'](h.*m3u8.*?)'</expres>
+<page>http://vergol.com/live/discovery-channel.php</page>
+<referer>http://vertelevisor.com/tv/nacionales/axn.html</referer>
+<agent>iPad</agent>
+</regex>
+<thumbnail>http://3.bp.blogspot.com/_n06ZCfJKIQI/TA69uL-ivcI/AAAAAAAAEWc/u0Uk3V5oXpw/s1600/Discovery-logo.jpg</thumbnail>   
+</item>
 
 
 <item>
