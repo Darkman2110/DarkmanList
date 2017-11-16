@@ -140,6 +140,13 @@
 <fanart>http://zonadjjavi.webcindario.com/Kodi/fanart.jpg</fanart> 
 </item>
 
+<item>
+<title>[UPPERCASE][COLOR white] ESTRENOS[/UPPERCASE][/COLOR] </title>
+<sportsdevil>http://cinestrenostv.tv/canales/nacionales/plus-accion.php?channel=105242&autoplay=true</sportsdevil>
+<referer>http://www.iguide.to</referer>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/a/ac/M_estrenos.png</thumbnail>
+<fanart>http://zonadjjavi.webcindario.com/Kodi/fanart.jpg</fanart> 
+</item>
 
 <item>
 <title>[UPPERCASE][COLOR white] ESTRENOS[/UPPERCASE][/COLOR] </title>
@@ -173,6 +180,21 @@
 </regex>
 <thumbnail>https://lh3.googleusercontent.com/iXD3qDqUj65V8S2W6FBdoIzAKQf3iIhx7oNR-XsXxspKA-_OHDUFZVpYJ9XHeSoCUA=w300</thumbnail>  
 </item>
+
+
+<item>
+<title>[UPPERCASE][COLOR white]cinemax[/UPPERCASE][/COLOR] </title>
+<link>$doregex[GetPageUrl]|Referer=http://vercanalestv.com/tv/argentina/cinemax.html&amp;User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64; rv:55.0) Gecko/20100101 Firefox/55.0</link>
+<regex>
+<name>GetPageUrl</name>
+<expres>source: '(.*?)'</expres>
+<page>http://vergol.com/live1/cinemax.php</page>
+<referer>http://vercanalestv.com/tv/nacionales/canal-plus-estrenos.html</referer>
+</regex>
+<thumbnail>http://vignette4.wikia.nocookie.net/doblaje/images/6/69/Cinemax.png/revision/latest?cb=20160831015732&path-prefix=es</thumbnail>   
+</item>
+
+
 
 <item>
 <title>[UPPERCASE][COLOR white] odisea[/UPPERCASE][/COLOR] </title>
@@ -212,17 +234,6 @@
 <thumbnail>http://zonadjjavi.webcindario.com/Kodi/logos/historia1.jpg</thumbnail>   
 </item>
 
-<item>
-<title>[UPPERCASE][COLOR white]cinemax[/UPPERCASE][/COLOR] </title>
-<link>$doregex[GetPageUrl]|Referer=http://vercanalestv.com/tv/argentina/cinemax.html&amp;User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64; rv:55.0) Gecko/20100101 Firefox/55.0</link>
-<regex>
-<name>GetPageUrl</name>
-<expres>source: '(.*?)'</expres>
-<page>http://vergol.com/live1/cinemax.php</page>
-<referer>http://vercanalestv.com/tv/nacionales/canal-plus-estrenos.html</referer>
-</regex>
-<thumbnail>http://vignette4.wikia.nocookie.net/doblaje/images/6/69/Cinemax.png/revision/latest?cb=20160831015732&path-prefix=es</thumbnail>   
-</item>
 
 
 
