@@ -47,7 +47,7 @@ anart>http://zonadjjavi.webcindario.com/Kodi/fanart.jpg</fanart>
 <regex>
 <name>get-id</name>
 <expres>[",\'](h.*m3u8.*?)'</expres>
-<page>http://verplusonline.com/ver-canal-movistar-futbol-online-gratis-vivo/</page>
+<page>http://telefivegb.com/canales/deportes/futbol</page>
 <referer>http://vertelevisor.com/tv/nacionales/axn.html</referer>
 <agent>iPad</agent>
 </regex>
