@@ -8,6 +8,12 @@
 		<item><title>[COLOR=yellow]                                      <<[/COLOR][COLOR=yellow] Canales Autonomicos [/COLOR][COLOR=yellow]>>[/COLOR]</title>   <link>http://zonadjjavi.webcindario.com</link></item>
                     
 
+		<item>
+<title>[COLOR white][COLOR yellow] •  [/COLOR]TELE ELX[/COLOR]</title>
+<link>rtmp://teledifusion.tv/teleelx/teleelxlive</link>
+<thumbnail>http://zonadjjavi.webcindario.com/Kodi/logos/tele-elx.jpg</thumbnail>
+<fanart>http://zonadjjavi.webcindario.com/Kodi/fanart.jpg</fanart>
+</item>			
 
 <item>
 <title>[COLOR white][COLOR yellow] •  [/COLOR]TELEMARID[/COLOR]</title>
@@ -99,13 +105,6 @@
 <title>[COLOR white][COLOR yellow] •  [/COLOR]GALICIA TV EUROPA[/COLOR]</title>
 <link>http://europa-crtvg.flumotion.com/crtvg/europa/chunks.m3u8</link>
 <thumbnail>http://zonadjjavi.webcindario.com/Kodi/logos/tvgalicia.jpg</thumbnail>
-<fanart>http://zonadjjavi.webcindario.com/Kodi/fanart.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR white][COLOR yellow] •  [/COLOR]TELE ELX[/COLOR]</title>
-<link>rtmp://teledifusion.tv/teleelx/teleelxlive</link>
-<thumbnail>http://zonadjjavi.webcindario.com/Kodi/logos/tele-elx.jpg</thumbnail>
 <fanart>http://zonadjjavi.webcindario.com/Kodi/fanart.jpg</fanart>
 </item>
 
