@@ -16,7 +16,7 @@
                     
 
 <item>
-<title>[COLOR white]--- CANAL FOX---[/COLOR] </title>
+<title>[COLOR white][COLOR yellow] •  [/COLOR] CANAL FOX[COLOR yellow] •  [/COLOR][/COLOR] </title>
 <link>$doregex[get-id]|User-Agent=iPad</link>
 <regex>
 <name>get-id</name>
@@ -30,7 +30,7 @@
 </item>
 
 <item>
-<title>[COLOR white]--- CANAL FOX*---[/COLOR]</title>
+<title>[COLOR white][COLOR yellow] •  [/COLOR] CANAL FOX*[COLOR yellow] •  [/COLOR][/COLOR]</title>
 <sportsdevil>http://cinestrenostv.tv/canales/nacionales/fox.php?channel=105363&autoplay=true</sportsdevil>
 <referer>http://www.iguide.to</referer>
 <thumbnail>http://zonadjjavi.webcindario.com/Kodi/logos/fox1.jpg</thumbnail>
@@ -38,7 +38,7 @@
 </item>
 
 <item>
-<title>[COLOR white]--- CANAL FOX LIFE ---[/COLOR] </title>
+<title>[COLOR white][COLOR yellow] •  [/COLOR] CANAL FOX LIFE [COLOR yellow] •  [/COLOR][/COLOR] </title>
 <link>$doregex[get-id]|User-Agent=iPad</link>
 <regex>
 <name>get-id</name>
@@ -53,7 +53,7 @@
 
 
 <item>
-<title>[COLOR white]--- CANAL DARK ---[/COLOR]</title>
+<title>[COLOR white][COLOR yellow] •  [/COLOR] CANAL DARK [COLOR yellow] •  [/COLOR][/COLOR]</title>
 <sportsdevil>http://cinestrenostv.tv/canales/nacionales/dark.php?channel=105363&autoplay=true</sportsdevil>
 <referer>http://www.iguide.to</referer>
 <thumbnail>https://www.reasonwhy.es/sites/default/files/styles/noticia_principal/public/subasta-publicidad-dark-reasonwhy.es_.png?itok=U15IHpUC</thumbnail>
@@ -61,7 +61,7 @@
 </item>
 
 <item>
-<title>[COLOR  white]--- CANAL SYFY ---[/COLOR]</title>
+<title>[COLOR  white][COLOR yellow] •  [/COLOR] CANAL SYFY [COLOR yellow] •  [/COLOR][/COLOR]</title>
 <sportsdevil>http://cinestrenostv.tv/canales/nacionales/syfy.php?channel=105580&autoplay=true</sportsdevil>
 <referer>http://www.iguide.to</referer>
 <thumbnail>https://lh3.googleusercontent.com/iXD3qDqUj65V8S2W6FBdoIzAKQf3iIhx7oNR-XsXxspKA-_OHDUFZVpYJ9XHeSoCUA=w300</thumbnail>
@@ -69,7 +69,7 @@
 </item>
 
 <item>
-<title>[COLOR white]--- CANAL SYFY* ---[/COLOR] </title>
+<title>[COLOR white][COLOR yellow] •  [/COLOR] CANAL SYFY* [COLOR yellow] •  [/COLOR][/COLOR] </title>
 <link>$doregex[GetPageUrl]|User-Agent=|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
 <regex>
 <name>GetPageUrl</name>
@@ -81,7 +81,7 @@
 </item>
 
 <item>
-<title>[COLOR white]--- CANAL CALLE 13 ---[/COLOR] </title>
+<title>[COLOR white][COLOR yellow] •  [/COLOR] CANAL CALLE 13 [COLOR yellow] •  [/COLOR][/COLOR] </title>
 <link>$doregex[GetPageUrl]|User-Agent=|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
 <regex>
 <name>GetPageUrl</name>
@@ -93,7 +93,7 @@
 </item>
 
 <item>
-<title>[COLOR white]--- CANAL AXN ---[/COLOR] </title>
+<title>[COLOR white][COLOR yellow] •  [/COLOR] CANAL AXN [COLOR yellow] •  [/COLOR][/COLOR] </title>
 <link>$doregex[get-id]|User-Agent=iPad</link>
 <regex>
 <name>get-id</name>
@@ -106,7 +106,7 @@
 </item>
 
 item>
-<title>[COLOR white]--- CANAL AXN WHITE ---[/COLOR]</title>
+<title>[COLOR white][COLOR yellow] •  [/COLOR] CANAL AXN WHITE [COLOR yellow] •  [/COLOR][/COLOR]</title>
 <sportsdevil>http://cinestrenostv.tv/canales/nacionales/axnwhite.php</sportsdevil>
 <referer>http://cinestrenostv.tv</referer>
 <thumbnail>http://zonadjjavi.webcindario.com/Kodi/logos/axnwhite1.jpg</thumbnail>
@@ -114,7 +114,7 @@ item>
 </item>
 
 <item>
-<title>[COLOR white]--- CANAL TNT ---[/COLOR] </title>
+<title>[COLOR white][COLOR yellow] •  [/COLOR] CANAL TNT [COLOR yellow] •  [/COLOR][/COLOR] </title>
 <link>$doregex[get-id]|User-Agent=iPad</link>
 <regex>
 <name>get-id</name>
@@ -127,7 +127,7 @@ item>
 </item>
 
 <item>
-<title>[COLOR white]--- CANAL TNT* ---[/COLOR] </title>
+<title>[COLOR white][COLOR yellow] •  [/COLOR] CANAL TNT* [COLOR yellow] •  [/COLOR][/COLOR] </title>
 <link>$doregex[GetPageUrl]|User-Agent=|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
 <regex>
 <name>GetPageUrl</name>
@@ -139,7 +139,7 @@ item>
 </item>
 
 <item>
-<title>[COLOR white]--- CANAL AMC ---[/COLOR] </title>
+<title>[COLOR white][COLOR yellow] •  [/COLOR] CANAL AMC [COLOR yellow] •  [/COLOR][/COLOR] </title>
 <sportsdevil>http://cinestrenostv.tv/canales/nacionales/amc.php?channel=105242&autoplay=true</sportsdevil>
 <referer>http://www.iguide.to</referer>
 <thumbnail>http://www.grupocomunica.com/wp-content/uploads/2016/05/Hollywood.jpg</thumbnail>
@@ -147,7 +147,7 @@ item>
 </item>
 
 <item>
-<title>[COLOR white]--- CANAL #0 ---[/COLOR]</title>
+<title>[COLOR white][COLOR yellow] •  [/COLOR] CANAL #0 [COLOR yellow] •  [/COLOR][/COLOR]</title>
 <sportsdevil>http://cinestrenostv.tv/canales/nacionales/plus1.php</sportsdevil>
 <referer>http://cinestrenostv.tv</referer>
 <thumbnail>http://zonadjjavi.webcindario.com/Kodi/logos/movistar-0.jpg</thumbnail>
@@ -155,7 +155,7 @@ item>
 </item>
 
 <item>
-<title>[COLOR white]--- CANAL COMEDIA ---[/COLOR]</title>
+<title>[COLOR white][COLOR yellow] •  [/COLOR] CANAL COMEDIA [COLOR yellow] •  [/COLOR][/COLOR]</title>
 <sportsdevil>http://cinestrenostv.tv/canales/nacionales/plus-comedia.php</sportsdevil>
 <referer>http://verdirectotv.com</referer>
 <thumbnail>http://zonadjjavi.webcindario.com/Kodi/logos/comedia.jpg</thumbnail>
@@ -163,7 +163,7 @@ item>
 </item>
 
 <item>
-<title>[COLOR white]--- CANAL ACCION ---[/COLOR]</title>
+<title>[COLOR white][COLOR yellow] •  [/COLOR] CANAL ACCION [COLOR yellow] •  [/COLOR][/COLOR]</title>
 <sportsdevil>http://cinestrenostv.tv/canales/nacionales/plus-accion.php</sportsdevil>
 <referer>http://verdirectotv.com</referer>
 <thumbnail>http://zonadjjavi.webcindario.com/Kodi/logos/accion.jpg</thumbnail>
@@ -171,7 +171,7 @@ item>
 </item>
 
 <item>
-<title>[COLOR white] --- CANAL ESTRENOS ---[/COLOR] </title>
+<title>[COLOR white] [COLOR yellow] •  [/COLOR] CANAL ESTRENOS [COLOR yellow] •  [/COLOR][/COLOR] </title>
 <sportsdevil>http://cinestrenostv.tv/canales/nacionales/plus-accion.php?channel=105242&autoplay=true</sportsdevil>
 <referer>http://www.iguide.to</referer>
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Movistar_Estrenos.svg/1783px-Movistar_Estrenos.svg.png</thumbnail>
@@ -179,7 +179,7 @@ item>
 </item>
 
 <item>
-<title>[COLOR white]--- CANAL DCINE ---[/COLOR] </title>
+<title>[COLOR white][COLOR yellow] •  [/COLOR] CANAL DCINE [COLOR yellow] •  [/COLOR][/COLOR] </title>
 <link>$doregex[get-id]|User-Agent=iPad</link>
 <regex>
 <name>get-id</name>
@@ -192,7 +192,7 @@ item>
 </item>
 
 <item>
-<title>[COLOR white]--- CANAL CINEMAX ---[/COLOR] </title>
+<title>[COLOR white][COLOR yellow] •  [/COLOR] CANAL CINEMAX [COLOR yellow] •  [/COLOR][/COLOR] </title>
 <link>$doregex[GetPageUrl]|Referer=http://vercanalestv.com/tv/argentina/cinemax.html&amp;User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64; rv:55.0) Gecko/20100101 Firefox/55.0</link>
 <regex>
 <name>GetPageUrl</name>
@@ -204,7 +204,7 @@ item>
 </item>
 
 item>
-<title>[COLOR white]--- CANAL SERIES ---[/COLOR]</title>
+<title>[COLOR white][COLOR yellow] •  [/COLOR] CANAL SERIES [COLOR yellow] •  [/COLOR][/COLOR]</title>
 <sportsdevil>http://cinestrenostv.tv/canales/nacionales/plus-series.php</sportsdevil>
 <referer>http://verdirectotv.com</referer>
 <thumbnail>http://zonadjjavi.webcindario.com/Kodi/logos/series1.jpg</thumbnail>
@@ -213,7 +213,7 @@ item>
 
 
 item>
-<title>[COLOR white]--- CANAL TCM ---[/COLOR]</title>
+<title>[COLOR white][COLOR yellow] •  [/COLOR] CANAL TCM [COLOR yellow] •  [/COLOR][/COLOR]</title>
 <sportsdevil>http://cinestrenostv.tv/canales/nacionales/tcm.php</sportsdevil>
 <referer>http://verdirectotv.com</referer>
 <thumbnail>http://zonadjjavi.webcindario.com/Kodi/logos/tcm1.jpg</thumbnail>
@@ -221,7 +221,7 @@ item>
 </item>
 
 <item>
-<title>[COLOR white]--- CANAL COSMO ---[/COLOR]</title>
+<title>[COLOR white][COLOR yellow] •  [/COLOR] CANAL COSMO [COLOR yellow] •  [/COLOR][/COLOR]</title>
 <sportsdevil>http://cinestrenostv.tv/canales/nacionales/cosmo.php</sportsdevil>
 <referer>http://verdirectotv.com</referer>
 <thumbnail>http://zonadjjavi.webcindario.com/Kodi/logos/cosmo.jpg</thumbnail>
@@ -229,7 +229,7 @@ item>
 </item>
 
 item>
-<title>[COLOR white]--- CANAL HOLLYWOOD ---[/COLOR]</title>
+<title>[COLOR white][COLOR yellow] •  [/COLOR] CANAL HOLLYWOOD [COLOR yellow] •  [/COLOR][/COLOR]</title>
 <sportsdevil>http://cinestrenostv.tv/canales/nacionales/holliwood.php</sportsdevil>
 <referer>http://verdirectotv.com</referer>
 <thumbnail>http://zonadjjavi.webcindario.com/Kodi/logos/Hollywood1.jpg</thumbnail>
@@ -237,7 +237,7 @@ item>
 </item>
 
 item>
-<title>[COLOR white]--- CANAL SERIES XTRA ---[/COLOR]</title>
+<title>[COLOR white][COLOR yellow] •  [/COLOR] CANAL SERIES XTRA [COLOR yellow] •  [/COLOR][/COLOR]</title>
 <sportsdevil>http://cinestrenostv.tv/canales/nacionales/plus-series-xtra.php</sportsdevil>
 <referer>http://verdirectotv.com</referer>
 <thumbnail>http://zonadjjavi.webcindario.com/Kodi/logos/seriesxtra1.jpg</thumbnail>
@@ -247,7 +247,7 @@ item>
 //////////////////////////////////////DOCUMENTALES/////////////////////////
 
 <item>
-<title>[COLOR white]--- CANAL DISCOVERY CHANNEL ---[/COLOR] </title>
+<title>[COLOR white][COLOR yellow] •  [/COLOR] CANAL DISCOVERY CHANNEL [COLOR yellow] •  [/COLOR][/COLOR] </title>
 <link>$doregex[get-id]|User-Agent=iPad</link>
 <regex>
 <name>get-id</name>
@@ -261,7 +261,7 @@ item>
 
 
 <item>
-<title>[COLOR white]--- CANAL ODISEA ---[/COLOR] </title>
+<title>[COLOR white][COLOR yellow] •  [/COLOR] CANAL ODISEA [COLOR yellow] •  [/COLOR][/COLOR] </title>
 <link>$doregex[GetPageUrl]|User-Agent=|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
 <regex>
 <name>GetPageUrl</name>
@@ -273,7 +273,7 @@ item>
 </item>
 
 <item>
-<title>[COLOR white]--- CANAL COCINA ---[/COLOR] </title>
+<title>[COLOR white][COLOR yellow] •  [/COLOR] CANAL COCINA [COLOR yellow] •  [/COLOR][/COLOR] </title>
 <link>$doregex[get-id]|User-Agent=iPad</link>
 <regex>
 <name>get-id</name>
@@ -286,7 +286,7 @@ item>
 </item>
 
 <item>
-<title>[COLOR white]--- CANAL HISTORIA ---[/COLOR] </title>
+<title>[COLOR white][COLOR yellow] •  [/COLOR] CANAL HISTORIA [COLOR yellow] •  [/COLOR][/COLOR] </title>
 <link>$doregex[get-id]|User-Agent=iPad</link>
 <regex>
 <name>get-id</name>
@@ -299,7 +299,7 @@ item>
 </item>
 
 <item>
-<title>[COLOR white]--- CANAL CRIMEN Y INVESTIGACION ---[/COLOR]</title>
+<title>[COLOR white][COLOR yellow] •  [/COLOR] CANAL CRIMEN Y INVESTIGACION [COLOR yellow] •  [/COLOR][/COLOR]</title>
 <sportsdevil>http://cinestrenostv.tv/canales/documentales/crimeninvestigacion.php</sportsdevil>
 <referer>http://verdirectotv.com</referer>
 <thumbnail>http://zonadjjavi.webcindario.com/Kodi/logos/ci1.jpg</thumbnail>
@@ -307,15 +307,15 @@ item>
 </item>
 
 <item>
-<title>[COLOR white]--- CANAL A&E ---[/COLOR]</title>
+<title>[COLOR white][COLOR yellow] •  [/COLOR] CANAL A&E [COLOR yellow] •  [/COLOR][/COLOR]</title>
 <sportsdevil>http://cinestrenostv.tv/canales/documentales/bio.php</sportsdevil>
 <referer>http://verdirectotv.com</referer>
 <thumbnail>http://zonadjjavi.webcindario.com/Kodi/logos/AEgeneri.jpg</thumbnail>
 <fanart>http://zonadjjavi.webcindario.com/Kodi/fanart.jpg</fanart>
 </item>
---- CANAL NATIONAL GEOGRAFIC ---
+[COLOR yellow] •  [/COLOR] CANAL NATIONAL GEOGRAFIC [COLOR yellow] •  [/COLOR]
 <item>
-<title>[COLOR white]--- CANAL NATIONAL GEOGRAFIC ---[/COLOR]</title>
+<title>[COLOR white][COLOR yellow] •  [/COLOR] CANAL NATIONAL GEOGRAFIC [COLOR yellow] •  [/COLOR][/COLOR]</title>
 <sportsdevil>http://cinestrenostv.tv/canales/documentales/nationalgeo.php</sportsdevil>
 <referer>http://verdirectotv.com</referer>
 <thumbnail>http://zonadjjavi.webcindario.com/Kodi/logos/ngeochannel1.jpg</thumbnail>
@@ -323,15 +323,15 @@ item>
 </item>
 
 <item>
-<title>[COLOR white]--- CANAL DISCOVERY MAX ---[/COLOR]</title>
+<title>[COLOR white][COLOR yellow] •  [/COLOR] CANAL DISCOVERY MAX [COLOR yellow] •  [/COLOR][/COLOR]</title>
 <sportsdevil>http://cinestrenostv.tv/canales/documentales/discoverymax.php</sportsdevil>
 <referer>http://verdirectotv.com</referer>
 <thumbnail>http://zonadjjavi.webcindario.com/Kodi/logos/DiscoveryMax1.jpg</thumbnail>
 <fanart>http://zonadjjavi.webcindario.com/Kodi/fanart.jpg</fanart>
 </item>
---- CANAL NAT GEO WILD ---
+[COLOR yellow] •  [/COLOR] CANAL NAT GEO WILD [COLOR yellow] •  [/COLOR]
 i<tem>
-<title>[COLOR white]--- CANAL NAT GEO WILD ---[COLOR yellow][/COLOR]</title>
+<title>[COLOR white][COLOR yellow] •  [/COLOR] CANAL NAT GEO WILD [COLOR yellow] •  [/COLOR][COLOR yellow][/COLOR]</title>
 <sportsdevil>http://cinestrenostv.tv/canales/documentales/natgeowill.php</sportsdevil>
 <referer>http://verdirectotv.com</referer>
 <thumbnail>http://zonadjjavi.webcindario.com/Kodi/logos/natgeowild1.jpg</thumbnail>
@@ -339,7 +339,7 @@ i<tem>
 </item>
 
 <item>
-<title>[COLOR white]--- CANAL CAZA Y PESCA ---[/COLOR]</title>
+<title>[COLOR white][COLOR yellow] •  [/COLOR] CANAL CAZA Y PESCA [COLOR yellow] •  [/COLOR][/COLOR]</title>
 <sportsdevil>http://cinestrenostv.tv/canales/documentales/cazaypesca.php</sportsdevil>
 <referer>http://verdirectotv.com</referer>
 <thumbnail>http://zonadjjavi.webcindario.com/Kodi/logos/pesca1.jpg</thumbnail>
@@ -347,7 +347,7 @@ i<tem>
 </item>
 
 <item>
-<title>[COLOR white]--- CANAL VIAJAR ---[/COLOR]</title>
+<title>[COLOR white][COLOR yellow] •  [/COLOR] CANAL VIAJAR [COLOR yellow] •  [/COLOR][/COLOR]</title>
 <sportsdevil>http://cinestrenostv.tv/canales/documentales/viajartv.php</sportsdevil>
 <referer>http://verdirectotv.com</referer>
 <thumbnail>http://zonadjjavi.webcindario.com/Kodi/logos/viajar1.jpg</thumbnail>
@@ -355,7 +355,7 @@ i<tem>
 </item>
 
 <item>
-<title>[COLOR white]--- CANAL MTV MUSIC ---[/COLOR]</title>
+<title>[COLOR white][COLOR yellow] •  [/COLOR] CANAL MTV MUSIC [COLOR yellow] •  [/COLOR][/COLOR]</title>
 <sportsdevil>http://cinestrenostv.tv/canales/nacionales/mtv.php</sportsdevil>
 <referer>http://verdirectotv.com</referer>
 <thumbnail>http://zonadjjavi.webcindario.com/Kodi/logos/mtvjpg</thumbnail>
