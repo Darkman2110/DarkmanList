@@ -95,6 +95,229 @@
 </item>
 
 <item>
+<title>[UPPERCASE][COLOR white]La Casa De Los Lios[/COLOR][/UPPERCASE]</title>
+ <link>http://Ignoreme</link>
+<externallink>https://raw.githubusercontent.com/Darkman2110/DarkmanList/master/series/La_casa_de_los_lios.xml</externallink>
+<thumbnail>http://pics.filmaffinity.com/la_casa_de_los_lios_tv_series-240558816-large.jpg</thumbnail>
+<fanart>http://zonadjjavi.webcindario.com/Kodi/fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[UPPERCASE][COLOR white] The Walking Dead [/COLOR][/UPPERCASE]</title>
+<link>$doregex[makelist]</link>
+<regex>
+  <name>makelist</name>
+  <listrepeat><![CDATA[
+        <title>[COLOR yellow] [makelist.param3] [/COLOR]</title>
+        <link>$doregex[getUrl]</link>
+<fanart>http://images.amcnetworks.com/amc.com/wp-content/uploads/2017/10/TWD_897_D1_big.jpg</fanart>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/1/1c/Walking_Dead_S8_Poster.jpg</thumbnail>
+]]></listrepeat>
+<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+<page>http://diskokosmiko.mx/trivianita/the-walkig-dead-hd-1-2-3-4-5-6-7-el-rockero-37933/list,5,5</page>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&f=[makelist.param1]</page>
+<rawpost>fileId=[makelist.param1]&__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+<connection>keep-alive</connection>
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>tok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<referer>http://diskokosmiko.mx/trivianita/the-walkig-dead-hd-1-2-3-4-5-6-7-el-rockero-37933/list,5,5</referer>
+<connection>keep-alive</connection>
+<cookieJar></cookieJar>
+</regex>
+<fanart>http://images.amcnetworks.com/amc.com/wp-content/uploads/2017/10/TWD_897_D1_big.jpg</fanart>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/1/1c/Walking_Dead_S8_Poster.jpg</thumbnail>
+</item>
+
+	<item>
+		<title>[UPPERCASE][COLOR white]DAREDEVIL[/COLOR][/UPPERCASE]</title>
+		<link>$doregex[makelist]</link>
+		<regex>
+			<name>makelist</name>
+			]]><listrepeat><![CDATA[
+			<title>[makelist.param3]</title>
+			<link>$doregex[getUrl]</link>
+			<thumbnail>http://es.web.img1.acsta.net/pictures/16/03/30/14/05/596674.jpg</thumbnail>
+<fanart>http://www.cabezascortadas.com/wp-content/uploads/2012/11/daredevil_comics.jpg</fanart>
+			]]></listrepeat>
+			<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+			<page>http://diskokosmiko.mx/chinchetas/daredevil-serie-espanol-69343/list,1,2</page>
+			<cookieJar></cookieJar>
+		</regex>
+		<regex>
+			<name>getUrl</name>
+			<expres>DownloadUrl":"([^"]+)<expres>
+			<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
+			<rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
+			<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+			<connection>keep-alive</connection>
+			<accept>*/*</accept>
+			<X-Req>XMLHttpRequest</X-Req>
+			<cookieJar></cookieJar>
+		</regex>
+		<regex>
+			<name>tok</name>
+			<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+			<page>http://diskokosmiko.mx/[makelist.param2]</page>
+			<referer>http://diskokosmiko.mx</referer>
+			<connection>keep-alive</connection>
+			<cookieJar></cookieJar>
+		</regex>
+		<thumbnail>http://es.web.img1.acsta.net/pictures/16/03/30/14/05/596674.jpg</thumbnail>
+<fanart>http://www.cabezascortadas.com/wp-content/uploads/2012/11/daredevil_comics.jpg</fanart>
+	</item>
+
+
+<item>
+<title>[COLOR white]CAZATESOROS (completa)[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+  <name>makelist</name>
+  <listrepeat><![CDATA[
+        <title>[COLOR red]  [makelist.param3][/COLOR] </title>
+        <link>$doregex[getUrl]</link>
+		<thumbnail>http://www.seriespapaya.com/uploads/Cazatesoros33.jpg</thumbnail>
+		<fanart>http://www.seriespapaya.com/uploads/Cazatesoros33.jpg</fanart>
+        ]]></listrepeat>
+<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+<page>http://diskokosmiko.mx/trivianita/cazatesoros-completa-83525/list,1,3</page>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
+<rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+<connection>keep-alive</connection> 
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>ok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<referer>http://diskokosmiko.mx</referer>
+<connection>keep-alive</connection> 
+<cookieJar></cookieJar>
+</regex>
+		<thumbnail>http://www.seriespapaya.com/uploads/Cazatesoros33.jpg</thumbnail>
+		<fanart>http://www.seriespapaya.com/uploads/Cazatesoros33.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR white]CSI MIAMI[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<title>[makelist.param3]</title>
+<link>$doregex[getUrl]</link>
+<thumbnail>http://cache.coverbrowser.com/image/bestselling-movies-2006/80-1.jpg</thumbnail>
+<fanart>https://cdn.suwalls.com/wallpapers/tv-shows/csi-crime-scene-investigation-818-1920x1080.jpg</fanart>
+			]]></listrepeat>
+			<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+			<page>http://diskokosmiko.mx/chinchetas/csi-miami-espanol-todas-temporadas-80383/list,1,10</page>
+			<cookieJar></cookieJar>
+		</regex>
+		<regex>
+			<name>getUrl</name>
+			<expres>DownloadUrl":"([^"]+)<expres>
+			<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
+			<rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
+			<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+			<connection>keep-alive</connection>
+			<accept>*/*</accept>
+			<X-Req>XMLHttpRequest</X-Req>
+			<cookieJar></cookieJar>
+		</regex>
+		<regex>
+			<name>tok</name>
+			<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+			<page>http://diskokosmiko.mx/[makelist.param2]</page>
+			<referer>http://diskokosmiko.mx</referer>
+			<connection>keep-alive</connection>
+			<cookieJar></cookieJar>
+		</regex>
+		<thumbnail>http://cache.coverbrowser.com/image/bestselling-movies-2006/80-1.jpg</thumbnail>
+<fanart>https://cdn.suwalls.com/wallpapers/tv-shows/csi-crime-scene-investigation-818-1920x1080.jpg</fanart>
+	</item>
+
+	
+<item>
+		<title>[COLOR white]CSI NUEVA YORK[/COLOR]</title>
+		<link>$doregex[makelist]</link>
+		<regex>
+			<name>makelist</name>
+			<listrepeat><![CDATA[
+			<title>[makelist.param3]</title>
+			<link>$doregex[getUrl]</link>
+			<fanart>http://2.bp.blogspot.com/-PoKdhy2mNdU/TcmThV5tPYI/AAAAAAAAAss/Jw14A56g01g/s1600/CSI_NY.png</fanart>
+<thumbnail>https://cdn.arenabg.com/resize/500/-/var/assets/posters/2012-10/d04b956937a3bd2ec1c095e500e7eb59ed6092ed.jpg</thumbnail>
+			]]></listrepeat>
+			<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+			<page>http://diskokosmiko.mx/chinchetas/csi-nueva-york-espanol-todas-temporadas-81989/list,1,5</page>
+			<cookieJar></cookieJar>
+		</regex>
+		<regex>
+			<name>getUrl</name>
+			<expres>DownloadUrl":"([^"]+)<expres>
+			<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
+			<rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
+			<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+			<connection>keep-alive</connection>
+			<accept>*/*</accept>
+			<X-Req>XMLHttpRequest</X-Req>
+			<cookieJar></cookieJar>
+		</regex>
+		<regex>
+			<name>tok</name>
+			<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+			<page>http://diskokosmiko.mx/[makelist.param2]</page>
+			<referer>http://diskokosmiko.mx</referer>
+			<connection>keep-alive</connection>
+			<cookieJar></cookieJar>
+		</regex>
+		<fanart>http://2.bp.blogspot.com/-PoKdhy2mNdU/TcmThV5tPYI/AAAAAAAAAss/Jw14A56g01g/s1600/CSI_NY.png</fanart>
+<thumbnail>https://cdn.arenabg.com/resize/500/-/var/assets/posters/2012-10/d04b956937a3bd2ec1c095e500e7eb59ed6092ed.jpg</thumbnail>
+	</item>
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<item>
 <title>[UPPERCASE][COLOR white] EL EQUIPO A [/COLOR][/UPPERCASE]</title>
 <link>$doregex[makelist]</link>
 <regex>
