@@ -203,8 +203,8 @@ item>
 <thumbnail>http://vignette4.wikia.nocookie.net/doblaje/images/6/69/Cinemax.png/revision/latest?cb=20160831015732&path-prefix=es</thumbnail>   
 </item>
 
-<item>
-<title>[COLOR white]Canal Series[/COLOR]</title>
+item>
+<title>[COLOR white]--- CANAL SERIES ---[/COLOR]</title>
 <sportsdevil>http://cinestrenostv.tv/canales/nacionales/plus-series.php</sportsdevil>
 <referer>http://verdirectotv.com</referer>
 <thumbnail>http://zonadjjavi.webcindario.com/Kodi/logos/series1.jpg</thumbnail>
@@ -212,24 +212,24 @@ item>
 </item>
 
 
-<item>
-<title>[COLOR white]Canal Tcm[/COLOR]</title>
+item>
+<title>[COLOR white]--- CANAL TCM ---[/COLOR]</title>
 <sportsdevil>http://cinestrenostv.tv/canales/nacionales/tcm.php</sportsdevil>
 <referer>http://verdirectotv.com</referer>
 <thumbnail>http://zonadjjavi.webcindario.com/Kodi/logos/tcm1.jpg</thumbnail>
 <Fanart>http://zonadjjavi.webcindario.com/Kodi/fanart.jpg</fanart>
 </item>
 
-<tem>
-<title>[COLOR white]Canal Cosmo[/COLOR]</title>
+<item>
+<title>[COLOR white]--- CANAL COSMO ---[/COLOR]</title>
 <sportsdevil>http://cinestrenostv.tv/canales/nacionales/cosmo.php</sportsdevil>
 <referer>http://verdirectotv.com</referer>
 <thumbnail>http://zonadjjavi.webcindario.com/Kodi/logos/cosmo.jpg</thumbnail>
 <fanart>http://zonadjjavi.webcindario.com/Kodi/fanart.jpg</fanart>
 </item>
 
-<item>
-<title>[COLOR white]Canal Hollywood[/COLOR]</title>
+item>
+<title>[COLOR white]--- CANAL HOLLYWOOD ---[/COLOR]</title>
 <sportsdevil>http://cinestrenostv.tv/canales/nacionales/holliwood.php</sportsdevil>
 <referer>http://verdirectotv.com</referer>
 <thumbnail>http://zonadjjavi.webcindario.com/Kodi/logos/Hollywood1.jpg</thumbnail>
@@ -237,7 +237,7 @@ item>
 </item>
 
 item>
-<title>[COLOR white]Canal Series Xtra[/COLOR]</title>
+<title>[COLOR white]--- CANAL SERIES XTRA ---[/COLOR]</title>
 <sportsdevil>http://cinestrenostv.tv/canales/nacionales/plus-series-xtra.php</sportsdevil>
 <referer>http://verdirectotv.com</referer>
 <thumbnail>http://zonadjjavi.webcindario.com/Kodi/logos/seriesxtra1.jpg</thumbnail>
