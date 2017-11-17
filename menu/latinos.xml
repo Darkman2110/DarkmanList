@@ -1,45 +1,66 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 <item>
-<title>[COLOR white]CINE SALA 1 SD[COLOR blue]   Latino[/COLOR]</title>
-<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=HxDRsCV5z9U</link>
-<fanart>http://alcabodelacalle.es/wp-content/uploads/2017/10/Cine_Sala.jpg</fanart>
-<thumbnail>https://www.marketingdirecto.com/wp-content/uploads/2012/05/salas-de-cine-digitales.jpg</thumbnail>
+<title>[COLOR white][COLOR yellow] •  [/COLOR]MELODY CHANNEL[/COLOR]</title>
+<link>http://186.155.200.118:1935/live/MelodyChannel/playlist.m3u8</link>
+<thumbnail></thumbnail>
+<fanart>http://zonadjjavi.webcindario.com/Kodi/fanart.jpg</fanart>
+</item>	
+
+<item>
+<title>[COLOR white][COLOR yellow] •  [/COLOR]LA MEGA MUNDIAL[/COLOR]</title>
+<link>http://68.235.35.243:1935/lamegamundial/lamegamundial2/playlist.m3u8</link>
+<thumbnail></thumbnail>
+<fanart>http://zonadjjavi.webcindario.com/Kodi/fanart.jpg</fanart>
+</item>	
+
+<item>
+<title>[COLOR white][COLOR yellow] •  [/COLOR]NCTV [/COLOR]</title>
+<link>http://ss8.domint.net:2106/nct_str/latinos/playlist.m3u8</link>
+<thumbnail></thumbnail>
+<fanart>http://zonadjjavi.webcindario.com/Kodi/fanart.jpg</fanart>
+</item>	
+
+<item>
+<title>[COLOR white][COLOR yellow] •  [/COLOR]TELEMUSICA [/COLOR]</title>
+<link>http://186.155.200.118:1935/live/telemusica/livestream.m3u8</link>
+<thumbnail></thumbnail>
+<fanart>http://zonadjjavi.webcindario.com/Kodi/fanart.jpg</fanart>
+</item>	
+
+<item>
+<title>[COLOR white][COLOR yellow] •  [/COLOR]AMERICA TEVE [/COLOR]</title>
+<link>http://api.new.livestream.com/accounts/5730046/events/2966225/live.m3u8</link>
+<thumbnail></thumbnail>
+<fanart>http://zonadjjavi.webcindario.com/Kodi/fanart.jpg</fanart>
+</item>	
+
+<item>
+<title>[COLOR white][COLOR yellow] •  [/COLOR]ADN 40[/COLOR]</title>
+<link>http://aztecalive-lh.akamaihd.net/i/0kus659k5_1@501884/master.m3u8</link>
+<thumbnail></thumbnail>
+<fanart>http://zonadjjavi.webcindario.com/Kodi/fanart.jpg</fanart>
+</item>	
+
+<item>
+<title>[COLOR white][COLOR yellow] •  [/COLOR]LA ESTRELLAS[/COLOR]</title>
+<link>http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CEST/tu1_1.m3u8</link>
+<thumbnail></thumbnail>
+<fanart>http://zonadjjavi.webcindario.com/Kodi/fanart.jpg</fanart>
 </item>
 
 <item>
-<title>[COLOR white]CINE SALA 2 SD[COLOR blue]   Latino[/COLOR]</title>
-<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=EEuZK5jMG14</link>
-<fanart>http://alcabodelacalle.es/wp-content/uploads/2017/10/Cine_Sala.jpg</fanart>
-<thumbnail>https://www.marketingdirecto.com/wp-content/uploads/2012/05/salas-de-cine-digitales.jpg</thumbnail>
+<title>[COLOR white][COLOR yellow] •  [/COLOR]CHILEVISION[/COLOR]</title>
+<link>http://chv.movil.rtsp.ztreaming.com/chvmovil2/chilevision@140569/chunklist_w787114469.m3u8</link>
+<thumbnail></thumbnail>
+<fanart>http://zonadjjavi.webcindario.com/Kodi/fanart.jpg</fanart>
 </item>
 
 <item>
-<title>[COLOR white]CINE SALA 3 SD[COLOR blue]   Latino[/COLOR]</title>
-<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=T8jUaM_AjaM</link>
-<fanart>http://alcabodelacalle.es/wp-content/uploads/2017/10/Cine_Sala.jpg</fanart>
-<thumbnail>https://www.marketingdirecto.com/wp-content/uploads/2012/05/salas-de-cine-digitales.jpg</thumbnail>
-</item>
-
-<item>
-<title>[COLOR white]CINE SALA 4 SD[COLOR blue]   Latino[/COLOR]</title>
-<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=3VaSuJzPxxw</link>
-<fanart>http://alcabodelacalle.es/wp-content/uploads/2017/10/Cine_Sala.jpg</fanart>
-<thumbnail>https://www.marketingdirecto.com/wp-content/uploads/2012/05/salas-de-cine-digitales.jpg</thumbnail>
-</item>
-
-<item>
-<title>[COLOR white]CINE SALA 5 SD[COLOR blue]   Latino[/COLOR]</title>
-<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=DUUIwaSHKs4</link>
-<fanart>http://alcabodelacalle.es/wp-content/uploads/2017/10/Cine_Sala.jpg</fanart>
-<thumbnail>https://www.marketingdirecto.com/wp-content/uploads/2012/05/salas-de-cine-digitales.jpg</thumbnail>
-</item>
-
-<item>
-<title>[COLOR white]CINE SALA 6 SD[COLOR blue]   Latino[/COLOR]</title>
-<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=DV0sjSqYqlE</link>
-<fanart>http://alcabodelacalle.es/wp-content/uploads/2017/10/Cine_Sala.jpg</fanart>
-<thumbnail>https://www.marketingdirecto.com/wp-content/uploads/2012/05/salas-de-cine-digitales.jpg</thumbnail>
+<title>[COLOR white][COLOR yellow] •  [/COLOR]CNN CHILE[/COLOR]</title>
+<link>http://unlimited1-us.dps.live/cnn/cnn.smil/playlist.m3u8</link>
+<thumbnail></thumbnail>
+<fanart>http://zonadjjavi.webcindario.com/Kodi/fanart.jpg</fanart>
 </item>
 
 
