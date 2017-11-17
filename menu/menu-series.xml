@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 <item>
-<title>[UPPERCASE][COLOR white]Castle[/COLOR][/UPPERCASE]</title>
+<title>[UPPERCASE][COLOR white][COLOR yellow] •  [/COLOR]Castle[/COLOR][/UPPERCASE]</title>
  <link>http://Ignoreme</link>
 <externallink>https://raw.githubusercontent.com/Darkman2110/DarkmanList/master/series/castle.xml</externallink>
 <thumbnail>https://pbs.twimg.com/media/CNgcN3aWEAAYUY6.jpg</thumbnail>
@@ -9,7 +9,7 @@
 </item>
 
 <item>
-<title>[UPPERCASE][COLOR white]Stargate SG-1[/COLOR][/UPPERCASE]</title>
+<title>[UPPERCASE][COLOR white][COLOR yellow] •  [/COLOR]Stargate SG-1[/COLOR][/UPPERCASE]</title>
  <link>http://Ignoreme</link>
 <externallink>https://raw.githubusercontent.com/Darkman2110/DarkmanList/master/series/StargateSG1.xml</externallink>
 <thumbnail>https://upload.wikimedia.org/wikipedia/en/9/9a/Stargate_SG-1_cast_minus_Jonas_Quinn.jpg</thumbnail>
@@ -17,7 +17,7 @@
 </item>
 
 <item>
-<title>[UPPERCASE][COLOR white]Stargate Atlantis[/COLOR][/UPPERCASE]</title>
+<title>[UPPERCASE][COLOR white][COLOR yellow] •  [/COLOR]Stargate Atlantis[/COLOR][/UPPERCASE]</title>
  <link>http://Ignoreme</link>
 <externallink>https://raw.githubusercontent.com/Darkman2110/DarkmanList/master/series/Stargate_Atlantis.xml</externallink>
 <thumbnail>http://www.parallelreality-bg.com/images/stories/Ezoterika1/Olympics2012/176.jpg</thumbnail>
@@ -25,7 +25,7 @@
 </item>
 
 <item>
-<title>[UPPERCASE][COLOR white]Stargate Universe[/COLOR][/UPPERCASE]</title>
+<title>[UPPERCASE][COLOR white][COLOR yellow] •  [/COLOR]Stargate Universe[/COLOR][/UPPERCASE]</title>
  <link>http://Ignoreme</link>
 <externallink>https://raw.githubusercontent.com/Darkman2110/DarkmanList/master/series/Stargate_Universe.xml</externallink>
 <thumbnail>https://repasoenserie.files.wordpress.com/2014/04/a1d48-stargate-universe-sdcc-poster.jpg</thumbnail>
@@ -33,7 +33,7 @@
 </item>
 
 <item>
-<title>[UPPERCASE][COLOR white]Transporter[/COLOR][/UPPERCASE]</title>
+<title>[UPPERCASE][COLOR white][COLOR yellow] •  [/COLOR]Transporter[/COLOR][/UPPERCASE]</title>
  <link>http://Ignoreme</link>
 <externallink>https://raw.githubusercontent.com/Darkman2110/DarkmanList/master/series/Transporter.xml</externallink>
 <thumbnail>http://www.bolsamania.com/seriesadictos/wp-content/uploads/2014/07/transporter-600.jpg</thumbnail>
@@ -41,7 +41,7 @@
 </item>
 
 <item>
-<title>[UPPERCASE][COLOR white]The Librarians[/COLOR][/UPPERCASE]</title>
+<title>[UPPERCASE][COLOR white][COLOR yellow] •  [/COLOR]The Librarians[/COLOR][/UPPERCASE]</title>
  <link>http://Ignoreme</link>
 <externallink>https://raw.githubusercontent.com/Darkman2110/DarkmanList/master/series/The_Librarians.xml</externallink>
 <thumbnail>http://www.themarysue.com/wp-content/uploads/2015/03/libs_article.jpg</thumbnail>
@@ -49,7 +49,7 @@
 </item>
 
 <item>
-<title>[UPPERCASE][COLOR white]La Casa De Los Lios[/COLOR][/UPPERCASE]</title>
+<title>[UPPERCASE][COLOR white][COLOR yellow] •  [/COLOR]La Casa De Los Lios[/COLOR][/UPPERCASE]</title>
  <link>http://Ignoreme</link>
 <externallink>https://raw.githubusercontent.com/Darkman2110/DarkmanList/master/series/La_casa_de_los_lios.xml</externallink>
 <thumbnail>http://pics.filmaffinity.com/la_casa_de_los_lios_tv_series-240558816-large.jpg</thumbnail>
@@ -57,7 +57,7 @@
 </item>
 
 <item>
-<title>[UPPERCASE][COLOR white] EL PRINCIPE[/COLOR][/UPPERCASE]</title>
+<title>[UPPERCASE][COLOR white][COLOR yellow] •  [/COLOR]EL PRINCIPE[/COLOR][/UPPERCASE]</title>
 <link>$doregex[makelist]</link>
 <regex>
   <name>makelist</name>
@@ -103,7 +103,7 @@
 </item>
 
 <item>
-<title>[UPPERCASE][COLOR white] The Walking Dead [/COLOR][/UPPERCASE]</title>
+<title>[UPPERCASE][COLOR white][COLOR yellow] •  [/COLOR]The Walking Dead [/COLOR][/UPPERCASE]</title>
 <link>$doregex[makelist]</link>
 <regex>
   <name>makelist</name>
@@ -141,7 +141,7 @@
 </item>
 
 	<item>
-		<title>[UPPERCASE][COLOR white]DAREDEVIL[/COLOR][/UPPERCASE]</title>
+		<title>[UPPERCASE][COLOR white][COLOR yellow] •  [/COLOR]DAREDEVIL[/COLOR][/UPPERCASE]</title>
 		<link>$doregex[makelist]</link>
 		<regex>
 			<name>makelist</name>
@@ -180,7 +180,7 @@
 
 
 <item>
-<title>[COLOR white]CAZATESOROS (completa)[/COLOR]</title>
+<title>[COLOR white][COLOR yellow] •  [/COLOR]CAZATESOROS[/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
   <name>makelist</name>
@@ -219,7 +219,7 @@
 
 
 <item>
-<title>[COLOR white]CSI MIAMI[/COLOR]</title>
+<title>[COLOR white][COLOR yellow] •  [/COLOR]CSI MIAMI[/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
@@ -258,7 +258,7 @@
 
 	
 <item>
-		<title>[COLOR white]CSI NUEVA YORK[/COLOR]</title>
+		<title>[COLOR white][COLOR yellow] •  [/COLOR]CSI NUEVA YORK[/COLOR]</title>
 		<link>$doregex[makelist]</link>
 		<regex>
 			<name>makelist</name>
@@ -295,30 +295,8 @@
 <thumbnail>https://cdn.arenabg.com/resize/500/-/var/assets/posters/2012-10/d04b956937a3bd2ec1c095e500e7eb59ed6092ed.jpg</thumbnail>
 	</item>
 	
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <item>
-<title>[UPPERCASE][COLOR white] EL EQUIPO A [/COLOR][/UPPERCASE]</title>
+<title>[UPPERCASE][COLOR white][COLOR yellow] •  [/COLOR]EL EQUIPO A [/COLOR][/UPPERCASE]</title>
 <link>$doregex[makelist]</link>
 <regex>
   <name>makelist</name>
@@ -356,7 +334,7 @@
 </item>
 
 <item>
-<title>[UPPERCASE][COLOR white]TWIN PEAK[/COLOR][/UPPERCASE]</title>
+<title>[UPPERCASE][COLOR white][COLOR yellow] •  [/COLOR]TWIN PEAK[/COLOR][/UPPERCASE]</title>
 <link>$doregex[makelist]</link>
 <regex>
   <name>makelist</name>
@@ -394,7 +372,7 @@
 </item>
 
 <item>
-<title>[UPPERCASE][COLOR white] SE HA ESCRITO UN CRIMEN COMPLETA[/COLOR][/UPPERCASE]</title>
+<title>[UPPERCASE][COLOR white][COLOR yellow] •  [/COLOR]SE HA ESCRITO UN CRIMEN COMPLETA[/COLOR][/UPPERCASE]</title>
 <link>$doregex[makelist]</link>
 <regex>
   <name>makelist</name>
@@ -434,7 +412,7 @@
 
 
 <item>
-<title>[UPPERCASE][COLOR white] COLOMBO [/COLOR][/UPPERCASE]</title>
+<title>[UPPERCASE][COLOR white][COLOR yellow] •  [/COLOR]COLOMBO [/COLOR][/UPPERCASE]</title>
 <link>$doregex[makelist]</link>
 <regex>
   <name>makelist</name>
@@ -473,7 +451,7 @@
 
 
 <item>
-<title>[COLOR white] ENTRE FANTASMAS[/COLOR]</title>
+<title>[COLOR white][COLOR yellow] •  [/COLOR]ENTRE FANTASMAS[/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
   <name>makelist</name>
@@ -512,7 +490,7 @@
 
 
 <item>
-<title>[COLOR white] MINORITY REPORT[/COLOR]</title>
+<title>[COLOR white][COLOR yellow] •  [/COLOR]MINORITY REPORT[/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
   <name>makelist</name>
@@ -550,7 +528,7 @@
 </item>
 
 <item>
-<title>[COLOR white] POLTERGEIST El Legado[/COLOR]</title>
+<title>[COLOR white][COLOR yellow] •  [/COLOR]POLTERGEIST El Legado[/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
   <name>makelist</name>
@@ -591,7 +569,7 @@ http://diskokosmiko.mx/trivianita/fear-the-walking-dead-70893/list,1,2
 
 
 <item>
-<title>[UPPERCASE][COLOR white] Fear The Walking Dead[/COLOR][/UPPERCASE]</title>
+<title>[UPPERCASE][COLOR white][COLOR yellow] •  [/COLOR]Fear The Walking Dead[/COLOR][/UPPERCASE]</title>
 <link>$doregex[makelist]</link>
 <regex>
   <name>makelist</name>
@@ -629,7 +607,7 @@ http://diskokosmiko.mx/trivianita/fear-the-walking-dead-70893/list,1,2
 </item>
 
 <item>
-<title>[COLOR white][UPPERCASE]Leyendas Del Mañana[/COLOR][/UPPERCASE]</title>
+<title>[COLOR white][UPPERCASE][COLOR yellow] •  [/COLOR]Leyendas Del Mañana[/COLOR][/UPPERCASE]</title>
  <link>http://Ignoreme</link>
 <externallink>https://raw.githubusercontent.com/Darkman2110/DarkmanList/master/series/Leyendas.xml</externallink>
 <thumbnail>https://i.ytimg.com/vi/jpX-jeQjQNQ/hqdefault.jpg</thumbnail>
@@ -637,7 +615,7 @@ http://diskokosmiko.mx/trivianita/fear-the-walking-dead-70893/list,1,2
 </item>
 
 <item>
-<title>[UPPERCASE][COLOR white]The Flash[/COLOR][/UPPERCASE]</title>
+<title>[UPPERCASE][COLOR white][COLOR yellow] •  [/COLOR]The Flash[/COLOR][/UPPERCASE]</title>
  <link>http://Ignoreme</link>
 <externallink>https://raw.githubusercontent.com/Darkman2110/DarkmanList/master/series/The_Flash.xml</externallink>
 <thumbnail>http://redlan.com.ar/wp-content/uploads/2016/06/TheFlashS3B-RedLanComics.jpg</thumbnail>
@@ -645,7 +623,7 @@ http://diskokosmiko.mx/trivianita/fear-the-walking-dead-70893/list,1,2
 </item>
 
 <item>
-<title>[UPPERCASE][COLOR white]Supergirl[/COLOR][/UPPERCASE]</title>
+<title>[UPPERCASE][COLOR white][COLOR yellow] •  [/COLOR]Supergirl[/COLOR][/UPPERCASE]</title>
  <link>http://Ignoreme</link>
 <externallink>https://raw.githubusercontent.com/Darkman2110/DarkmanList/master/series/Supergirl.xml</externallink>
 <thumbnail>http://www.icmedianet.org/wp/ndog/wp-content/uploads/2015/12/Supergirl_1920x1080_586896_640x360.jpg</thumbnail>
@@ -653,7 +631,7 @@ http://diskokosmiko.mx/trivianita/fear-the-walking-dead-70893/list,1,2
 </item>
 
 <item>
-<title>[UPPERCASE][COLOR white]Lucifer[/COLOR][/UPPERCASE]</title>
+<title>[UPPERCASE][COLOR white][COLOR yellow] •  [/COLOR]Lucifer[/COLOR][/UPPERCASE]</title>
  <link>http://Ignoreme</link>
 <externallink>https://raw.githubusercontent.com/Darkman2110/DarkmanList/master/series/Lucifer.xml</externallink>
 <thumbnail>http://www.icmedianet.org/wp/ndog/wp-content/uploads/2016/07/lucifer.jpg</thumbnail>
@@ -661,7 +639,7 @@ http://diskokosmiko.mx/trivianita/fear-the-walking-dead-70893/list,1,2
 </item>
 
 <item>
-<title>[COLOR white] EL EQUIPO A[/COLOR]</title>
+<title>[COLOR white][COLOR yellow] •  [/COLOR]EL EQUIPO A[/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
   <name>makelist</name>
@@ -700,7 +678,7 @@ http://diskokosmiko.mx/trivianita/fear-the-walking-dead-70893/list,1,2
 
 
 <item>
-<title>[COLOR white] LOS VIGILANTES DE LA PLAYA[/COLOR]</title>
+<title>[COLOR white][COLOR yellow] •  [/COLOR]LOS VIGILANTES DE LA PLAYA[/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
   <name>makelist</name>
@@ -738,7 +716,7 @@ http://diskokosmiko.mx/trivianita/fear-the-walking-dead-70893/list,1,2
 </item>
 
 <item>
-<title>[COLOR white] LUZ DE LUNA [/COLOR]</title>
+<title>[COLOR white][COLOR yellow] •  [/COLOR]LUZ DE LUNA [/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
   <name>makelist</name>
@@ -774,35 +752,4 @@ http://diskokosmiko.mx/trivianita/fear-the-walking-dead-70893/list,1,2
 <fanart>https://ep00.epimg.net/cultura/imagenes/2014/05/23/television/1400824860_140082_1400824860_noticia_normal.jpg</fanart>
 <thumbnail>https://s-media-cache-ak0.pinimg.com/originals/58/f3/8c/58f38c436ae9c7effece6ffc6376a21e.jpg</thumbnail>
 </item>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
