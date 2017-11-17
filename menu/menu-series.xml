@@ -364,7 +364,7 @@
 </item>
 
 <item>
-<title>[UPPERCASE][COLOR white][COLOR yellow] •  [/COLOR]SE HA ESCRITO UN CRIMEN COMPLETA[/COLOR][/UPPERCASE]</title>
+<title>[UPPERCASE][COLOR white][COLOR yellow] •  [/COLOR]SE HA ESCRITO UN CRIMEN[/COLOR][/UPPERCASE]</title>
 <link>$doregex[makelist]</link>
 <regex>
   <name>makelist</name>
