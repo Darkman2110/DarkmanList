@@ -6,7 +6,7 @@
 <channel>
     <name>          <<<<<<<<<Canales Deportes Sportsdevil>>>>>>>></name>
     <thumbnail></thumbnail>
-      anart>http://zonadjjavi.webcindario.com/Kodi/fanart.jpg</fanart>
+      <f<fanart>http://zonadjjavi.webcindario.com/Kodi/fanart.jpg</fanart>
         <items>
 		
 		
@@ -20,7 +20,7 @@
 <sportsdevil>http://cinestrenostv.tv/canales/deportes/plus-partidazo.php</sportsdevil>
 <referer>http://cinestrenostv.tv</referer>
 <thumbnail>http://vignette1.wikia.nocookie.net/logopedia/images/c/c2/MovistarPartidazo.png/revision/latest?cb=20160818140828</thumbnail>
-anart>http://zonadjjavi.webcindario.com/Kodi/fanart.jpg</fanart>
+<fanart>http://zonadjjavi.webcindario.com/Kodi/fanart.jpg</fanart>
 </item>
 
 
@@ -38,29 +38,17 @@ anart>http://zonadjjavi.webcindario.com/Kodi/fanart.jpg</fanart>
 <sportsdevil>http://cinestrenostv.tv/canales/deportes/multifutbol/canal1.html</sportsdevil>
 <referer>http://cinestrenostv.tv</referer>
 <thumbnail></thumbnail>
-anart>http://zonadjjavi.webcindario.com/Kodi/fanart.jpg</fanart>
+<fanart>http://zonadjjavi.webcindario.com/Kodi/fanart.jpg</fanart>
 </item>
 
-<item>
-<title>[COLOR white][COLOR yellow] •  [/COLOR] M FUTBOL[/COLOR] </title>
-<link>$doregex[get-id]|User-Agent=iPad</link>
-<regex>
-<name>get-id</name>
-<expres>[",\'](h.*m3u8.*?)'</expres>
-<page>http://telefivegb.com/canales/deportes/futbol</page>
-<referer>http://vertelevisor.com/tv/nacionales/axn.html</referer>
-<agent>iPad</agent>
-</regex>
-<thumbnail>http://zonadjjavi.webcindario.com/Kodi/logos/fox1.jpg</thumbnail>
-<fanart>http://zonadjjavi.webcindario.com/Kodi/fanart.jpg</fanart>   
-</item>
+
 
 <item>
 <title>[COLOR white][COLOR yellow] •  [/COLOR]M DEPORTES[/COLOR]</title>
 <sportsdevil>http://cinestrenostv.tv/canales/deportes/multideportes/canal1.html</sportsdevil>
 <referer>http://cinestrenostv.tv</referer>
 <thumbnail></thumbnail>
-anart>http://zonadjjavi.webcindario.com/Kodi/fanart.jpg</fanart>
+<fanart>http://zonadjjavi.webcindario.com/Kodi/fanart.jpg</fanart>
 </item>
 
 
@@ -69,7 +57,7 @@ anart>http://zonadjjavi.webcindario.com/Kodi/fanart.jpg</fanart>
 <sportsdevil>http://cinestrenostv.tv/canales/deportes/plusdeportes2.php</sportsdevil>
 <referer>http://cinestrenostv.tv</referer>
 <thumbnail></thumbnail>
-anart>http://zonadjjavi.webcindario.com/Kodi/fanart.jpg</fanart>
+<fanart>http://zonadjjavi.webcindario.com/Kodi/fanart.jpg</fanart>
 </item>
 
 <item>
@@ -77,7 +65,7 @@ anart>http://zonadjjavi.webcindario.com/Kodi/fanart.jpg</fanart>
 <sportsdevil>http://cinestrenostv.tv/canales/deportes/plusgolf.php</sportsdevil>
 <referer>http://cinestrenostv.tv</referer>
 <thumbnail></thumbnail>
-anart>http://zonadjjavi.webcindario.com/Kodi/fanart.jpg</fanart>
+<fanart>http://zonadjjavi.webcindario.com/Kodi/fanart.jpg</fanart>
 </item>
 
 <item>
@@ -85,7 +73,7 @@ anart>http://zonadjjavi.webcindario.com/Kodi/fanart.jpg</fanart>
 <sportsdevil>http://cinestrenostv.tv/canales/deportes/motogp.php</sportsdevil>
 <referer>http://cinestrenostv.tv</referer>
 <thumbnail></thumbnail>
-anart>http://zonadjjavi.webcindario.com/Kodi/fanart.jpg</fanart>
+<fanart>http://zonadjjavi.webcindario.com/Kodi/fanart.jpg</fanart>
 </item>
 
 <item>
@@ -93,7 +81,7 @@ anart>http://zonadjjavi.webcindario.com/Kodi/fanart.jpg</fanart>
 <sportsdevil>http://cinestrenostv.tv/canales/deportes/formula1.php</sportsdevil>
 <referer>http://cinestrenostv.tv</referer>
 <thumbnail></thumbnail>
-anart>http://zonadjjavi.webcindario.com/Kodi/fanart.jpg</fanart>
+<fanart>http://zonadjjavi.webcindario.com/Kodi/fanart.jpg</fanart>
 </item>
 
 <item>
@@ -101,7 +89,7 @@ anart>http://zonadjjavi.webcindario.com/Kodi/fanart.jpg</fanart>
 <sportsdevil>http://cinestrenostv.tv/canales/deportes/multiliga/canal1.html</sportsdevil>
 <referer>http://cinestrenostv.tv</referer>
 <thumbnail></thumbnail>
-anart>http://zonadjjavi.webcindario.com/Kodi/fanart.jpg</fanart>
+<fanart>http://zonadjjavi.webcindario.com/Kodi/fanart.jpg</fanart>
 </item>
 
 <item>
@@ -109,14 +97,14 @@ anart>http://zonadjjavi.webcindario.com/Kodi/fanart.jpg</fanart>
 <sportsdevil>http://cinestrenostv.tv/canales/deportes/multibein/canal1.html</sportsdevil>
 <referer>http://cinestrenostv.tv</referer>
 <thumbnail></thumbnail>
-anart>http://zonadjjavi.webcindario.com/Kodi/fanart.jpg</fanart>
+<fanart>http://zonadjjavi.webcindario.com/Kodi/fanart.jpg</fanart>
 </item>
 
 <item>
 <title>[COLOR white][COLOR yellow] •  [/COLOR]TOROS TV[/COLOR] </title>
 <link>http://edge2.livesports.pw/live/vertorotvd2330b2b9138e537/index.m3u8</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/xxxuts1436895323.png</thumbnail>
-<fanart>http://zonadjjavi.webcindario.com/Kodi/fanart.jpg</fanart>
+<f<fanart>http://zonadjjavi.webcindario.com/Kodi/fanart.jpg</fanart>
 </item>
 
 
@@ -125,7 +113,7 @@ anart>http://zonadjjavi.webcindario.com/Kodi/fanart.jpg</fanart>
 <sportsdevil>http://cinestrenostv.tv/canales/deportes/eurosports.php</sportsdevil>
 <referer>http://cinestrenostv.tv</referer>
 <thumbnail></thumbnail>
-anart>http://zonadjjavi.webcindario.com/Kodi/fanart.jpg</fanart>
+<fanart>http://zonadjjavi.webcindario.com/Kodi/fanart.jpg</fanart>
 </item>
 
 <item>
@@ -133,7 +121,7 @@ anart>http://zonadjjavi.webcindario.com/Kodi/fanart.jpg</fanart>
 <sportsdevil>http://cinestrenostv.tv/canales/deportes/eurosports2.php</sportsdevil>
 <referer>http://cinestrenostv.tv</referer>
 <thumbnail></thumbnail>
-anart>http://zonadjjavi.webcindario.com/Kodi/fanart.jpg</fanart>
+<fanart>http://zonadjjavi.webcindario.com/Kodi/fanart.jpg</fanart>
 </item>
 
 <item>
@@ -141,7 +129,7 @@ anart>http://zonadjjavi.webcindario.com/Kodi/fanart.jpg</fanart>
 <sportsdevil>http://cinestrenostv.tv/canales/deportes/sport3.php</sportsdevil>
 <referer>http://cinestrenostv.tv</referer>
 <thumbnail></thumbnail>
-anart>http://zonadjjavi.webcindario.com/Kodi/fanart.jpg</fanart>
+<fanart>http://zonadjjavi.webcindario.com/Kodi/fanart.jpg</fanart>
 </item>
 
 <item>
@@ -149,14 +137,14 @@ anart>http://zonadjjavi.webcindario.com/Kodi/fanart.jpg</fanart>
 <sportsdevil>http://cinestrenostv.tv/canales/deportes/sevillafc.php</sportsdevil>
 <referer>http://cinestrenostv.tv</referer>
 <thumbnail></thumbnail>
-anart>http://zonadjjavi.webcindario.com/Kodi/fanart.jpg</fanart>
+<fanart>http://zonadjjavi.webcindario.com/Kodi/fanart.jpg</fanart>
 </item>
 
 <item>
 <title>[COLOR white][COLOR yellow] •  [/COLOR]BETIS TV[/COLOR]</title>
 <link>http://rbetis-hls.flumotion.com/rbetis/live/chunklist.m3u8</link>
 <thumbnail>http://www.grupocomunica.com/wp-content/uploads/2016/05/Radio-Betis-y-Betis-TV.jpg</thumbnail>
-anart>http://zonadjjavi.webcindario.com/Kodi/fanart.jpg</fanart>
+<fanart>http://zonadjjavi.webcindario.com/Kodi/fanart.jpg</fanart>
 </item>
 
 <item>
@@ -164,7 +152,7 @@ anart>http://zonadjjavi.webcindario.com/Kodi/fanart.jpg</fanart>
 <sportsdevil>http://cinestrenostv.tv/canales/deportes/barcatv.php</sportsdevil>
 <referer>http://cinestrenostv.tv</referer>
 <thumbnail></thumbnail>
-anart>http://zonadjjavi.webcindario.com/Kodi/fanart.jpg</fanart>
+<fanart>http://zonadjjavi.webcindario.com/Kodi/fanart.jpg</fanart>
 </item>
 
 <item>
@@ -172,7 +160,7 @@ anart>http://zonadjjavi.webcindario.com/Kodi/fanart.jpg</fanart>
 <sportsdevil>http://cinestrenostv.tv/canales/deportes/realmadridtv.php</sportsdevil>
 <referer>http://cinestrenostv.tv</referer>
 <thumbnail></thumbnail>
-anart>http://zonadjjavi.webcindario.com/Kodi/fanart.jpg</fanart>
+<fanart>http://zonadjjavi.webcindario.com/Kodi/fanart.jpg</fanart>
 </item>
 
 <item>
@@ -180,7 +168,7 @@ anart>http://zonadjjavi.webcindario.com/Kodi/fanart.jpg</fanart>
 <sportsdevil>http://cinestrenostv.tv/canales/deportes/teledeporte.php</sportsdevil>
 <referer>http://cinestrenostv.tv</referer>
 <thumbnail></thumbnail>
-anart>http://zonadjjavi.webcindario.com/Kodi/fanart.jpg</fanart>
+<fanart>http://zonadjjavi.webcindario.com/Kodi/fanart.jpg</fanart>
 </item>
 
  <item>
@@ -188,5 +176,5 @@ anart>http://zonadjjavi.webcindario.com/Kodi/fanart.jpg</fanart>
 <sportsdevil>http://cinestrenostv.tv/canales/deportes/goltv.php</sportsdevil>
 <referer>http://verdirectotv.com</referer>
 <thumbnail>http://zonadjjavi.webcindario.com/Kodi/logos/golttv.jpg</thumbnail>
- anart>http://zonadjjavi.webcindario.com/Kodi/fanart.jpg</fanart>
+ <fanart>http://zonadjjavi.webcindario.com/Kodi/fanart.jpg</fanart>
 </item>
