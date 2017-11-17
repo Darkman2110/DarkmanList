@@ -556,9 +556,6 @@
 <fanart>http://www.mundoplus.tv/img/33c9ba4c91b9700d490a17783e8d3f90</fanart>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/I/51jTqBvkDUL._SY445_.jpg</thumbnail>
 </item>
-http://diskokosmiko.mx/trivianita/fear-the-walking-dead-70893/list,1,2
-
-
 
 <item>
 <title>[UPPERCASE][COLOR white][COLOR yellow] •  [/COLOR]Fear The Walking Dead[/COLOR][/UPPERCASE]</title>
@@ -569,7 +566,7 @@ http://diskokosmiko.mx/trivianita/fear-the-walking-dead-70893/list,1,2
         <title>[COLOR yellow] [makelist.param3] [/COLOR]</title>
         <link>$doregex[getUrl]</link>
 <fanart>http://images.amcnetworks.com/amctv.la/wp-content/uploads/2017/04/fear-the-walking-dead-season-3-cci-key-art-nick-dillane-madison-dickens-1600x720.jpg</fanart>
-<thumbnail>https://images-na.ssl-images-amazon.com/images/I/51jTqBvkDUL._SY445_.jpg</thumbnail>
+<thumbnail>https://vignette4.wikia.nocookie.net/walkingdead/images/d/d6/FIN05_FearS3A_KA.jpg/revision/latest?cb=20170418182103</thumbnail>
 ]]></listrepeat>
 <expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
 <page>http://diskokosmiko.mx/trivianita/fear-the-walking-dead-70893/list,1,2</page>
@@ -595,7 +592,7 @@ http://diskokosmiko.mx/trivianita/fear-the-walking-dead-70893/list,1,2
 <cookieJar></cookieJar>
 </regex>
 <fanart>http://modogeeks.com/wp-content/uploads/2016/08/ftwd.jpg<fanart>
-<thumbnail>https://images-na.ssl-images-amazon.com/images/I/51jTqBvkDUL._SY445_.jpg</thumbnail>
+<thumbnail>https://vignette4.wikia.nocookie.net/walkingdead/images/d/d6/FIN05_FearS3A_KA.jpg/revision/latest?cb=20170418182103</thumbnail>
 </item>
 
 <item>
