@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+
+<item>
+<title>[COLOR white][COLOR yellow] •  [/COLOR]HARRY POTTER[/COLOR]</title>
+<externallink></externallink>
+<thumbnail>https://frasesdelapelicula.com/wp-content/uploads/2013/09/harry-potter-y-la-orden-del-fenix.jpg</thumbnail>
+<fanart>https://frasesdelapelicula.com/wp-content/uploads/2013/09/harry-potter-y-la-orden-del-fenix.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR white][COLOR yellow] •  [/COLOR]JASON BOURNE[COLOR]</title>
+<externallink></externallink>
+<thumbnail>https://viewofthearts.files.wordpress.com/2016/07/bourne-2.jpg</thumbnail>
+<fanart>https://viewofthearts.files.wordpress.com/2016/07/bourne-2.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR white][COLOR yellow] •  [/COLOR]LA GUERRA DE LAS GALAXIAS[COLOR]</title>
+<externallink></externallink>
+<thumbnail>http://www.tuexpertoapps.com/wp-content/uploads/2015/10/star-wars-galaxy-heroes-01.jpg</thumbnail>
+<fanart>http://www.tuexpertoapps.com/wp-content/uploads/2015/10/star-wars-galaxy-heroes-01.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR white][COLOR yellow] •  [/COLOR]MATRIX[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+  <title>makelist</title>
+  <listrepeat><![CDATA[
+        <title>[COLOR yellow] [makelist.param3] [/COLOR]</title>
+        <link>$doregex[getUrl]</link>
+<fanart>https://cdn.hobbyconsolas.com/sites/navi.axelspringer.es/public/media/image/2016/07/matrix.jpg</fanart>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/I/813dE2pH7XL._SY355_.jpg</thumbnail>
+]]></listrepeat>
+<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+<page>http://diskokosmiko.mx/catoal/saga-matrix-35601/</page>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<title>getUrl</title>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&f=[makelist.param1]</page>
+<rawpost>fileId=[makelist.param1]&__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+<connection>keep-alive</connection>
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<title>tok</title>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<referer>http://diskokosmiko.mx/catoal/saga-matrix-35601/</referer>
+<connection>keep-alive</connection>
+<cookieJar></cookieJar>
+</regex>
+<fanart>https://cdn.hobbyconsolas.com/sites/navi.axelspringer.es/public/media/image/2016/07/matrix.jpg</fanart>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/I/813dE2pH7XL._SY355_.jpg</thumbnail>
+ </item>
+
+
+
+
+<item>
+<title>[COLOR white][COLOR yellow] •  [/COLOR]PESADILLA EN ELM STREET[COLOR]</title>
+<externallink></externallink>
+<thumbnail>https://i.ytimg.com/vi/JMT0dqE-ozs/maxresdefault.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/JMT0dqE-ozs/maxresdefault.jpg</fanart>
+</item>
+
+
+
+<item>
+<title>[COLOR white][COLOR yellow] •  [/COLOR]UNDERWORLD[COLOR]</title>
+<externallink></externallink>
+<thumbnail>http://www.entupantalla.com/wp-content/uploads/2017/01/underworld_001.jpg</thumbnail>
+<fanart>http://www.entupantalla.com/wp-content/uploads/2017/01/underworld_001.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR white][COLOR yellow] •  [/COLOR]RESIDENT EVIL[COLOR]</title>
+<externallink></externallink>
+<thumbnail>http://assets1.ignimgs.com/thumbs/userUploaded/2017/1/18/1166015293-kinopoiskru-resident-evil-apocalypse-1600x1200-46_large.jpg</thumbnail>
+<fanart>http://assets1.ignimgs.com/thumbs/userUploaded/2017/1/18/1166015293-kinopoiskru-resident-evil-apocalypse-1600x1200-46_large.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR white][COLOR yellow] •  [/COLOR]SOLDADO UNIVERSAL[COLOR]</title>
+<externallink></externallink>
+<thumbnail>https://i.ytimg.com/vi/CW1ANdWzaow/maxresdefault.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/CW1ANdWzaow/maxresdefault.jpg</fanart>
+</item>
+
+
+
+
+
+
+<item>
+<title>[COLOR white][COLOR yellow] •  [/COLOR]STAR TREK[COLOR]</title>
+<externallink></externallink>
+<thumbnail>http://www.startrek.com/uploads/assets/articles/9a5570aa205c967c350c52e4ad43bc8ab6fdecd0.png</thumbnail>
+<fanart>http://www.startrek.com/uploads/assets/articles/9a5570aa205c967c350c52e4ad43bc8ab6fdecd0.png</fanart>
+</item>
+
+<item>
+<title>[COLOR white][COLOR yellow] •  [/COLOR]A TODO GAS[COLOR]</title>
+<externallink></externallink>
+<thumbnail>http://1.bp.blogspot.com/-99kTyE9dF9w/UX7kd6gaa0I/AAAAAAAAIX4/1DgtgFzrHnM/s1600/A+togo+gas+6+-+Fast+&+Furious+6.jpg</thumbnail>
+<fanart>http://1.bp.blogspot.com/-99kTyE9dF9w/UX7kd6gaa0I/AAAAAAAAIX4/1DgtgFzrHnM/s1600/A+togo+gas+6+-+Fast+&+Furious+6.jpg</fanart>
+</item>
+
+
+
+
