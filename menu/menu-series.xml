@@ -766,7 +766,7 @@
 <thumbnail>https://cdn.playmax.mx/img/c/400/3/1457366983/1180.jpg</thumbnail>
 ]]></listrepeat>
 <expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
-<page>http://diskokosmiko.mx/jorge-garcia-luis/los-vigilantes-de-la-playa-93086/gallery,1,9</page>
+<page>http://diskokosmiko.mx/jorge-garcia-luis/los-vigilantes-de-la-playa-93086/list,1,9</page>
 <cookieJar></cookieJar>
 </regex>
 <regex>
