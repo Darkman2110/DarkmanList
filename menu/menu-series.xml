@@ -766,7 +766,7 @@
 <thumbnail>https://cdn.playmax.mx/img/c/400/3/1457366983/1180.jpg</thumbnail>
 ]]></listrepeat>
 <expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
-<page>http://diskokosmiko.mx/chinchetas/los-vigilantes-d-la-playacast-d-la-1-a-la-5-temp-47353/list,1,5</page>
+<page>http://diskokosmiko.mx/jorge-garcia-luis/los-vigilantes-de-la-playa-93086/</page>
 <cookieJar></cookieJar>
 </regex>
 <regex>
@@ -784,7 +784,7 @@
 <name>tok</name>
 <expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
 <page>http://diskokosmiko.mx/[makelist.param2]</page>
-<referer>http://diskokosmiko.mx/chinchetas/el-principe-todas-temporadas-46239/list,1,2</referer>
+<referer>http://diskokosmiko.mx/jorge-garcia-luis/los-vigilantes-de-la-playa-93086/</referer>
 <connection>keep-alive</connection>
 <cookieJar></cookieJar>
 </regex>
