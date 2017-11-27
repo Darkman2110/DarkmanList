@@ -76,3 +76,277 @@
 <fanart>http://img.rtve.es/v/3231408/</fanart>
 <thumbnail>http://2.bp.blogspot.com/-EjPPT6C4xMQ/UPQwzC329ZI/AAAAAAAAcjU/L4cjlaN-cfs/s1600/el-precio-justo-1.jpeg</thumbnail>
 </item>
+
+<item>
+<title>[COLOR white][COLOR yellow] •  [/COLOR]LA RULETA DE LA SUERTE[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+  <name>makelist</name>
+  <listrepeat><![CDATA[
+        <title>[COLOR yellow] [makelist.param3] [/COLOR]</title>
+        <link>$doregex[getUrl]</link>
+<fanart>http://s03.s3c.es/imag/_v0/770x420/e/9/7/ruleta-panel.jpg</fanart>
+<thumbnail>https://dytcjf6nyxl07.cloudfront.net/1023/2413/bigWelcomePic_4.png</thumbnail>
+]]></listrepeat>
+<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+<page>http://diskokosmiko.mx/jorge-garcia-luis/la-ruleta-de-la-suerte-90989</page>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&f=[makelist.param1]</page>
+<rawpost>fileId=[makelist.param1]&__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+<connection>keep-alive</connection>
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>tok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<referer>http://diskokosmiko.mx/jorge-garcia-luis/la-ruleta-de-la-suerte-90989</referer>
+<connection>keep-alive</connection>
+<cookieJar></cookieJar>
+</regex>
+<fanart>http://s03.s3c.es/imag/_v0/770x420/e/9/7/ruleta-panel.jpg</fanart>
+<thumbnail>https://dytcjf6nyxl07.cloudfront.net/1023/2413/bigWelcomePic_4.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white][COLOR yellow] •  [/COLOR]SABER Y GANAR[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+  <name>makelist</name>
+  <listrepeat><![CDATA[
+        <title>[COLOR yellow] [makelist.param3] [/COLOR]</title>
+        <link>$doregex[getUrl]</link>
+<fanart>http://img.rtve.es/v/126713/</fanart>
+<thumbnail>http://is3.mzstatic.com/image/thumb/Purple5/v4/07/4e/e2/074ee239-3939-c07b-bab6-30a32e34d306/source/1200x630bb.jpg</thumbnail>
+]]></listrepeat>
+<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+<page>http://diskokosmiko.mx/jorge-garcia-luis/saber-y-ganar-91179</page>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&f=[makelist.param1]</page>
+<rawpost>fileId=[makelist.param1]&__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+<connection>keep-alive</connection>
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>tok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<referer>http://diskokosmiko.mx/jorge-garcia-luis/saber-y-ganar-91179</referer>
+<connection>keep-alive</connection>
+<cookieJar></cookieJar>
+</regex>
+<fanart>http://img.rtve.es/v/126713/</fanart>
+<thumbnail>http://is3.mzstatic.com/image/thumb/Purple5/v4/07/4e/e2/074ee239-3939-c07b-bab6-30a32e34d306/source/1200x630bb.jpg</thumbnail>
+</item>
+
+
+<item>
+<title>[COLOR white][COLOR yellow] •  [/COLOR]GRAND PRIX[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+  <name>makelist</name>
+  <listrepeat><![CDATA[
+        <title>[COLOR yellow] [makelist.param3] [/COLOR]</title>
+        <link>$doregex[getUrl]</link>
+<fanart>http://www.lavanguardia.com/r/GODO/LV/p4/WebSite/2017/04/25/Recortada/img_jsilvestre_20170425-211756_imagenes_lv_terceros_gran_prix-kj9C--656x430@LaVanguardia-Web.jpg</fanart>
+<thumbnail>http://www.diariodevalderrueda.es/images/showid/983360</thumbnail>
+]]></listrepeat>
+<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+<page>http://diskokosmiko.mx/jorge-garcia-luis/grand-prix-90333</page>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&f=[makelist.param1]</page>
+<rawpost>fileId=[makelist.param1]&__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+<connection>keep-alive</connection>
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>tok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<referer>http://diskokosmiko.mx/jorge-garcia-luis/el-gran-juego-de-la-oca-90990/</referer>
+<connection>keep-alive</connection>
+<cookieJar></cookieJar>
+</regex>
+<fanart>http://www.lavanguardia.com/r/GODO/LV/p4/WebSite/2017/04/25/Recortada/img_jsilvestre_20170425-211756_imagenes_lv_terceros_gran_prix-kj9C--656x430@LaVanguardia-Web.jpg</fanart>
+<thumbnail>http://www.diariodevalderrueda.es/images/showid/983360</thumbnail>
+</item>
+
+
+
+<item>
+<title>[COLOR white][COLOR yellow] •  [/COLOR]EL GRAN JUEGO DE LA OCA[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+  <name>makelist</name>
+  <listrepeat><![CDATA[
+        <title>[COLOR yellow] [makelist.param3] [/COLOR]</title>
+        <link>$doregex[getUrl]</link>
+<fanart>http://blogs.lainformacion.com/telediaria/files/2013/10/El-gran-juego-de-la-Oca-Lydia-Bosch-Patricia-Perez-Emilio-Aragon.jpg</fanart>
+<thumbnail>http://cadreita.es/wp-content/uploads/2015/12/el_gran_juego_de_la_oca_logo_by_queenpili.jpg</thumbnail>
+]]></listrepeat>
+<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+<page>http://diskokosmiko.mx/jorge-garcia-luis/el-gran-juego-de-la-oca-90990/</page>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&f=[makelist.param1]</page>
+<rawpost>fileId=[makelist.param1]&__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+<connection>keep-alive</connection>
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>tok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<referer>http://diskokosmiko.mx/jorge-garcia-luis/el-gran-juego-de-la-oca-90990/</referer>
+<connection>keep-alive</connection>
+<cookieJar></cookieJar>
+</regex>
+<fanart>http://blogs.lainformacion.com/telediaria/files/2013/10/El-gran-juego-de-la-Oca-Lydia-Bosch-Patricia-Perez-Emilio-Aragon.jpg</fanart>
+<thumbnail>http://cadreita.es/wp-content/uploads/2015/12/el_gran_juego_de_la_oca_logo_by_queenpili.jpg</thumbnail>
+</item>
+
+
+<item>
+<title>[COLOR white][COLOR yellow] •  [/COLOR]QUIEN QUIERE SER MILLOARIO[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+  <name>makelist</name>
+  <listrepeat><![CDATA[
+        <title>[COLOR yellow] [makelist.param3] [/COLOR]</title>
+        <link>$doregex[getUrl]</link>
+<fanart>http://fress.co/wp-content/uploads/2016/07/quiz-eres-capaz-pasar-primer-nivel-quien-quiere-ser-millonario-fress.jpg</fanart>
+<thumbnail>http://breinguash.com/wp-content/uploads/2014/09/millonario.jpg</thumbnail>
+]]></listrepeat>
+<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+<page>http://diskokosmiko.mx/jorge-garcia-luis/quien-quiere-ser-millonario-91011</page>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&f=[makelist.param1]</page>
+<rawpost>fileId=[makelist.param1]&__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+<connection>keep-alive</connection>
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>tok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<referer>http://diskokosmiko.mx/jorge-garcia-luis/no-te-rias-que-es-peor-91184/</referer>
+<connection>keep-alive</connection>
+<cookieJar></cookieJar>
+</regex>
+<fanart>http://fress.co/wp-content/uploads/2016/07/quiz-eres-capaz-pasar-primer-nivel-quien-quiere-ser-millonario-fress.jpg</fanart>
+<thumbnail>http://breinguash.com/wp-content/uploads/2014/09/millonario.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white][COLOR yellow] •  [/COLOR]NO TE RIAS QUE ES PEOR[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+  <name>makelist</name>
+  <listrepeat><![CDATA[
+        <title>[COLOR yellow] [makelist.param3] [/COLOR]</title>
+        <link>$doregex[getUrl]</link>
+<fanart>https://i.ytimg.com/vi/duLdRW_5wz8/hqdefault.jpg</fanart>
+<thumbnail>http://www.gestmusic.es/wp-content/uploads/2016/05/NO-TE-R%C3%8DAS-QUE-ES-PEOR-OK.jpg</thumbnail>
+]]></listrepeat>
+<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+<page>http://diskokosmiko.mx/jorge-garcia-luis/no-te-rias-que-es-peor-91184/</page>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&f=[makelist.param1]</page>
+<rawpost>fileId=[makelist.param1]&__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+<connection>keep-alive</connection>
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>tok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<referer>http://diskokosmiko.mx/jorge-garcia-luis/no-te-rias-que-es-peor-91184/</referer>
+<connection>keep-alive</connection>
+<cookieJar></cookieJar>
+</regex>
+<fanart>https://i.ytimg.com/vi/duLdRW_5wz8/hqdefault.jpg</fanart>
+<thumbnail>http://www.gestmusic.es/wp-content/uploads/2016/05/NO-TE-R%C3%8DAS-QUE-ES-PEOR-OK.jpg</thumbnail>
+</item>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
