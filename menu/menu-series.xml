@@ -12,13 +12,20 @@
 
 
 <item>
-<title>[UPPERCASE][COLOR white][COLOR yellow] •  [/COLOR]Castle[/COLOR][/UPPERCASE]</title>
+<title>[UPPERCASE][COLOR white][COLOR yellow] •  [/COLOR]CASTLE[/COLOR][/UPPERCASE]</title>
  <link>http://Ignoreme</link>
 <externallink>https://raw.githubusercontent.com/Darkman2110/DarkmanList/master/series/castle.xml</externallink>
 <thumbnail>https://pbs.twimg.com/media/CNgcN3aWEAAYUY6.jpg</thumbnail>
 <fanart>https://elpais.com/cultura/imagenes/2016/05/13/television/1463094798_749098_1463129008_noticia_fotograma.jpg</fanart>
 </item>
 
+<item>
+<title>[UPPERCASE][COLOR white][COLOR yellow] •  [/COLOR]EUREKA[/COLOR][/UPPERCASE]</title>
+ <link>http://Ignoreme</link>
+<externallink>https://raw.githubusercontent.com/Darkman2110/DarkmanList/master/series/eureka.xml</externallink>
+<thumbnail>https://pics.filmaffinity.com/eureka_tv_series-476241319-large.jpg</thumbnail>
+<fanart>http://fuertecito.groarl.com/files/2012/07/eurfin1.jpeg</fanart>
+</item>
 
 <item>
 <title>[COLOR white][COLOR yellow] •  [/COLOR]STAR TREK VOYAGER[/COLOR]</title>
@@ -95,45 +102,6 @@
 <fanart>http://www.startrek.com/uploads/assets/articles/597afec8a4d8fc500cd428dc7808ded3259c1632.jpg</fanart>
 <thumbnail>http://www.gstatic.com/tv/thumb/tvbanners/13114224/p13114224_b_v8_aa.jpg</thumbnail>
 </item>
-
-<item>
-<title>[COLOR white][COLOR yellow] •  [/COLOR]EUREKA[/COLOR]</title>
-<link>$doregex[makelist]</link>
-<regex>
-  <name>makelist</name>
-  <listrepeat><![CDATA[
-        <title>[COLOR yellow] [makelist.param3] [/COLOR]</title>
-        <link>$doregex[getUrl]</link>
-<fanart>http://www.vootar.com/imgs/elementos/1297283702_Eureka.jpg</fanart>
-<thumbnail>http://www.seriespapaya.com/uploads/Eureka27.jpg</thumbnail>
-]]></listrepeat>
-<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
-<page>http://diskokosmiko.mx/chicho306/eureka-24409/list,1,3</page>
-<cookieJar></cookieJar>
-</regex>
-<regex>
-<name>getUrl</name>
-<expres>DownloadUrl":"([^"]+)<expres>
-<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&f=[makelist.param1]</page>
-<rawpost>fileId=[makelist.param1]&__RequestVerificationToken=$doregex[tok]</rawpost>
-<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
-<connection>keep-alive</connection>
-<accept>*/*</accept>
-<X-Req>XMLHttpRequest</X-Req>
-<cookieJar></cookieJar>
-</regex>
-<regex>
-<name>tok</name>
-<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
-<page>http://diskokosmiko.mx/[makelist.param2]</page>
-<referer>http://diskokosmiko.mx/chicho306/eureka-24409/list,1,3</referer>
-<connection>keep-alive</connection>
-<cookieJar></cookieJar>
-</regex>
-<fanart>http://www.vootar.com/imgs/elementos/1297283702_Eureka.jpg</fanart>
-<thumbnail>http://www.seriespapaya.com/uploads/Eureka27.jpg</thumbnail>
-</item>
-
 
 <item>
 <title>[UPPERCASE][COLOR white][COLOR yellow] •  [/COLOR]Stargate SG-1[/COLOR][/UPPERCASE]</title>
