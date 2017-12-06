@@ -95,12 +95,12 @@ h
 <page>http://livesports.pw/embed2.php?file=telecinco&amp;width=650&amp;height=397</page>
 <cookieJar></cookieJar>
 </regex>
-<thumbnail>https://vignette.wikia.nocookie.net/logopedia/images/2/22/Boinges.png/revision/latest?cb=20160313214531</thumbnail>
+<thumbnail>http://zonadjjavi.webcindario.com/Kodi/logos/telecinco1.jpg</thumbnail>
 <fanart>http://zonadjjavi.webcindario.com/Kodi/fanart.jpg</fanart>
 </item>
 
 <item>
-<title>[COLOR white][COLOR yellow] •  [/COLOR]BOING/COLOR]</title>
+<title>[COLOR white][COLOR yellow] •  [/COLOR]BOING[/COLOR]</title>
  <link>$doregex[GetPageUrl]|Referer=http://livesports.pw/embed2.php?file=launotelefivegb&amp;User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64; rv:54.0) Gecko/20100101 Firefox/54.0</link>
 <regex>
 <name>GetPageUrl</name>
@@ -108,40 +108,59 @@ h
 <page>http://livesports.pw/embed2.php?file=boing&amp;width=650&amp;height=397</page>
 <cookieJar></cookieJar>
 </regex>
-<thumbnail>http://zonadjjavi.webcindario.com/Kodi/logos/telecinco1.jpg</thumbnail>
+<thumbnail>http://www.simbajuguetes.com/wp-content/uploads/2017/05/logo-boing.png</thumbnail>
 <fanart>http://zonadjjavi.webcindario.com/Kodi/fanart.jpg</fanart>
 </item>
 
-
-
-
 <item>
 <title>[COLOR white][COLOR yellow] •  [/COLOR]FDF[/COLOR]</title>
-<link>http://mset-prgb-2.live-delivery.ooyala.com/out/u/3vkkbgnvsm2r5/104951/loYTNlYjE6KFUGlp_a0YvbscmkxBie8v/cn/30aa9e379dfa4815ba6d36cbb70fc254_4.m3u8</link>
+<link>$doregex[get-id]|User-Agent=iPad&amp;Referer=http://vergol.com/live/tve1.php</link>
+<regex>
+<name>get-id</name>
+<expres>source: '(.*?)'</expres>
+<page>http://vergol.com/live/fdf.php</page>
+<referer>http://vercanalestv.com/tv/nacionales/tve-1.html</referer>
+<agent>iPad</agent>
+</regex>
 <thumbnail>http://zonadjjavi.webcindario.com/Kodi/logos/fdf1.jpg</thumbnail>
 <fanart>http://zonadjjavi.webcindario.com/Kodi/fanart.jpg</fanart>
 </item>
 
 <item>
 <title>[COLOR white][COLOR yellow] •  [/COLOR]BE MAD[/COLOR]</title>
-<link>http://mset-prod-1.live-delivery.ooyala.com/out/u/3vkkbgnvsm2r5/104951/4yaHlnNTE6C3jW9zsD272G4pZkoq-Pur/cn/909a630af13d46aaabcb4e5895d9ac35_3.m3u8</link>
+<link> <link>$doregex[GetPageUrl]|Referer=http://livesports.pw/embed2.php?file=launotelefivegb&amp;User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64; rv:54.0) Gecko/20100101 Firefox/54.0</link>
+<regex>
+<name>GetPageUrl</name>
+<expres>source: '(.*?)'</expres>
+<page>http://livesports.pw/embed2.php?file=bemad&amp;width=650&amp;height=397</page>
+<cookieJar></cookieJar>
+</regex>
 <thumbnail>http://zonadjjavi.webcindario.com/Kodi/logos/bemad1.jpg</thumbnail>
 <fanart>http://zonadjjavi.webcindario.com/Kodi/fanart.jpg</fanart>
 </item>
 
-
-
 <item>
 <title>[COLOR white][COLOR yellow] •  [/COLOR]DIVINITY[/COLOR]</title>
-<link>http://mset-prgb-2.live-delivery.ooyala.com/out/u/3vkkbgnvsm2r5/104951/IybDNyYTE6j7PZaKerX9iKFSCuctjf5B/cn/95d3fccb2d6f4ad6b09d23e7c67d3acf_4.m3u8</link>
-<referer>http://cinestrenostv.tv</referer>
+ <link>$doregex[GetPageUrl]|Referer=http://livesports.pw/embed2.php?file=launotelefivegb&amp;User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64; rv:54.0) Gecko/20100101 Firefox/54.0</link>
+<regex>
+<name>GetPageUrl</name>
+<expres>source: '(.*?)'</expres>
+<page>http://livesports.pw/embed2.php?file=divinity&amp;width=650&amp;height=397</page>
+<cookieJar></cookieJar>
+</regex>
 <thumbnail>http://zonadjjavi.webcindario.com/Kodi/logos/divinity1.jpg</thumbnail>
 <fanart>http://zonadjjavi.webcindario.com/Kodi/fanart.jpg</fanart>
 </item>
 
 <item>
 <title>[COLOR white][COLOR yellow] •  [/COLOR]ENERGY[/COLOR]</title>
-<link>http://mset-prgb-2.live-delivery.ooyala.com/out/u/3vkkbgnvsm2r5/104951/5zbW9tYzE6c6Xd1o5Y12HgBkAd3upNLp/cn/ab297324953a402895aa2edb6928b0c3_1.m3u8</link>
+ <link>$doregex[GetPageUrl]|Referer=http://livesports.pw/embed2.php?file=launotelefivegb&amp;User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64; rv:54.0) Gecko/20100101 Firefox/54.0</link>
+<regex>
+<name>GetPageUrl</name>
+<expres>source: '(.*?)'</expres>
+<page>http://livesports.pw/embed2.php?file=energy&amp;width=650&amp;height=397</page>
+<cookieJar></cookieJar>
+</regex>
 <referer>http://cinestrenostv.tv</referer>
 <thumbnail>http://zonadjjavi.webcindario.com/Kodi/logos/energy1.jpg</thumbnail>
 <fanart>http://zonadjjavi.webcindario.com/Kodi/fanart.jpg</fanart>
