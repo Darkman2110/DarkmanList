@@ -139,6 +139,22 @@ item>
 </item>
 
 <item>
+<title>[COLOR white][COLOR yellow] •  [/COLOR] CANAL TCM [/COLOR] </title>
+<link>$doregex[get-id]|User-Agent=iPad</link>
+<regex>
+<name>get-id</name>
+<expres>[",\'](h.*m3u8.*?)'</expres>
+<page>http://cinestrenostv.tv/canales/nacionales/tcm.php</page>
+<referer>http://vertelevisor.com/tv/nacionales/axn.html</referer>
+<agent>iPad</agent>
+</regex>
+<thumbnail>https://ugc.kn3.net/i/origin/http://www.eastwebside.com/wp-content/uploads/2011/11/TCM.11.jpg</thumbnail>   
+</item>
+
+
+
+
+<item>
 <title>[COLOR white][COLOR yellow] •  [/COLOR] CANAL AMC [/COLOR] </title>
 <sportsdevil>http://cinestrenostv.tv/canales/nacionales/amc.php?channel=105242&autoplay=true</sportsdevil>
 <referer>http://www.iguide.to</referer>
