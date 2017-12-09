@@ -210,6 +210,54 @@
 </item>
 
 
+<item>
+		<title>[COLOR skyblue]PELICULAS DRAGON BALL [/COLOR]</title>
+		<link>$doregex[makelist]</link>
+		<regex>
+			<name>makelist</name>
+			<listrepeat><![CDATA[
+			<title>[makelist.param3]</title>
+			<link>$doregex[getUrl]</link>
+			<thumbnail>http://3.bp.blogspot.com/-N3AGlwFrxHI/VZtNSf2gmkI/AAAAAAAAASo/sYIbj9gip2k/s1600/DBPELICULAS.jpg</thumbnail>
+			<fanart>https://cdn.hobbyconsolas.com/sites/navi.axelspringer.es/public/styles/main_element/public/media/image/2017/10/dragon-ball-2018.jpg?itok=XmhywV1L</fanart>
+			]]></listrepeat>
+			<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+			<page>http://diskokosmiko.mx/retrogames33/dbo-77047/list,1,100</page>
+			<cookieJar></cookieJar>
+		</regex>
+		<regex>
+			<name>getUrl</name>
+			<expres>DownloadUrl":"([^"]+)<expres>
+			<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
+			<rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
+			<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+			<connection>keep-alive</connection>
+			<accept>*/*</accept>
+			<X-Req>XMLHttpRequest</X-Req>
+			<cookieJar></cookieJar>
+		</regex>
+		<regex>
+			<name>tok</name>
+			<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+			<page>http://diskokosmiko.mx/[makelist.param2]</page>
+			<referer>http://diskokosmiko.mx/retrogames33/dbo-77047/list,1,100</referer>
+			<connection>keep-alive</connection>
+			<cookieJar></cookieJar>
+		</regex>
+		<thumbnail>http://3.bp.blogspot.com/-N3AGlwFrxHI/VZtNSf2gmkI/AAAAAAAAASo/sYIbj9gip2k/s1600/DBPELICULAS.jpg</thumbnail>
+		<fanart>https://cdn.hobbyconsolas.com/sites/navi.axelspringer.es/public/styles/main_element/public/media/image/2017/10/dragon-ball-2018.jpg?itok=XmhywV1L</fanart>
+	</item>
+<name>tok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<referer>http://diskokosmiko.mx/jorge-garcia-luis/un-dos-tres-responda-otra-vez-91015</referer>
+<connection>keep-alive</connection>
+<cookieJar></cookieJar>
+</regex>
+<fanart>http://ramenparados.com/wp-content/uploads/2015/11/dragon-ball-akira-toriyama.jpg</fanart>
+<thumbnail>http://i.imgur.com/OdFTtZ8.jpg?2</thumbnail>
+</item>
+
 
 
 
