@@ -211,7 +211,7 @@
 
 
 <item>
-		<title>[COLOR skyblue]PELICULAS DRAGON BALL [/COLOR]</title>
+		<title>[COLOR white][COLOR yellow] •  [/COLOR]PELICULAS DRAGON BALL [/COLOR]</title>
 		<link>$doregex[makelist]</link>
 		<regex>
 			<name>makelist</name>
