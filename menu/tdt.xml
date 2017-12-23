@@ -25,21 +25,23 @@ h
 
  <item>
 <title>[COLOR white][COLOR yellow] •  [/COLOR]OPERACION TRIUNFO 24H[/COLOR]</title>
-<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=KyiWTLfKd2M</link>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=6Lzw7oYTEMo</link>
 <thumbnail>https://pbs.twimg.com/profile_images/887964803343503360/nvitNfww_400x400.jpg</thumbnail>
 <fanart>http://zonadjjavi.webcindario.com/Kodi/fanart.jpg</fanart>
 </item>
- 
+
+
+
 <item>
 <title>[COLOR white][COLOR yellow] •  [/COLOR]LA 1 HD[/COLOR]</title>
-<link>http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl7/la1_lv3_aosv4_gl7/la1_lv3_aosv4_gl7.isml/la1_lv3_aosv4_gl7-audio=128000-video=650000.m3u8</link>
+<link>http://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/index_1500_av-b.m3u8?sd=10&rebase=on</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/7/76/La_1_HD_TVE.png</thumbnail>
 <fanart>http://zonadjjavi.webcindario.com/Kodi/fanart.jpg</fanart>
 </item>
 
 <item>
 <title>[COLOR white][COLOR yellow] •  [/COLOR]LA 2 HD[/COLOR]</title>
-<link>http://hlsackdn_gl0-lh.akamaihd.net/i/hlslive_1@439422/index_1500_av-b.m3u8?sd=10&rebase=on</link>
+<link>http://hlsackdn_gl1-lh.akamaihd.net/i/hlslive_1@439397/index_1500_av-b.m3u8?sd=10&rebase=on</link>
 <thumbnail>http://img.rtve.es/a/3803139?w=1180&preview=1479280957704.jpg</thumbnail>
 <fanart>http://zonadjjavi.webcindario.com/Kodi/fanart.jpg</fanart>
 </item>
