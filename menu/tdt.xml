@@ -34,7 +34,14 @@ h
 
 <item>
 <title>[COLOR white][COLOR yellow] •  [/COLOR]LA 1 HD[/COLOR]</title>
-<link>http://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/index_1500_av-b.m3u8?sd=10&rebase=on</link>
+<link>$doregex[get-id]|User-Agent=iPad&amp;Referer=http://vergol.com/live/tve1.php</link>
+<regex>
+<name>get-id</name>
+<expres>source: '(.*?)'</expres>
+<page>http://vergol.com/live/tve1.php</page>
+<referer>http://vercanalestv.com/tv/nacionales/tve-1.html</referer>
+<agent>iPad</agent>
+</regex>
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/7/76/La_1_HD_TVE.png</thumbnail>
 <fanart>http://zonadjjavi.webcindario.com/Kodi/fanart.jpg</fanart>
 </item>
