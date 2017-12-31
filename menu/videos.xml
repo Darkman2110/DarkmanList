@@ -2,7 +2,7 @@
 <channel>
     <name>          <<<<<<<<<Videos Musicales >>>>>>>></name>
        <thumbnail></thumbnail>
-      anart>https://github.com/Darkman2110/repo/blob/master/Repositorio/plugin.video.DarkmanList/fanart.jpg</fanart>
+      anart>http://zonadjjavi.webcindario.com/fanart.jpg</fanart>
         <items>
 		
 		
@@ -15,118 +15,118 @@
 <title>[COLOR white]Top Latino TV[/COLOR]</title>
  <link>http://online.radiodifusion.net:1935/livetv/latinoSD.stream/chunklist_w413972136.m3u8</link>
 <thumbnail></thumbnail>
-anart>https://github.com/Darkman2110/repo/blob/master/Repositorio/plugin.video.DarkmanList/fanart.jpg</fanart>
+anart>http://zonadjjavi.webcindario.com/fanart.jpg</fanart>
 </item>	
 
  <item>
 <title>[COLOR white]M2O Music[/COLOR]</title>
 <link>http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?sd=10&rebase=on</link>
 <thumbnail></thumbnail>
-anart>https://github.com/Darkman2110/repo/blob/master/Repositorio/plugin.video.DarkmanList/fanart.jpg</fanart>
+anart>http://zonadjjavi.webcindario.com/fanart.jpg</fanart>
 </item>
 
  <item>
 <title>[COLOR white]Montecarlo Music[/COLOR]</title>
 <link>rtmp://fms.105.net/live/rmc1</link>
 <thumbnail></thumbnail>
-anart>https://github.com/Darkman2110/repo/blob/master/Repositorio/plugin.video.DarkmanList/fanart.jpg</fanart>
+anart>http://zonadjjavi.webcindario.com/fanart.jpg</fanart>
 </item>
 
 <item>
 <title>[COLOR white]Hit TV[/COLOR]</title>
 <link>http://kissfm-cires21-video.secure.footprint.net/hittv/bitrate_4.m3u8</link>
 <thumbnail>http://zonadjjavi.webcindario.com/Kodi/logos/hittv.jpg</thumbnail>
-anart>https://github.com/Darkman2110/repo/blob/master/Repositorio/plugin.video.DarkmanList/fanart.jpg</fanart>
+anart>http://zonadjjavi.webcindario.com/fanart.jpg</fanart>
 </item>
 
 <item>
 <title>[COLOR white]HEART TV HD[/COLOR]</title>
 <link>http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/master.m3u8</link>
 <thumbnail></thumbnail>
-anart>https://github.com/Darkman2110/repo/blob/master/Repositorio/plugin.video.DarkmanList/fanart.jpg</fanart>
+anart>http://zonadjjavi.webcindario.com/fanart.jpg</fanart>
 </item>
 
 <item>
 <title>[COLOR white]DJING Dance Floor HD[/COLOR]</title>
 <link>http://www.djing.com/tv/d-05.m3u8</link>
 <thumbnail></thumbnail>
-anart>https://github.com/Darkman2110/repo/blob/master/Repositorio/plugin.video.DarkmanList/fanart.jpg</fanart>
+anart>http://zonadjjavi.webcindario.com/fanart.jpg</fanart>
 </item>
 
 <item>
 <title>[COLOR white]DJING Animation HD[/COLOR]</title>
 <link>http://www.djing.com/tv/a-05.m3u8</link>
 <thumbnail></thumbnail>
-anart>https://github.com/Darkman2110/repo/blob/master/Repositorio/plugin.video.DarkmanList/fanart.jpg</fanart>
+anart>http://zonadjjavi.webcindario.com/fanart.jpg</fanart>
 </item>
 
 <item>
 <title>[COLOR white]DJING Classic HD[/COLOR]</title>
 <link>http://www.djing.com/tv/i-05.m3u8</link>
 <thumbnail></thumbnail>
-anart>https://github.com/Darkman2110/repo/blob/master/Repositorio/plugin.video.DarkmanList/fanart.jpg</fanart>
+anart>http://zonadjjavi.webcindario.com/fanart.jpg</fanart>
 </item>
 
 <item>
 <title>[COLOR white]OTTO 80 FM[/COLOR]</title>
 <link>http://live.youiptv.ch:1935/8FM/ngrp:8FM_all/playlist.m3u8?e74</link>
 <thumbnail></thumbnail>
-anart>https://github.com/Darkman2110/repo/blob/master/Repositorio/plugin.video.DarkmanList/fanart.jpg</fanart>
+anart>http://zonadjjavi.webcindario.com/fanart.jpg</fanart>
 </item>
 
 <item>
 <title>[COLOR white]Kronehit TV[/COLOR]</title>
 <link>http://bitcdn-kronehit-live.bitmovin.com/m3u8s/bitcodin.m3u8</link>
 <thumbnail></thumbnail>
-anart>https://github.com/Darkman2110/repo/blob/master/Repositorio/plugin.video.DarkmanList/fanart.jpg</fanart>
+anart>http://zonadjjavi.webcindario.com/fanart.jpg</fanart>
 </item>
 
 <item>
 <title>[COLOR white]Capital TV[/COLOR]</title>
 <link>http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/index_656_av-p.m3u8?sd=10&rebase=on</link>
 <thumbnail></thumbnail>
-anart>https://github.com/Darkman2110/repo/blob/master/Repositorio/plugin.video.DarkmanList/fanart.jpg</fanart>
+anart>http://zonadjjavi.webcindario.com/fanart.jpg</fanart>
 </item>
 
 <item>
 <title>[COLOR white]Colosal Music[/COLOR]</title>
 <link>http://k3.usastreams.com:1935/colosaltv1/colosaltv1/chunklist_w978150749.m3u8</link>
 <thumbnail></thumbnail>
-anart>https://github.com/Darkman2110/repo/blob/master/Repositorio/plugin.video.DarkmanList/fanart.jpg</fanart>
+anart>http://zonadjjavi.webcindario.com/fanart.jpg</fanart>
 </item>
 
 <item>
 <title>[COLOR white]Dream TV[/COLOR]</title>
 <link>http://live.netd.com.tr/S1/HLS_LIVE/dreamtv/1000/prog_index.m3u8</link>
 <thumbnail></thumbnail>
-anart>https://github.com/Darkman2110/repo/blob/master/Repositorio/plugin.video.DarkmanList/fanart.jpg</fanart>
+anart>http://zonadjjavi.webcindario.com/fanart.jpg</fanart>
 </item>
 
 <item>
 <title>[COLOR white]Si TV[/COLOR]</title>
 <link>http://st2.worldkast.com/8030/8030/chunklist_w1718584612.m3u8</link>
 <thumbnail></thumbnail>
-anart>https://github.com/Darkman2110/repo/blob/master/Repositorio/plugin.video.DarkmanList/fanart.jpg</fanart>
+anart>http://zonadjjavi.webcindario.com/fanart.jpg</fanart>
 </item>
 
 <item>
 <title>[COLOR white]Top Music – CityTV[/COLOR]</title>
 <link>http://nodeb.gocaster.net:1935/CGL/_definst_/mp4:TODAYFM_TEST2/live.m3u8</link>
 <thumbnail></thumbnail>
-anart>https://github.com/Darkman2110/repo/blob/master/Repositorio/plugin.video.DarkmanList/fanart.jpg</fanart>
+anart>http://zonadjjavi.webcindario.com/fanart.jpg</fanart>
 </item>
 
 <item>
 <title>[COLOR white]Radio 105 TV[/COLOR]</title>
 <link>rtmp://fms.105.net:1935/live/105Test1</link>
 <thumbnail></thumbnail>
-anart>https://github.com/Darkman2110/repo/blob/master/Repositorio/plugin.video.DarkmanList/fanart.jpg</fanart>
+anart>http://zonadjjavi.webcindario.com/fanart.jpg</fanart>
 </item>
 
 <item>
 <title>[COLOR white]VIRGIN TV[/COLOR]</title>
 <link>http://wow01.105.net/live/virgin1/.m3u8</link>
 <thumbnail></thumbnail>
-anart>https://github.com/Darkman2110/repo/blob/master/Repositorio/plugin.video.DarkmanList/fanart.jpg</fanart>
+anart>http://zonadjjavi.webcindario.com/fanart.jpg</fanart>
 </item>
 

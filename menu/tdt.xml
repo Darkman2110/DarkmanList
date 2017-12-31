@@ -3,7 +3,7 @@
  <channel>
     <name>          <<<<<<<<<Canales TDT HD>>>>>>>></name>
     <thumbnail></thumbnail>
-      <f<fanart>https://github.com/Darkman2110/repo/blob/master/Repositorio/plugin.video.DarkmanList/fanart.jpg</fanart>
+      <f<fanart>http://zonadjjavi.webcindario.com/fanart.jpg</fanart>
         <items>
 
 
@@ -20,14 +20,14 @@ h
 <title>[COLOR white][COLOR yellow] •  [/COLOR]GRAN HERMANO  24H[/COLOR]</title>
 <link>https://mdslivehls-i.akamaihd.net/hls/live/571672/realities/bitrate_4.m3u8</link>
 <thumbnail>http://www.ocio.net/wp-content/uploads/2015/05/gh.png</thumbnail>
-<fanart>https://github.com/Darkman2110/repo/blob/master/Repositorio/plugin.video.DarkmanList/fanart.jpg</fanart>
+<fanart>http://zonadjjavi.webcindario.com/fanart.jpg</fanart>
 </item>
 
  <item>
 <title>[COLOR white][COLOR yellow] •  [/COLOR]OPERACION TRIUNFO 24H[/COLOR]</title>
 <link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=6Lzw7oYTEMo</link>
 <thumbnail>https://pbs.twimg.com/profile_images/887964803343503360/nvitNfww_400x400.jpg</thumbnail>
-<fanart>https://github.com/Darkman2110/repo/blob/master/Repositorio/plugin.video.DarkmanList/fanart.jpg</fanart>
+<fanart>http://zonadjjavi.webcindario.com/fanart.jpg</fanart>
 </item>
 
 
@@ -43,14 +43,14 @@ h
 <agent>iPad</agent>
 </regex>
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/7/76/La_1_HD_TVE.png</thumbnail>
-<fanart>https://github.com/Darkman2110/repo/blob/master/Repositorio/plugin.video.DarkmanList/fanart.jpg</fanart>
+<fanart>http://zonadjjavi.webcindario.com/fanart.jpg</fanart>
 </item>
 
 <item>
 <title>[COLOR white][COLOR yellow] •  [/COLOR]LA 2 HD[/COLOR]</title>
 <link>http://hlsackdn_gl1-lh.akamaihd.net/i/hlslive_1@439397/index_1500_av-b.m3u8?sd=10&rebase=on</link>
 <thumbnail>http://img.rtve.es/a/3803139?w=1180&preview=1479280957704.jpg</thumbnail>
-<fanart>https://github.com/Darkman2110/repo/blob/master/Repositorio/plugin.video.DarkmanList/fanart.jpg</fanart>
+<fanart>http://zonadjjavi.webcindario.com/fanart.jpg</fanart>
 </item>
 
 <item>
@@ -63,7 +63,7 @@ h
 <cookieJar></cookieJar>
 </regex>
 <thumbnail>http://zonadjjavi.webcindario.com/Kodi/logos/cuatro1.jpg</thumbnail>
-<fanart>https://github.com/Darkman2110/repo/blob/master/Repositorio/plugin.video.DarkmanList/fanart.jpg</fanart>
+<fanart>http://zonadjjavi.webcindario.com/fanart.jpg</fanart>
 </item>
 
 <item>
@@ -77,7 +77,7 @@ h
 <agent>iPad</agent>
 </regex>
 <thumbnail>http://zonadjjavi.webcindario.com/Kodi/logos/cuatro1.jpg</thumbnail>
-<fanart>https://github.com/Darkman2110/repo/blob/master/Repositorio/plugin.video.DarkmanList/fanart.jpg</fanart>
+<fanart>http://zonadjjavi.webcindario.com/fanart.jpg</fanart>
 </item>
 
 
@@ -92,7 +92,7 @@ h
 <agent>iPad</agent>
 </regex>
 <thumbnail>http://zonadjjavi.webcindario.com/Kodi/logos/telecinco1.jpg</thumbnail>
-<fanart>https://github.com/Darkman2110/repo/blob/master/Repositorio/plugin.video.DarkmanList/fanart.jpg</fanart>
+<fanart>http://zonadjjavi.webcindario.com/fanart.jpg</fanart>
 </item>
 
 <item>
@@ -105,7 +105,7 @@ h
 <cookieJar></cookieJar>
 </regex>
 <thumbnail>http://zonadjjavi.webcindario.com/Kodi/logos/telecinco1.jpg</thumbnail>
-<fanart>https://github.com/Darkman2110/repo/blob/master/Repositorio/plugin.video.DarkmanList/fanart.jpg</fanart>
+<fanart>http://zonadjjavi.webcindario.com/fanart.jpg</fanart>
 </item>
 
 <item>
@@ -118,7 +118,7 @@ h
 <cookieJar></cookieJar>
 </regex>
 <thumbnail>http://www.simbajuguetes.com/wp-content/uploads/2017/05/logo-boing.png</thumbnail>
-<fanart>https://github.com/Darkman2110/repo/blob/master/Repositorio/plugin.video.DarkmanList/fanart.jpg</fanart>
+<fanart>http://zonadjjavi.webcindario.com/fanart.jpg</fanart>
 </item>
 
 <item>
@@ -132,7 +132,7 @@ h
 <agent>iPad</agent>
 </regex>
 <thumbnail>http://zonadjjavi.webcindario.com/Kodi/logos/fdf1.jpg</thumbnail>
-<fanart>https://github.com/Darkman2110/repo/blob/master/Repositorio/plugin.video.DarkmanList/fanart.jpg</fanart>
+<fanart>http://zonadjjavi.webcindario.com/fanart.jpg</fanart>
 </item>
 
 <item>
@@ -145,7 +145,7 @@ h
 <cookieJar></cookieJar>
 </regex>
 <thumbnail>http://zonadjjavi.webcindario.com/Kodi/logos/bemad1.jpg</thumbnail>
-<fanart>https://github.com/Darkman2110/repo/blob/master/Repositorio/plugin.video.DarkmanList/fanart.jpg</fanart>
+<fanart>http://zonadjjavi.webcindario.com/fanart.jpg</fanart>
 </item>
 
 <item>
@@ -158,7 +158,7 @@ h
 <cookieJar></cookieJar>
 </regex>
 <thumbnail>http://zonadjjavi.webcindario.com/Kodi/logos/divinity1.jpg</thumbnail>
-<fanart>https://github.com/Darkman2110/repo/blob/master/Repositorio/plugin.video.DarkmanList/fanart.jpg</fanart>
+<fanart>http://zonadjjavi.webcindario.com/fanart.jpg</fanart>
 </item>
 
 <item>
@@ -172,7 +172,7 @@ h
 </regex>
 <referer>http://cinestrenostv.tv</referer>
 <thumbnail>http://zonadjjavi.webcindario.com/Kodi/logos/energy1.jpg</thumbnail>
-<fanart>https://github.com/Darkman2110/repo/blob/master/Repositorio/plugin.video.DarkmanList/fanart.jpg</fanart>
+<fanart>http://zonadjjavi.webcindario.com/fanart.jpg</fanart>
 </item>
 
 
@@ -181,76 +181,76 @@ h
 <title>[COLOR white][COLOR yellow] •  [/COLOR]ANTENA 3 HD[/COLOR]</title>
 <link>http://a3live-lh.akamaihd.net/i/antena3_1@35248/index_3_av-b.m3u8?sd=11&amp;rebase=on</link>
 <thumbnail>http://zonadjjavi.webcindario.com/Kodi/logos/antena31.jpg</thumbnail>
-<fanart>https://github.com/Darkman2110/repo/blob/master/Repositorio/plugin.video.DarkmanList/fanart.jpg</fanart>
+<fanart>http://zonadjjavi.webcindario.com/fanart.jpg</fanart>
 </item>
 
 <item>
 <title>[COLOR white][COLOR yellow] •  [/COLOR]NEOX HD[/COLOR]</title>
 <link>http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/master.m3u8</link>
 <thumbnail>http://zonadjjavi.webcindario.com/Kodi/logos/neox1.jpg</thumbnail>
-<fanart>https://github.com/Darkman2110/repo/blob/master/Repositorio/plugin.video.DarkmanList/fanart.jpg</fanart>
+<fanart>http://zonadjjavi.webcindario.com/fanart.jpg</fanart>
 </item>
 
 <item>
 <title>[COLOR white][COLOR yellow] •  [/COLOR]LA SEXTA HD[/COLOR]</title>
 <link>http://a3live-lh.akamaihd.net/i/lasexta_1@35272/master.m3u8</link>
 <thumbnail>http://zonadjjavi.webcindario.com/Kodi/logos/lasexta1.jpg</thumbnail>
-<fanart>https://github.com/Darkman2110/repo/blob/master/Repositorio/plugin.video.DarkmanList/fanart.jpg</fanart>
+<fanart>http://zonadjjavi.webcindario.com/fanart.jpg</fanart>
 </item>
 
 <item>
 <title>[COLOR white][COLOR yellow] •  [/COLOR]MEGA HD[/COLOR]</title>
 <link>http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/master.m3u8</link>
 <thumbnail>http://zonadjjavi.webcindario.com/Kodi/logos/mega1.jpg</thumbnail>
-<fanart>https://github.com/Darkman2110/repo/blob/master/Repositorio/plugin.video.DarkmanList/fanart.jpg</fanart>
+<fanart>http://zonadjjavi.webcindario.com/fanart.jpg</fanart>
 </item>
 
 <item>
 <title>[COLOR white][COLOR yellow] •  [/COLOR]A3 SERIES HD[/COLOR]</title>
 <link>http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/master.m3u8</link>
 <thumbnail>http://zonadjjavi.webcindario.com/Kodi/logos/A3SS.jpg</thumbnail>
-<fanart>https://github.com/Darkman2110/repo/blob/master/Repositorio/plugin.video.DarkmanList/fanart.jpg</fanart>
+<fanart>http://zonadjjavi.webcindario.com/fanart.jpg</fanart>
 </item>
 
 <item>
 <title>[COLOR white][COLOR yellow] •  [/COLOR]NOVA HD[/COLOR]</title>
 <link>http://a3live-lh.akamaihd.net/i/nvhds/geonova_1@379404/master.m3u8</link>
 <thumbnail>http://zonadjjavi.webcindario.com/Kodi/logos/nova1.jpg</thumbnail>
-<fanart>https://github.com/Darkman2110/repo/blob/master/Repositorio/plugin.video.DarkmanList/fanart.jpg</fanart>
+<fanart>http://zonadjjavi.webcindario.com/fanart.jpg</fanart>
 </item>
 
 <item>
 <title>[COLOR white][COLOR yellow] •  [/COLOR]24 HORAS[/COLOR]</title>
 <link>http://hlsackdn_gl8-lh.akamaihd.net/i/hlsdvrlive_1@81183/index_0400_av-p.m3u8?sd=10&rebase=on</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/1200px-Logo_TVE-24h.svg.png</thumbnail>
-<fanart>https://github.com/Darkman2110/repo/blob/master/Repositorio/plugin.video.DarkmanList/fanart.jpg</fanart>
+<fanart>http://zonadjjavi.webcindario.com/fanart.jpg</fanart>
 </item>
 
 <item>
 <title>[COLOR white][COLOR yellow] •  [/COLOR]13 TV[/COLOR]</title>
 <link>http://streaming13tv.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/smil:live.smil/chunklist_w1664206825_b700000.m3u8</link>
 <thumbnail>http://zonadjjavi.webcindario.com/Kodi/logos/c13tv1.jpg</thumbnail>
-<fanart>https://github.com/Darkman2110/repo/blob/master/Repositorio/plugin.video.DarkmanList/fanart.jpg</fanart>
+<fanart>http://zonadjjavi.webcindario.com/fanart.jpg</fanart>
 </item>
 
 <item>
 <title>[COLOR white][COLOR yellow] •  [/COLOR]PARAMOUNT CHANNEL[/COLOR]</title>
 <link>http://paramount.live.flumotion.com/live/chunks.m3u8</link>
 <thumbnail>https://cdn.dday.it/system/uploads/news/main_image/19288/main_pmchannel.jpg</thumbnail>
-<fanart>https://github.com/Darkman2110/repo/blob/master/Repositorio/plugin.video.DarkmanList/fanart.jpg</fanart>
+<fanart>http://zonadjjavi.webcindario.com/fanart.jpg</fanart>
 </item>
 <item>
 <title>[COLOR white][COLOR yellow] •  [/COLOR]REAL MADRID[/COLOR]</title>
 <link>http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/index_3_av-p.m3u8?sd=10&rebase=on</link>
 <thumbnail>http://zonadjjavi.webcindario.com/Kodi/logos/real_madrid.jpg</thumbnail>
-<fanart>https://github.com/Darkman2110/repo/blob/master/Repositorio/plugin.video.DarkmanList/fanart.jpg</fanart>
+<fanart>http://zonadjjavi.webcindario.com/fanart.jpg</fanart>
 </item>
 
 <item>
 <title>[COLOR white][COLOR yellow] •  [/COLOR]HIT TV[/COLOR]</title>
 <link>http://kissfm-cires21-video.secure.footprint.net/hittv/bitrate_4.m3u8</link>
 <thumbnail>http://zonadjjavi.webcindario.com/Kodi/logos/hittv.jpg</thumbnail>
-<fanart>https://github.com/Darkman2110/repo/blob/master/Repositorio/plugin.video.DarkmanList/fanart.jpg</fanart>
+<fanart>http://zonadjjavi.webcindario.com/fanart.jpg</fanart>
 </item>
 
 
@@ -258,14 +258,14 @@ h
 <title>[COLOR white][COLOR yellow] •  [/COLOR]HISPAN TV[/COLOR]</title>
 <link>http://178.32.255.199:1935/live/hispantv/chunklist_w1962464952.m3u8</link>
 <thumbnail></thumbnail>
-<fanart>https://github.com/Darkman2110/repo/blob/master/Repositorio/plugin.video.DarkmanList/fanart.jpg</fanart>
+<fanart>http://zonadjjavi.webcindario.com/fanart.jpg</fanart>
 </item>
 
 <item>
 <title>[COLOR white][COLOR yellow] •  [/COLOR]DW ESPAÑA[/COLOR]</title>
 <link>http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_1_av-p.m3u8?sd=10&rebase=on</link>
 <thumbnail></thumbnail>
-<fanart>https://github.com/Darkman2110/repo/blob/master/Repositorio/plugin.video.DarkmanList/fanart.jpg</fanart>
+<fanart>http://zonadjjavi.webcindario.com/fanart.jpg</fanart>
 </item>
  
  

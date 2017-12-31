@@ -2,7 +2,7 @@
 <channel>
     <name>          <<<<<<<<<Canales Autonomicos >>>>>>>></name>
     < <thumbnail></thumbnail>
-      <fanart>https://github.com/Darkman2110/repo/blob/master/Repositorio/plugin.video.DarkmanList/fanart.jpg</fanart>
+      <fanart>http://zonadjjavi.webcindario.com/fanart.jpg</fanart>
         <items>
 		
 		<item><title>[COLOR=yellow]                                      <<[/COLOR][COLOR=yellow] Canales Autonomicos [/COLOR][COLOR=yellow]>>[/COLOR]</title>   <link>http://zonadjjavi.webcindario.com</link></item>
@@ -11,112 +11,112 @@
 <title>[COLOR white][COLOR yellow] •  [/COLOR]INFORMACION TV[/COLOR]</title>
 <link>http://teledifusion.tv:1935/informaciontvlive/informaciontvlive/livestream.m3u8</link>
 <thumbnail></thumbnail>
-<fanart>https://github.com/Darkman2110/repo/blob/master/Repositorio/plugin.video.DarkmanList/fanart.jpg</fanart>
+<fanart>http://zonadjjavi.webcindario.com/fanart.jpg</fanart>
 </item>	
 					
 	<item>
 <title>[COLOR white][COLOR yellow] •  [/COLOR]MIRARME TV[/COLOR]</title>
 <link>http://controlstreams.com:1935/mirametv/mirametv/playlist.m3u8</link>
 <thumbnail></thumbnail>
-<fanart>https://github.com/Darkman2110/repo/blob/master/Repositorio/plugin.video.DarkmanList/fanart.jpg</fanart>
+<fanart>http://zonadjjavi.webcindario.com/fanart.jpg</fanart>
 </item>	
 				
 <item>
 <title>[COLOR white][COLOR yellow] •  [/COLOR]TELE ELX[/COLOR]</title>
 <link>rtmp://teledifusion.tv/teleelx/teleelxlive</link>
 <thumbnail>http://zonadjjavi.webcindario.com/Kodi/logos/tele-elx.jpg</thumbnail>
-<fanart>https://github.com/Darkman2110/repo/blob/master/Repositorio/plugin.video.DarkmanList/fanart.jpg</fanart>
+<fanart>http://zonadjjavi.webcindario.com/fanart.jpg</fanart>
 </item>			
 
 <item>
 <title>[COLOR white][COLOR yellow] •  [/COLOR]7TV MURCIA[/COLOR]</title>
 <link>http://rtvmurcia_01-lh.akamaihd.net/i/rtvmurcia_1_0@507973/index_0_av-p.m3u8?sd=10&rebase=on</link>
 <thumbnail>http://zonadjjavi.webcindario.com/Kodi/logos/tele-elx.jpg</thumbnail>
-<fanart>https://github.com/Darkman2110/repo/blob/master/Repositorio/plugin.video.DarkmanList/fanart.jpg</fanart>
+<fanart>http://zonadjjavi.webcindario.com/fanart.jpg</fanart>
 </item>	
 
 <item>
 <title>[COLOR white][COLOR yellow] •  [/COLOR]TELEMARID[/COLOR]</title>
 <link>http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/telemadrid1/bitrate_1.m3u8</link>
 <thumbnail>http://zonadjjavi.webcindario.com/Kodi/logos/telemadrid1.jpg</thumbnail>
-<fanart>https://github.com/Darkman2110/repo/blob/master/Repositorio/plugin.video.DarkmanList/fanart.jpg</fanart>
+<fanart>http://zonadjjavi.webcindario.com/fanart.jpg</fanart>
 </item>
 
 <item>
 <title>[COLOR white][COLOR yellow] •  [/COLOR]LA OTRA TV[/COLOR]</title>
 <link>http://laotrahls-live.hls.adaptive.level3.net/telemadrid/laotra1/bitrate_1.m3u8</link>
 <thumbnail>http://zonadjjavi.webcindario.com/Kodi/logos/laotra.jpg</thumbnail>
-<fanart>https://github.com/Darkman2110/repo/blob/master/Repositorio/plugin.video.DarkmanList/fanart.jpg</fanart>
+<fanart>http://zonadjjavi.webcindario.com/fanart.jpg</fanart>
 </item>
 
 <item>
 <title>[COLOR white][COLOR yellow] •  [/COLOR]CANAL PARLAMENTO[/COLOR]</title>
 <link>http://congresodirectomobile.edgesuite.net/live/live6.stream/chunklist_w777341259.m3u8</link>
 <thumbnail></thumbnail>
-<fanart>https://github.com/Darkman2110/repo/blob/master/Repositorio/plugin.video.DarkmanList/fanart.jpg</fanart>
+<fanart>http://zonadjjavi.webcindario.com/fanart.jpg</fanart>
 </item>
 
 <item>
 <title>[COLOR white][COLOR yellow] •  [/COLOR]HISPAN TV[/COLOR]</title>
 <link>http://178.32.255.199:1935/live/hispantv/chunklist_w167436211.m3u8</link>
 <thumbnail></thumbnail>
-<fanart>https://github.com/Darkman2110/repo/blob/master/Repositorio/plugin.video.DarkmanList/fanart.jpg</fanart>
+<fanart>http://zonadjjavi.webcindario.com/fanart.jpg</fanart>
 </item>
 
 <item>
 <title>[COLOR white][COLOR yellow] •  [/COLOR]CANAL SUR[/COLOR]</title>
 <link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=9_mHRWjztNU</link>
 <thumbnail>http://www.productorafaro.com/sites/default/files/Canalsur-logo_1.jpg</thumbnail>
-<fanart>https://github.com/Darkman2110/repo/blob/master/Repositorio/plugin.video.DarkmanList/fanart.jpg</fanart>
+<fanart>http://zonadjjavi.webcindario.com/fanart.jpg</fanart>
 </item>
 
 <item>
 <title>[COLOR white][COLOR yellow] •  [/COLOR]EURONEWS[/COLOR]</title>
 <link>http://stream-04.dc3.dailymotion.com/23/dm/3/x2j7hpf/live-0.m3u8</link>
 <thumbnail>http://zonadjjavi.webcindario.com/Kodi/logos/euronews1.jpg</thumbnail>
-<fanart>https://github.com/Darkman2110/repo/blob/master/Repositorio/plugin.video.DarkmanList/fanart.jpg</fanart>
+<fanart>http://zonadjjavi.webcindario.com/fanart.jpg</fanart>
 </item>
 
 <item>
 <title>[COLOR white][COLOR yellow] •  [/COLOR]TV CEUTA[/COLOR]</title>
 <link>http://teledifusion.tv:1935/rtvcetv/mp4:rtvcetvlive/chunklist_w1284685581.m3u8</link>
 <thumbnail>http://zonadjjavi.webcindario.com/Kodi/logos/ceulta1.jpg</thumbnail>
-<fanart>https://github.com/Darkman2110/repo/blob/master/Repositorio/plugin.video.DarkmanList/fanart.jpg</fanart>
+<fanart>http://zonadjjavi.webcindario.com/fanart.jpg</fanart>
 </item>
 
 <item>
 <title>[COLOR white][COLOR yellow] •  [/COLOR]EXTREMADURA TV[/COLOR]</title>
 <link>http://hlstv.canalextremadura.es/livetv/smil:multistream.smil/chunklist_b1596000_DVR.m3u8</link>
 <thumbnail>http://zonadjjavi.webcindario.com/Kodi/logos/extremadura1.jpg</thumbnail>
-<fanart>https://github.com/Darkman2110/repo/blob/master/Repositorio/plugin.video.DarkmanList/fanart.jpg</fanart>
+<fanart>http://zonadjjavi.webcindario.com/fanart.jpg</fanart>
 </item>
 
 <item>
 <title>[COLOR white][COLOR yellow] •  [/COLOR]TV3 CAT[/COLOR]</title>
 <link>http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:tv3cat_web/playlist.m3u8</link>
 <thumbnail>http://zonadjjavi.webcindario.com/Kodi/logos/tv3cat1.jpg</thumbnail>
-<fanart>https://github.com/Darkman2110/repo/blob/master/Repositorio/plugin.video.DarkmanList/fanart.jpg</fanart>
+<fanart>http://zonadjjavi.webcindario.com/fanart.jpg</fanart>
 </item>
 
 <item>
 <title>[COLOR white][COLOR yellow] •  [/COLOR]SUPER 3 Y C33[/COLOR]</title>
 <link>http://ccma-tva-es-abertis-live.hls.adaptive.level3.net/es/ngrp:c33_web/chunklist_b1296000.m3u8</link>
 <thumbnail>http://zonadjjavi.webcindario.com/Kodi/logos/super31.jpg</thumbnail>
-<fanart>https://github.com/Darkman2110/repo/blob/master/Repositorio/plugin.video.DarkmanList/fanart.jpg</fanart>
+<fanart>http://zonadjjavi.webcindario.com/fanart.jpg</fanart>
 </item>
 
 <item>
 <title>[COLOR white][COLOR yellow] •  [/COLOR]8 TV [/COLOR]</title>
 <link>rtmp://91.121.143.193:1935/liverepeater/8TV/8aldia-directe</link>
 <thumbnail>http://zonadjjavi.webcindario.com/Kodi/logos/c8tv1.jpg</thumbnail>
-<fanart>https://github.com/Darkman2110/repo/blob/master/Repositorio/plugin.video.DarkmanList/fanart.jpg</fanart>
+<fanart>http://zonadjjavi.webcindario.com/fanart.jpg</fanart>
 </item>
 
 <item>
 <title>[COLOR white][COLOR yellow] •  [/COLOR]3/24[/COLOR]</title>
 <link>http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:324_mobil/chunklist_b548000.m3u8</link>
 <thumbnail>http://zonadjjavi.webcindario.com/Kodi/logos/n3241.jpg</thumbnail>
-<fanart>https://github.com/Darkman2110/repo/blob/master/Repositorio/plugin.video.DarkmanList/fanart.jpg</fanart>
+<fanart>http://zonadjjavi.webcindario.com/fanart.jpg</fanart>
 </item>
 
 
@@ -125,34 +125,34 @@
 <title>[COLOR white][COLOR yellow] •  [/COLOR]GALICIA TV EUROPA[/COLOR]</title>
 <link>http://europa-crtvg.flumotion.com/crtvg/europa/chunks.m3u8</link>
 <thumbnail>http://zonadjjavi.webcindario.com/Kodi/logos/tvgalicia.jpg</thumbnail>
-<fanart>https://github.com/Darkman2110/repo/blob/master/Repositorio/plugin.video.DarkmanList/fanart.jpg</fanart>
+<fanart>http://zonadjjavi.webcindario.com/fanart.jpg</fanart>
 </item>
 
 <item>
 <title>[COLOR white][COLOR yellow] •  [/COLOR]ANDORRA TV HD[/COLOR]</title>
 <link>http://194.158.80.31:443/live/rtva/playlist.m3u8</link>
 <thumbnail>http://zonadjjavi.webcindario.com/Kodi/logos/AndorraTV1.jpg</thumbnail>
-<fanart>https://github.com/Darkman2110/repo/blob/master/Repositorio/plugin.video.DarkmanList/fanart.jpg</fanart>
+<fanart>http://zonadjjavi.webcindario.com/fanart.jpg</fanart>
 </item>
 
 <item>
 <title>[COLOR white][COLOR yellow] •  [/COLOR]ETB HD[/COLOR]</title>
 <link>http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/index_0748_av-p.m3u8?sd=8&rebase=on</link>
 <thumbnail>http://zonadjjavi.webcindario.com/Kodi/logos/eitb1.jpg</thumbnail>
-<fanart>https://github.com/Darkman2110/repo/blob/master/Repositorio/plugin.video.DarkmanList/fanart.jpg</fanart>
+<fanart>http://zonadjjavi.webcindario.com/fanart.jpg</fanart>
 </item>
 
 <item>
 <title>[COLOR white][COLOR yellow] •  [/COLOR]LEVANTE TV[/COLOR]</title>
 <link>http://teledifusion.tv:1935/levantetvlive/levantetvlive/chunklist_w1198336921.m3u8</link>
 <thumbnail>http://zonadjjavi.webcindario.com/Kodi/logos/LevanteTV1.jpg</thumbnail>
-<fanart>https://github.com/Darkman2110/repo/blob/master/Repositorio/plugin.video.DarkmanList/fanart.jpg</fanart>
+<fanart>http://zonadjjavi.webcindario.com/fanart.jpg</fanart>
 </item>
 
 <item>
 <title>[COLOR white][COLOR yellow] •  [/COLOR]ARAGON TV[/COLOR]</title> 
 <link>http://195.55.74.203/aragontv/hls-live/chunklist.m3u8?GKID=5de0d372cb7111e7bfa300163ea2c744</link> 
-<fanart>https://github.com/Darkman2110/repo/blob/master/Repositorio/plugin.video.DarkmanList/fanart.jpg</fanart> 
+<fanart>http://zonadjjavi.webcindario.com/fanart.jpg</fanart> 
 <thumbnail>http://zonadjjavi.webcindario.com/Kodi/logos/AragonTV1.jpg</thumbnail> 
 <link></link> 
 </item>
@@ -161,81 +161,81 @@
 <title>[COLOR white][COLOR yellow] •  [/COLOR] CANTABRIA TV[/COLOR]</title>
 <link>http://streaming2.mad.idec.net/rtvcnet/rtvcnet.drb.smil/chunklist_w1256186728_b480000_sles.m3u8</link>
 <thumbnail>http://st-listas.20minutos.es/images/2009-01/71667/2436643_640px.jpg?1310313725</thumbnail>
-<fanart>https://github.com/Darkman2110/repo/blob/master/Repositorio/plugin.video.DarkmanList/fanart.jpg</fanart>
+<fanart>http://zonadjjavi.webcindario.com/fanart.jpg</fanart>
 </item>
 <item>
 <title>[COLOR white][COLOR yellow] •  [/COLOR]POPULAR TV CANTABRIA TV[/COLOR]</title>
 <link>http://cls.todostreaming.eu/ptvcantabria/livestream/chunklist.m3u8</link>
 <thumbnail>http://zonadjjavi.webcindario.com/Kodi/logos/tvn1.jpg</thumbnail>
-<fanart>https://github.com/Darkman2110/repo/blob/master/Repositorio/plugin.video.DarkmanList/fanart.jpg</fanart>
+<fanart>http://zonadjjavi.webcindario.com/fanart.jpg</fanart>
 </item>
 
 <item>
 <title>[COLOR white][COLOR yellow] •  [/COLOR]RTPA ASTURIAS [/COLOR]</title>
 <link>http://iphone.rtpa.stream.flumotion.com/rtpa/tv-iphone/main.m3u8</link>
 <thumbnail>http://zonadjjavi.webcindario.com/Kodi/logos/rtpa1.jpg</thumbnail>
-<fanart>https://github.com/Darkman2110/repo/blob/master/Repositorio/plugin.video.DarkmanList/fanart.jpg</fanart>
+<fanart>http://zonadjjavi.webcindario.com/fanart.jpg</fanart>
 </item>
 
 <item>
 <title>[COLOR white][COLOR yellow] •  [/COLOR]CASTILLA Y LEON TV[/COLOR]</title>
 <link>http://cdn.s6.eu.nice264.com:1935/niceLiveServer/_definst_/cyl_cyltvlivem_MB_698/chunklist.m3u8</link>
 <thumbnail>http://www.brandemia.org/sites/default/files/sites/default/files/logo_castilla_la-mancha-tv.jpg</thumbnail>
-<fanart>https://github.com/Darkman2110/repo/blob/master/Repositorio/plugin.video.DarkmanList/fanart.jpg</fanart>
+<fanart>http://zonadjjavi.webcindario.com/fanart.jpg</fanart>
 </item>
 
 <item>
 <title>[COLOR white][COLOR yellow] •  [/COLOR]IB3[/COLOR]</title>
 <link>http://ibsatiphone.ib3tv.com/iphoneliveIB3/IB3/IB3.m3u8</link>
 <thumbnail>http://zonadjjavi.webcindario.com/Kodi/logos/ib3tv1.jpg</thumbnail>
-<fanart>https://github.com/Darkman2110/repo/blob/master/Repositorio/plugin.video.DarkmanList/fanart.jpg</fanart>
+<fanart>http://zonadjjavi.webcindario.com/fanart.jpg</fanart>
 </item>
 
 <item>
 <title>[COLOR white][COLOR yellow] •  [/COLOR]13 TV [/COLOR]</title>
 <link>http://streaming.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/smil:live.smil/playlist.m3u8</link>
 <thumbnail>http://zonadjjavi.webcindario.com/Kodi/logos/c13tv1.jpg</thumbnail>
-<fanart>https://github.com/Darkman2110/repo/blob/master/Repositorio/plugin.video.DarkmanList/fanart.jpg</fanart>
+<fanart>http://zonadjjavi.webcindario.com/fanart.jpg</fanart>
 </item>
 
 <item>
 <title>[COLOR white][COLOR yellow] •  [/COLOR]RIBERA TV[/COLOR]</title>
 <link>http://orion.comelson.es/ribera/livestream/chunklist_w298369484.m3u8</link>
 <thumbnail>http://zonadjjavi.webcindario.com/Kodi/logos/riberatv1.jpg</thumbnail>
-<fanart>https://github.com/Darkman2110/repo/blob/master/Repositorio/plugin.video.DarkmanList/fanart.jpg</fanart>
+<fanart>http://zonadjjavi.webcindario.com/fanart.jpg</fanart>
 </item>
 
  <item>
  <title>[COLOR white][COLOR yellow] •  [/COLOR]HUELVA TV[/COLOR]</title>
  <link>http://cls.todostreaming.eu/telehuelva/restricted/playlist.m3u8</link>
 <thumbnail>https://pbs.twimg.com/profile_images/645349922103889920/JGbRJMxo.jpg</thumbnail>
-<fanart>https://github.com/Darkman2110/repo/blob/master/Repositorio/plugin.video.DarkmanList/fanart.jpg</fanart>
+<fanart>http://zonadjjavi.webcindario.com/fanart.jpg</fanart>
 </item>
  
  <item>
 <title>[COLOR white][COLOR yellow] •  [/COLOR]NAVARRA TV[/COLOR]</title>
 <link>http://cdn.s3.eu.nice264.com:1935/niceLiveServer/NTV_livenatvmb_MB_478/chunklist_w1863227773.m3u8</link>
 <thumbnail>http://canaltdt.es/wp-content/uploads/2015/01/navarra_tv.jpg</thumbnail>
-<fanart>https://github.com/Darkman2110/repo/blob/master/Repositorio/plugin.video.DarkmanList/fanart.jpg</fanart>
+<fanart>http://zonadjjavi.webcindario.com/fanart.jpg</fanart>
 </item>
 
 <item>
 <title>[COLOR white][COLOR yellow] •  [/COLOR]CORREO TV SEVILLA[/COLOR]</title>
 <link>http://cls.elitehd-audiovisuales.com/luztv/livestream/playlist.m3u8</link>
 <thumbnail>http://www.correotv.es/img/logotipo.jpg</thumbnail>
-<fanart>https://github.com/Darkman2110/repo/blob/master/Repositorio/plugin.video.DarkmanList/fanart.jpg</fanart>
+<fanart>http://zonadjjavi.webcindario.com/fanart.jpg</fanart>
 </item>
 
 <item>
 <title>[COLOR white][COLOR yellow] •  [/COLOR] MURCIA TV[/COLOR]</title>
 <link>http://rtvmurcia_01-lh.akamaihd.net/i/rtvmurcia_1_0@507973/index_0_av-p.m3u8?sd=10&rebase=on</link>
 <thumbnail>https://pbs.twimg.com/profile_images/603859282858246144/g6JFDMsK.jpg</thumbnail>
-<fanart>https://github.com/Darkman2110/repo/blob/master/Repositorio/plugin.video.DarkmanList/fanart.jpg</fanart>
+<fanart>http://zonadjjavi.webcindario.com/fanart.jpg</fanart>
 </item>
 
 <item>
 <title>[COLOR white][COLOR yellow] •  [/COLOR]TENERIFE TV[/COLOR]</title>
 <link>http://www.canaltenerifetv.com/ts?nocache=1510907974368</link>
 <thumbnail>http://www.canaltenerifetv.com/appearance/logo.png</thumbnail>
-<fanart>https://github.com/Darkman2110/repo/blob/master/Repositorio/plugin.video.DarkmanList/fanart.jpg</fanart>
+<fanart>http://zonadjjavi.webcindario.com/fanart.jpg</fanart>
 </item>
