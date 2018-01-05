@@ -32,7 +32,7 @@
 </item>
 
 <item>
-<title>[COLOR white][COLOR yellow] •  [/COLOR]  LA LIGA TV [/COLOR] </title>
+<title>[COLOR white][COLOR yellow] •  [/COLOR]LA LIGA TV [/COLOR] </title>
 <link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.116 Chrome/48.0.2564.116 Safari/537.36</link>
 <regex>
 <name>GetPageUrl</name>
