@@ -58,9 +58,13 @@
 
 <item>
 <title>[COLOR white][COLOR yellow] •  [/COLOR]M DEPORTES[/COLOR]</title>
-<sportsdevil>http://cinestrenostv.tv/canales/deportes/multideportes/canal1.html</sportsdevil>
-<referer>http://cinestrenostv.tv</referer>
-<thumbnail></thumbnail>
+<link>$doregex[GetPageUrl]|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
+<regex>
+<name>GetPageUrl</name>
+<expres>source: '(.*?)'</expres>
+<page>http://livesports.pw/embed.php?file=deporteone&amp;width=650&amp;height=397</page>
+<cookieJar></cookieJar>
+</regex>
 <fanart>http://zonadjjavi.webcindario.com/fanart.jpg</fanart>
 </item>
 
