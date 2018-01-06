@@ -137,20 +137,16 @@ h
 
 
 <item>
-<title>[COLOR white][COLOR yellow] •  [/COLOR]BE MAD[/COLOR]</title>
-<link>$doregex[get-id]|User-Agent=iPad&amp;Referer=http://vergol.com/live/tve1.php</link>
+<title>[COLOR=skyblue][B][I]Be Mad[/I][/B][/COLOR]</title>
+<link>$doregex[GetPageUrl]|Referer=http://vercanalestv.com/tv/nacionales/be-mad.html&amp;User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64; rv:55.0) Gecko/20100101 Firefox/55.0</link>
 <regex>
-<name>get-id</name>
-<expres>source: '(.*?)'</expres>
-<page>http://cinestrenostv.tv/canales/nacionales/bemad.php</page>
-<referer>http://vercanalestv.com/tv/nacionales/tve-1.html</referer>
-<agent>iPad</agent>
+<name>GetPageUrl</name>
+<expres>source: '(.*?)'</expres><page>http://vergol.com/live/bemad.php</page>
+<referer>http://vercanalestv.com/tv/nacionales/be-mad.html</referer>
 </regex>
 <thumbnail>http://zonadjjavi.webcindario.com/Kodi/logos/bemad1.jpg</thumbnail>
 <fanart>http://zonadjjavi.webcindario.com/fanart.jpg</fanart>
 </item>
-
-
 
 <item>
 <title>[COLOR white][COLOR yellow] •  [/COLOR]BE MAD[/COLOR]</title>
@@ -158,7 +154,7 @@ h
 <regex>
 <name>GetPageUrl</name>
 <expres>source: '(.*?)'</expres>
-<page>http://livesports.pw/embed2.php?file=bemad&amp;width=650&amp;height=397</page>
+<page>http://livesports.pw/embed2.php?file=be-mad&amp;width=650&amp;height=397</page>
 <cookieJar></cookieJar>
 </regex>
 <thumbnail>http://zonadjjavi.webcindario.com/Kodi/logos/bemad1.jpg</thumbnail>
