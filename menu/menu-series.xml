@@ -480,7 +480,7 @@
 <fanart>https://cdn.suwalls.com/wallpapers/tv-shows/csi-crime-scene-investigation-818-1920x1080.jpg</fanart>
 			]]></listrepeat>
 			<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
-			<page>http://diskokosmiko.mx/chinchetas/csi-miami-espanol-todas-temporadas-80383/list,1,10</page>
+			<page>http://diskokosmiko.mx/chinchetas/csi-miami-espanol-todas-temporadas-80383/list,1,100</page>
 			<cookieJar></cookieJar>
 		</regex>
 		<regex>
