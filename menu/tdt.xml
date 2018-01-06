@@ -141,7 +141,8 @@ h
 <link>$doregex[GetPageUrl]|Referer=http://vercanalestv.com/tv/nacionales/be-mad.html&amp;User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64; rv:55.0) Gecko/20100101 Firefox/55.0</link>
 <regex>
 <name>GetPageUrl</name>
-<expres>source: '(.*?)'</expres><page>http://vergol.com/live/bemad.php</page>
+<expres>source: '(.*?)'</expres>
+<page>http://vergol.com/live/bemad.php</page>
 <referer>http://vercanalestv.com/tv/nacionales/be-mad.html</referer>
 </regex>
 <thumbnail>http://zonadjjavi.webcindario.com/Kodi/logos/bemad1.jpg</thumbnail>
