@@ -468,22 +468,7 @@
 <fanart>http://zonadjjavi.webcindario.com/fanart.jpg</fanart>
 </item>
 
-
-
-
-
-
-
-
 <item>
-<title>[COLOR white][COLOR yellow] •  [/COLOR]  DISCOVERY MAX [/COLOR]</title>
-<sportsdevil>http://cinestrenostv.tv/es/documentales/discoverymax.php</sportsdevil>
-<referer>http://verdirectotv.com</referer>
-<thumbnail>http://zonadjjavi.webcindario.com/Kodi/logos/DiscoveryMax1.jpg</thumbnail>
-<fanart>http://zonadjjavi.webcindario.com/fanart.jpg</fanart>
-</item>
-
-<tem>
 <title>[COLOR white][COLOR yellow] •  [/COLOR]  NAT GEO WILD [/COLOR]</title>
 <link>$doregex[get-id]|User-Agent=iPad</link>
 <regex>
@@ -519,7 +504,7 @@
 <page>http://livesports.pw/embedn.php?file=mtvesp&amp;width=100%&amp;height=100%</page>
 <cookieJar></cookieJar>
 </regex>
-<thumbnail>http://zonadjjavi.webcindario.com/Kodi/logos/mtvjpg</thumbnail>
+<thumbnail>http://static.adweek.com/adweek.com-prod/wp-content/uploads/sites/2/2015/02/mtv400.jpg</thumbnail>
 <fanart>http://zonadjjavi.webcindario.com/fanart.jpg</fanart>
 </item>
 
