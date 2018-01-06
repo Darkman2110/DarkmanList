@@ -431,7 +431,7 @@
 
 
 <item>
-<title>[COLOR white][COLOR yellow] •  [/COLOR]  A&E [/COLOR]</title>
+<title>[COLOR white][COLOR yellow] •  [/COLOR]  CAZA Y PESCA  [/COLOR]</title>
 <link>$doregex[GetPageUrl]|User-Agent=|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
 <regex><name>GetPageUrl</name>
 <expres>source: '(.*?)'</expres>
@@ -480,7 +480,7 @@
 </item>
 
 <item>
-<title>[COLOR white][COLOR yellow] •  [/COLOR]  CAZA Y PESCA [/COLOR]</title>
+<title>[COLOR white][COLOR yellow] •  [/COLOR]  A&E[/COLOR]</title>
 <link>$doregex[GetPageUrl]|User-Agent=|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
 <regex>
 <name>GetPageUrl</name>
