@@ -432,13 +432,11 @@
 
 <item>
 <title>[COLOR white][COLOR yellow] •  [/COLOR]  A&E [/COLOR]</title>
-<link>$doregex[get-id]|User-Agent=iPad</link>
-<regex>
-<name>get-id</name>
-<expres>[",\'](h.*m3u8.*?)'</expres>
-<page>http://cinestrenostv.tv/canales/documentales/bio.php</page>
-<referer>http://vertelevisor.com/tv/nacionales/axn.html</referer>
-<agent>iPad</agent>
+<link>$doregex[GetPageUrl]|User-Agent=|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
+<regex><name>GetPageUrl</name>
+<expres>source: '(.*?)'</expres>
+<page>http://livesports.pw/embedn.php?file=cazaypesca&amp;width=650&amp;height=397</page>
+<cookieJar></cookieJar>
 </regex>
 <thumbnail>http://zonadjjavi.webcindario.com/Kodi/logos/AEgeneri.jpg</thumbnail>
 <fanart>http://zonadjjavi.webcindario.com/fanart.jpg</fanart>
@@ -483,8 +481,13 @@
 
 <item>
 <title>[COLOR white][COLOR yellow] •  [/COLOR]  CAZA Y PESCA [/COLOR]</title>
-<sportsdevil>http://cinestrenostv.tv/es/documentales/cazaypesca.php</sportsdevil>
-<referer>http://verdirectotv.com</referer>
+<link>$doregex[GetPageUrl]|User-Agent=|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
+<regex>
+<name>GetPageUrl</name>
+<expres>source: '(.*?)'</expres>
+<page>http://livesports.pw/embedn.php?file=anadetelefive&width=650&height=400</page>
+<cookieJar></cookieJar>
+</regex>
 <thumbnail>http://zonadjjavi.webcindario.com/Kodi/logos/pesca1.jpg</thumbnail>
 <fanart>http://zonadjjavi.webcindario.com/fanart.jpg</fanart>
 </item>
