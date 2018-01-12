@@ -91,15 +91,6 @@
 
 <channels>
  <channel>
-      <name>[COLOR white][COLOR yellow] •  [/COLOR]CONCURSOS DE TELE[/COLOR]</name>
-      <externallink>https://raw.githubusercontent.com/Darkman2110/DarkmanList/master/menu/concursos.xml</externallink>
-      <thumbnail>http://zonadjjavi.webcindario.com/Kodi/imagen/video_club.png</thumbnail>
-      <fanart>http://zonadjjavi.webcindario.com/fanart.jpg</fanart>
-      </channel>
-</channels>
-
-<channels>
- <channel>
       <name>[COLOR white][COLOR yellow] •  [/COLOR]VIDEO-CLUB HD[/COLOR]</name>
       <externallink>https://raw.githubusercontent.com/Darkman2110/DarkmanList/master/menu/videoclub.xml</externallink>
       <thumbnail>http://zonadjjavi.webcindario.com/Kodi/imagen/video_club.png</thumbnail>
@@ -143,14 +134,6 @@
       </channel>
 </channels>
 
-<channels>
-      <channel>
-      <name>[COLOR white][COLOR yellow] •  [/COLOR]SALON  ACHOTV[COLOR blue]   Latino[/COLOR]</name>
-      <externallink>https://raw.githubusercontent.com/Darkman2110/DarkmanList/master/menu/latinos.xml</externallink>
-      <thumbnail>http://i.imgur.com/isoCvBt.jpg</thumbnail>
-      <fanart>http://zonadjjavi.webcindario.com/fanart.jpg</fanart> 
-      </channel>
-</channels>
 
 <channels>
        <channel>
