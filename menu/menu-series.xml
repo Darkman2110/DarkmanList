@@ -88,8 +88,8 @@ SE HA ESCRITO UN CRIMEN
   <listrepeat><![CDATA[
         <title>[COLOR yellow] [makelist.param3] [/COLOR]</title>
         <link>$doregex[getUrl]</link>
-<fanart>http://e03-elmundo.uecdn.es/assets/multimedia/imagenes/2014/01/03/13887540666983.jpg</fanart>
-<thumbnail>http://www.nadacomercial.com/wordpress/wp-content/uploads/2013/01/Logo-cine-catastrofico.jpg</thumbnail>
+<fanart>http://es.web.img3.acsta.net/r_1280_720/pictures/14/05/14/12/28/094677.jpg</fanart>
+<thumbnail>https://imagessl9.casadellibro.com/m/ig/9/2401839.jpg</thumbnail>
 ]]></listrepeat>
 <expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
 <page>http://diskokosmiko.mx/naredo/se-ha-escrito-un-crimen-completa-20531/list,1,100</page>
