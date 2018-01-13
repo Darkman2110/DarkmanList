@@ -19,7 +19,7 @@ h
  <item>
 <title>[COLOR white][COLOR yellow] •  [/COLOR]GRAN HERMANO  24H[/COLOR]</title>
 <link>https://mdslivehls-i.akamaihd.net/hls/live/571672/realities/bitrate_4.m3u8</link>
-<thumbnail>http://www.ocio.net/wp-content/uploads/2015/05/gh.png</thumbnail>
+<thumbnail>http://www.ideal.es/noticias/201611/13/media/cortadas/gh1-kK6F-U204258338526Y7C-575x323@Ideal.jpg</thumbnail>
 <fanart>http://zonadjjavi.webcindario.com/fanart.jpg</fanart>
 </item>
 
@@ -202,21 +202,21 @@ h
 <item>
 <title>[COLOR white][COLOR yellow] •  [/COLOR]MEGA HD[/COLOR]</title>
 <link>http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/master.m3u8</link>
-<thumbnail>http://zonadjjavi.webcindario.com/Kodi/logos/mega1.jpg</thumbnail>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/MEGA.svg/2000px-MEGA.svg.png</thumbnail>
 <fanart>http://zonadjjavi.webcindario.com/fanart.jpg</fanart>
 </item>
 
 <item>
 <title>[COLOR white][COLOR yellow] •  [/COLOR]A3 SERIES HD[/COLOR]</title>
 <link>http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/master.m3u8</link>
-<thumbnail>http://zonadjjavi.webcindario.com/Kodi/logos/A3SS.jpg</thumbnail>
+<thumbnail>http://www.culturamas.es/wp-content/uploads/2015/11/atreseries-3.png</thumbnail>
 <fanart>http://zonadjjavi.webcindario.com/fanart.jpg</fanart>
 </item>
 
 <item>
 <title>[COLOR white][COLOR yellow] •  [/COLOR]NOVA HD[/COLOR]</title>
 <link>http://a3live-lh.akamaihd.net/i/nvhds/geonova_1@379404/master.m3u8</link>
-<thumbnail>http://zonadjjavi.webcindario.com/Kodi/logos/nova1.jpg</thumbnail>
+<thumbnail>http://s01.s3c.es/imag/_v3/Ecoteuve/InterioresTexto/nova.jpg</thumbnail>
 <fanart>http://zonadjjavi.webcindario.com/fanart.jpg</fanart>
 </item>
 
@@ -230,7 +230,7 @@ h
 <item>
 <title>[COLOR white][COLOR yellow] •  [/COLOR]13 TV[/COLOR]</title>
 <link>http://streaming13tv.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/smil:live.smil/chunklist_w1664206825_b700000.m3u8</link>
-<thumbnail>http://zonadjjavi.webcindario.com/Kodi/logos/c13tv1.jpg</thumbnail>
+<thumbnail>http://trecetv.es//images/epg/logo-epg.png</thumbnail>
 <fanart>http://zonadjjavi.webcindario.com/fanart.jpg</fanart>
 </item>
 
@@ -243,14 +243,14 @@ h
 <item>
 <title>[COLOR white][COLOR yellow] •  [/COLOR]REAL MADRID[/COLOR]</title>
 <link>http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/index_3_av-p.m3u8?sd=10&rebase=on</link>
-<thumbnail>http://zonadjjavi.webcindario.com/Kodi/logos/real_madrid.jpg</thumbnail>
+<thumbnail>https://www.sportyou.es/blog/wp-content/uploads/2015/09/realmadridtv.jpg</thumbnail>
 <fanart>http://zonadjjavi.webcindario.com/fanart.jpg</fanart>
 </item>
 
 <item>
 <title>[COLOR white][COLOR yellow] •  [/COLOR]HIT TV[/COLOR]</title>
 <link>http://kissfm-cires21-video.secure.footprint.net/hittv/bitrate_4.m3u8</link>
-<thumbnail>http://zonadjjavi.webcindario.com/Kodi/logos/hittv.jpg</thumbnail>
+<thumbnail>http://www.hittv.es/images/logo.png</thumbnail>
 <fanart>http://zonadjjavi.webcindario.com/fanart.jpg</fanart>
 </item>
 
