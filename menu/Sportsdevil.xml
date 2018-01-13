@@ -183,6 +183,21 @@
 <fanart>http://zonadjjavi.webcindario.com/fanart.jpg</fanart>  
 </item>
 
+<item>
+<title>[COLOR white][COLOR yellow] •  [/COLOR]SYFY*[/COLOR]</title>
+ <link>$doregex[GetPageUrl]|Referer=http://livesports.pw/embed2.php?file=launotelefivegb&amp;User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64; rv:54.0) Gecko/20100101 Firefox/54.0</link>
+<regex>
+<name>GetPageUrl</name>
+<expres>source: '(.*?)'</expres>
+<page>http://livesports.pw/embed2.php?file=sysfesp&amp;width=650&amp;height=397</page>
+<cookieJar></cookieJar>
+</regex>
+<referer>http://cinestrenostv.tv</referer>
+<thumbnail>http://www.underconsideration.com/brandnew/archives/syfy_2017_logo.png</thumbnail>
+<fanart>http://zonadjjavi.webcindario.com/fanart.jpg</fanart>  
+</item>
+
+
 
 <item>
 <title>[COLOR white][COLOR yellow] •  [/COLOR] FOX[/COLOR] </title>
@@ -196,6 +211,23 @@
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/FOX_wordmark.svg/1200px-FOX_wordmark.svg.png</thumbnail>
 <fanart>http://zonadjjavi.webcindario.com/fanart.jpg</fanart>  
 </item>
+
+<item>
+<title>[COLOR white][COLOR yellow] •  [/COLOR]FOX*[/COLOR]</title>
+ <link>$doregex[GetPageUrl]|Referer=http://livesports.pw/embed2.php?file=launotelefivegb&amp;User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64; rv:54.0) Gecko/20100101 Firefox/54.0</link>
+<regex>
+<name>GetPageUrl</name>
+<expres>source: '(.*?)'</expres>
+<page>http://livesports.pw/embed2.php?file=foxespana&amp;width=650&amp;height=397</page>
+<cookieJar></cookieJar>
+</regex>
+<referer>http://cinestrenostv.tv</referer>
+humbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/FOX_wordmark.svg/1200px-FOX_wordmark.svg.png</thumbnail>
+<fanart>http://zonadjjavi.webcindario.com/fanart.jpg</fanart>  
+</item>
+
+
+
 
 <item>
 <title>[COLOR white][COLOR yellow] •  [/COLOR] FOX LIFE [/COLOR] </title>
