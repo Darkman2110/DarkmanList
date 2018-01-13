@@ -88,7 +88,7 @@
 <thumbnail>http://www.icmedianet.org/wp/ndog/wp-content/uploads/2016/07/lucifer.jpg</thumbnail>
 <fanart>https://blogdesuperheroes.es/wp-content/plugins/BdSGallery/BdSGaleria/49613.jpg</fanart>
 </item>
-SE HA ESCRITO UN CRIMEN
+
 <item>
 <title>[COLOR white][COLOR yellow] •  [/COLOR]SE HA ESCRITO UN CRIMEN[/COLOR]</title>
 <link>$doregex[makelist]</link>
@@ -126,7 +126,44 @@ SE HA ESCRITO UN CRIMEN
 <fanart>http://es.web.img3.acsta.net/r_1280_720/pictures/14/05/14/12/28/094677.jpg</fanart>
 <thumbnail>https://imagessl9.casadellibro.com/m/ig/9/2401839.jpg</thumbnail>
 </item>
-
+SMALLVILLE
+<item>
+<title>[COLOR white][COLOR yellow] •  [/COLOR]SMALLVILLE[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+  <name>makelist</name>
+  <listrepeat><![CDATA[
+        <title>[COLOR yellow] [makelist.param3] [/COLOR]</title>
+        <link>$doregex[getUrl]</link>
+<fanart>https://fsmedia.imgix.net/10/08/52/7d/c766/4341/823e/13c7bc5c9828/smallvillejpg.jpeg</fanart>
+<thumbnail>http://toptvshows.co/images/tvimages/smallville-tv-show-poster.jpg</thumbnail>
+]]></listrepeat>
+<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+<page>http://diskokosmiko.mx/chinchetas/smallville-castellano-todas-temporadas-35439/list,1,100</page>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&f=[makelist.param1]</page>
+<rawpost>fileId=[makelist.param1]&__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+<connection>keep-alive</connection>
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>tok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<referer>http://diskokosmiko.mx/trivianita/cine-catastrofico-86100/list,1,10</referer>
+<connection>keep-alive</connection>
+<cookieJar></cookieJar>
+</regex>
+<fanart>https://fsmedia.imgix.net/10/08/52/7d/c766/4341/823e/13c7bc5c9828/smallvillejpg.jpeg</fanart>
+<thumbnail>http://toptvshows.co/images/tvimages/smallville-tv-show-poster.jpg</thumbnail>
+</item>
 
 <item>
 <title>[COLOR white][COLOR yellow] •  [/COLOR]STARGATE ATLANTIS[/COLOR]</title>
