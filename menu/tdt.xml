@@ -254,13 +254,20 @@ h
 <fanart>http://zonadjjavi.webcindario.com/fanart.jpg</fanart>
 </item>
 
-
 <item>
-<title>[COLOR white][COLOR yellow] •  [/COLOR]HISPAN TV[/COLOR]</title>
-<link>http://178.32.255.199:1935/live/hispantv/chunklist_w1962464952.m3u8</link>
-<thumbnail></thumbnail>
+<title>[COLOR white][COLOR yellow] •  [/COLOR]DMAX[/COLOR]</title>
+ <link>$doregex[GetPageUrl]|Referer=http://livesports.pw/embed2.php?file=launotelefivegb&amp;User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64; rv:54.0) Gecko/20100101 Firefox/54.0</link>
+<regex>
+<name>GetPageUrl</name>
+<expres>source: '(.*?)'</expres>
+<page>http://livesports.pw/embed2.php?file=dmax&amp;width=650&amp;height=397</page>
+<cookieJar></cookieJar>
+</regex>
+<referer>http://cinestrenostv.tv</referer>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/2/25/DMAX_Logo_16_05_2011.jpg</thumbnail>
 <fanart>http://zonadjjavi.webcindario.com/fanart.jpg</fanart>
 </item>
+
 
 <item>
 <title>[COLOR white][COLOR yellow] •  [/COLOR]DW ESPAÑA[/COLOR]</title>
