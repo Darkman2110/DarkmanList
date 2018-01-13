@@ -81,7 +81,7 @@
 </item>
 SE HA ESCRITO UN CRIMEN
 <item>
-<title>[COLOR white][COLOR yellow] •  [/COLOR]SE HA ESCRITO UN CRIMEN/COLOR]</title>
+<title>[COLOR white][COLOR yellow] •  [/COLOR]SE HA ESCRITO UN CRIMEN[/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
   <name>makelist</name>
