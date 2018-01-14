@@ -13,8 +13,31 @@
 <thumbnail></thumbnail>
 <fanart>http://zonadjjavi.webcindario.com/fanart.jpg</fanart>
 </item>	
-					
-	<item>
+				
+<item>
+<title>[COLOR white][COLOR yellow] •  [/COLOR] TV MEDITERRANEO[/COLOR]</title>
+<link>http://streaming.enetres.net/489DDF7FE98241D19D8970314BC9D3EF021/smil:live.smil/chunklist_w1822766098_b850000.m3u8</link>
+<thumbnail></thumbnail>
+<fanart>http://zonadjjavi.webcindario.com/fanart.jpg</fanart>
+</item>	
+
+<item>
+<title>[COLOR white][COLOR yellow] •  [/COLOR] TC MEDITERRANEO[/COLOR]</title>
+<link>http://streaming.enetres.net/B280DE9FE5AD42E9B9BFD56A0E2CA414021/smil:live.smil/chunklist_w705326995_b500000.m3u8</link>
+<thumbnail></thumbnail>
+<fanart>http://zonadjjavi.webcindario.com/fanart.jpg</fanart>
+</item>	
+
+
+
+<item>
+<title>[COLOR white][COLOR yellow] •  [/COLOR]CANAL COCINA SUR[/COLOR]</title>
+<link>http://cast.streamingconnect.com:1935/cscocina/cscocina/chunklist_w177453987.m3u8</link>
+<thumbnail></thumbnail>
+<fanart>http://zonadjjavi.webcindario.com/fanart.jpg</fanart>
+</item>	
+
+<item>
 <title>[COLOR white][COLOR yellow] •  [/COLOR]MIRARME TV[/COLOR]</title>
 <link>http://controlstreams.com:1935/mirametv/mirametv/playlist.m3u8</link>
 <thumbnail></thumbnail>
