@@ -30,7 +30,7 @@
 <name>tok</name>
 <expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
 <page>http://diskokosmiko.mx/[makelist.param2]</page>
-<referer>http://diskokosmiko.mx/trivianita/cine-catastrofico-86100/list,1,10</referer>
+<referer>http://diskokosmiko.mx/trivianita/cine-catastrofico-86100/list,1,100</referer>
 <connection>keep-alive</connection>
 <cookieJar></cookieJar>
 </regex>
@@ -60,7 +60,7 @@
 <item>
 <title>[COLOR]Blade Runner [/COLOR] </title>
 <link>http://streamcloud.eu/7k0muj1xk8vi/Blade_Runner__The_Final_Cut___BRRip_.mkv.html</link>
-<thumbnail>https://pics.filmaffinity.com/blade_runner-351607743-large.jpg</thumbnail>
+<thumbnail>https://store.hmv.com/HMVStore/media/product/609648/01-609648.jpg</thumbnail>
 <fanart>http://zonadjjavi.webcindario.com/fanart.jpg</fanart>
 </item>
 
