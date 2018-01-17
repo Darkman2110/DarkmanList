@@ -12,7 +12,7 @@
 <thumbnail>http://www.nadacomercial.com/wordpress/wp-content/uploads/2013/01/Logo-cine-catastrofico.jpg</thumbnail>
 ]]></listrepeat>
 <expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
-<page>http://diskokosmiko.mx/trivianita/cine-catastrofico-86100/list,1,10</page>
+<page>http://diskokosmiko.mx/Padri/mis-peliculas-23818/list,1,100</page>
 <cookieJar></cookieJar>
 </regex>
 <regex>
@@ -76,14 +76,14 @@
 <item>
 <title>Johnny English Reborn </title>
 <link>http://streamcloud.eu/ujlla839h45e/J0hnny.3ngl1sh.R3b0rn.2011DVDRc4st.avi.html</link>
-<thumbnail>http://gnula.nu/wp-content/uploads/2015/06/Johnny_English_Reborn_poster_uk.jpg</thumbnail>
+<thumbnail>https://cineamigos.files.wordpress.com/2011/10/poster_johnny_english_reborn.jpg</thumbnail>
 <fanart>http://zonadjjavi.webcindario.com/fanart.jpg</fanart>
 </item>
 
 <item>
 <title>Johnny English</title>
 <link>http://streamcloud.eu/j4igd99y5570/J0hnny.3ngl1sh.2003DVDRc4st.avi.html</link>
-<thumbnail>http://gnula.nu/wp-content/uploads/2015/06/Johnny_English_poster_uk.jpg</thumbnail>
+<thumbnail>https://i.ytimg.com/vi/CvMnOCmRl7k/movieposter.jpg</thumbnail>
 <fanart>http://zonadjjavi.webcindario.com/fanart.jpg</fanart>
 </item>
 
