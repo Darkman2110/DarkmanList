@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <channel>
     <name>          <<<<<<<<<Canales Autonomicos >>>>>>>></name>
-    < <thumbnail></thumbnail>
+     <thumbnail></thumbnail>
       <fanart>http://zonadjjavi.webcindario.com/fanart.jpg</fanart>
         <items>
 		
@@ -28,7 +28,33 @@
 <fanart>http://zonadjjavi.webcindario.com/fanart.jpg</fanart>
 </item>	
 
+<item>
+<title>[COLOR white][COLOR yellow] •  [/COLOR] San Roque TV[/COLOR] </title>
+<link>http://188.165.135.22/sanroque/mystream/chunklist_w1703138822.m3u8</link>
+<thumbnail></thumbnail>  
+<fanart>http://zonadjjavi.webcindario.com/fanart.jpg</fanart>  
+</item>
 
+<item>
+<title>[COLOR white][COLOR yellow] •  [/COLOR] TV Alcoi[/COLOR] </title>
+<link>http://92.222.37.18/hls/tvaxa.m3u8</link>
+<thumbnail></thumbnail>  
+<fanart>http://zonadjjavi.webcindario.com/fanart.jpg</fanart>  
+</item>
+
+<item>
+<title>[COLOR white][COLOR yellow] •  [/COLOR] TeleValencia[/COLOR] </title>
+<link>http://streaming.enetres.net/9E9557EFCEBB43A89CEC8FBD3C500247022/live.smil/.m3u8</link>
+<thumbnail></thumbnail>  
+<fanart>http://zonadjjavi.webcindario.com/fanart.jpg</fanart>  
+</item>
+
+<item>
+<title>[COLOR white][COLOR yellow] •  [/COLOR] TV4 La Vall[/COLOR] </title>
+<link>http://188.165.135.22/15o8376r/mystream/chunklist_w511176900.m3u8</link>
+<thumbnail></thumbnail>  
+<fanart>http://zonadjjavi.webcindario.com/fanart.jpg</fanart>  
+</item>
 
 <item>
 <title>[COLOR white][COLOR yellow] •  [/COLOR]CANAL COCINA SUR[/COLOR]</title>
