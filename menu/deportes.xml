@@ -17,8 +17,13 @@
 
 <item>
 <title>[COLOR white][COLOR yellow] •  [/COLOR]PARTIDAZO[/COLOR]</title>
-<sportsdevil>http://cinestrenostv.tv/canales/deportes/plus-partidazo.php</sportsdevil>
-<referer>http://cinestrenostv.tv</referer>
+<link>$doregex[GetPageUrl]|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
+<regex>
+<name>GetPageUrl</name>
+<expres>source: '(.*?)'</expres>
+<page>http://livesports.pw/embed.php?file=partidazo&amp;width=650&amp;height=397</page>
+<cookieJar></cookieJar>
+</regex>
 <thumbnail>http://vignette1.wikia.nocookie.net/logopedia/images/c/c2/MovistarPartidazo.png/revision/latest?cb=20160818140828</thumbnail>
 <fanart>http://zonadjjavi.webcindario.com/fanart.jpg</fanart>
 </item>
@@ -48,8 +53,13 @@
 
 <item>
 <title>[COLOR white][COLOR yellow] •  [/COLOR]M FUTBOL[/COLOR]</title>
-<sportsdevil>http://cinestrenostv.tv/canales/deportes/multifutbol/canal1.html</sportsdevil>
-<referer>http://cinestrenostv.tv</referer>
+<link>$doregex[GetPageUrl]|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
+<regex>
+<name>GetPageUrl</name>
+<expres>source: '(.*?)'</expres>
+<page>http://livesports.pw/embed.php?file=futbolespm&amp;width=650&amp;height=397</page>
+<cookieJar></cookieJar>
+</regex>
 <thumbnail></thumbnail>
 <fanart>http://zonadjjavi.webcindario.com/fanart.jpg</fanart>
 </item>
@@ -71,40 +81,59 @@
 
 <item>
 <title>[COLOR white][COLOR yellow] •  [/COLOR]M DEPORTES 2[/COLOR]</title>
-<sportsdevil>http://cinestrenostv.tv/canales/deportes/plusdeportes2.php</sportsdevil>
-<referer>http://cinestrenostv.tv</referer>
+<link>$doregex[GetPageUrl]|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
+<regex>
+<name>GetPageUrl</name>
+<expres>source: '(.*?)'</expres>
+<page>http://livesports.pw/embed.php?file=deportedosm&amp;width=650&amp;height=397</page>
+<cookieJar></cookieJar>
+</regex>
 <thumbnail></thumbnail>
 <fanart>http://zonadjjavi.webcindario.com/fanart.jpg</fanart>
 </item>
 
 <item>
 <title>[COLOR white][COLOR yellow] •  [/COLOR]M GOLF[/COLOR]</title>
-<sportsdevil>http://cinestrenostv.tv/canales/deportes/plusgolf.php</sportsdevil>
-<referer>http://cinestrenostv.tv</referer>
+<link>$doregex[GetPageUrl]|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
+<regex>
+<name>GetPageUrl</name>
+<expres>source: '(.*?)'</expres>
+<page>http://livesports.pw/embed.php?file=golfesp&amp;width=650&amp;height=397</page>
+<cookieJar></cookieJar>
+</regex>
 <thumbnail></thumbnail>
 <fanart>http://zonadjjavi.webcindario.com/fanart.jpg</fanart>
 </item>
 
 <item>
 <title>[COLOR white][COLOR yellow] •  [/COLOR]M MOTO GP[/COLOR]</title>
-<sportsdevil>http://cinestrenostv.tv/canales/deportes/motogp.php</sportsdevil>
-<referer>http://cinestrenostv.tv</referer>
+<link>$doregex[GetPageUrl]|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
+<regex>
+<name>GetPageUrl</name>
+<expres>source: '(.*?)'</expres>
+<page>http://livesports.pw/embed.php?file=motogpm&amp;width=650&amp;height=397</page>
+<cookieJar></cookieJar>
+</regex>
 <thumbnail></thumbnail>
 <fanart>http://zonadjjavi.webcindario.com/fanart.jpg</fanart>
 </item>
 
 <item>
 <title>[COLOR white][COLOR yellow] •  [/COLOR]M FORMULA 1[/COLOR]</title>
-<sportsdevil>http://cinestrenostv.tv/canales/deportes/formula1.php</sportsdevil>
-<referer>http://cinestrenostv.tv</referer>
+<link>$doregex[GetPageUrl]|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
+<regex>
+<name>GetPageUrl</name>
+<expres>source: '(.*?)'</expres>
+<page>http://livesports.pw/embed.php?file=funoesp&amp;width=650&amp;height=397</page>
+<cookieJar></cookieJar>
+</regex>
 <thumbnail></thumbnail>
 <fanart>http://zonadjjavi.webcindario.com/fanart.jpg</fanart>
 </item>
 
 <item>
 <title>[COLOR white][COLOR yellow] •  [/COLOR]BEIN SPORTS LIGA[/COLOR]</title>
-<sportsdevil>http://cinestrenostv.tv/canales/deportes/multiliga/canal1.html</sportsdevil>
-<referer>http://cinestrenostv.tv</referer>
+
 <thumbnail></thumbnail>
 <fanart>http://zonadjjavi.webcindario.com/fanart.jpg</fanart>
 </item>
@@ -128,16 +157,26 @@
 
 <item>
 <title>[COLOR white][COLOR yellow] •  [/COLOR]EUROSPORTS 1[/COLOR]</title>
-<sportsdevil>http://cinestrenostv.tv/canales/deportes/eurosports.php</sportsdevil>
-<referer>http://cinestrenostv.tv</referer>
+<link>$doregex[GetPageUrl]|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
+<regex>
+<name>GetPageUrl</name>
+<expres>source: '(.*?)'</expres>
+<page>http://livesports.pw/embed.php?file=eurosportsesp&amp;width=650&amp;height=397</page>
+<cookieJar></cookieJar>
+</regex>
 <thumbnail></thumbnail>
 <fanart>http://zonadjjavi.webcindario.com/fanart.jpg</fanart>
 </item>
 
 <item>
 <title>[COLOR white][COLOR yellow] •  [/COLOR]EUROSPORTS 2[/COLOR]</title>
-<sportsdevil>http://cinestrenostv.tv/canales/deportes/eurosports2.php</sportsdevil>
-<referer>http://cinestrenostv.tv</referer>
+<link>$doregex[GetPageUrl]|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
+<regex>
+<name>GetPageUrl</name>
+<expres>source: '(.*?)'</expres>
+<page>http://livesports.pw/embed.php?file=eurosportsdosesp&amp;width=650&amp;height=397</page>
+<cookieJar></cookieJar>
+</regex>
 <thumbnail></thumbnail>
 <fanart>http://zonadjjavi.webcindario.com/fanart.jpg</fanart>
 </item>
