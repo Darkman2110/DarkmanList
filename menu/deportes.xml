@@ -1,20 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 
-
-
-<channel>
-    <name>          <<<<<<<<<Canales Deportes Sportsdevil>>>>>>>></name>
-    <thumbnail></thumbnail>
-      <f<fanart>http://zonadjjavi.webcindario.com/fanart.jpg</fanart>
-        <items>
-		
-		
-		
-		
-		 <item><title>[COLOR=yellow]                                      <<[/COLOR][COLOR=yellow]Canales Deportes [COLOR=cyan]Sportsdevil[/COLOR][COLOR=yellow]>>[/COLOR]</title>   <link>http://zonadjjavi.webcindario.com</link></item>
-      
-
 <item>
 <title>[COLOR white][COLOR yellow] •  [/COLOR]PARTIDAZO[/COLOR]</title>
 <link>$doregex[GetPageUrl]|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
