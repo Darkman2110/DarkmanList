@@ -35,6 +35,7 @@
 <thumbnail></thumbnail>
 </item>
 
+
 <item>
 <title>[COLOR white][COLOR yellow] •  [/COLOR]BEIN SPORTS LIGA[/COLOR]</title>
 <link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.116 Chrome/48.0.2564.116 Safari/537.36</link>
@@ -74,8 +75,6 @@
 <fanart>http://zonadjjavi.webcindario.com/fanart.jpg</fanart>
 </item>
 
-
-
 <item>
 <title>[COLOR white][COLOR yellow] •  [/COLOR]M DEPORTES[/COLOR]</title>
 <link>$doregex[GetPageUrl]|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
@@ -87,7 +86,6 @@
 </regex>
 <fanart>http://zonadjjavi.webcindario.com/fanart.jpg</fanart>
 </item>
-
 
 <item>
 <title>[COLOR white][COLOR yellow] •  [/COLOR]M DEPORTES 2[/COLOR]</title>
@@ -187,16 +185,27 @@
 
 <item>
 <title>[COLOR white][COLOR yellow] •  [/COLOR]TELEDEPORTES[/COLOR]</title>
-<sportsdevil>http://cinestrenostv.tv/canales/deportes/teledeporte.php</sportsdevil>
-<referer>http://cinestrenostv.tv</referer>
+<link>$doregex[GetPageUrl]|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
+<regex>
+<name>GetPageUrl</name>
+<expres>source: '(.*?)'</expres>
+<page>http://livesports.pw/embed.php?file=teledeporteesp&amp;width=650&amp;height=397</page>
+<cookieJar></cookieJar>
+</regex>
 <thumbnail></thumbnail>
 <fanart>http://zonadjjavi.webcindario.com/fanart.jpg</fanart>
 </item>
 
  <item>
 <title>[COLOR white][COLOR yellow] •  [/COLOR]GOL TV[/COLOR]</title>
-<sportsdevil>http://cinestrenostv.tv/canales/deportes/goltv.php</sportsdevil>
-<referer>http://verdirectotv.com</referer>
+ <link>$doregex[get-id]|Referer=http://verdirectotv.com/tv/digitales/plus-series.html&amp;User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64; rv:55.0) Gecko/20100101 Firefox/55.0</link>
+<regex>
+<name>get-id</name>
+<expres>source: '(.*?)'</expres>
+<page>http://vergol.com/live1/goltv.php</page>
+<referer>http://verdirectotv.com/tv/digitales/plus-series.html</referer>
+<agent>Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.116 Chrome/48.0.2564.116 Safari/537.36</agent>
+</regex>
 <thumbnail>http://zonadjjavi.webcindario.com/Kodi/logos/golttv.jpg</thumbnail>
  <fanart>http://zonadjjavi.webcindario.com/fanart.jpg</fanart>
 </item>
