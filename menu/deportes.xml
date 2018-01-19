@@ -201,29 +201,6 @@
 </item>
 
 <item>
-<title>[COLOR white][COLOR yellow] •  [/COLOR]SEVILLA FC[/COLOR]</title>
-<sportsdevil>http://cinestrenostv.tv/canales/deportes/sevillafc.php</sportsdevil>
-<referer>http://cinestrenostv.tv</referer>
-<thumbnail></thumbnail>
-<fanart>http://zonadjjavi.webcindario.com/fanart.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR white][COLOR yellow] •  [/COLOR]BETIS TV[/COLOR]</title>
-<link>http://rbetis-hls.flumotion.com/rbetis/live/chunklist.m3u8</link>
-<thumbnail>http://www.grupocomunica.com/wp-content/uploads/2016/05/Radio-Betis-y-Betis-TV.jpg</thumbnail>
-<fanart>http://zonadjjavi.webcindario.com/fanart.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR white][COLOR yellow] •  [/COLOR]BARÇA TV[/COLOR]</title>
-<sportsdevil>http://cinestrenostv.tv/canales/deportes/barcatv.php</sportsdevil>
-<referer>http://cinestrenostv.tv</referer>
-<thumbnail></thumbnail>
-<fanart>http://zonadjjavi.webcindario.com/fanart.jpg</fanart>
-</item>
-
-<item>
 <title>[COLOR white][COLOR yellow] •  [/COLOR]REAL MADRID TV[/COLOR]</title>
 <sportsdevil>http://cinestrenostv.tv/canales/deportes/realmadridtv.php</sportsdevil>
 <referer>http://cinestrenostv.tv</referer>
@@ -246,3 +223,39 @@
 <thumbnail>http://zonadjjavi.webcindario.com/Kodi/logos/golttv.jpg</thumbnail>
  <fanart>http://zonadjjavi.webcindario.com/fanart.jpg</fanart>
 </item>
+
+<item>
+<title>[COLOR white][COLOR yellow] •  [/COLOR]TOROS TV[/COLOR] </title>
+<sportsdevil>http://cinestrenostv.tv/canales/nacionales/plus-toros.php</sportsdevil>
+<referer>http://cinestrenostv.tv</referer>
+<thumbnail>https://www.thelogodb.com/images/media/logo/xxxuts1436895323.png</thumbnail>
+<fanart>http://zonadjjavi.webcindario.com/fanart.jpg</fanart>
+</item>
+http://sevillafc_live-lh.akamaihd.net/i/video_0@354142/index_0700_av-p.m3u8?sd=10&rebase=on
+
+<item>
+<title>[COLOR white][COLOR yellow] •  [/COLOR]SEVILLA FC[/COLOR]</title>
+<link>http://sevillafc_live-lh.akamaihd.net/i/video_0@354142/index_0700_av-p.m3u8?sd=10&rebase=on</link>
+<thumbnail></thumbnail>
+<fanart>http://zonadjjavi.webcindario.com/fanart.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR white][COLOR yellow] •  [/COLOR]BETIS TV[/COLOR]</title>
+<link>http://rbetis-hls.flumotion.com/rbetis/live/chunks.m3u8</link>
+<thumbnail>http://www.grupocomunica.com/wp-content/uploads/2016/05/Radio-Betis-y-Betis-TV.jpg</thumbnail>
+<fanart>http://zonadjjavi.webcindario.com/fanart.jpg</fanart>
+</item>
+
+item>
+<title>[COLOR white][COLOR yellow] •  [/COLOR]BARÇA TV[/COLOR]</title>
+<sportsdevil>http://cinestrenostv.tv/canales/deportes/barcatv.php</sportsdevil>
+<referer>http://cinestrenostv.tv</referer>
+<thumbnail></thumbnail>
+<fanart>http://zonadjjavi.webcindario.com/fanart.jpg</fanart>
+</item>
+
+
+
+
