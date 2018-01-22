@@ -83,7 +83,7 @@
 <page>http://livesports.pw/embed2.php?file=movestr</page>
 <cookieJar></cookieJar>
 </regex>
-<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Movistar_Estrenos.svg/1783px-Movistar_Estrenos.svg.png</thumbnail>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Movistar_Estrenos.svg/1280px-Movistar_Estrenos.svg.png</thumbnail>
 <fanart>http://zonadjjavi.webcindario.com/fanart.jpg</fanart> 
 </item>
 
@@ -97,7 +97,7 @@
 <page>http://livesports.pw/embed2.php?file=mcomedia</page>
 <cookieJar></cookieJar>
 </regex>
-<thumbnail>http://zonadjjavi.webcindario.com/Kodi/logos/comedia.jpg</thumbnail>
+<thumbnail>http://vertelevisor.com/imagenes/movistar-comedia.png</thumbnail>
 <fanart>http://zonadjjavi.webcindario.com/fanart.jpg</fanart>
 </item>
 
@@ -110,7 +110,7 @@
 <page>http://livesports.pw/embed2.php?file=accion</page>
 <cookieJar></cookieJar>
 </regex>
-<thumbnail>http://zonadjjavi.webcindario.com/Kodi/logos/accion.jpg</thumbnail>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Movistar_Acci%C3%B3n.svg/1575px-Movistar_Acci%C3%B3n.svg.png</thumbnail>
 <fanart>http://zonadjjavi.webcindario.com/fanart.jpg</fanart>
 </item>
 
@@ -125,6 +125,9 @@
 </regex>
 <page>http://vergol.com/live/dcine.php</page>
 <referer>http://vertelevisor.com/tv/nacionales/dcine.html</referer>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Movistar_DCine.svg/2000px-Movistar_DCine.svg.png</thumbnail>
+<fanart>http://zonadjjavi.webcindario.com/fanart.jpg</fanart>
+
 </item>
 
  <item>
@@ -266,7 +269,7 @@
 <page>http://livesports.pw/embed2.php?file=foxespana</page>
 <cookieJar></cookieJar>
 </regex>
-<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/FOX_wordmark.svg/1200px-FOX_wordmark.svg.png</thumbnail>
+<thumbnail>https://upload.wikimehttp://cdn1-www.craveonline.com/assets/uploads/2013/08/Fox-Logo.jpg</thumbnail>
 <fanart>http://zonadjjavi.webcindario.com/fanart.jpg</fanart>  
 </item>
 
@@ -280,7 +283,7 @@
 <cookieJar></cookieJar>
 </regex>
 <referer>http://cinestrenostv.tv</referer>
-<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/FOX_wordmark.svg/1200px-FOX_wordmark.svg.png</thumbnail>
+<thumbnail>http://cdn1-www.craveonline.com/assets/uploads/2013/08/Fox-Logo.jpg</thumbnail>
 <fanart>http://zonadjjavi.webcindario.com/fanart.jpg</fanart>  
 </item>
 

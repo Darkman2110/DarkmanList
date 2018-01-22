@@ -10,7 +10,7 @@
 <page>http://livesports.pw/embed.php?file=partidazo&amp;width=650&amp;height=397</page>
 <cookieJar></cookieJar>
 </regex>
-<thumbnail>http://vignette1.wikia.nocookie.net/logopedia/images/c/c2/MovistarPartidazo.png/revision/latest?cb=20160818140828</thumbnail>
+<thumbnail>https://static.beinconnect.es/uploads/comun/img/logos/partidazo.png</thumbnail>
 <fanart>http://zonadjjavi.webcindario.com/fanart.jpg</fanart>
 </item>
 
@@ -36,7 +36,7 @@
 <cookieJar></cookieJar>
 </regex>
 <fanart>http://zonadjjavi.webcindario.com/fanart.jpg</fanart>
-<thumbnail></thumbnail>
+<thumbnail>http://usclubsoccer.org/wp-content/uploads/2013/11/LALIGA_LOGO_H_2015-01COLOR-BLANCO-cropped.png</thumbnail>
 </item>
 
 
@@ -75,7 +75,7 @@
 <page>http://livesports.pw/embed.php?file=futbolespm&amp;width=650&amp;height=397</page>
 <cookieJar></cookieJar>
 </regex>
-<thumbnail></thumbnail>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Movistar_F%C3%BAtbol.svg/1000px-Movistar_F%C3%BAtbol.svg.png</thumbnail>
 <fanart>http://zonadjjavi.webcindario.com/fanart.jpg</fanart>
 </item>
 
@@ -88,6 +88,7 @@
 <page>http://livesports.pw/embed.php?file=deporteone&amp;width=650&amp;height=397</page>
 <cookieJar></cookieJar>
 </regex>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Movistar_Deportes_1.svg/1024px-Movistar_Deportes_1.svg.png</thumbnail>
 <fanart>http://zonadjjavi.webcindario.com/fanart.jpg</fanart>
 </item>
 
@@ -100,7 +101,7 @@
 <page>http://livesports.pw/embed.php?file=deportedosm&amp;width=650&amp;height=397</page>
 <cookieJar></cookieJar>
 </regex>
-<thumbnail></thumbnail>
+<thumbnail>http://verdirectotv.com/logos/deportes2.png</thumbnail>
 <fanart>http://zonadjjavi.webcindario.com/fanart.jpg</fanart>
 </item>
 
@@ -113,7 +114,7 @@
 <page>http://livesports.pw/embed.php?file=golfesp&amp;width=650&amp;height=397</page>
 <cookieJar></cookieJar>
 </regex>
-<thumbnail></thumbnail>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Movistar_Golf.svg/1024px-Movistar_Golf.svg.png</thumbnail>
 <fanart>http://zonadjjavi.webcindario.com/fanart.jpg</fanart>
 </item>
 
@@ -126,7 +127,7 @@
 <page>http://livesports.pw/embed.php?file=motogpm&amp;width=650&amp;height=397</page>
 <cookieJar></cookieJar>
 </regex>
-<thumbnail></thumbnail>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Movistar_Moto_GP.svg/2000px-Movistar_Moto_GP.svg.png</thumbnail>
 <fanart>http://zonadjjavi.webcindario.com/fanart.jpg</fanart>
 </item>
 
@@ -139,7 +140,7 @@
 <page>http://livesports.pw/embed.php?file=funoesp&amp;width=650&amp;height=397</page>
 <cookieJar></cookieJar>
 </regex>
-<thumbnail></thumbnail>
+<thumbnail>https://movistar.i.lithium.com/t5/image/serverpage/image-id/111641iA6F01CFB43B522C3?v=1.0</thumbnail>
 <fanart>http://zonadjjavi.webcindario.com/fanart.jpg</fanart>
 </item>
 
@@ -154,7 +155,7 @@
 <page>http://livesports.pw/embed.php?file=eurosportsesp&amp;width=650&amp;height=397</page>
 <cookieJar></cookieJar>
 </regex>
-<thumbnail></thumbnail>
+<thumbnail>http://www.galiotopen.com/wp-content/uploads/2015/01/a4.png</thumbnail>
 <fanart>http://zonadjjavi.webcindario.com/fanart.jpg</fanart>
 </item>
 
@@ -167,7 +168,7 @@
 <page>http://livesports.pw/embed.php?file=eurosportsdosesp&amp;width=650&amp;height=397</page>
 <cookieJar></cookieJar>
 </regex>
-<thumbnail></thumbnail>
+<thumbnail>https://vignette.wikia.nocookie.net/logopedia/images/3/3d/ESP_2_GGS_RVB.png/revision/latest?cb=20120329095341</thumbnail>
 <fanart>http://zonadjjavi.webcindario.com/fanart.jpg</fanart>
 </item>
 
@@ -175,7 +176,7 @@
 <title>[COLOR white][COLOR yellow] •  [/COLOR]SPORTS 3[/COLOR]</title>
 <sportsdevil>http://cinestrenostv.tv/canales/deportes/sport3.php</sportsdevil>
 <referer>http://cinestrenostv.tv</referer>
-<thumbnail></thumbnail>
+<thumbnail>http://www.andaluciaesdeporte.org/sites/default/files/imagecache/Noticia_node/esport3_logo2011.png</thumbnail>
 <fanart>http://zonadjjavi.webcindario.com/fanart.jpg</fanart>
 </item>
 
@@ -196,7 +197,7 @@
 <page>http://livesports.pw/embed.php?file=teledeporteesp&amp;width=650&amp;height=397</page>
 <cookieJar></cookieJar>
 </regex>
-<thumbnail></thumbnail>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Logotipo_de_Teledeporte%2C_tdp.svg/600px-Logotipo_de_Teledeporte%2C_tdp.svg.png</thumbnail>
 <fanart>http://zonadjjavi.webcindario.com/fanart.jpg</fanart>
 </item>
 
@@ -210,7 +211,7 @@
 <referer>http://verdirectotv.com/tv/digitales/plus-series.html</referer>
 <agent>Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.116 Chrome/48.0.2564.116 Safari/537.36</agent>
 </regex>
-<thumbnail>http://zonadjjavi.webcindario.com/Kodi/logos/golttv.jpg</thumbnail>
+<thumbnail>http://images.elconfidencialdigital.com/medios/Gol_ECDIMA20160321_0022_3.png</thumbnail>
  <fanart>http://zonadjjavi.webcindario.com/fanart.jpg</fanart>
 </item>
 
