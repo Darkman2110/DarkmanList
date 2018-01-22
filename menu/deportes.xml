@@ -49,7 +49,7 @@
 <page>http://livesports.pw/embed.php?file=beinlaliga&amp;width=650&amp;height=397</page>
 <cookieJar></cookieJar>
 </regex>
-<thumbnail></thumbnail>
+<thumbnail>https://s3-static-bein.s3.amazonaws.com/uploads/comun/img/logos/bein-laliga-md.png</thumbnail>
 <fanart>http://zonadjjavi.webcindario.com/fanart.jpg</fanart>
 </item>
 
@@ -62,7 +62,7 @@
 <page>http://livesports.pw/embed.php?file=beinsport&amp;width=650&amp;height=397</page>
 <cookieJar></cookieJar>
 </regex>
-<thumbnail></thumbnail>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/BeIN_Sports.png/640px-BeIN_Sports.png</thumbnail>
 <fanart>http://zonadjjavi.webcindario.com/fanart.jpg</fanart>
 </item>
 
@@ -227,7 +227,7 @@ http://sevillafc_live-lh.akamaihd.net/i/video_0@354142/index_0700_av-p.m3u8?sd=1
 <item>
 <title>[COLOR white][COLOR yellow] •  [/COLOR]SEVILLA FC[/COLOR]</title>
 <link>http://sevillafc_live-lh.akamaihd.net/i/video_0@354142/index_0700_av-p.m3u8?sd=10&rebase=on</link>
-<thumbnail></thumbnail>
+<thumbnail>http://www.adnervion.es/wp-content/uploads/2017/11/SFC.jpg</thumbnail>
 <fanart>http://zonadjjavi.webcindario.com/fanart.jpg</fanart>
 </item>
 
