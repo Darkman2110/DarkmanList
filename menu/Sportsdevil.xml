@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
  <item>
-<title>[COLOR white][COLOR yellow] •  [/COLOR] CLAN HD 1080   [COLOR lime] f4mTester[/COLOR] </title>
+<title>[COLOR white][COLOR yellow] •  [/COLOR] CLAN HD  [COLOR lime] f4mTester[/COLOR] </title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://merlin.magikdata.biz:8000/live/test123/test123/709.ts;name=CLAN HD</link>
 <thumbnail>http://upload.wikimedia.org/wikipedia/commons/9/94/Logo_clan.png</thumbnail>
 <fanart>http://zonadjjavi.webcindario.com/fanart.jpg</fanart>  
 </item>
 
  <item>
-<title>[COLOR white][COLOR yellow] •  [/COLOR] SYFY HD 1080   [COLOR lime] f4mTester[/COLOR] </title>
+<title>[COLOR white][COLOR yellow] •  [/COLOR] SYFY HD [COLOR lime] f4mTester[/COLOR] </title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://merlin.magikdata.biz:8000/live/test123/test123/2152.ts;name=SYFY HD</link>
-<thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxI4mcEB0EE0Olfuoex0sCDqvKBfHU1nX9X6gHnuGWnA44tQO0</thumbnail>
+<thumbnail>http://www.syfy.com/sites/syfy/themes/syfy/default.jpg</thumbnail>
 <fanart>http://zonadjjavi.webcindario.com/fanart.jpg</fanart>  
 </item>
  
  <item>
-<title>[COLOR white][COLOR yellow] •  [/COLOR] FOX   [COLOR lime]f4mTester[/COLOR] </title>
+<title>[COLOR white][COLOR yellow] •  [/COLOR] FOX [COLOR lime]f4mTester[/COLOR] </title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://merlin.magikdata.biz:8000/live/test123/test123/329.ts;name=FOX HD</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/FOX_wordmark.svg/1200px-FOX_wordmark.svg.png</thumbnail>
 <fanart>http://zonadjjavi.webcindario.com/fanart.jpg</fanart>  
 </item>
  
  <item>
-<title>[COLOR white][COLOR yellow] •  [/COLOR] AXN   [COLOR lime]f4mTester [/COLOR] </title>
+<title>[COLOR white][COLOR yellow] •  [/COLOR] AXN [COLOR lime]f4mTester [/COLOR] </title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://merlin.magikdata.biz:8000/live/test123/test123/379.ts;name=AXN HD</link>
 <thumbnail>https://i1.wp.com/www.zapping-tv.com/wp-content/uploads/2015/05/AXN.jpg?fit=956%2C596</thumbnail>  
 <fanart>http://zonadjjavi.webcindario.com/fanart.jpg</fanart>  
@@ -35,7 +35,7 @@
 </item>
 
 <item>
-<title>[COLOR white][COLOR yellow] •  [/COLOR] TNT HD 1080  [COLOR lime]f4mTester  [/COLOR] </title>
+<title>[COLOR white][COLOR yellow] •  [/COLOR] TNT HD [COLOR lime]f4mTester  [/COLOR] </title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://merlin.magikdata.biz:8000/live/test123/test123/303.ts;name=TNT HD</link>
 <thumbnail>http://verestv.com/logos/TNT_Logo.png</thumbnail>
 <fanart>http://zonadjjavi.webcindario.com/fanart.jpg</fanart>  
@@ -68,7 +68,7 @@
 <page>http://livesports.pw/embed2.php?file=sysfesp</page>
 <cookieJar></cookieJar>
 </regex>
-<thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxI4mcEB0EE0Olfuoex0sCDqvKBfHU1nX9X6gHnuGWnA44tQO0</thumbnail>
+<thumbnail>http://www.syfy.com/sites/syfy/themes/syfy/default.jpg</thumbnail>
 <fanart>http://zonadjjavi.webcindario.com/fanart.jpg</fanart>  
 </item>
 
@@ -82,7 +82,7 @@
 <cookieJar></cookieJar>
 </regex>
 <referer>http://cinestrenostv.tv</referer>
-<thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxI4mcEB0EE0Olfuoex0sCDqvKBfHU1nX9X6gHnuGWnA44tQO0</thumbnail>
+<thumbnail>http://www.syfy.com/sites/syfy/themes/syfy/default.jpg</thumbnail>
 <fanart>http://zonadjjavi.webcindario.com/fanart.jpg</fanart>  
 </item>
 
