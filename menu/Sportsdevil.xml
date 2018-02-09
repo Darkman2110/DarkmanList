@@ -61,12 +61,13 @@
 
 <item>
 <title>[COLOR white][COLOR yellow] •  [/COLOR] SYFY[/COLOR] </title>
-<link>$doregex[GetPageUrl]|User-Agent=|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
+<link>$doregex[get-id]|User-Agent=iPad</link>
 <regex>
-<name>GetPageUrl</name>
+<name>get-id</name>
 <expres>source: '(.*?)'</expres>
-<page>http://livesports.pw/embed2.php?file=sysfesp</page>
-<cookieJar></cookieJar>
+<page>http://vergol.com/live2/syfy.php</page>
+<referer>http://vercanalestv.com/tv/nacionales/syfy.html</referer>
+<agent>Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.116 Chrome/48.0.2564.116 Safari/537.36</agent>
 </regex>
 <thumbnail>http://www.syfy.com/sites/syfy/themes/syfy/default.jpg</thumbnail>
 <fanart>http://zonadjjavi.webcindario.com/fanart.jpg</fanart>  
@@ -74,9 +75,9 @@
 
 <item>
 <title>[COLOR white][COLOR yellow] •  [/COLOR]SYFY*[/COLOR]</title>
- <link>$doregex[GetPageUrl]|Referer=http://livesports.pw/embed2.php?file=launotelefivegb&amp;User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64; rv:54.0) Gecko/20100101 Firefox/54.0</link>
+<link>$doregex[get-id]|User-Agent=|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
 <regex>
-<name>GetPageUrl</name>
+<name>get-id</name>
 <expres>source: '(.*?)'</expres>
 <page>http://livesports.pw/embed2.php?file=sysfesp&amp;width=650&amp;height=397</page>
 <cookieJar></cookieJar>
@@ -102,8 +103,8 @@
 
 <item>
 <title>[COLOR white][COLOR yellow] •  [/COLOR] AXN WHITE [/COLOR] </title>
-<link>$doregex[GetPageUrl]|User-Agent=|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
-<regex><name>GetPageUrl</name>
+<link>$doregex[get-id]|User-Agent=|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
+<regex><name>get-id</name>
 <expres>source: '(.*?)'</expres>
 <page>http://livesports.pw/embed2.php?file=axnwahit&amp;width=650&amp;height=397</page>
 <cookieJar></cookieJar>
@@ -114,8 +115,8 @@
 
 <item>
 <title>[COLOR white][COLOR yellow] •  [/COLOR] M DISNEY[/COLOR] </title>
-<link>$doregex[GetPageUrl]|User-Agent=|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
-<regex><name>GetPageUrl</name>
+<link>$doregex[get-id]|User-Agent=|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
+<regex><name>get-id</name>
 <expres>source: '(.*?)'</expres>
 <page>http://livesports.pw/embed2.php?file=mdisney&amp;width=650&amp;height=397</page>
 <cookieJar></cookieJar>
@@ -126,9 +127,9 @@
 
 <item>
 <title>[COLOR white][COLOR yellow] •  [/COLOR] TNT[/COLOR] </title>
-<link>$doregex[GetPageUrl]|User-Agent=|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
+<link>$doregex[get-id]|User-Agent=|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
 <regex>
-<name>GetPageUrl</name>
+<name>get-id</name>
 <expres>source: '(.*?)'</expres>
 <page>http://livesports.pw/embed2.php?file=tntesp</page>
 <cookieJar></cookieJar>
@@ -139,9 +140,9 @@
 
 <item>
 <title>[COLOR white][COLOR yellow] •  [/COLOR] DARK[/COLOR] </title>
-<link>$doregex[GetPageUrl]|User-Agent=|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
+<link>$doregex[[get-id]||User-Agent=|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
 <regex>
-<name>GetPageUrl</name>
+<name>get-id</name>
 <expres>source: '(.*?)'</expres>
 <page>http://livesports.pw/embed2.php?file=darkes</page>
 <cookieJar></cookieJar>
@@ -153,9 +154,9 @@
 
 <item>
 <title>[COLOR white][COLOR yellow] •  [/COLOR] FOX[/COLOR] </title>
-<link>$doregex[GetPageUrl]|User-Agent=|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
+<link>$doregex[get-id]|User-Agent=|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
 <regex>
-<name>GetPageUrl</name>
+<name>get-id</name>
 <expres>source: '(.*?)'</expres>
 <page>http://livesports.pw/embed2.php?file=foxespana</page>
 <cookieJar></cookieJar>
@@ -166,9 +167,9 @@
 
 <item>
 <title>[COLOR white][COLOR yellow] •  [/COLOR]FOX*[/COLOR]</title>
- <link>$doregex[GetPageUrl]|Referer=http://livesports.pw/embed2.php?file=launotelefivegb&amp;User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64; rv:54.0) Gecko/20100101 Firefox/54.0</link>
+<link>$doregex[get-id]|User-Agent=|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
 <regex>
-<name>GetPageUrl</name>
+<name>get-id</name>
 <expres>source: '(.*?)'</expres>
 <page>http://livesports.pw/embed2.php?file=foxespana&amp;width=650&amp;height=397</page>
 <cookieJar></cookieJar>
@@ -178,9 +179,19 @@
 <fanart>http://zonadjjavi.webcindario.com/fanart.jpg</fanart>  
 </item>
 
-
-
-
+<item>
+<title>[COLOR white][COLOR yellow] •  [/COLOR]FOX**[/COLOR]</title>
+<link>$doregex[get-id]|User-Agent=iPad</link>
+<regex>
+<name>get-id</name>
+<expres>source: '(.*?)'</expres>
+<page>http://vergol.com/live/fox.php</page>
+<referer>http://vercanalestv.com/tv/nacionales/fox.html</referer>
+<agent>iPad</agent>
+</regex>
+<thumbnail>http://cdn1-www.craveonline.com/assets/uploads/2013/08/Fox-Logo.jpg</thumbnail>
+<fanart>http://zonadjjavi.webcindario.com/fanart.jpg</fanart>  
+</item>
 
 
 
@@ -189,9 +200,9 @@
 
 <item>
 <title>[COLOR white][COLOR yellow] •  [/COLOR]  #0 [/COLOR]</title>
-<link>$doregex[GetPageUrl]|Referer=http://telefivegb.com/tv-spain/ver-canal-plus0-hd-online-gratis-vivo/&amp;User-Agent=Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.116 Chrome/48.0.2564.116 Safari/537.36</link>
+<link>$doregex[get-id]|Referer=http://telefivegb.com/tv-spain/ver-canal-plus0-hd-online-gratis-vivo/&amp;User-Agent=Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.116 Chrome/48.0.2564.116 Safari/537.36</link>
 <regex>
-<name>GetPageUrl</name>
+<name>get-id</name>
 <expres>source: '(.*?)'</expres>
 <page>http://livesports.pw/embed.php?file=pluscero&amp;width=650&amp;height=397</page>
 <agent>Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.116 Chrome/48.0.2564.116 Safari/537.36</agent>
@@ -203,9 +214,9 @@
 
 <item>
 <title>[COLOR white][COLOR yellow] •  [/COLOR] ESTRENOS[/COLOR] </title>
-<link>$doregex[GetPageUrl]|User-Agent=|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
+<link>$doregex[get-id]|User-Agent=|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
 <regex>
-<name>GetPageUrl</name>
+<name>get-id</name>
 <expres>source: '(.*?)'</expres>
 <page>http://livesports.pw/embed2.php?file=movestr</page>
 <cookieJar></cookieJar>
@@ -217,9 +228,9 @@
 
 <item>
 <title>[COLOR white][COLOR yellow] •  [/COLOR] COMEDIA[/COLOR] </title>
-<link>$doregex[GetPageUrl]|User-Agent=|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
+<link>$doregex[get-id]|User-Agent=|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
 <regex>
-<name>GetPageUrl</name>
+<name>get-id</name>
 <expres>source: '(.*?)'</expres>
 <page>http://livesports.pw/embed2.php?file=mcomedia</page>
 <cookieJar></cookieJar>
@@ -230,9 +241,9 @@
 
 <item>
 <title>[COLOR white][COLOR yellow] •  [/COLOR] ACCION[/COLOR] </title>
-<link>$doregex[GetPageUrl]|User-Agent=|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
+<link>$doregex[get-id]|User-Agent=|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
 <regex>
-<name>GetPageUrl</name>
+<name>get-id</name>
 <expres>source: '(.*?)'</expres>
 <page>http://livesports.pw/embed2.php?file=accion</page>
 <cookieJar></cookieJar>
@@ -243,9 +254,9 @@
 
 <item>
 <title>[COLOR white][COLOR yellow] •  [/COLOR] DCINE[/COLOR] </title>
-<link>$doregex[GetPageUrl]|User-Agent=|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
+<link>$doregex[get-id]|User-Agent=|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
 <regex>
-<name>GetPageUrl</name>
+<name>get-id</name>
 <expres>source: '(.*?)'</expres>
 <page>http://livesports.pw/embed2.php?file=dicneesp</page>
 <cookieJar></cookieJar>
@@ -259,9 +270,9 @@
 
  <item>
 <title>[COLOR white][COLOR yellow] •  [/COLOR] SERIES[/COLOR] </title>
-<link>$doregex[GetPageUrl]|Referer=http://vercanalestv.com/tv/nacionales/canal-plus-estrenos.html&amp;User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
+<link>$doregex[get-id]|Referer=http://vercanalestv.com/tv/nacionales/canal-plus-estrenos.html&amp;User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
 <regex>
-<name>GetPageUrl</name>
+<name>get-id</name>
 <expres>source: '(.*?)'</expres>
 <page>http://livesports.pw/embed2.php?file=mseries&amp;width=650&amp;height=397</page>
 <agent>Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.116 Chrome/48.0.2564.116 Safari/537.36</agent>
@@ -286,9 +297,9 @@
 
 <item>
 <title>[COLOR white][COLOR yellow] •  [/COLOR] XTRA[/COLOR] </title>
-<link>$doregex[GetPageUrl]|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
+<link>$doregex[get-id]|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
 <regex>
-<name>GetPageUrl</name>
+<name>get-id</name>
 <expres>source: '(.*?)'</expres>
 <page>http://livesports.pw/embed2.php?file=mxtra&amp;width=650&amp;height=397</page>
 <cookieJar></cookieJar>
@@ -301,9 +312,9 @@
 
 <item>
 <title>[COLOR white][COLOR yellow] •  [/COLOR] CINEMAX [/COLOR] </title>
-<link>$doregex[GetPageUrl]|Referer=http://vercanalestv.com/tv/argentina/cinemax.html&amp;User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64; rv:55.0) Gecko/20100101 Firefox/55.0</link>
+<link>$doregex[get-id]|Referer=http://vercanalestv.com/tv/argentina/cinemax.html&amp;User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64; rv:55.0) Gecko/20100101 Firefox/55.0</link>
 <regex>
-<name>GetPageUrl</name>
+<name>get-id</name>
 <expres>source: '(.*?)'</expres>
 <page>http://vergol.com/live1/cinemax.php</page>
 <referer>http://vercanalestv.com/tv/nacionales/canal-plus-estrenos.html</referer>
@@ -342,9 +353,9 @@
 
 <item>
 <title>[COLOR white][COLOR yellow] •  [/COLOR] AMC[/COLOR] </title>
-<link>$doregex[GetPageUrl]|User-Agent=|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
+<link>$doregex[get-id]|User-Agent=|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
 <regex>
-<name>GetPageUrl</name>
+<name>get-id</name>
 <expres>source: '(.*?)'</expres>
 <page>http://livesports.pw/embed2.php?file=amcesptele</page>
 <cookieJar></cookieJar>
@@ -356,9 +367,9 @@
 
 <item>
 <title>[COLOR white][COLOR yellow] •  [/COLOR] TCM[/COLOR] </title>
-<link>$doregex[GetPageUrl]|User-Agent=|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
+<link>$doregex[get-id]|User-Agent=|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
 <regex>
-<name>GetPageUrl</name>
+<name>get-id</name>
 <expres>source: '(.*?)'</expres>
 <page>http://livesports.pw/embed2.php?file=tcmesp</page>
 <cookieJar></cookieJar>
@@ -370,9 +381,9 @@
 
 <item>
 <title>[COLOR white][COLOR yellow] •  [/COLOR] CALLE 13[/COLOR] </title>
-<link>$doregex[GetPageUrl]|User-Agent=|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
+<link>$doregex[get-id]|User-Agent=|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
 <regex>
-<name>GetPageUrl</name>
+<name>get-id</name>
 <expres>source: '(.*?)'</expres>
 <page>http://livesports.pw/embed2.php?file=calltrees</page>
 <cookieJar></cookieJar>
@@ -383,9 +394,9 @@
 
 <item>
 <title>[COLOR white][COLOR yellow] •  [/COLOR] COMEDY CENTRAL[/COLOR] </title>
-<link>$doregex[GetPageUrl]|User-Agent=|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
+<link>$doregex[get-id]|User-Agent=|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
 <regex>
-<name>GetPageUrl</name>
+<name>get-id</name>
 <expres>source: '(.*?)'</expres>
 <page>http://livesports.pw/embed2.php?file=comedycentral</page>
 <cookieJar></cookieJar>
@@ -397,9 +408,9 @@
 
 <item>
 <title>[COLOR white][COLOR yellow] •  [/COLOR] HOLLYWOOD[/COLOR] </title>
-<link>$doregex[GetPageUrl]|User-Agent=|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
+<link>$doregex[get-id]|User-Agent=|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
 <regex>
-<name>GetPageUrl</name>
+<name>get-id</name>
 <expres>source: '(.*?)'</expres>
 <page>http://livesports.pw/embed2.php?file=hollywesp</page>
 <cookieJar></cookieJar>
@@ -414,9 +425,9 @@
 
 <item>
 <title>[COLOR white][COLOR yellow] •  [/COLOR] NICKELODEON[/COLOR] </title>
-<link>$doregex[GetPageUrl]|User-Agent=|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
+<link>$doregex[get-id]|User-Agent=|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
 <regex>
-<name>GetPageUrl</name>
+<name>get-id</name>
 <expres>source: '(.*?)'</expres>
 <page>http://livesports.pw/embed2.php?file=nickelones</page>
 <cookieJar></cookieJar>
@@ -427,9 +438,9 @@
 
 <item>
 <title>[COLOR white][COLOR yellow] •  [/COLOR] BOING[/COLOR] </title>
-<link>$doregex[GetPageUrl]|User-Agent=|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
+<link>$doregex[get-id]|User-Agent=|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
 <regex>
-<name>GetPageUrl</name>
+<name>get-id</name>
 <expres>source: '(.*?)'</expres>
 <page>http://livesports.pw/embed2.php?file=boing</page>
 <cookieJar></cookieJar>
@@ -440,9 +451,9 @@
 
 <item>
 <title>[COLOR white][COLOR yellow] •  [/COLOR] DISNEY CHANNEL [/COLOR] </title>
-<link>$doregex[GetPageUrl]|User-Agent=|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
+<link>$doregex[get-id]|User-Agent=|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
 <regex>
-<name>GetPageUrl</name>
+<name>get-id</name>
 <expres>source: '(.*?)'</expres>
 <page>http://livesports.pw/embed2.php?file=disneychannel</page>
 <cookieJar></cookieJar>
@@ -453,9 +464,9 @@
 
 <item>
 <title>[COLOR white][COLOR yellow] •  [/COLOR] DISNEY XD[/COLOR] </title>
-<link>$doregex[GetPageUrl]|User-Agent=|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
+<link>$doregex[get-id]|User-Agent=|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
 <regex>
-<name>GetPageUrl</name>
+<name>get-id</name>
 <expres>source: '(.*?)'</expres>
 <page>http://livesports.pw/embed2.php?file=disneyxd</page>
 <cookieJar></cookieJar>
@@ -485,9 +496,9 @@
 
 <item>
 <title>[COLOR white][COLOR yellow] •  [/COLOR]  ODISEA[/COLOR] </title>
-<link>$doregex[GetPageUrl]|User-Agent=|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
+<link>$doregex[get-id]|User-Agent=|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
 <regex>
-<name>GetPageUrl</name>
+<name>get-id</name>
 <expres>source: '(.*?)'</expres>
 <page>http://livesports.pw/embed2.php?file=odiseatelef&amp;width=650&amp;height=397</page>
 <cookieJar></cookieJar>
@@ -498,9 +509,9 @@
 
 <item>
 <title>[COLOR white][COLOR yellow] •  [/COLOR] COCINA[/COLOR] </title>
-<link>$doregex[GetPageUrl]|User-Agent=|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
+<link>$doregex[get-id]|User-Agent=|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
 <regex>
-<name>GetPageUrl</name>
+<name>get-id</name>
 <expres>source: '(.*?)'</expres>
 <page>http://livesports.pw/embed2.php?file=cocinaesp</page>
 <cookieJar></cookieJar>
@@ -539,9 +550,9 @@
 
 <item>
 <title>[COLOR white][COLOR yellow] •  [/COLOR]  CRIMEN Y INVESTIGACION [/COLOR]</title>
-<link>$doregex[GetPageUrl]|User-Agent=|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
+<link>$doregex[get-id]|User-Agent=|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
 <regex>
-<name>GetPageUrl</name>
+<name>get-id</name>
 <expres>source: '(.*?)'</expres>
 <page>http://livesports.pw/embed2.php?file=crimenyinvestigacion&amp;width=650&amp;height=397</page>
 <cookieJar></cookieJar>
@@ -553,8 +564,8 @@
 
 <item>
 <title>[COLOR white][COLOR yellow] •  [/COLOR]  CAZA Y PESCA  [/COLOR]</title>
-<link>$doregex[GetPageUrl]|User-Agent=|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
-<regex><name>GetPageUrl</name>
+<link>$doregex[get-id]|User-Agent=|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
+<regex><name>get-id</name>
 <expres>source: '(.*?)'</expres>
 <page>http://livesports.pw/embedn.php?file=cazaypesca&amp;width=650&amp;height=397</page>
 <cookieJar></cookieJar>
@@ -580,9 +591,9 @@
 
 <item>
 <title>[COLOR white][COLOR yellow] •  [/COLOR]  DISCOVERY [/COLOR]</title>
-<link>$doregex[GetPageUrl]|User-Agent=|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
+<link>$doregex[get-id]|User-Agent=|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
 <regex>
-<name>GetPageUrl</name>
+<name>get-id</name>
 <expres>source: '(.*?)'</expres>
 <page>http://livesports.pw/embedn.php?file=discoverychannel&amp;width=650&amp;height=397</page>
 <cookieJar></cookieJar>
@@ -607,9 +618,9 @@
 
 <item>
 <title>[COLOR white][COLOR yellow] •  [/COLOR]  A&E[/COLOR]</title>
-<link>$doregex[GetPageUrl]|User-Agent=|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
+<link>$doregex[get-id]|User-Agent=|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
 <regex>
-<name>GetPageUrl</name>
+<name>get-id</name>
 <expres>source: '(.*?)'</expres>
 <page>http://livesports.pw/embedn.php?file=anadetelefive&width=650&height=400</page>
 <cookieJar></cookieJar>
@@ -620,9 +631,9 @@
 
 <item>
 <title>[COLOR white][COLOR yellow] •  [/COLOR]  MTV [/COLOR]</title>
-<link>$doregex[GetPageUrl]|User-Agent=|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
+<link>$doregex[get-id]|User-Agent=|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
 <regex>
-<name>GetPageUrl</name>
+<name>get-id</name>
 <expres>source: '(.*?)'</expres>
 <page>http://livesports.pw/embedn.php?file=mtvesp&amp;width=100%&amp;height=100%</page>
 <cookieJar></cookieJar>
@@ -639,8 +650,8 @@
 
 <item>
 <title>[COLOR white][COLOR yellow] •  [/COLOR]  VIAJAR [/COLOR]</title>
-link>$doregex[GetPageUrl]|User-Agent=|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
-<regex><name>GetPageUrl</name><expres>source: '(.*?)'</expres>
+link>$doregex[get-id]|User-Agent=|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
+<regex><name>get-id</name><expres>source: '(.*?)'</expres>
 <page>http://livesports.pw/embedn.php?file=viajar&amp;width=100%&amp;height=100%</page>
 <cookieJar></cookieJar>
 </regex>
