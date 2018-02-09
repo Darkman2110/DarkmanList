@@ -75,7 +75,7 @@
 
 <item>
 <title>[COLOR white][COLOR yellow] •  [/COLOR]SYFY*[/COLOR]</title>
-<link>$doregex[get-id]|User-Agent=|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
+<l<link>$doregex[get-id]|User-Agent=iPad</link>
 <regex>
 <name>get-id</name>
 <expres>source: '(.*?)'</expres>
@@ -103,7 +103,7 @@
 
 <item>
 <title>[COLOR white][COLOR yellow] •  [/COLOR] AXN WHITE [/COLOR] </title>
-<link>$doregex[get-id]|User-Agent=|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
+<l<link>$doregex[get-id]|User-Agent=iPad</link>
 <regex><name>get-id</name>
 <expres>source: '(.*?)'</expres>
 <page>http://livesports.pw/embed2.php?file=axnwahit&amp;width=650&amp;height=397</page>
@@ -115,7 +115,7 @@
 
 <item>
 <title>[COLOR white][COLOR yellow] •  [/COLOR] M DISNEY[/COLOR] </title>
-<link>$doregex[get-id]|User-Agent=|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
+<l<link>$doregex[get-id]|User-Agent=iPad</link>
 <regex><name>get-id</name>
 <expres>source: '(.*?)'</expres>
 <page>http://livesports.pw/embed2.php?file=mdisney&amp;width=650&amp;height=397</page>
@@ -127,7 +127,7 @@
 
 <item>
 <title>[COLOR white][COLOR yellow] •  [/COLOR] TNT[/COLOR] </title>
-<link>$doregex[get-id]|User-Agent=|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
+<l<link>$doregex[get-id]|User-Agent=iPad</link>
 <regex>
 <name>get-id</name>
 <expres>source: '(.*?)'</expres>
@@ -140,7 +140,7 @@
 
 <item>
 <title>[COLOR white][COLOR yellow] •  [/COLOR] DARK[/COLOR] </title>
-<link>$doregex[[get-id]||User-Agent=|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
+<link>$doregex[get-id]|User-Agent=iPad</link>
 <regex>
 <name>get-id</name>
 <expres>source: '(.*?)'</expres>
@@ -153,34 +153,7 @@
 
 
 <item>
-<title>[COLOR white][COLOR yellow] •  [/COLOR] FOX[/COLOR] </title>
-<link>$doregex[get-id]|User-Agent=|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
-<regex>
-<name>get-id</name>
-<expres>source: '(.*?)'</expres>
-<page>http://livesports.pw/embed2.php?file=foxespana</page>
-<cookieJar></cookieJar>
-</regex>
-<thumbnail>https://upload.wikimehttp://cdn1-www.craveonline.com/assets/uploads/2013/08/Fox-Logo.jpg</thumbnail>
-<fanart>http://zonadjjavi.webcindario.com/fanart.jpg</fanart>  
-</item>
-
-<item>
-<title>[COLOR white][COLOR yellow] •  [/COLOR]FOX*[/COLOR]</title>
-<link>$doregex[get-id]|User-Agent=|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
-<regex>
-<name>get-id</name>
-<expres>source: '(.*?)'</expres>
-<page>http://livesports.pw/embed2.php?file=foxespana&amp;width=650&amp;height=397</page>
-<cookieJar></cookieJar>
-</regex>
-<referer>http://cinestrenostv.tv</referer>
-<thumbnail>http://cdn1-www.craveonline.com/assets/uploads/2013/08/Fox-Logo.jpg</thumbnail>
-<fanart>http://zonadjjavi.webcindario.com/fanart.jpg</fanart>  
-</item>
-
-<item>
-<title>[COLOR white][COLOR yellow] •  [/COLOR]FOX**[/COLOR]</title>
+<title>[COLOR white][COLOR yellow] •  [/COLOR]FOX[/COLOR]</title>
 <link>$doregex[get-id]|User-Agent=iPad</link>
 <regex>
 <name>get-id</name>
@@ -214,7 +187,7 @@
 
 <item>
 <title>[COLOR white][COLOR yellow] •  [/COLOR] ESTRENOS[/COLOR] </title>
-<link>$doregex[get-id]|User-Agent=|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
+<l<link>$doregex[get-id]|User-Agent=iPad</link>
 <regex>
 <name>get-id</name>
 <expres>source: '(.*?)'</expres>
@@ -228,7 +201,7 @@
 
 <item>
 <title>[COLOR white][COLOR yellow] •  [/COLOR] COMEDIA[/COLOR] </title>
-<link>$doregex[get-id]|User-Agent=|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
+<l<link>$doregex[get-id]|User-Agent=iPad</link>
 <regex>
 <name>get-id</name>
 <expres>source: '(.*?)'</expres>
@@ -241,7 +214,7 @@
 
 <item>
 <title>[COLOR white][COLOR yellow] •  [/COLOR] ACCION[/COLOR] </title>
-<link>$doregex[get-id]|User-Agent=|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
+<l<link>$doregex[get-id]|User-Agent=iPad</link>
 <regex>
 <name>get-id</name>
 <expres>source: '(.*?)'</expres>
@@ -254,7 +227,7 @@
 
 <item>
 <title>[COLOR white][COLOR yellow] •  [/COLOR] DCINE[/COLOR] </title>
-<link>$doregex[get-id]|User-Agent=|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
+<l<link>$doregex[get-id]|User-Agent=iPad</link>
 <regex>
 <name>get-id</name>
 <expres>source: '(.*?)'</expres>
@@ -353,7 +326,7 @@
 
 <item>
 <title>[COLOR white][COLOR yellow] •  [/COLOR] AMC[/COLOR] </title>
-<link>$doregex[get-id]|User-Agent=|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
+<l<link>$doregex[get-id]|User-Agent=iPad</link>
 <regex>
 <name>get-id</name>
 <expres>source: '(.*?)'</expres>
@@ -367,7 +340,7 @@
 
 <item>
 <title>[COLOR white][COLOR yellow] •  [/COLOR] TCM[/COLOR] </title>
-<link>$doregex[get-id]|User-Agent=|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
+<l<link>$doregex[get-id]|User-Agent=iPad</link>
 <regex>
 <name>get-id</name>
 <expres>source: '(.*?)'</expres>
@@ -381,7 +354,7 @@
 
 <item>
 <title>[COLOR white][COLOR yellow] •  [/COLOR] CALLE 13[/COLOR] </title>
-<link>$doregex[get-id]|User-Agent=|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
+<l<link>$doregex[get-id]|User-Agent=iPad</link>
 <regex>
 <name>get-id</name>
 <expres>source: '(.*?)'</expres>
@@ -394,7 +367,7 @@
 
 <item>
 <title>[COLOR white][COLOR yellow] •  [/COLOR] COMEDY CENTRAL[/COLOR] </title>
-<link>$doregex[get-id]|User-Agent=|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
+<l<link>$doregex[get-id]|User-Agent=iPad</link>
 <regex>
 <name>get-id</name>
 <expres>source: '(.*?)'</expres>
@@ -408,7 +381,7 @@
 
 <item>
 <title>[COLOR white][COLOR yellow] •  [/COLOR] HOLLYWOOD[/COLOR] </title>
-<link>$doregex[get-id]|User-Agent=|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
+<l<link>$doregex[get-id]|User-Agent=iPad</link>
 <regex>
 <name>get-id</name>
 <expres>source: '(.*?)'</expres>
@@ -425,7 +398,7 @@
 
 <item>
 <title>[COLOR white][COLOR yellow] •  [/COLOR] NICKELODEON[/COLOR] </title>
-<link>$doregex[get-id]|User-Agent=|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
+<l<link>$doregex[get-id]|User-Agent=iPad</link>
 <regex>
 <name>get-id</name>
 <expres>source: '(.*?)'</expres>
@@ -438,7 +411,7 @@
 
 <item>
 <title>[COLOR white][COLOR yellow] •  [/COLOR] BOING[/COLOR] </title>
-<link>$doregex[get-id]|User-Agent=|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
+<l<link>$doregex[get-id]|User-Agent=iPad</link>
 <regex>
 <name>get-id</name>
 <expres>source: '(.*?)'</expres>
@@ -451,7 +424,7 @@
 
 <item>
 <title>[COLOR white][COLOR yellow] •  [/COLOR] DISNEY CHANNEL [/COLOR] </title>
-<link>$doregex[get-id]|User-Agent=|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
+<l<link>$doregex[get-id]|User-Agent=iPad</link>
 <regex>
 <name>get-id</name>
 <expres>source: '(.*?)'</expres>
@@ -464,7 +437,7 @@
 
 <item>
 <title>[COLOR white][COLOR yellow] •  [/COLOR] DISNEY XD[/COLOR] </title>
-<link>$doregex[get-id]|User-Agent=|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
+<l<link>$doregex[get-id]|User-Agent=iPad</link>
 <regex>
 <name>get-id</name>
 <expres>source: '(.*?)'</expres>
@@ -496,7 +469,7 @@
 
 <item>
 <title>[COLOR white][COLOR yellow] •  [/COLOR]  ODISEA[/COLOR] </title>
-<link>$doregex[get-id]|User-Agent=|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
+<l<link>$doregex[get-id]|User-Agent=iPad</link>
 <regex>
 <name>get-id</name>
 <expres>source: '(.*?)'</expres>
@@ -509,7 +482,7 @@
 
 <item>
 <title>[COLOR white][COLOR yellow] •  [/COLOR] COCINA[/COLOR] </title>
-<link>$doregex[get-id]|User-Agent=|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
+<l<link>$doregex[get-id]|User-Agent=iPad</link>
 <regex>
 <name>get-id</name>
 <expres>source: '(.*?)'</expres>
@@ -550,7 +523,7 @@
 
 <item>
 <title>[COLOR white][COLOR yellow] •  [/COLOR]  CRIMEN Y INVESTIGACION [/COLOR]</title>
-<link>$doregex[get-id]|User-Agent=|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
+<l<link>$doregex[get-id]|User-Agent=iPad</link>
 <regex>
 <name>get-id</name>
 <expres>source: '(.*?)'</expres>
@@ -564,7 +537,7 @@
 
 <item>
 <title>[COLOR white][COLOR yellow] •  [/COLOR]  CAZA Y PESCA  [/COLOR]</title>
-<link>$doregex[get-id]|User-Agent=|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
+<l<link>$doregex[get-id]|User-Agent=iPad</link>
 <regex><name>get-id</name>
 <expres>source: '(.*?)'</expres>
 <page>http://livesports.pw/embedn.php?file=cazaypesca&amp;width=650&amp;height=397</page>
@@ -591,7 +564,7 @@
 
 <item>
 <title>[COLOR white][COLOR yellow] •  [/COLOR]  DISCOVERY [/COLOR]</title>
-<link>$doregex[get-id]|User-Agent=|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
+<l<link>$doregex[get-id]|User-Agent=iPad</link>
 <regex>
 <name>get-id</name>
 <expres>source: '(.*?)'</expres>
@@ -618,7 +591,7 @@
 
 <item>
 <title>[COLOR white][COLOR yellow] •  [/COLOR]  A&E[/COLOR]</title>
-<link>$doregex[get-id]|User-Agent=|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
+<l<link>$doregex[get-id]|User-Agent=iPad</link>
 <regex>
 <name>get-id</name>
 <expres>source: '(.*?)'</expres>
@@ -631,7 +604,7 @@
 
 <item>
 <title>[COLOR white][COLOR yellow] •  [/COLOR]  MTV [/COLOR]</title>
-<link>$doregex[get-id]|User-Agent=|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
+<l<link>$doregex[get-id]|User-Agent=iPad</link>
 <regex>
 <name>get-id</name>
 <expres>source: '(.*?)'</expres>
@@ -650,7 +623,7 @@
 
 <item>
 <title>[COLOR white][COLOR yellow] •  [/COLOR]  VIAJAR [/COLOR]</title>
-link>$doregex[get-id]|User-Agent=|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
+l<link>$doregex[get-id]|User-Agent=iPad</link>
 <regex><name>get-id</name><expres>source: '(.*?)'</expres>
 <page>http://livesports.pw/embedn.php?file=viajar&amp;width=100%&amp;height=100%</page>
 <cookieJar></cookieJar>
