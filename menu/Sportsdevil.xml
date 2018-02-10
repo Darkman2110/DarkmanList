@@ -1,90 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
- <item>
-<title>[COLOR white][COLOR yellow] •  [/COLOR] CLAN HD  [COLOR lime] f4mTester[/COLOR] </title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://merlin.magikdata.biz:8000/live/test123/test123/709.ts;name=CLAN HD</link>
-<thumbnail>http://upload.wikimedia.org/wikipedia/commons/9/94/Logo_clan.png</thumbnail>
-<fanart>http://zonadjjavi.webcindario.com/fanart.jpg</fanart>  
-</item>
-
- <item>
-<title>[COLOR white][COLOR yellow] •  [/COLOR] SYFY HD [COLOR lime] f4mTester[/COLOR] </title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/508.ts;name=SYFY HD</link>
-<thumbnail>http://www.syfy.com/sites/syfy/themes/syfy/default.jpg</thumbnail>
-<fanart>http://zonadjjavi.webcindario.com/fanart.jpg</fanart>  
-</item>
- 
- <item>
-<title>[COLOR white][COLOR yellow] •  [/COLOR] FOX [COLOR lime]f4mTester[/COLOR] </title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://merlin.magikdata.biz:8000/live/test123/test123/329.ts;name=FOX HD</link>
-<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/FOX_wordmark.svg/1200px-FOX_wordmark.svg.png</thumbnail>
-<fanart>http://zonadjjavi.webcindario.com/fanart.jpg</fanart>  
-</item>
- 
- <item>
-<title>[COLOR white][COLOR yellow] •  [/COLOR] AXN [COLOR lime]f4mTester [/COLOR] </title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://merlin.magikdata.biz:8000/live/test123/test123/379.ts;name=AXN HD</link>
-<thumbnail>https://i1.wp.com/www.zapping-tv.com/wp-content/uploads/2015/05/AXN.jpg?fit=956%2C596</thumbnail>  
-<fanart>http://zonadjjavi.webcindario.com/fanart.jpg</fanart>  
-</item>
-
- <item>
-<title>[COLOR white][COLOR yellow] •  [/COLOR] AXN WHITE  [COLOR lime]f4mTester   [/COLOR] </title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://merlin.magikdata.biz:8000/live/test123/test123/2154.ts;name=AXN WHITE HD</link>
-<thumbnail></thumbnail>  
-<fanart>http://zonadjjavi.webcindario.com/fanart.jpg</fanart>  
-</item>
-
-<item>
-<title>[COLOR white][COLOR yellow] •  [/COLOR] TNT HD [COLOR lime]f4mTester  [/COLOR] </title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://merlin.magikdata.biz:8000/live/test123/test123/303.ts;name=TNT HD</link>
-<thumbnail>http://verestv.com/logos/TNT_Logo.png</thumbnail>
-<fanart>http://zonadjjavi.webcindario.com/fanart.jpg</fanart>  
-</item>
- 
- <item>
-<title>[COLOR white][COLOR yellow] •  [/COLOR] ACCION    [COLOR lime]f4mTester [/COLOR] </title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://merlin.magikdata.biz:8000/live/test123/test123/1072.ts;name=ACCION </link>
-<thumbnail>http://zonadjjavi.webcindario.com/Kodi/logos/accion.jpg</thumbnail>
-<fanart>http://zonadjjavi.webcindario.com/fanart.jpg</fanart>
-</item>
- 
- 
- <item>
-<title>[COLOR white][COLOR yellow] •  [/COLOR] ESTRENOS HD 1080   [COLOR lime]f4mTester [/COLOR] </title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://merlin.magikdata.biz:8000/live/test123/test123/364.ts;name=ESTRENOS HD</link>
-<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Movistar_Estrenos.svg/1783px-Movistar_Estrenos.svg.png</thumbnail>
-<fanart>http://zonadjjavi.webcindario.com/fanart.jpg</fanart> 
-</item>
 
 
-
-
-<item>
-<title>[COLOR white][COLOR yellow] •  [/COLOR] SYFY[/COLOR] </title>
-<link>$doregex[GetPageUrl]|User-Agent=|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
-<regex>
-<name>GetPageUrl</name>
-<expres>source: '(.*?)'</expres>
-<page>http://livesports.pw/embed2.php?file=sysfesp</page>
-<cookieJar></cookieJar>
-</regex>
-<thumbnail>http://www.syfy.com/sites/syfy/themes/syfy/default.jpg</thumbnail>
-<fanart>http://zonadjjavi.webcindario.com/fanart.jpg</fanart>  
-</item>
-
-<item>
-<title>[COLOR white][COLOR yellow] •  [/COLOR]SYFY*[/COLOR]</title>
- <link>$doregex[GetPageUrl]|Referer=http://livesports.pw/embed2.php?file=launotelefivegb&amp;User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64; rv:54.0) Gecko/20100101 Firefox/54.0</link>
-<regex>
-<name>GetPageUrl</name>
-<expres>source: '(.*?)'</expres>
-<page>http://livesports.pw/embed2.php?file=sysfesp&amp;width=650&amp;height=397</page>
-<cookieJar></cookieJar>
-</regex>
-<referer>http://cinestrenostv.tv</referer>
-<thumbnail>http://www.syfy.com/sites/syfy/themes/syfy/default.jpg</thumbnail>
-<fanart>http://zonadjjavi.webcindario.com/fanart.jpg</fanart>  
-</item>
 
 <item>
 <title>[COLOR white][COLOR yellow] •  [/COLOR] AXN [/COLOR] </title>
@@ -101,228 +17,32 @@
 </item>
 
 <item>
-<title>[COLOR white][COLOR yellow] •  [/COLOR] AXN WHITE [/COLOR] </title>
-<link>$doregex[GetPageUrl]|User-Agent=|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
-<regex><name>GetPageUrl</name>
-<expres>source: '(.*?)'</expres>
-<page>http://livesports.pw/embed2.php?file=axnwahit&amp;width=650&amp;height=397</page>
-<cookieJar></cookieJar>
-</regex>
-<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/AXN_White_logo_%282015%29.svg/1200px-AXN_White_logo_%282015%29.svg.png</thumbnail>
-<fanart>http://zonadjjavi.webcindario.com/fanart.jpg</fanart>  
-</item>
-
-<item>
-<title>[COLOR white][COLOR yellow] •  [/COLOR] M DISNEY[/COLOR] </title>
-<link>$doregex[GetPageUrl]|User-Agent=|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
-<regex><name>GetPageUrl</name>
-<expres>source: '(.*?)'</expres>
-<page>http://livesports.pw/embed2.php?file=mdisney&amp;width=650&amp;height=397</page>
-<cookieJar></cookieJar>
-</regex>
-<thumbnail>https://www.tvhifipro.com/wp-content/uploads/2017/11/Nuevo-canal-Movistar-Disney.jpg</thumbnail>  
-<fanart>http://zonadjjavi.webcindario.com/fanart.jpg</fanart>  
-</item>
-
-<item>
-<title>[COLOR white][COLOR yellow] •  [/COLOR] TNT[/COLOR] </title>
-<link>$doregex[GetPageUrl]|User-Agent=|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
-<regex>
-<name>GetPageUrl</name>
-<expres>source: '(.*?)'</expres>
-<page>http://livesports.pw/embed2.php?file=tntesp</page>
-<cookieJar></cookieJar>
-</regex>
-<thumbnail>http://verestv.com/logos/TNT_Logo.png</thumbnail>
-<fanart>http://zonadjjavi.webcindario.com/fanart.jpg</fanart>  
-</item>
-
-<item>
-<title>[COLOR white][COLOR yellow] •  [/COLOR] DARK[/COLOR] </title>
-<link>$doregex[GetPageUrl]|User-Agent=|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
-<regex>
-<name>GetPageUrl</name>
-<expres>source: '(.*?)'</expres>
-<page>http://livesports.pw/embed2.php?file=darkes</page>
-<cookieJar></cookieJar>
-</regex>
-<thumbnail>https://www.reasonwhy.es/sites/default/files/subasta-publicidad-dark-reasonwhy.es_.png</thumbnail>
-<fanart>http://zonadjjavi.webcindario.com/fanart.jpg</fanart>  
-</item>
-
-
-<item>
-<title>[COLOR white][COLOR yellow] •  [/COLOR] FOX[/COLOR] </title>
-<link>$doregex[GetPageUrl]|User-Agent=|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
-<regex>
-<name>GetPageUrl</name>
-<expres>source: '(.*?)'</expres>
-<page>http://livesports.pw/embed2.php?file=foxespana</page>
-<cookieJar></cookieJar>
-</regex>
-<thumbnail>https://upload.wikimehttp://cdn1-www.craveonline.com/assets/uploads/2013/08/Fox-Logo.jpg</thumbnail>
-<fanart>http://zonadjjavi.webcindario.com/fanart.jpg</fanart>  
-</item>
-
-<item>
-<title>[COLOR white][COLOR yellow] •  [/COLOR]FOX*[/COLOR]</title>
- <link>$doregex[GetPageUrl]|Referer=http://livesports.pw/embed2.php?file=launotelefivegb&amp;User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64; rv:54.0) Gecko/20100101 Firefox/54.0</link>
-<regex>
-<name>GetPageUrl</name>
-<expres>source: '(.*?)'</expres>
-<page>http://livesports.pw/embed2.php?file=foxespana&amp;width=650&amp;height=397</page>
-<cookieJar></cookieJar>
-</regex>
-<referer>http://cinestrenostv.tv</referer>
-<thumbnail>http://cdn1-www.craveonline.com/assets/uploads/2013/08/Fox-Logo.jpg</thumbnail>
-<fanart>http://zonadjjavi.webcindario.com/fanart.jpg</fanart>  
-</item>
-
-
-
-
-
-
-
-
-
-
-<item>
-<title>[COLOR white][COLOR yellow] •  [/COLOR]  #0 [/COLOR]</title>
-<link>$doregex[GetPageUrl]|Referer=http://telefivegb.com/tv-spain/ver-canal-plus0-hd-online-gratis-vivo/&amp;User-Agent=Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.116 Chrome/48.0.2564.116 Safari/537.36</link>
-<regex>
-<name>GetPageUrl</name>
-<expres>source: '(.*?)'</expres>
-<page>http://livesports.pw/embed.php?file=pluscero&amp;width=650&amp;height=397</page>
-<agent>Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.116 Chrome/48.0.2564.116 Safari/537.36</agent>
-<referer>http://telefivegb.com/tv-spain/ver-canal-plus0-hd-online-gratis-vivo/</referer>
-</regex>
-<thumbnail>http://zonadjjavi.webcindario.com/Kodi/logos/movistar-0.jpg</thumbnail>
-<Fanart>http://zonadjjavi.webcindario.com/fanart.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR white][COLOR yellow] •  [/COLOR] ESTRENOS[/COLOR] </title>
-<link>$doregex[GetPageUrl]|User-Agent=|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
-<regex>
-<name>GetPageUrl</name>
-<expres>source: '(.*?)'</expres>
-<page>http://livesports.pw/embed2.php?file=movestr</page>
-<cookieJar></cookieJar>
-</regex>
-<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Movistar_Estrenos.svg/1280px-Movistar_Estrenos.svg.png</thumbnail>
-<fanart>http://zonadjjavi.webcindario.com/fanart.jpg</fanart> 
-</item>
-
-
-<item>
-<title>[COLOR white][COLOR yellow] •  [/COLOR] COMEDIA[/COLOR] </title>
-<link>$doregex[GetPageUrl]|User-Agent=|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
-<regex>
-<name>GetPageUrl</name>
-<expres>source: '(.*?)'</expres>
-<page>http://livesports.pw/embed2.php?file=mcomedia</page>
-<cookieJar></cookieJar>
-</regex>
-<thumbnail>http://vertelevisor.com/imagenes/movistar-comedia.png</thumbnail>
-<fanart>http://zonadjjavi.webcindario.com/fanart.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR white][COLOR yellow] •  [/COLOR] ACCION[/COLOR] </title>
-<link>$doregex[GetPageUrl]|User-Agent=|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
-<regex>
-<name>GetPageUrl</name>
-<expres>source: '(.*?)'</expres>
-<page>http://livesports.pw/embed2.php?file=accion</page>
-<cookieJar></cookieJar>
-</regex>
-<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Movistar_Acci%C3%B3n.svg/1575px-Movistar_Acci%C3%B3n.svg.png</thumbnail>
-<fanart>http://zonadjjavi.webcindario.com/fanart.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR white][COLOR yellow] •  [/COLOR] DCINE[/COLOR] </title>
-<link>$doregex[GetPageUrl]|User-Agent=|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
-<regex>
-<name>GetPageUrl</name>
-<expres>source: '(.*?)'</expres>
-<page>http://livesports.pw/embed2.php?file=dicneesp</page>
-<cookieJar></cookieJar>
-</regex>
-<page>http://vergol.com/live/dcine.php</page>
-<referer>http://vertelevisor.com/tv/nacionales/dcine.html</referer>
-<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Movistar_DCine.svg/2000px-Movistar_DCine.svg.png</thumbnail>
-<fanart>http://zonadjjavi.webcindario.com/fanart.jpg</fanart>
-
-</item>
-
- <item>
-<title>[COLOR white][COLOR yellow] •  [/COLOR] SERIES[/COLOR] </title>
-<link>$doregex[GetPageUrl]|Referer=http://vercanalestv.com/tv/nacionales/canal-plus-estrenos.html&amp;User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
-<regex>
-<name>GetPageUrl</name>
-<expres>source: '(.*?)'</expres>
-<page>http://livesports.pw/embed2.php?file=mseries&amp;width=650&amp;height=397</page>
-<agent>Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.116 Chrome/48.0.2564.116 Safari/537.36</agent>
-</regex>
-<fanart>http://zonadjjavi.webcindario.com/fanart.jpg</fanart>
-<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Movistar_Series.svg/1200px-Movistar_Series.svg.png</thumbnail>
-</item>
-
-<item>
-<title>[COLOR white][COLOR yellow] •  [/COLOR] SERIES XTRA[/COLOR] </title>
-<link>$doregex[get-id]|Referer=http://verdirectotv.com/tv/digitales/plus-series.html&amp;User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64; rv:55.0) Gecko/20100101 Firefox/55.0</link>
+<title>[COLOR white][COLOR yellow] •  [/COLOR] AXN WHITE[/COLOR] </title>
+<link>$doregex[get-id]|User-Agent=iPad</link>
 <regex>
 <name>get-id</name>
-<expres>source: '(.*?)'</expres>
-<page>http://vergol.com/live1/plusseries.php</page>
-<referer>http://verdirectotv.com/tv/digitales/plus-series.html</referer>
-<agent>Mozilla/5.0 (Windows NT 6.1; WOW64; rv:55.0) Gecko/20100101 Firefox/55.0</agent>
+<expres>[",\'](h.*m3u8.*?)'</expres>
+<page>http://vergol.com/live/axn.php</page>
+<referer>http://vertelevisor.com/tv/nacionales/axnwhite.html</referer>
+<agent>iPad</agent>
 </regex>
-<fanart>http://zonadjjavi.webcindario.com/fanart.jpg</fanart>
-<thumbnail>http://adryanlist.org/adryan/img/esp.jpg</thumbnail>
+<thumbnail>https://i1.wp.com/www.zapping-tv.com/wp-content/uploads/2015/05/AXN.jpg?fit=956%2C596</thumbnail>  
+<fanart>http://zonadjjavi.webcindario.com/fanart.jpg</fanart>  
 </item>
 
 <item>
-<title>[COLOR white][COLOR yellow] •  [/COLOR] XTRA[/COLOR] </title>
-<link>$doregex[GetPageUrl]|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
+<title>[COLOR white][COLOR yellow] •  [/COLOR] FOX [/COLOR] </title>
+<link>$doregex[get-id]|User-Agent=iPad</link>
 <regex>
-<name>GetPageUrl</name>
-<expres>source: '(.*?)'</expres>
-<page>http://livesports.pw/embed2.php?file=mxtra&amp;width=650&amp;height=397</page>
-<cookieJar></cookieJar>
+<name>get-id</name>
+<expres>[",\'](h.*m3u8.*?)'</expres>
+<page>http://vergol.com/live/fox.php</page>
+<referer>http://vertelevisor.com/tv/nacionales/axn.html</referer>
+<agent>iPad</agent>
 </regex>
-<thumbnail>https://movistar.i.lithium.com/t5/image/serverpage/image-id/111648iDD3C32AD3F8360E9?v=1.0</thumbnail>
-<fanart>http://zonadjjavi.webcindario.com/fanart.jpg</fanart>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/FOX_wordmark.svg/1200px-FOX_wordmark.svg.png</thumbnail>
+<fanart>http://zonadjjavi.webcindario.com/fanart.jpg</fanart>    
 </item>
-
-
-
-<item>
-<title>[COLOR white][COLOR yellow] •  [/COLOR] CINEMAX [/COLOR] </title>
-<link>$doregex[GetPageUrl]|Referer=http://vercanalestv.com/tv/argentina/cinemax.html&amp;User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64; rv:55.0) Gecko/20100101 Firefox/55.0</link>
-<regex>
-<name>GetPageUrl</name>
-<expres>source: '(.*?)'</expres>
-<page>http://vergol.com/live1/cinemax.php</page>
-<referer>http://vercanalestv.com/tv/nacionales/canal-plus-estrenos.html</referer>
-</regex>
-<thumbnail>http://vignette4.wikia.nocookie.net/doblaje/images/6/69/Cinemax.png/revision/latest?cb=20160831015732&path-prefix=es</thumbnail>   
-</item>
-
-
-<item>
-<title>[COLOR white][COLOR yellow] •  [/COLOR] LOS 40 P*[/COLOR] </title>
-<link>http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/index_1500_av-p.m3u8?sd=10&rebase=on</link>
-<thumbnail>https://upload.wikimedia.org/wikipedia/en/c/cd/XEWA-XHEWA_Los40_logo.png</thumbnail>
-<fanart>http://zonadjjavi.webcindario.com/fanart.jpg</fanart>   
-</item>
-
-
-
-
-
 
 <item>
 <title>[COLOR white][COLOR yellow] •  [/COLOR] FOX LIFE [/COLOR] </title>
@@ -338,135 +58,67 @@
 <fanart>http://zonadjjavi.webcindario.com/fanart.jpg</fanart>  
 </item>
 
-
+<item>
+<title>[COLOR white][COLOR yellow] •  [/COLOR] SYFY [/COLOR] </title>
+<link>$doregex[get-id]|User-Agent=iPad</link>
+<regex>
+<name>get-id</name>
+<expres>[",\'](h.*m3u8.*?)'</expres>
+<page>http://vergol.com/live/syfy.php</page>
+<referer>http://vertelevisor.com/tv/nacionales/axn.html</referer>
+<agent>iPad</agent>
+</regex>
+<thumbnail>http://www.syfy.com/sites/syfy/themes/syfy/default.jpg</thumbnail>
+<fanart>http://zonadjjavi.webcindario.com/fanart.jpg</fanart>  
+</item>
 
 <item>
-<title>[COLOR white][COLOR yellow] •  [/COLOR] AMC[/COLOR] </title>
-<link>$doregex[GetPageUrl]|User-Agent=|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
+<title>[COLOR white][COLOR yellow] •  [/COLOR] TNT [/COLOR] </title>
+<link>$doregex[get-id]|User-Agent=iPad</link>
 <regex>
-<name>GetPageUrl</name>
-<expres>source: '(.*?)'</expres>
-<page>http://livesports.pw/embed2.php?file=amcesptele</page>
-<cookieJar></cookieJar>
+<name>get-id</name>
+<expres>[",\'](h.*m3u8.*?)'</expres>
+<page>http://vergol.com/live/tnt.php</page>
+<referer>http://vertelevisor.com/tv/nacionales/axn.html</referer>
+<agent>iPad</agent>
+</regex>
+<thumbnail>http://blog.canaltnt.es/wp-content/themes/simple-bootstrap-child/images/logo.png</thumbnail>
+<fanart>http://zonadjjavi.webcindario.com/fanart.jpg</fanart>  
+</item>
+
+<item>
+<title>[COLOR white][COLOR yellow] •  [/COLOR] AMC [/COLOR] </title>
+<link>$doregex[get-id]|User-Agent=iPad</link>
+<regex>
+<name>get-id</name>
+<expres>[",\'](h.*m3u8.*?)'</expres>
+<page>http://vergol.com/live/amc.php</page>
+<referer>http://vertelevisor.com/tv/nacionales/axn.html</referer>
+<agent>iPad</agent>
 </regex>
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/AMC_logo_2016.svg/1200px-AMC_logo_2016.svg.png</thumbnail>
 <fanart>http://zonadjjavi.webcindario.com/fanart.jpg</fanart>  
 </item>
 
-
 <item>
 <title>[COLOR white][COLOR yellow] •  [/COLOR] TCM[/COLOR] </title>
-<link>$doregex[GetPageUrl]|User-Agent=|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
+<link>$doregex[get-id]|User-Agent=iPad</link>
 <regex>
-<name>GetPageUrl</name>
-<expres>source: '(.*?)'</expres>
-<page>http://livesports.pw/embed2.php?file=tcmesp</page>
-<cookieJar></cookieJar>
+<name>get-id</name>
+<expres>[",\'](h.*m3u8.*?)'</expres>
+<page>http://vergol.com/live/tcm.php</page>
+<referer>http://vertelevisor.com/tv/nacionales/axn.html</referer>
+<agent>iPad</agent>
 </regex>
-<thumbnail>https://ugc.kn3.net/i/origin/http://www.eastwebside.com/wp-content/uploads/2011/11/TCM.11.jpg</thumbnail>
-<fanart>http://zonadjjavi.webcindario.com/fanart.jpg</fanart>  
-</item>
-
-
-<item>
-<title>[COLOR white][COLOR yellow] •  [/COLOR] CALLE 13[/COLOR] </title>
-<link>$doregex[GetPageUrl]|User-Agent=|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
-<regex>
-<name>GetPageUrl</name>
-<expres>source: '(.*?)'</expres>
-<page>http://livesports.pw/embed2.php?file=calltrees</page>
-<cookieJar></cookieJar>
-</regex>
-<thumbnail>https://pbs.twimg.com/profile_images/841301943679123456/sgaXRdpZ.jpg</thumbnail>
-<fanart>http://zonadjjavi.webcindario.com/fanart.jpg</fanart>  
-</item>
-
-<item>
-<title>[COLOR white][COLOR yellow] •  [/COLOR] COMEDY CENTRAL[/COLOR] </title>
-<link>$doregex[GetPageUrl]|User-Agent=|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
-<regex>
-<name>GetPageUrl</name>
-<expres>source: '(.*?)'</expres>
-<page>http://livesports.pw/embed2.php?file=comedycentral</page>
-<cookieJar></cookieJar>
-</regex>
-<thumbnail>https://ugc.kn3.net/i/origin/http://www.cc.com//sitewide/images/default_image.jpg</thumbnail>
-<fanart>http://zonadjjavi.webcindario.com/fanart.jpg</fanart>  
-</item>
-
-
-<item>
-<title>[COLOR white][COLOR yellow] •  [/COLOR] HOLLYWOOD[/COLOR] </title>
-<link>$doregex[GetPageUrl]|User-Agent=|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
-<regex>
-<name>GetPageUrl</name>
-<expres>source: '(.*?)'</expres>
-<page>http://livesports.pw/embed2.php?file=hollywesp</page>
-<cookieJar></cookieJar>
-</regex>
-<thumbnail>https://www.atelevisao.com/wp-content/uploads/2017/05/.png</thumbnail>
-<fanart>http://zonadjjavi.webcindario.com/fanart.jpg</fanart>  
-</item>
-
-
------------------Niños--------------
-
-
-<item>
-<title>[COLOR white][COLOR yellow] •  [/COLOR] NICKELODEON[/COLOR] </title>
-<link>$doregex[GetPageUrl]|User-Agent=|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
-<regex>
-<name>GetPageUrl</name>
-<expres>source: '(.*?)'</expres>
-<page>http://livesports.pw/embed2.php?file=nickelones</page>
-<cookieJar></cookieJar>
-</regex>
-<thumbnail>http://vignette3.wikia.nocookie.net/logopedia/images/6/62/NICKELODEON_Logo.png/revision/latest?cb\x3d20111106061132</thumbnail>
-<fanart>http://zonadjjavi.webcindario.com/fanart.jpg</fanart>  
-</item>
-
-<item>
-<title>[COLOR white][COLOR yellow] •  [/COLOR] BOING[/COLOR] </title>
-<link>$doregex[GetPageUrl]|User-Agent=|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
-<regex>
-<name>GetPageUrl</name>
-<expres>source: '(.*?)'</expres>
-<page>http://livesports.pw/embed2.php?file=boing</page>
-<cookieJar></cookieJar>
-</regex>
-<thumbnail>https://upload.wikimedia.org/wikipedia/commons/8/87/Boing_TV.png</thumbnail>  
-<fanart>http://zonadjjavi.webcindario.com/fanart.jpg</fanart>  
-</item>
-
-<item>
-<title>[COLOR white][COLOR yellow] •  [/COLOR] DISNEY CHANNEL [/COLOR] </title>
-<link>$doregex[GetPageUrl]|User-Agent=|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
-<regex>
-<name>GetPageUrl</name>
-<expres>source: '(.*?)'</expres>
-<page>http://livesports.pw/embed2.php?file=disneychannel</page>
-<cookieJar></cookieJar>
-</regex>
-<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/2015_Disney_Channel_logo.svg/1200px-2015_Disney_Channel_logo.svg.png</thumbnail> 
-<fanart>http://zonadjjavi.webcindario.com/fanart.jpg</fanart>  
-</item>
-
-<item>
-<title>[COLOR white][COLOR yellow] •  [/COLOR] DISNEY XD[/COLOR] </title>
-<link>$doregex[GetPageUrl]|User-Agent=|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
-<regex>
-<name>GetPageUrl</name>
-<expres>source: '(.*?)'</expres>
-<page>http://livesports.pw/embed2.php?file=disneyxd</page>
-<cookieJar></cookieJar>
-</regex>
-<thumbnail>https://vignette.wikia.nocookie.net/disney/images/7/7b/Logo_Disney_XD.svg.png/revision/latest?cb=20130730004116</thumbnail>  
+<thumbnail>https://pbs.twimg.com/profile_images/1315844464/logo-tcm-twitter-negro_400x400.jpg</thumbnail>
 <fanart>http://zonadjjavi.webcindario.com/fanart.jpg</fanart>  
 </item>
 
 
 
 
+
+----------------------- Documentales -------------------------------------------------
 
 <item>
 <title>[COLOR white][COLOR yellow] •  [/COLOR]  DISCOVERY CHANNEL [/COLOR] </title>
@@ -482,36 +134,8 @@
 <fanart>http://zonadjjavi.webcindario.com/fanart.jpg</fanart> 
 </item>
 
-
 <item>
-<title>[COLOR white][COLOR yellow] •  [/COLOR]  ODISEA[/COLOR] </title>
-<link>$doregex[GetPageUrl]|User-Agent=|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
-<regex>
-<name>GetPageUrl</name>
-<expres>source: '(.*?)'</expres>
-<page>http://livesports.pw/embed2.php?file=odiseatelef&amp;width=650&amp;height=397</page>
-<cookieJar></cookieJar>
-</regex>
-<thumbnail>http://www.formulatv.com/images/articulos/55000/n55629_d8fe9d8dd9-q.jpg</thumbnail>  
-<fanart>http://zonadjjavi.webcindario.com/fanart.jpg</fanart> 
-</item>
-
-<item>
-<title>[COLOR white][COLOR yellow] •  [/COLOR] COCINA[/COLOR] </title>
-<link>$doregex[GetPageUrl]|User-Agent=|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
-<regex>
-<name>GetPageUrl</name>
-<expres>source: '(.*?)'</expres>
-<page>http://livesports.pw/embed2.php?file=cocinaesp</page>
-<cookieJar></cookieJar>
-</regex>
-<thumbnail>https://img.blogs.es/bloglenovo/wp-content/uploads/2014/08/canal-cocina.jpg</thumbnail>
-<fanart>http://zonadjjavi.webcindario.com/fanart.jpg</fanart>  
-</item>
-
-
-<item>
-<title>[COLOR white][COLOR yellow] •  [/COLOR]  COCINA*[/COLOR] </title>
+<title>[COLOR white][COLOR yellow] •  [/COLOR]  COCINA[/COLOR] </title>
 <link>$doregex[get-id]|User-Agent=iPad</link>
 <regex>
 <name>get-id</name>
@@ -538,33 +162,6 @@
 </item>
 
 <item>
-<title>[COLOR white][COLOR yellow] •  [/COLOR]  CRIMEN Y INVESTIGACION [/COLOR]</title>
-<link>$doregex[GetPageUrl]|User-Agent=|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
-<regex>
-<name>GetPageUrl</name>
-<expres>source: '(.*?)'</expres>
-<page>http://livesports.pw/embed2.php?file=crimenyinvestigacion&amp;width=650&amp;height=397</page>
-<cookieJar></cookieJar>
-</regex>
-<thumbnail>http://zonadjjavi.webcindario.com/Kodi/logos/ci1.jpg</thumbnail>
-<fanart>http://zonadjjavi.webcindario.com/fanart.jpg</fanart>
-</item>
-
-
-<item>
-<title>[COLOR white][COLOR yellow] •  [/COLOR]  CAZA Y PESCA  [/COLOR]</title>
-<link>$doregex[GetPageUrl]|User-Agent=|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
-<regex><name>GetPageUrl</name>
-<expres>source: '(.*?)'</expres>
-<page>http://livesports.pw/embedn.php?file=cazaypesca&amp;width=650&amp;height=397</page>
-<cookieJar></cookieJar>
-</regex>
-<thumbnail>http://latelete.tv/img/cazapesca.png</thumbnail>
-<fanart>http://adryanlist.org/adryan/img/fanart.jpg</fanart>
-</item>
-
-
-<item>
 <title>[COLOR white][COLOR yellow] •  [/COLOR]  NATIONAL GEOGRAFIC [/COLOR]</title>
 <link>$doregex[get-id]|User-Agent=iPad</link>
 <regex>
@@ -575,19 +172,6 @@
 <agent>iPad</agent>
 </regex>
 <thumbnail>http://www.mundoplus.tv/img/5bc429f1faec92059daae09b1c620bef</thumbnail>
-<fanart>http://zonadjjavi.webcindario.com/fanart.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR white][COLOR yellow] •  [/COLOR]  DISCOVERY [/COLOR]</title>
-<link>$doregex[GetPageUrl]|User-Agent=|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
-<regex>
-<name>GetPageUrl</name>
-<expres>source: '(.*?)'</expres>
-<page>http://livesports.pw/embedn.php?file=discoverychannel&amp;width=650&amp;height=397</page>
-<cookieJar></cookieJar>
-</regex>
-<thumbnail>http://vercanalestv.com/logos/discovery-channel.jpg</thumbnail>
 <fanart>http://zonadjjavi.webcindario.com/fanart.jpg</fanart>
 </item>
 
@@ -604,57 +188,3 @@
 <thumbnail>http://zonadjjavi.webcindario.com/Kodi/logos/natgeowild1.jpg</thumbnail>
 <fanart>http://zonadjjavi.webcindario.com/fanart.jpg</fanart>
 </item>
-
-<item>
-<title>[COLOR white][COLOR yellow] •  [/COLOR]  A&E[/COLOR]</title>
-<link>$doregex[GetPageUrl]|User-Agent=|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
-<regex>
-<name>GetPageUrl</name>
-<expres>source: '(.*?)'</expres>
-<page>http://livesports.pw/embedn.php?file=anadetelefive&width=650&height=400</page>
-<cookieJar></cookieJar>
-</regex>
-<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/1200px-A%26E_Network_logo.svg.png</thumbnail>
-<fanart>http://adryanlist.org/adryan/img/fanart.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR white][COLOR yellow] •  [/COLOR]  MTV [/COLOR]</title>
-<link>$doregex[GetPageUrl]|User-Agent=|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
-<regex>
-<name>GetPageUrl</name>
-<expres>source: '(.*?)'</expres>
-<page>http://livesports.pw/embedn.php?file=mtvesp&amp;width=100%&amp;height=100%</page>
-<cookieJar></cookieJar>
-</regex>
-<thumbnail>http://static.adweek.com/adweek.com-prod/wp-content/uploads/sites/2/2015/02/mtv400.jpg</thumbnail>
-<fanart>http://zonadjjavi.webcindario.com/fanart.jpg</fanart>
-</item>
-
-
-
-
-
-
-
-<item>
-<title>[COLOR white][COLOR yellow] •  [/COLOR]  VIAJAR [/COLOR]</title>
-link>$doregex[GetPageUrl]|User-Agent=|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
-<regex><name>GetPageUrl</name><expres>source: '(.*?)'</expres>
-<page>http://livesports.pw/embedn.php?file=viajar&amp;width=100%&amp;height=100%</page>
-<cookieJar></cookieJar>
-</regex>
-<thumbnail>http://zonadjjavi.webcindario.com/Kodi/logos/viajar1.jpg</thumbnail>
-<fanart>http://zonadjjavi.webcindario.com/fanart.jpg</fanart>
-</item>
-
-
-
-
-
-
-
-
-
-
-
