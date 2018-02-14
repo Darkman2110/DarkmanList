@@ -46,6 +46,16 @@ h
 <fanart>http://zonadjjavi.webcindario.com/fanart.jpg</fanart>
 </item>
 
+
+<item>
+<title>[COLOR white][COLOR yellow] •  [/COLOR]LA 1 HD[/COLOR]</title>
+<link>http://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/index_1500_av-p.m3u8?sd=10&rebase=on</link>
+<thumbnail>http://img.rtve.es/a/3803139?w=1180&preview=1479280957704.jpg</thumbnail>
+<fanart>http://zonadjjavi.webcindario.com/fanart.jpg</fanart>
+</item>
+
+
+
 <item>
 <title>[COLOR white][COLOR yellow] •  [/COLOR]LA 2 HD[/COLOR]</title>
 <link>http://hlsackdn_gl1-lh.akamaihd.net/i/hlslive_1@439397/index_1500_av-b.m3u8?sd=10&rebase=on</link>
@@ -54,20 +64,7 @@ h
 </item>
 
 <item>
-<title>[COLOR white][COLOR yellow] •  [/COLOR]CUATRO  [/COLOR]</title>
- <link>$doregex[GetPageUrl]|Referer=http://livesports.pw/embed2.php?file=launotelefivegb&amp;User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64; rv:54.0) Gecko/20100101 Firefox/54.0</link>
-<regex>
-<name>GetPageUrl</name>
-<expres>source: '(.*?)'</expres>
-<page>http://livesports.pw/embed2.php?file=lacuatro&amp;width=650&amp;height=397</page>
-<cookieJar></cookieJar>
-</regex>
-<thumbnail>http://zonadjjavi.webcindario.com/Kodi/logos/cuatro1.jpg</thumbnail>
-<fanart>http://zonadjjavi.webcindario.com/fanart.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR white][COLOR yellow] •  [/COLOR]CUATRO HD [/COLOR]</title>
+<title>[COLOR white][COLOR yellow] •  [/COLOR]CUATRO [/COLOR]</title>
 <link>$doregex[get-id]|User-Agent=iPad&amp;Referer=http://vergol.com/live1/cuatro.php</link>
 <regex>
 <name>get-id</name>
