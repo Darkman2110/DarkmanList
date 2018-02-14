@@ -33,7 +33,7 @@ h
 
 
 <item>
-<title>[COLOR white][COLOR yellow] •  [/COLOR]LA 1 HD[/COLOR]</title>
+<title>[COLOR white][COLOR yellow] •  [/COLOR]LA 1[/COLOR]</title>
 <link>$doregex[get-id]|User-Agent=iPad&amp;Referer=http://vergol.com/live/tve1.php</link>
 <regex>
 <name>get-id</name>
