@@ -17,12 +17,21 @@
 </item>
 
 <item>
-<title>[COLOR white][COLOR yellow] •  [/COLOR] AXN WHITE[/COLOR] </title>
+<title>[COLOR white][COLOR yellow] •  [/COLOR] AXN*[/COLOR]</title>
+<!-- <sportsdevil>http://livesports.pw/embed2.php?file=accion&width=650&height=400&autostart=true</sportsdevil> -->
+<sportsdevil>http://vergol.com/live/axn.php</sportsdevil>
+<referer>http://www.vercanalestv.com/ver-canal-plus-accion-online-y-en-directo-gratis-las-24h-por-internet/</referer>
+<thumbnail>https://i1.wp.com/www.zapping-tv.com/wp-content/uploads/2015/05/AXN.jpg?fit=956%2C596</thumbnail>  
+<fanart>http://zonadjjavi.webcindario.com/fanart.jpg</fanart>  
+</item>
+
+<item>
+<title>[COLOR white][COLOR yellow] •  [/COLOR] AXN**[/COLOR] </title>
 <link>$doregex[get-id]|User-Agent=iPad</link>
 <regex>
 <name>get-id</name>
 <expres>[",\'](h.*m3u8.*?)'</expres>
-<page>http://vergol.com/live/axn.php</page>
+<page>http://vergol.com/live/axnaxn.php</page>
 <referer>http://vertelevisor.com/tv/nacionales/axnwhite.html</referer>
 <agent>iPad</agent>
 </regex>
