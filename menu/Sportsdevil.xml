@@ -83,6 +83,15 @@
 </item>
 
 <item>
+<title>[COLOR white][COLOR yellow] •  [/COLOR] SYFY*[COLOR lime]f4mTester [/COLOR]</title>
+<!-- <sportsdevil>http://livesports.pw/embed2.php?file=accion&width=650&height=400&autostart=true</sportsdevil> -->
+<sportsdevil>http://vergol.com/live/syfy.php</sportsdevil>
+<referer>http://www.vercanalestv.com/ver-canal-plus-accion-online-y-en-directo-gratis-las-24h-por-internet/</referer>
+<thumbnail>http://www.syfy.com/sites/syfy/themes/syfy/default.jpg</thumbnail>
+<fanart>http://zonadjjavi.webcindario.com/fanart.jpg</fanart>  
+</item>
+
+<item>
 <title>[COLOR white][COLOR yellow] •  [/COLOR] TNT*[/COLOR]</title>
 <!-- <sportsdevil>http://livesports.pw/embed2.php?file=tntesp&width=650&height=400&autostart=true</sportsdevil> -->
 <sportsdevil>http://relefivebg.com/canales/pelis/amc</sportsdevil>
@@ -156,6 +165,7 @@
 </regex>
 <thumbnail>http://vignette4.wikia.nocookie.net/doblaje/images/6/69/Cinemax.png/revision/latest?cb=20160831015732&path-prefix=es</thumbnail>   
 </item>
+http://xxedge165.livesports.pw/live/axn/chunklist.m3u8?token=JiXT6pSAWB41YZfPhvGyKA&expires=1518958820
 
 <item>
 <title>[COLOR white][COLOR yellow] •  [/COLOR] MOVISTAR ESTRENOS[/COLOR]</title>
