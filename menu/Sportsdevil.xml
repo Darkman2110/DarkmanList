@@ -31,6 +31,16 @@
 </item>
 
 <item>
+<title>FOX*</title>
+<!-- <sportsdevil>http://livesports.pw/embed2.php?file=foxespana&width=650&height=397&autostart=true</sportsdevil> -->
+<sportsdevil>http://vergol.com/live/fox.php</sportsdevil>
+<referer>http://vercanalestv.com/tv/nacionales/fox.html</referer>
+<thumbnail>https://s1.postimg.org/2skb31g9dr/FOXGE.png</thumbnail>
+<fanart>https://image.ibb.co/b22edG/fondo_lista.jpg</fanart>
+</item>
+
+
+<item>
 <title>[COLOR white][COLOR yellow] •  [/COLOR] FOX [/COLOR] </title>
 <link>$doregex[get-id]|User-Agent=iPad</link>
 <regex>
@@ -73,6 +83,16 @@
 </item>
 
 <item>
+<title>TNT*</title>
+<!-- <sportsdevil>http://livesports.pw/embed2.php?file=tntesp&width=650&height=400&autostart=true</sportsdevil> -->
+<sportsdevil>http://relefivebg.com/canales/pelis/amc</sportsdevil>
+<referer>http://latelete.tv/</referer>
+<thumbnail>https://s1.postimg.org/1pyn4584rj/TNT.png</thumbnail>
+<fanart>https://image.ibb.co/b22edG/fondo_lista.jpg</fanart>
+</item>
+
+
+<item>
 <title>[COLOR white][COLOR yellow] •  [/COLOR] TNT [/COLOR] </title>
 <link>$doregex[get-id]|User-Agent=iPad</link>
 <regex>
@@ -84,6 +104,15 @@
 </regex>
 <thumbnail>http://blog.canaltnt.es/wp-content/themes/simple-bootstrap-child/images/logo.png</thumbnail>
 <fanart>http://zonadjjavi.webcindario.com/fanart.jpg</fanart>  
+</item>
+
+<item>
+<title>AMC*</title>
+<!-- <sportsdevil>http://livesports.pw/embed2.php?file=amcesptele&width=650&height=400&autostart=true</sportsdevil> -->
+<sportsdevil>http://vergol.com/live/amc.php</sportsdevil>
+<referer>http://www.vercanalestv.com/ver-amc-online-gratis-en-vivo-por-internet/</referer>
+<thumbnail>https://s1.postimg.org/7hxhdgqwm7/AMC.png</thumbnail>
+<fanart>https://image.ibb.co/b22edG/fondo_lista.jpg</fanart>		
 </item>
 
 <item>
@@ -114,7 +143,41 @@
 <fanart>http://zonadjjavi.webcindario.com/fanart.jpg</fanart>  
 </item>
 
+--------------------- CINE ------------------
+<item>
+<title>MOVISTAR ESTRENOS</title>
+<sportsdevil>http://vergol.com/live/plusestrenos.php</sportsdevil>
+<referer>http://www.vercanalestv.com/ver-canal-plus-estrenos-en-directo-y-online-las-24h/</referer>
+<thumbnail>https://s1.postimg.org/3p3rf7ca67/MV1.png</thumbnail>
+<fanart>https://image.ibb.co/b22edG/fondo_lista.jpg</fanart>
+</item>
 
+<item>
+<title>MOVISTAR ACCION</title>
+<!-- <sportsdevil>http://livesports.pw/embed2.php?file=accion&width=650&height=400&autostart=true</sportsdevil> -->
+<sportsdevil>http://vergol.com/live/plusaccion.php</sportsdevil>
+<referer>http://www.vercanalestv.com/ver-canal-plus-accion-online-y-en-directo-gratis-las-24h-por-internet/</referer>
+<thumbnail>https://s1.postimg.org/1ig3ywqqb3/CPACCI.png</thumbnail>
+<fanart>https://image.ibb.co/b22edG/fondo_lista.jpg</fanart>
+</item>
+
+<item>
+<title>MOVISTAR COMEDIA</title>
+<!-- <sportsdevil>http://livesports.pw/embed2.php?file=mcomedia&width=650&height=400&autostart=true</sportsdevil> -->
+<sportsdevil>http://vergol.com/live/comedia.php</sportsdevil>
+<referer>http://www.vercanalestv.com/ver-canal-plus-comedia-online-y-en-directo-gratis-las-24h-por-internet/</referer>
+<thumbnail>https://s1.postimg.org/4y0qkjtx2n/CPCOME.png</thumbnail>
+<fanart>https://image.ibb.co/b22edG/fondo_lista.jpg</fanart>		
+</item>
+
+<item>
+<title>MOVISTAR DCINE</title>
+<!-- <sportsdevil>http://livesports.pw/embed2.php?file=dicneesp&width=650&height=400&autostart=true</sportsdevil> -->
+<sportsdevil>http://vergol.com/live/dcine.php</sportsdevil>
+<referer>http://www.vercanalestv.com/ver-canal-plus-dcine-en-vivo-y-online-por-internet-las-24h/</referer>
+<thumbnail>https://s1.postimg.org/330x63mx5r/CPCOLE.png</thumbnail>
+<fanart>https://image.ibb.co/b22edG/fondo_lista.jpg</fanart>
+</item>
 
 
 
