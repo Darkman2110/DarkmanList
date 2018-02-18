@@ -144,6 +144,19 @@
 </item>
 
 --------------------- CINE ------------------
+
+<item>
+<title>[COLOR white][COLOR yellow] •  [/COLOR] CINEMAX [/COLOR] </title>
+<link>$doregex[GetPageUrl]|Referer=http://vercanalestv.com/tv/argentina/cinemax.html&amp;User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64; rv:55.0) Gecko/20100101 Firefox/55.0</link>
+<regex>
+<name>GetPageUrl</name>
+<expres>source: '(.*?)'</expres>
+<page>http://vergol.com/live1/cinemax.php</page>
+<referer>http://vercanalestv.com/tv/nacionales/canal-plus-estrenos.html</referer>
+</regex>
+<thumbnail>http://vignette4.wikia.nocookie.net/doblaje/images/6/69/Cinemax.png/revision/latest?cb=20160831015732&path-prefix=es</thumbnail>   
+</item>
+
 <item>
 <title>[COLOR white][COLOR yellow] •  [/COLOR] MOVISTAR ESTRENOS[/COLOR]</title>
 <sportsdevil>http://vergol.com/live/plusestrenos.php</sportsdevil>
