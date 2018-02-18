@@ -31,7 +31,7 @@
 <regex>
 <name>get-id</name>
 <expres>[",\'](h.*m3u8.*?)'</expres>
-<page>http://vergol.com/live/axnaxn.php</page>
+<page>http://vergol.com/live/axn.php</page>
 <referer>http://vertelevisor.com/tv/nacionales/axnwhite.html</referer>
 <agent>iPad</agent>
 </regex>
