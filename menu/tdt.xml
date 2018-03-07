@@ -67,7 +67,7 @@ h
 </item>
 
 <item>
-<title>[COLOR white][COLOR yellow] •  [/COLOR] CUATRO HD[/COLOR]</title>
+<title>[COLOR white][COLOR yellow] •  [/COLOR]CUATRO HD[/COLOR]</title>
 <link>http://cuatro-mediaset-esp-live.secure.footprint.net/mediaset/cuatro/stream1/streamPlaylist.m3u8</link>
 <thumbnail>http://www.diesl.com/wp-content/uploads/2017/01/Cuatro_Diesl.com_.png</thumbnail>
 <fanart>http://zonadjjavi.webcindario.com/fanart.jpg</fanart>
@@ -89,7 +89,7 @@ h
 </item>
 
 <item>
-<title>[COLOR white][COLOR yellow] •  [/COLOR] TELECINCO HD[/COLOR]</title>
+<title>[COLOR white][COLOR yellow] •  [/COLOR]TELECINCO HD[/COLOR]</title>
 <link>http://telecinco-mediaset-esp-live.secure.footprint.net/mediaset/telecinco/stream1/streamPlaylist.m3u8</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/7/75/Telecinco_2012.png</thumbnail>
 <fanart>http://zonadjjavi.webcindario.com/fanart.jpg</fanart>
@@ -235,6 +235,12 @@ h
 <fanart>http://zonadjjavi.webcindario.com/fanart.jpg</fanart>
 </item>
 
+<item>
+<title>[COLOR white][COLOR yellow] •  [/COLOR]LIFE TV[/COLOR]</title>
+<link>http://178.132.6.97/uzivo/lifetvesp/tracks-v1a1/index.m3u8</link>
+<thumbnail>https://static.wixstatic.com/media/27077f_21df71d53465489cbb32acc9f9dd83e0~mv2_d_2000_2000_s_2.png/v1/fill/w_201,h_146,al_c,usm_0.66_1.00_0.01/27077f_21df71d53465489cbb32acc9f9dd83e0~mv2_d_2000_2000_s_2.png</thumbnail>
+<fanart>http://zonadjjavi.webcindario.com/fanart.jpg</fanart>
+</item>
 <item>
 <title>[COLOR white][COLOR yellow] •  [/COLOR]13 TV[/COLOR]</title>
 <link>http://streaming13tv.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/smil:live.smil/chunklist_w1664206825_b700000.m3u8</link>
