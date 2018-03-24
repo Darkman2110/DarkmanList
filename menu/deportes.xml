@@ -16,11 +16,13 @@
 
 <item>
 <title>[COLOR white][COLOR yellow] •  [/COLOR]LIGA 123[/COLOR]</title>
-<link>$doregex[GetPageUrl]|User-Agent=|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
-<regex><name>GetPageUrl</name>
+<link>$doregex[get-id]|User-Agent=iPad&amp;Referer=http://vergol.com/live3/liga123.php</link>
+<regex>
+<name>get-id</name>
 <expres>source: '(.*?)'</expres>
-<page>http://livesports.pw/embed.php?file=ligaunodostres&width=650&height=397</page>
-<cookieJar></cookieJar>
+<page>http://vergol.com/live3/liga123.php</page>
+<referer>http://vertelevisor.com/tv/deportes/liga123.php</referer>
+<agent>iPad</agent>
 </regex>
 <thumbnail>http://files.laliga.es/seccion_logos/laliga-123-v-negativo-monocolor-16-9.jpg</thumbnail>
 <fanart>http://zonadjjavi.webcindario.com/fanart.jpg</fanart>
@@ -28,11 +30,11 @@
 
 <item>
 <title>[COLOR white][COLOR yellow] •  [/COLOR]LA LIGA TV [/COLOR] </title>
-<link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.116 Chrome/48.0.2564.116 Safari/537.36</link>
+<link>$doregex[GetPageUrl]|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
 <regex>
 <name>GetPageUrl</name>
 <expres>source: '(.*?)'</expres>
-<page>http://livesports.pw/embed.php?file=barliga&amp;width=650&amp;height=397</page>
+<page>http://livesports.pw/embeddeporte.php?file=barliga&amp;width=650&amp;height=397</page>
 <cookieJar></cookieJar>
 </regex>
 <fanart>http://zonadjjavi.webcindario.com/fanart.jpg</fanart>
@@ -69,12 +71,13 @@
 
 <item>
 <title>[COLOR white][COLOR yellow] •  [/COLOR]M FUTBOL[/COLOR]</title>
-<link>$doregex[GetPageUrl]|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
+<link>$doregex[GetPageUrl]|Referer=http://livesports.pw/embedna.php?file=movestr&amp;User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:56.0) Gecko/20100101 Firefox/56.0</link>
 <regex>
 <name>GetPageUrl</name>
 <expres>source: '(.*?)'</expres>
-<page>http://livesports.pw/embed.php?file=futbolespm&amp;width=650&amp;height=397</page>
-<cookieJar></cookieJar>
+<page>http://livesports.pw/embedna.php?file=futbolespm&amp;width=650&amp;height=397</page>
+<agent>Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.116 Chrome/48.0.2564.116 Safari/537.36</agent>
+<referer>http://cinestrenostv.tv/canales/envivo/plusseriesxtra.html</referer>
 </regex>
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Movistar_F%C3%BAtbol.svg/1000px-Movistar_F%C3%BAtbol.svg.png</thumbnail>
 <fanart>http://zonadjjavi.webcindario.com/fanart.jpg</fanart>
@@ -82,12 +85,13 @@
 
 <item>
 <title>[COLOR white][COLOR yellow] •  [/COLOR]M DEPORTES[/COLOR]</title>
-<link>$doregex[GetPageUrl]|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
+  <link>$doregex[get-id]|Referer=http://vercanalestv.com/tv/deportes/canal-plus-deportes.html&amp;User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64; rv:55.0) Gecko/20100101 Firefox/55.0</link>
 <regex>
-<name>GetPageUrl</name>
+<name>get-id</name>
 <expres>source: '(.*?)'</expres>
-<page>http://livesports.pw/embed.php?file=deporteone&amp;width=650&amp;height=397</page>
-<cookieJar></cookieJar>
+<page>http://vergol.com/live1/plusdeportes1.php</page>
+<referer>http://vercanalestv.com/tv/deportes/canal-plus-deportes.html</referer>
+<agent>Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.116 Chrome/48.0.2564.116 Safari/537.36</agent>
 </regex>
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Movistar_Deportes_1.svg/1024px-Movistar_Deportes_1.svg.png</thumbnail>
 <fanart>http://zonadjjavi.webcindario.com/fanart.jpg</fanart>
@@ -99,7 +103,7 @@
 <regex>
 <name>GetPageUrl</name>
 <expres>source: '(.*?)'</expres>
-<page>http://livesports.pw/embed.php?file=deportedosm&amp;width=650&amp;height=397</page>
+<page>http://livesports.pw/embeddeporte.php?file=deportedosm&amp;width=650&amp;height=397</page>
 <cookieJar></cookieJar>
 </regex>
 <thumbnail>http://verdirectotv.com/logos/deportes2.png</thumbnail>
@@ -112,7 +116,7 @@
 <regex>
 <name>GetPageUrl</name>
 <expres>source: '(.*?)'</expres>
-<page>http://livesports.pw/embed.php?file=golfesp&amp;width=650&amp;height=397</page>
+<page>http://livesports.pw/embeddeporte.php?file=golfesp&amp;width=650&amp;height=397</page>
 <cookieJar></cookieJar>
 </regex>
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Movistar_Golf.svg/1024px-Movistar_Golf.svg.png</thumbnail>
@@ -125,7 +129,7 @@
 <regex>
 <name>GetPageUrl</name>
 <expres>source: '(.*?)'</expres>
-<page>http://livesports.pw/embed.php?file=motogpm&amp;width=650&amp;height=397</page>
+<page>http://livesports.pw/embeddeporte.php?file=motogpm&amp;width=650&amp;height=397</page>
 <cookieJar></cookieJar>
 </regex>
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Movistar_Moto_GP.svg/2000px-Movistar_Moto_GP.svg.png</thumbnail>
@@ -138,7 +142,7 @@
 <regex>
 <name>GetPageUrl</name>
 <expres>source: '(.*?)'</expres>
-<page>http://livesports.pw/embed.php?file=funoesp&amp;width=650&amp;height=397</page>
+<page>http://livesports.pw/embeddeporte.php?file=funoesp&amp;width=650&amp;height=397</page>
 <cookieJar></cookieJar>
 </regex>
 <thumbnail>https://movistar.i.lithium.com/t5/image/serverpage/image-id/111641iA6F01CFB43B522C3?v=1.0</thumbnail>
@@ -153,7 +157,7 @@
 <regex>
 <name>GetPageUrl</name>
 <expres>source: '(.*?)'</expres>
-<page>http://livesports.pw/embed.php?file=eurosportsesp&amp;width=650&amp;height=397</page>
+<page>http://livesports.pw/embeddeporte.php?file=eurosportsesp&amp;width=650&amp;height=397</page>
 <cookieJar></cookieJar>
 </regex>
 <thumbnail>http://www.galiotopen.com/wp-content/uploads/2015/01/a4.png</thumbnail>
@@ -166,7 +170,7 @@
 <regex>
 <name>GetPageUrl</name>
 <expres>source: '(.*?)'</expres>
-<page>http://livesports.pw/embed.php?file=eurosportsdosesp&amp;width=650&amp;height=397</page>
+<page>http://livesports.pw/embeddeporte.php?file=eurosportsdosesp&amp;width=650&amp;height=397</page>
 <cookieJar></cookieJar>
 </regex>
 <thumbnail>https://vignette.wikia.nocookie.net/logopedia/images/3/3d/ESP_2_GGS_RVB.png/revision/latest?cb=20120329095341</thumbnail>
