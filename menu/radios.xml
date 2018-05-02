@@ -22,15 +22,14 @@
 <fanart>http://zonadjjavi.webcindario.com/fanart.jpg</fanart>
 </item>	
 
-
-
 <item>
-<title>[COLOR white]El Rincon de Alese[/COLOR]</title>
-<link>http://78.129.224.17:4245/</link>
-<thumbnail>https://static.wixstatic.com/media/274932_23b7c1ba1c374b49a0d5e4f40af513a7~mv2.jpg/v1/fill/w_208,h_213,al_c,q_80,usm_0.66_1.00_0.01/274932_23b7c1ba1c374b49a0d5e4f40af513a7~mv2.jpg</thumbnail>
+<title>[COLOR white]Radio KISS[/COLOR]</title>
+<link>http://kissfm.kissfmradio.cires21.com/kissfm.mp3</link>
+<thumbnail>http://kissfm.es/player/img/logokiss.png</thumbnail>
 <fanart>http://zonadjjavi.webcindario.com/fanart.jpg</fanart>
 </item>		
-		
+
+	
 <item>
 <title>[COLOR white]Radio Europa FM[/COLOR]</title>
 <link>http://stream.irratia.net/2</link>
