@@ -13,7 +13,7 @@
 <fanart>http://www.bolsamania.com/seriesadictos/wp-content/uploads/2014/12/arrow.jpg</fanart>
 ]]></listrepeat>
 <expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
-<page>http://diskokosmiko.mx/marechi/arrow-serie-temp-1-2-3-4-5-6-7-113714/list,1,100</page>
+<page>http://diskokosmiko.mx/marechi/arrow-serie-temp-1-2-3-4-5-6-7-113714/gallery,2,1</page>
 <cookieJar></cookieJar>
 </regex>
 <regex>
