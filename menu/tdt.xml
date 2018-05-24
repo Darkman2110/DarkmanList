@@ -58,7 +58,7 @@ h
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/1200px-Logo_TVE-24h.svg.png</thumbnail>
 <fanart>http://zonadjjavi.webcindario.com/fanart.jpg</fanart>
 </item>
-http://telecinco-mediaset-esp-live.secure.footprint.net/mediaset/telecinco/stream1/streamPlaylist.m3u8
+
 
 <item>
 <title>[COLOR white][COLOR yellow] •  [/COLOR]TDP HD[/COLOR]</title>
@@ -196,42 +196,43 @@ http://telecinco-mediaset-esp-live.secure.footprint.net/mediaset/telecinco/strea
 
 <item>
 <title>[COLOR white][COLOR yellow] •  [/COLOR]ANTENA 3 HD[/COLOR]</title>
-<link>http://a3live-lh.akamaihd.net/i/antena3_1@35248/index_3_av-b.m3u8?sd=11&amp;rebase=on</link>
+<link>http://petu18.pedromo.me/live/antena3/index.m3u8?token=aV2IFL7n3WGHc7BAl5sNcA&expires=1527291873</link>
 <thumbnail>http://directostv.teleame.com/wp-content/uploads/2016/01/Antena-3-en-directo-online.png</thumbnail>
 <fanart>http://zonadjjavi.webcindario.com/fanart.jpg</fanart>
 </item>
 
 <item>
 <title>[COLOR white][COLOR yellow] •  [/COLOR]NEOX HD[/COLOR]</title>
-<link>http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/master.m3u8</link>
+<link>https://atresplayerp-i.akamaized.net/geoneoxmpp/master.m3u8</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Neox.svg/2000px-Neox.svg.png</thumbnail>
 <fanart>http://zonadjjavi.webcindario.com/fanart.jpg</fanart>
 </item>
 
 <item>
 <title>[COLOR white][COLOR yellow] •  [/COLOR]LA SEXTA HD[/COLOR]</title>
-<link>http://a3live-lh.akamaihd.net/i/lasexta_1@35272/master.m3u8</link>
+<link>https://atresplayerp-i.akamaized.net/lasextampp/master.m3u8</link>
 <thumbnail>https://www.foromedios.com/uploads/monthly_2016_04/la_sexta_es_hd.png.4fa7fd7dc0da4de63ddedd3bb7f1415f.png</thumbnail>
 <fanart>http://zonadjjavi.webcindario.com/fanart.jpg</fanart>
 </item>
 
 <item>
 <title>[COLOR white][COLOR yellow] •  [/COLOR]MEGA HD[/COLOR]</title>
-<link>http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/master.m3u8</link>
+<link>https://atresplayerp-i.akamaized.net/geomegampp/master.m3u8</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/MEGA.svg/2000px-MEGA.svg.png</thumbnail>
 <fanart>http://zonadjjavi.webcindario.com/fanart.jpg</fanart>
 </item>
 
 <item>
 <title>[COLOR white][COLOR yellow] •  [/COLOR]A3 SERIES HD[/COLOR]</title>
-<link>http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/master.m3u8</link>
+<link>https://atresplayers-i.akamaized.net/geoa3seriesmpp/bitrate_1.m3u8</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/AtreseriesLogo.svg/1200px-AtreseriesLogo.svg.png</thumbnail>
 <fanart>http://zonadjjavi.webcindario.com/fanart.jpg</fanart>
 </item>
 
+
 <item>
 <title>[COLOR white][COLOR yellow] •  [/COLOR]NOVA HD[/COLOR]</title>
-<link>http://a3live-lh.akamaihd.net/i/nvhds/geonova_1@379404/master.m3u8</link>
+<link>https://atresplayerp-i.akamaized.net/geonovampp/master.m3u8</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Nova.svg/800px-Nova.svg.png</thumbnail>
 <fanart>http://zonadjjavi.webcindario.com/fanart.jpg</fanart>
 </item>
