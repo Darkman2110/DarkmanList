@@ -193,12 +193,6 @@ h
 </item>
 
 
-<item>
-<title>[COLOR white][COLOR yellow] •  [/COLOR]ANTENA 3 HD[/COLOR]</title>
-<link>https://atresplayerp-i.akamaized.net/antena3mpp/bitrate_1.m3u8</link>
-<thumbnail>http://directostv.teleame.com/wp-content/uploads/2016/01/Antena-3-en-directo-online.png</thumbnail>
-<fanart>http://zonadjjavi.webcindario.com/fanart.jpg</fanart>
-</item>
 
 <item>
 <title>[COLOR white][COLOR yellow] •  [/COLOR]ANTENA 3 HD[/COLOR]</title>
@@ -206,9 +200,6 @@ h
 <thumbnail>http://directostv.teleame.com/wp-content/uploads/2016/01/Antena-3-en-directo-online.png</thumbnail>
 <fanart>http://zonadjjavi.webcindario.com/fanart.jpg</fanart>
 </item>
-
-
-
 
 <item>
 <title>[COLOR white][COLOR yellow] •  [/COLOR]NEOX HD[/COLOR]</title>
@@ -233,7 +224,7 @@ h
 
 <item>
 <title>[COLOR white][COLOR yellow] •  [/COLOR]A3 SERIES HD[/COLOR]</title>
-<link>https://atresplayers-i.akamaized.net/geoa3seriesmpp/bitrate_1.m3u8</link>
+<link>https://atresplayers-i.akamaized.net/geoa3seriesmpp/master.m3u8</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/AtreseriesLogo.svg/1200px-AtreseriesLogo.svg.png</thumbnail>
 <fanart>http://zonadjjavi.webcindario.com/fanart.jpg</fanart>
 </item>
