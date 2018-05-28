@@ -112,15 +112,10 @@ h
 </item>
 
 <item>
-<title>[COLOR white][COLOR yellow] •  [/COLOR]BOING[/COLOR]</title>
- <link>$doregex[GetPageUrl]|Referer=http://livesports.pw/embed2.php?file=launotelefivegb&amp;User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64; rv:54.0) Gecko/20100101 Firefox/54.0</link>
-<regex>
-<name>GetPageUrl</name>
-<expres>source: '(.*?)'</expres>
-<page>http://livesports.pw/embed2.php?file=boing&amp;width=650&amp;height=397</page>
-<cookieJar></cookieJar>
-</regex>
-<thumbnail>http://www.simbajuguetes.com/wp-content/uploads/2017/05/logo-boing.png</thumbnail>
+<title>[COLOR white][COLOR yellow] •  [/COLOR]TELECINCO 720-HD[/COLOR]</title>
+<sportsdevil>http://www.dazplayer.com/chh/telecinco.php</sportsdevil>
+<referer>http://www.dazplayer.com</referer>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/7/75/Telecinco_2012.png</thumbnail>
 <fanart>http://zonadjjavi.webcindario.com/fanart.jpg</fanart>
 </item>
 
