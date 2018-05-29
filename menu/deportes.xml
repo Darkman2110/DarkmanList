@@ -35,86 +35,6 @@
 </item>
 
 <item>
-<title>[COLOR white][COLOR yellow] •  [/COLOR]M DEPORTES 2[/COLOR]</title>
-<link>$doregex[GetPageUrl]|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
-<regex>
-<name>GetPageUrl</name>
-<expres>source: '(.*?)'</expres>
-<page>http://livesports.pw/embeddeporte.php?file=deportedosm&amp;width=650&amp;height=397</page>
-<cookieJar></cookieJar>
-</regex>
-<thumbnail>http://verdirectotv.com/logos/deportes2.png</thumbnail>
-<fanart>http://zonadjjavi.webcindario.com/fanart.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR white][COLOR yellow] •  [/COLOR]M GOLF[/COLOR]</title>
-<link>$doregex[GetPageUrl]|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
-<regex>
-<name>GetPageUrl</name>
-<expres>source: '(.*?)'</expres>
-<page>http://livesports.pw/embeddeporte.php?file=golfesp&amp;width=650&amp;height=397</page>
-<cookieJar></cookieJar>
-</regex>
-<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Movistar_Golf.svg/1024px-Movistar_Golf.svg.png</thumbnail>
-<fanart>http://zonadjjavi.webcindario.com/fanart.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR white][COLOR yellow] •  [/COLOR]M MOTO GP[/COLOR]</title>
-<link>$doregex[GetPageUrl]|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
-<regex>
-<name>GetPageUrl</name>
-<expres>source: '(.*?)'</expres>
-<page>http://livesports.pw/embeddeporte.php?file=motogpm&amp;width=650&amp;height=397</page>
-<cookieJar></cookieJar>
-</regex>
-<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Movistar_Moto_GP.svg/2000px-Movistar_Moto_GP.svg.png</thumbnail>
-<fanart>http://zonadjjavi.webcindario.com/fanart.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR white][COLOR yellow] •  [/COLOR]M FORMULA 1[/COLOR]</title>
-<link>$doregex[GetPageUrl]|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
-<regex>
-<name>GetPageUrl</name>
-<expres>source: '(.*?)'</expres>
-<page>http://livesports.pw/embeddeporte.php?file=funoesp&amp;width=650&amp;height=397</page>
-<cookieJar></cookieJar>
-</regex>
-<thumbnail>https://movistar.i.lithium.com/t5/image/serverpage/image-id/111641iA6F01CFB43B522C3?v=1.0</thumbnail>
-<fanart>http://zonadjjavi.webcindario.com/fanart.jpg</fanart>
-</item>
-
-
-
-<item>
-<title>[COLOR white][COLOR yellow] •  [/COLOR]EUROSPORTS 1[/COLOR]</title>
-<link>$doregex[GetPageUrl]|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
-<regex>
-<name>GetPageUrl</name>
-<expres>source: '(.*?)'</expres>
-<page>http://livesports.pw/embeddeporte.php?file=eurosportsesp&amp;width=650&amp;height=397</page>
-<cookieJar></cookieJar>
-</regex>
-<thumbnail>http://www.galiotopen.com/wp-content/uploads/2015/01/a4.png</thumbnail>
-<fanart>http://zonadjjavi.webcindario.com/fanart.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR white][COLOR yellow] •  [/COLOR]EUROSPORTS 2[/COLOR]</title>
-<link>$doregex[GetPageUrl]|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
-<regex>
-<name>GetPageUrl</name>
-<expres>source: '(.*?)'</expres>
-<page>http://livesports.pw/embeddeporte.php?file=eurosportsdosesp&amp;width=650&amp;height=397</page>
-<cookieJar></cookieJar>
-</regex>
-<thumbnail>https://vignette.wikia.nocookie.net/logopedia/images/3/3d/ESP_2_GGS_RVB.png/revision/latest?cb=20120329095341</thumbnail>
-<fanart>http://zonadjjavi.webcindario.com/fanart.jpg</fanart>
-</item>
-
-<item>
 <title>[COLOR white][COLOR yellow] •  [/COLOR]SPORTS 3[/COLOR]</title>
 <sportsdevil>http://cinestrenostv.tv/canales/deportes/sport3.php</sportsdevil>
 <referer>http://cinestrenostv.tv</referer>
@@ -156,15 +76,6 @@
 <thumbnail>http://images.elconfidencialdigital.com/medios/Gol_ECDIMA20160321_0022_3.png</thumbnail>
  <fanart>http://zonadjjavi.webcindario.com/fanart.jpg</fanart>
 </item>
-
-<item>
-<title>[COLOR white][COLOR yellow] •  [/COLOR]TOROS TV[/COLOR] </title>
-<sportsdevil>http://cinestrenostv.tv/canales/nacionales/plus-toros.php</sportsdevil>
-<referer>http://cinestrenostv.tv</referer>
-<thumbnail>https://www.thelogodb.com/images/media/logo/xxxuts1436895323.png</thumbnail>
-<fanart>http://zonadjjavi.webcindario.com/fanart.jpg</fanart>
-</item>
-http://sevillafc_live-lh.akamaihd.net/i/video_0@354142/index_0700_av-p.m3u8?sd=10&rebase=on
 
 <item>
 <title>[COLOR white][COLOR yellow] •  [/COLOR]SEVILLA FC[/COLOR]</title>
