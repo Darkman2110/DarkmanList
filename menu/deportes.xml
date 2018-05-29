@@ -24,7 +24,22 @@
 <fanart>http://zonadjjavi.webcindario.com/fanart.jpg</fanart>
 </item>
 
+http://www.vercanalestv.com/ver-barca-tv-en-directo-y-online/
 
+
+<item>
+<title>[COLOR white][COLOR yellow] •  [/COLOR]BARÇA [/COLOR]</title>
+  <link>$doregex[get-id]|Referer=http://vercanalestv.com/tv/deportes/canal-plus-deportes.html&amp;User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64; rv:55.0) Gecko/20100101 Firefox/55.0</link>
+<regex>
+<name>get-id</name>
+<expres>source: '(.*?)'</expres>
+<page>http://www.vercanalestv.com/ver-barca-tv-en-directo-y-online/</page>
+<referer>http://vercanalestv.com/tv/deportes/canal-plus-deportes.html</referer>
+<agent>Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.116 Chrome/48.0.2564.116 Safari/537.36</agent>
+</regex>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Movistar_Deportes_1.svg/1024px-Movistar_Deportes_1.svg.png</thumbnail>
+<fanart>http://zonadjjavi.webcindario.com/fanart.jpg</fanart>
+</item>
 
 
 <item>
