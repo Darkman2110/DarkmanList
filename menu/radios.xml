@@ -1,17 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<channel>
-    <name>          <<<<<<<<<Radio >>>>>>>></name>
-       <thumbnail></thumbnail>
-      <fanart>http://zonadjjavi.webcindario.com/fanart.jpg</fanart>
-        <items>
-		
-		
-		                        <item><title>[COLOR=yellow]                                      <<[/COLOR][COLOR=yellow]Radio[/COLOR][COLOR=yellow]>>[/COLOR]</title>   <link>http://zonadjjavi.webcindario.com</link></item>
-          
+
 <item>
 <title>[COLOR white]ZONA DJ JAVI - SIRENA-RADIO[/COLOR]</title>
 <link>http://50.22.219.97:15245</link>
-<thumbnail>http://zonadjjavi.webcindario.com/Kodi/radio.png</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/Darkman2110/DarkmanList/master/imagen/logoc.jpg</thumbnail>
 <fanart>http://zonadjjavi.webcindario.com/fanart.jpg</fanart>
 </item>		
 
