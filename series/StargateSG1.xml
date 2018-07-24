@@ -9,10 +9,41 @@
 </item>
 
 <item>
-<title>Stargate, el arca de la verdad </title>
-<link>http://powvideo.net/embed-382huywozuml-660x360.html</link>
-<thumbnail>http://is3.mzstatic.com/image/thumb/Video/v4/81/a7/3b/81a73b22-747b-9524-b664-325a448e93e9/source/227x227bb.jpg</thumbnail>
-<fanart>https://www.tvequals.com/wp-content/uploads/2012/04/Stargate_SG1_03_1024x7682-team.jpg</fanart>
+<title>[COLOR white][COLOR yellow] •  [/COLOR]Stargate, el arca de la verdad[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+  <name>makelist</name>
+  <listrepeat><![CDATA[
+        <title>[COLOR yellow] [makelist.param3] [/COLOR]</title>
+        <link>$doregex[getUrl]</link>
+<fanart>http://e03-elmundo.uecdn.es/assets/multimedia/imagenes/2014/01/03/13887540666983.jpg</fanart>
+<thumbnail>http://www.nadacomercial.com/wordpress/wp-content/uploads/2013/01/Logo-cine-catastrofico.jpg</thumbnail>
+]]></listrepeat>
+<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+<page>http://diskokosmiko.mx/ijordi/viajes-en-el-tiempo-paradojas-90490/2008-stargate-el-arca-de-la-verdad,1568053.mp4</page>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&f=[makelist.param1]</page>
+<rawpost>fileId=[makelist.param1]&__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+<connection>keep-alive</connection>
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>tok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<referer>http://diskokosmiko.mx/trivianita/cine-catastrofico-86100/list,1,100</referer>
+<connection>keep-alive</connection>
+<cookieJar></cookieJar>
+</regex>
+<fanart>http://e03-elmundo.uecdn.es/assets/multimedia/imagenes/2014/01/03/13887540666983.jpg</fanart>
+<thumbnail>https://pics.filmaffinity.com/stargate_the_ark_of_truth-383137681-large.jpg</thumbnail>
 </item>
 
 
