@@ -35,7 +35,7 @@
  
  <channels>
  <channel>
-      <name>[COLOR white]                                             Actualizacion:[COLOR] 29 [COLOR white] Julio [COLOR] 2018[/COLOR]</name>
+      <name>[COLOR white]                                             Actualizacion:[COLOR] 30 [COLOR white] Julio [COLOR] 2018[/COLOR]</name>
       <thumbnail>http://zonadjjavi.webcindario.com/Kodi/imagen/actualizacion.png</thumbnail>
       <fanart>http://zonadjjavi.webcindario.com/fanart.jpg</fanart>
       <link>http://ignoreme</link>
@@ -64,7 +64,7 @@
  <channels>
  <channel>
       <name>[COLOR white][COLOR yellow] •  [/COLOR]CANALES DIGITAL + [/COLOR]</name>
-      <externallink>https://raw.githubusercontent.com/MrTvGratis/TvGratis/master/lista%206</externallink>
+      <externallink>https://raw.githubusercontent.com/MrTvGratis/TvGratis/master/lista%2011</externallink>
 	  <thumbnail>http://zonadjjavi.webcindario.com/Kodi/imagen/digital.png</thumbnail>
       <fanart>http://zonadjjavi.webcindario.com/fanart.jpg</fanart>
  </channel>
@@ -73,7 +73,7 @@
  <channels>
  <channel>
       <name>[COLOR white][COLOR yellow] •  [/COLOR]CANALES TV[/COLOR]</name>
-      <externallink>https://raw.githubusercontent.com/MrTvGratis/TvGratis/master/lista%2011</externallink>
+      <externallink>https://raw.githubusercontent.com/MrTvGratis/TvGratis/master/lista%2015</externallink>
 	  <thumbnail>http://zonadjjavi.webcindario.com/Kodi/imagen/digital.png</thumbnail>
       <fanart>http://zonadjjavi.webcindario.com/fanart.jpg</fanart>
  </channel>
