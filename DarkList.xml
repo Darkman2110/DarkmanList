@@ -63,7 +63,7 @@
 
  <channels>
  <channel>
-      <name>[COLOR white][COLOR yellow] •  [/COLOR]CANALES DIGITAL + [/COLOR]</name>
+      <name>[COLOR white][COLOR yellow] •  [/COLOR]CANALES TV [/COLOR]</name>
       <externallink>https://raw.githubusercontent.com/MrTvGratis/TvGratis/master/lista%205</externallink>
 	  <thumbnail>http://zonadjjavi.webcindario.com/Kodi/imagen/digital.png</thumbnail>
       <fanart>http://zonadjjavi.webcindario.com/fanart.jpg</fanart>
@@ -72,7 +72,7 @@
 
  <channels>
  <channel>
-      <name>[COLOR white][COLOR yellow] •  [/COLOR]CANALES TV[/COLOR]</name>
+      <name>[COLOR white][COLOR yellow] •  [/COLOR]CANALES TV-1[/COLOR]</name>
       <externallink>https://raw.githubusercontent.com/MrTvGratis/TvGratis/master/lista%202</externallink>
 	  <thumbnail>http://zonadjjavi.webcindario.com/Kodi/imagen/digital.png</thumbnail>
       <fanart>http://zonadjjavi.webcindario.com/fanart.jpg</fanart>
@@ -81,7 +81,7 @@
 
  <channels>
  <channel>
-      <name>[COLOR white][COLOR yellow] •  [/COLOR]CANALES TV 2[/COLOR]</name>
+      <name>[COLOR white][COLOR yellow] •  [/COLOR]CANALES TV-2[/COLOR]</name>
        <externallink>https://raw.githubusercontent.com/MrTvGratis/TvGratis/master/lista%204</externallink>
 	  <thumbnail>http://zonadjjavi.webcindario.com/Kodi/imagen/deportes.png</thumbnail>
       <fanart>http://zonadjjavi.webcindario.com/fanart.jpg</fanart>
@@ -91,8 +91,18 @@
 
  <channels>
  <channel>
-      <name>[COLOR white][COLOR yellow] •  [/COLOR]CANALES TV 3[/COLOR]</name>
+      <name>[COLOR white][COLOR yellow] •  [/COLOR]CANALES TV-4[/COLOR]</name>
        <externallink>https://raw.githubusercontent.com/MrTvGratis/TvGratis/master/lista%208</externallink>
+	  <thumbnail>http://zonadjjavi.webcindario.com/Kodi/imagen/deportes.png</thumbnail>
+      <fanart>http://zonadjjavi.webcindario.com/fanart.jpg</fanart>
+      
+</channel>
+</channels>
+
+ <channels>
+ <channel>
+      <name>[COLOR white][COLOR yellow] •  [/COLOR]CANALES TV-5[/COLOR]</name>
+       <externallink>https://raw.githubusercontent.com/MrTvGratis/TvGratis/master/lista%2010</externallink>
 	  <thumbnail>http://zonadjjavi.webcindario.com/Kodi/imagen/deportes.png</thumbnail>
       <fanart>http://zonadjjavi.webcindario.com/fanart.jpg</fanart>
       
