@@ -76,20 +76,6 @@ h
 
 
 <item>
-<title>[COLOR white][COLOR yellow] •  [/COLOR]CUATRO [/COLOR]</title>
-<link>$doregex[get-id]|User-Agent=iPad&amp;Referer=http://vergol.com/live1/cuatro.php</link>
-<regex>
-<name>get-id</name>
-<expres>source: '(.*?)'</expres>
-<page>http://vergol.com/live1/cuatro.php</page>
-<referer>http://vercanalestv.com/tv/nacionales/tve-1.html</referer>
-<agent>iPad</agent>
-</regex>
-<thumbnail>http://www.diesl.com/wp-content/uploads/2017/01/Cuatro_Diesl.com_.png</thumbnail>
-<fanart>http://zonadjjavi.webcindario.com/fanart.jpg</fanart>
-</item>
-
-<item>
 <title>[COLOR white][COLOR yellow] •  [/COLOR]TELECINCO HD[/COLOR]</title>
 <link>http://telecinco-mediaset-esp-live.secure.footprint.net/mediaset/telecinco/stream1/streamPlaylist.m3u8</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/7/75/Telecinco_2012.png</thumbnail>
@@ -97,88 +83,15 @@ h
 </item>
 
 
-<item>
-<title>[COLOR white][COLOR yellow] •  [/COLOR]TELECINCO[/COLOR]</title>
-<link>$doregex[get-id]|User-Agent=iPad&amp;Referer=http://vergol.com/live/tve1.php</link>
-<regex>
-<name>get-id</name>
-<expres>source: '(.*?)'</expres>
-<page>http://vergol.com/live1/telecinco.php</page>
-<referer>http://vercanalestv.com/tv/nacionales/tve-1.html</referer>
-<agent>iPad</agent>
-</regex>
-<thumbnail>https://upload.wikimedia.org/wikipedia/commons/7/75/Telecinco_2012.png</thumbnail>
-<fanart>http://zonadjjavi.webcindario.com/fanart.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR white][COLOR yellow] •  [/COLOR]TELECINCO 720-HD[/COLOR]</title>
-<sportsdevil>http://www.dazplayer.com/chh/telecinco.php</sportsdevil>
-<referer>http://www.dazplayer.com</referer>
-<thumbnail>https://upload.wikimedia.org/wikipedia/commons/7/75/Telecinco_2012.png</thumbnail>
-<fanart>http://zonadjjavi.webcindario.com/fanart.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR white][COLOR yellow] •  [/COLOR]FDF[/COLOR]</title>
-<link>$doregex[get-id]|User-Agent=iPad&amp;Referer=http://vergol.com/live/tve1.php</link>
-<regex>
-<name>get-id</name>
-<expres>source: '(.*?)'</expres>
-<page>http://vergol.com/live/fdf.php</page>
-<referer>http://vercanalestv.com/tv/nacionales/tve-1.html</referer>
-<agent>iPad</agent>
-</regex>
-<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/FDF_2012_Large.svg/1200px-FDF_2012_Large.svg.png</thumbnail>
-<fanart>http://zonadjjavi.webcindario.com/fanart.jpg</fanart>
-</item>
 
 
-<item>
-<title>[COLOR white][COLOR yellow] •  [/COLOR]BE MAD[/COLOR]</title>
-<link>$doregex[GetPageUrl]|Referer=http://vercanalestv.com/tv/nacionales/be-mad.html&amp;User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64; rv:55.0) Gecko/20100101 Firefox/55.0</link>
-<regex>
-<name>GetPageUrl</name>
-<expres>source: '(.*?)'</expres>
-<page>http://vergol.com/live/bemad.php</page>
-<referer>http://vercanalestv.com/tv/nacionales/be-mad.html</referer>
-</regex>
-<thumbnail>https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/09/Be-Mad.png?fit=500%2C300</thumbnail>
-<fanart>http://zonadjjavi.webcindario.com/fanart.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR white][COLOR yellow] •  [/COLOR]ENERGY[/COLOR]</title>
-<link>$doregex[GetPageUrl]|Referer=http://vercanalestv.com/tv/nacionales/be-mad.html&amp;User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64; rv:55.0) Gecko/20100101 Firefox/55.0</link>
-<regex>
-<name>GetPageUrl</name>
-<expres>source: '(.*?)'</expres>
-<page>http://cinestrenostv.tv/canales/nacionales/energy.php</page>
-<referer>http://vercanalestv.com/tv/nacionales/be-mad.html</referer>
-</regex>
-<thumbnail>https://upload.wikimedia.org/wikipedia/commons/9/93/Energy_2012.png</thumbnail>
-<fanart>http://zonadjjavi.webcindario.com/fanart.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR white][COLOR yellow] •  [/COLOR]DIVINITY[/COLOR]</title>
-<link>$doregex[GetPageUrl]|Referer=http://vercanalestv.com/tv/nacionales/be-mad.html&amp;User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64; rv:55.0) Gecko/20100101 Firefox/55.0</link>
-<regex>
-<name>GetPageUrl</name>
-<expres>source: '(.*?)'</expres>
-<page>http://cinestrenostv.tv/canales/nacionales/divinity.php</page>
-<referer>http://vercanalestv.com/tv/nacionales/be-mad.html</referer>
-</regex>
-<thumbnail>https://upload.wikimedia.org/wikipedia/commons/0/06/Divinity_2012.png</thumbnail>
-<fanart>http://zonadjjavi.webcindario.com/fanart.jpg</fanart>
-</item>
 
 
 
 
 <item>
 <title>[COLOR white][COLOR yellow] •  [/COLOR]ANTENA 3 HD[/COLOR]</title>
-<link>https://atresplayerp-i.akamaized.net/antena3mpp/bitrate_1.m3u8</link>
+<link>http://ocsp.comodoca.com/MFEwTzBNMEswSTAJBgUrDgMCGgUABBReAhtobFzTvhaRmVeJ38QUchY9AwQUu69%2BAj36pvE8hI6t7jiY7NkyMtQCEC58h8wOk0pS%2FpT9HLfNNK8%3D</link>
 <thumbnail>http://directostv.teleame.com/wp-content/uploads/2016/01/Antena-3-en-directo-online.png</thumbnail>
 <fanart>http://zonadjjavi.webcindario.com/fanart.jpg</fanart>
 </item>
