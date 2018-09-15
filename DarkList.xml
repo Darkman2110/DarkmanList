@@ -157,7 +157,13 @@
 </channels>
 
 
-
+ <channels>
+ <channel>
+      <name>[COLOR white][COLOR yellow] •  [/COLOR]LISTA CANALES TV-11 [/COLOR]</name>
+       <externallink>https://raw.githubusercontent.com/MrTvGratis/TvGratis/master/sportsdevil</externallink>
+	  <thumbnail>http://zonadjjavi.webcindario.com/Kodi/imagen/deportes.png</thumbnail>
+      <fanart>http://zonadjjavi.webcindario.com/fanart.jpg</fanart>
+</channel>
 
 
 
