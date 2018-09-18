@@ -1,3 +1,4 @@
+#EXTM3U
 #EXTINF:-1 tvg-id="NACIONALES - TVE-1" tvg-name="NACIONALES - TVE-1" tvg-logo="http://vertelevisor.com/logos/tve1.png" group-title="ESPAÑA", NACIONALES - TVE-1
 <iframe scrolling="no" marginwidth="0" marginheight="0" frameborder="0" width="650" height="400" allowfullscreen src="http://vercanalestv.com/tv/deportes/bein-sports-liga.html"></iframe>
  
