@@ -33,6 +33,7 @@ http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_1_av-p.m3u8?sd=10
 http://paramount.live.flumotion.com/live/chunks.m3u8
 #EXTINF:-1, TR3C3 TV
 http://streaming13tv.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/smil:live.smil/chunklist_w1218268139_b998000.m3u8
-
+#EXTINF:-1, LIFE TV
+http://190.2.142.13:25461/live/primera_android/1122334455/20.m3u8
 
 https://youtu.be/KXw7gIYwPxg
