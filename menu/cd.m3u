@@ -1,37 +1,37 @@
 #EXTM3U
-#EXTINF:-1 LA 1 
+#EXTINF:-1,, LA 1 
 http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl7/la1_lv3_aosv4_gl7/la1_lv3_aosv4_gl7.isml/la1_lv3_aosv4_gl7-audio=128000-video=1500000.m3u8
-#EXTINF:-1 LA 2
+#EXTINF:-1, LA 2
 http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl0/la2_lv3_aosv4_gl0/la2_lv3_aosv4_gl0.isml/la2_lv3_aosv4_gl0.m3u8
-#EXTINF:-1 TPD
+#EXTINF:-1, TPD
 http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl1/tdphd_lv3_aosv4_gl1/tdphd_lv3_aosv4_gl1.isml/tdphd_lv3_aosv4_gl1-audio=128000-video=2800000.m3u8
-#EXTINF:-1 24 
+#EXTINF:-1, 24 
 http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl8/24h_onlydash_lv3_aosv4_gl8/24h_onlydash_lv3_aosv4_gl8.isml/24h_onlydash_lv3_aosv4_gl8-audio=128000-video=1500000.m3u8
-#EXTINF:-1 ANTENA 3
+#EXTINF:-1, ANTENA 3
 http://s742319618.mialojamiento.es/cl3?vid=livepull1.secure.footprint.net/antena3mpp/master.m3u8
-#EXTINF:-1 LA SEXTA
+#EXTINF:-1, LA SEXTA
 http://s742319618.mialojamiento.es/cl3?vid=livepull1.secure.footprint.net/lasextampp/master.m3u8
-#EXTINF:-1 NEOX
+#EXTINF:-1, NEOX
 http://s742319618.mialojamiento.es/cl3?vid=livepull1.secure.footprint.net/geoneoxmpp/master.m3u8
-#EXTINF:-1 NOVA
+#EXTINF:-1,, NOVA
 http://s742319618.mialojamiento.es/cl3?vid=livepull1.secure.footprint.net/geonovampp/master.m3u8
-#EXTINF:-1 A3 SERIES
+#EXTINF:-1, A3 SERIES
 http://s742319618.mialojamiento.es/cl3?vid=livepull1.secure.footprint.net/geoa3seriesmpp/master.m3u8
-#EXTINF:-1 MEGA
+#EXTINF:-1, MEGA
 http://s742319618.mialojamiento.es/cl3?vid=livepull1.secure.footprint.net/geomegampp/master.m3u8
-#EXTINF:-1 CUATRO
+#EXTINF:-1, CUATRO
 http://cuatro-mediaset-esp-live.secure.footprint.net/mediaset/cuatro/stream1/streamPlaylist.m3u8
-#EXTINF:-1 TELECINCO
+#EXTINF:-1, TELECINCO
 http://telecinco-mediaset-esp-live.secure.footprint.net/mediaset/telecinco/stream1/streamPlaylist.m3u8
-#EXTINF:-1 REAL MADRID
+#EXTINF:-1, REAL MADRID
 http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/index_3_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1 HIT TV
+#EXTINF:-1, HIT TV
 http://kissfm-cires21-video.secure.footprint.net/hittv/bitrate_4.m3u8
-#EXTINF:-1 DW ESPAÑA
+#EXTINF:-1, DW ESPAÑA
 http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_1_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1 PARAMOUNT CHANNEL
+#EXTINF:-1, PARAMOUNT CHANNEL
 http://paramount.live.flumotion.com/live/chunks.m3u8
-#EXTINF:-1 TR3C3 TV
+#EXTINF:-1, TR3C3 TV
 http://streaming13tv.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/smil:live.smil/chunklist_w1218268139_b998000.m3u8
 
 
