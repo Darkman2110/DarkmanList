@@ -2,7 +2,7 @@
 
 
 <item>
-        <title>[COLOR yellow]                                  CABRON TV[/COLOR]</title>
+        <title>[COLOR yellow]                                  LISTA 1[/COLOR]</title>
         <link>http://ignorame</link>
         <thumbnail>https://raw.githubusercontent.com/MrTvGratis/TvGratis/master/imagenes%20tvgratis/icon1.png</thumbnail>
         <fanart>https://raw.githubusercontent.com/MrTvGratis/TvGratis/master/imagenes%20tvgratis/icon1.png</fanart>
@@ -18,10 +18,8 @@ def GetLSProData(page_data,Cookie_Jar,m):
 ]]></expres>
 <page></page>
 </regex>
+
 </item>
-
-
-
 
 
 
