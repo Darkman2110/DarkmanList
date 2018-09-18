@@ -1,0 +1,29 @@
+#EXTM3U
+#EXTINF:-1,ES:SYFY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://tv.proyectox.vip:25461/live/Cesar/cesar/92147.ts
+
+#EXTINF:-1,ES:SYFY HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://tv.proyectox.vip:25461/live/Cesar/cesar/92146.ts
+
+#EXTINF:-1,ES:AXN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://tv.proyectox.vip:25461/live/Cesar/cesar/92163.ts
+
+#EXTINF:-1,ES:AXN HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://tv.proyectox.vip:25461/live/Cesar/cesar/92162.ts
+
+#EXTINF:-1,ES:TNT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://tv.proyectox.vip:25461/live/Cesar/cesar/92156.ts
+
+#EXTINF:-1,ES:TNT HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://tv.proyectox.vip:25461/live/Cesar/cesar/92155.ts
+
+#EXTINF:-1,ES:FOX
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://tv.proyectox.vip:25461/live/Cesar/cesar/92165.ts
+
+
+#EXTINF:-1,ES:FOX HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://tv.proyectox.vip:25461/live/Cesar/cesar/92164.ts
+
+
+
+
