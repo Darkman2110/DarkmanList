@@ -1,0 +1,278 @@
+#EXTINF:-1 tvg-id="NACIONALES - TVE-1" tvg-name="NACIONALES - TVE-1" tvg-logo="http://vertelevisor.com/logos/tve1.png" group-title="ESPAÑA", NACIONALES - TVE-1
+<iframe scrolling="no" marginwidth="0" marginheight="0" frameborder="0" width="650" height="400" allowfullscreen src="http://vercanalestv.com/tv/deportes/bein-sports-liga.html"></iframe>
+ 
+#EXTINF:-1 tvg-id="NACIONALES - TVE-2" tvg-name="NACIONALES - TVE-2" tvg-logo="http://vertelevisor.com/logos/tve2.png" group-title="ESPAÑA", NACIONALES - TVE-2
+plugin://plugin.video.SportsDevil/?mode=1&item=catcher%3dstreams%26url=http://vertelevisor.com/tv/nacionales/tve-2.html%26referer=http://vertelevisor.com/
+ 
+#EXTINF:-1 tvg-id="NACIONALES - 24HORAS" tvg-name="NACIONALES - 24HORAS" tvg-logo="http://vertelevisor.com/logos/24h.png" group-title="ESPAÑA", NACIONALES - 24HORAS
+plugin://plugin.video.SportsDevil/?mode=1&item=catcher%3dstreams%26url=http://vertelevisor.com/tv/nacionales/24horas.html%26referer=http://vertelevisor.com/
+ 
+#EXTINF:-1 tvg-id="NACIONALES - ANTENA-3" tvg-name="NACIONALES - ANTENA-3" tvg-logo="http://vertelevisor.com/logos/antena3.png" group-title="ESPAÑA", NACIONALES - ANTENA-3
+plugin://plugin.video.SportsDevil/?mode=1&item=catcher%3dstreams%26url=http://vertelevisor.com/tv/nacionales/antena-3.html%26referer=http://vertelevisor.com/
+ 
+#EXTINF:-1 tvg-id="NACIONALES - CUATRO" tvg-name="NACIONALES - CUATRO" tvg-logo="http://vertelevisor.com/logos/cuatro.png" group-title="ESPAÑA", NACIONALES - CUATRO
+plugin://plugin.video.SportsDevil/?mode=1&item=catcher%3dstreams%26url=http://vertelevisor.com/tv/nacionales/cuatro.html%26referer=http://vertelevisor.com/
+ 
+#EXTINF:-1 tvg-id="NACIONALES - TELECINCO" tvg-name="NACIONALES - TELECINCO" tvg-logo="http://vertelevisor.com/logos/telecinco.png" group-title="ESPAÑA", NACIONALES - TELECINCO
+plugin://plugin.video.SportsDevil/?mode=1&item=catcher%3dstreams%26url=http://vertelevisor.com/tv/nacionales/telecinco.html%26referer=http://vertelevisor.com/
+ 
+#EXTINF:-1 tvg-id="NACIONALES - LA-SEXTA" tvg-name="NACIONALES - LA-SEXTA" tvg-logo="http://vertelevisor.com/logos/sexta.png" group-title="ESPAÑA", NACIONALES - LA-SEXTA
+plugin://plugin.video.SportsDevil/?mode=1&item=catcher%3dstreams%26url=http://vertelevisor.com/tv/nacionales/la-sexta.html%26referer=http://vertelevisor.com/
+ 
+#EXTINF:-1 tvg-id="NACIONALES - NOVA" tvg-name="NACIONALES - NOVA" tvg-logo="http://vertelevisor.com/logos/nova.png" group-title="ESPAÑA", NACIONALES - NOVA
+plugin://plugin.video.SportsDevil/?mode=1&item=catcher%3dstreams%26url=http://vertelevisor.com/tv/nacionales/nova.html%26referer=http://vertelevisor.com/
+ 
+#EXTINF:-1 tvg-id="NACIONALES - DIVINITY" tvg-name="NACIONALES - DIVINITY" tvg-logo="http://vertelevisor.com/logos/divinity1.png" group-title="ESPAÑA", NACIONALES - DIVINITY
+plugin://plugin.video.SportsDevil/?mode=1&item=catcher%3dstreams%26url=http://vertelevisor.com/tv/nacionales/divinity.html%26referer=http://vertelevisor.com/
+ 
+#EXTINF:-1 tvg-id="NACIONALES - BE-MAD" tvg-name="NACIONALES - BE-MAD" tvg-logo="http://vertelevisor.com/logos/bemad.png" group-title="ESPAÑA", NACIONALES - BE-MAD
+plugin://plugin.video.SportsDevil/?mode=1&item=catcher%3dstreams%26url=http://vertelevisor.com/tv/nacionales/be-mad.html%26referer=http://vertelevisor.com/
+ 
+#EXTINF:-1 tvg-id="NACIONALES - TEN" tvg-name="NACIONALES - TEN" tvg-logo="http://vertelevisor.com/logos/ten.png" group-title="ESPAÑA", NACIONALES - TEN
+plugin://plugin.video.SportsDevil/?mode=1&item=catcher%3dstreams%26url=http://vertelevisor.com/tv/nacionales/ten.html%26referer=http://vertelevisor.com/
+ 
+#EXTINF:-1 tvg-id="NACIONALES - ENERGY" tvg-name="NACIONALES - ENERGY" tvg-logo="http://vertelevisor.com/logos/energy.png" group-title="ESPAÑA", NACIONALES - ENERGY
+plugin://plugin.video.SportsDevil/?mode=1&item=catcher%3dstreams%26url=http://vertelevisor.com/tv/nacionales/energy.html%26referer=http://vertelevisor.com/
+ 
+#EXTINF:-1 tvg-id="NACIONALES - COSMO" tvg-name="NACIONALES - COSMO" tvg-logo="http://vertelevisor.com/logos/cosmo.png" group-title="ESPAÑA", NACIONALES - COSMO
+plugin://plugin.video.SportsDevil/?mode=1&item=catcher%3dstreams%26url=http://vertelevisor.com/tv/nacionales/cosmo.html%26referer=http://vertelevisor.com/
+ 
+#EXTINF:-1 tvg-id="NACIONALES - FDF" tvg-name="NACIONALES - FDF" tvg-logo="http://vertelevisor.com/logos/fdf.png" group-title="ESPAÑA", NACIONALES - FDF
+plugin://plugin.video.SportsDevil/?mode=1&item=catcher%3dstreams%26url=http://vertelevisor.com/tv/nacionales/fdf.html%26referer=http://vertelevisor.com/
+ 
+#EXTINF:-1 tvg-id="NACIONALES - NEOX" tvg-name="NACIONALES - NEOX" tvg-logo="http://vertelevisor.com/logos/neox.png" group-title="ESPAÑA", NACIONALES - NEOX
+plugin://plugin.video.SportsDevil/?mode=1&item=catcher%3dstreams%26url=http://vertelevisor.com/tv/nacionales/neox.html%26referer=http://vertelevisor.com/
+ 
+#EXTINF:-1 tvg-id="NACIONALES - CANAL-MEGA" tvg-name="NACIONALES - CANAL-MEGA" tvg-logo="http://vertelevisor.com/logos/mega.png" group-title="ESPAÑA", NACIONALES - CANAL-MEGA
+plugin://plugin.video.SportsDevil/?mode=1&item=catcher%3dstreams%26url=http://vertelevisor.com/tv/nacionales/canal-mega.html%26referer=http://vertelevisor.com/
+ 
+#EXTINF:-1 tvg-id="NACIONALES - MTV" tvg-name="NACIONALES - MTV" tvg-logo="http://vertelevisor.com/logos/mtv.png" group-title="ESPAÑA", NACIONALES - MTV
+plugin://plugin.video.SportsDevil/?mode=1&item=catcher%3dstreams%26url=http://vertelevisor.com/tv/nacionales/mtv.html%26referer=http://vertelevisor.com/
+ 
+#EXTINF:-1 tvg-id="NACIONALES - AMC" tvg-name="NACIONALES - AMC" tvg-logo="http://vertelevisor.com/logos/amc.png" group-title="ESPAÑA", NACIONALES - AMC
+plugin://plugin.video.SportsDevil/?mode=1&item=catcher%3dstreams%26url=http://vertelevisor.com/tv/nacionales/amc.html%26referer=http://vertelevisor.com/
+ 
+#EXTINF:-1 tvg-id="NACIONALES - FOX" tvg-name="NACIONALES - FOX" tvg-logo="http://vertelevisor.com/logos/fox.png" group-title="ESPAÑA", NACIONALES - FOX
+plugin://plugin.video.SportsDevil/?mode=1&item=catcher%3dstreams%26url=http://vertelevisor.com/tv/nacionales/fox.html%26referer=http://vertelevisor.com/
+ 
+#EXTINF:-1 tvg-id="NACIONALES - TNT" tvg-name="NACIONALES - TNT" tvg-logo="http://vertelevisor.com/logos/tnt.png" group-title="ESPAÑA", NACIONALES - TNT
+plugin://plugin.video.SportsDevil/?mode=1&item=catcher%3dstreams%26url=http://vertelevisor.com/tv/nacionales/tnt.html%26referer=http://vertelevisor.com/
+ 
+#EXTINF:-1 tvg-id="NACIONALES - AXN" tvg-name="NACIONALES - AXN" tvg-logo="http://vertelevisor.com/logos/axn.png" group-title="ESPAÑA", NACIONALES - AXN
+plugin://plugin.video.SportsDevil/?mode=1&item=catcher%3dstreams%26url=http://vertelevisor.com/tv/nacionales/axn.html%26referer=http://vertelevisor.com/
+ 
+#EXTINF:-1 tvg-id="NACIONALES - CALLE-13" tvg-name="NACIONALES - CALLE-13" tvg-logo="http://vertelevisor.com/logos/calle-13.jpg" group-title="ESPAÑA", NACIONALES - CALLE-13
+plugin://plugin.video.SportsDevil/?mode=1&item=catcher%3dstreams%26url=http://vertelevisor.com/tv/nacionales/calle-13.html%26referer=http://vertelevisor.com/
+ 
+#EXTINF:-1 tvg-id="NACIONALES - SYFY" tvg-name="NACIONALES - SYFY" tvg-logo="http://vertelevisor.com/logos/syfy.png" group-title="ESPAÑA", NACIONALES - SYFY
+plugin://plugin.video.SportsDevil/?mode=1&item=catcher%3dstreams%26url=http://vertelevisor.com/tv/nacionales/syfy.html%26referer=http://vertelevisor.com/
+ 
+#EXTINF:-1 tvg-id="NACIONALES - PARAMOUNT-CHANNEL" tvg-name="NACIONALES - PARAMOUNT-CHANNEL" tvg-logo="http://vertelevisor.com/logos/paramountchannel.png" group-title="ESPAÑA", NACIONALES - PARAMOUNT-CHANNEL
+plugin://plugin.video.SportsDevil/?mode=1&item=catcher%3dstreams%26url=http://vertelevisor.com/tv/nacionales/paramount-channel.html%26referer=http://vertelevisor.com/
+ 
+#EXTINF:-1 tvg-id="NACIONALES - CANAL-HOLLYWOOD" tvg-name="NACIONALES - CANAL-HOLLYWOOD" tvg-logo="http://vertelevisor.com/logos/hollywood.png" group-title="ESPAÑA", NACIONALES - CANAL-HOLLYWOOD
+plugin://plugin.video.SportsDevil/?mode=1&item=catcher%3dstreams%26url=http://vertelevisor.com/tv/nacionales/canal-hollywood.html%26referer=http://vertelevisor.com/
+ 
+#EXTINF:-1 tvg-id="NACIONALES - PLAYBOY" tvg-name="NACIONALES - PLAYBOY" tvg-logo="http://vertelevisor.com/logos/playboy.png" group-title="ESPAÑA", NACIONALES - PLAYBOY
+plugin://plugin.video.SportsDevil/?mode=1&item=catcher%3dstreams%26url=http://vertelevisor.com/tv/nacionales/playboy.html%26referer=http://vertelevisor.com/
+ 
+#EXTINF:-1 tvg-id="NACIONALES - VENUS" tvg-name="NACIONALES - VENUS" tvg-logo="http://vertelevisor.com/logos/venus.jpg" group-title="ESPAÑA", NACIONALES - VENUS
+plugin://plugin.video.SportsDevil/?mode=1&item=catcher%3dstreams%26url=http://vertelevisor.com/tv/nacionales/venus.html%26referer=http://vertelevisor.com/
+ 
+#EXTINF:-1 tvg-id="NACIONALES - HUSTLER-TV" tvg-name="NACIONALES - HUSTLER-TV" tvg-logo="http://vertelevisor.com/logos/hustlertv.jpg" group-title="ESPAÑA", NACIONALES - HUSTLER-TV
+plugin://plugin.video.SportsDevil/?mode=1&item=catcher%3dstreams%26url=http://vertelevisor.com/tv/nacionales/hustler-tv.html%26referer=http://vertelevisor.com/
+ 
+#EXTINF:-1 tvg-id="NACIONALES - HOT" tvg-name="NACIONALES - HOT" tvg-logo="http://vertelevisor.com/logos/hot.png" group-title="ESPAÑA", NACIONALES - HOT
+plugin://plugin.video.SportsDevil/?mode=1&item=catcher%3dstreams%26url=http://vertelevisor.com/tv/nacionales/hot.html%26referer=http://vertelevisor.com/
+ 
+#EXTINF:-1 tvg-id="NACIONALES - REDLIGHT" tvg-name="NACIONALES - REDLIGHT" tvg-logo="http://vertelevisor.com/logos/redlight.png" group-title="ESPAÑA", NACIONALES - REDLIGHT
+plugin://plugin.video.SportsDevil/?mode=1&item=catcher%3dstreams%26url=http://vertelevisor.com/tv/nacionales/redlight.html%26referer=http://vertelevisor.com/
+ 
+#EXTINF:-1 tvg-id="DOCUMENTALES - DISCOVERY-CHANNEL" tvg-name="DOCUMENTALES - DISCOVERY-CHANNEL" tvg-logo="http://vertelevisor.com/logos/discovery-channel.jpg" group-title="ESPAÑA", DOCUMENTALES - DISCOVERY-CHANNEL
+plugin://plugin.video.SportsDevil/?mode=1&item=catcher%3dstreams%26url=http://vertelevisor.com/tv/documentales/discovery-channel.html%26referer=http://vertelevisor.com/
+ 
+#EXTINF:-1 tvg-id="DOCUMENTALES - DISCOVERY-MAX" tvg-name="DOCUMENTALES - DISCOVERY-MAX" tvg-logo="http://vertelevisor.com/logos/Discovery_Max.png" group-title="ESPAÑA", DOCUMENTALES - DISCOVERY-MAX
+plugin://plugin.video.SportsDevil/?mode=1&item=catcher%3dstreams%26url=http://vertelevisor.com/tv/documentales/discovery-max.html%26referer=http://vertelevisor.com/
+ 
+#EXTINF:-1 tvg-id="DOCUMENTALES - AE" tvg-name="DOCUMENTALES - AE" tvg-logo="http://vertelevisor.com/logos/ae.png" group-title="ESPAÑA", DOCUMENTALES - AE
+plugin://plugin.video.SportsDevil/?mode=1&item=catcher%3dstreams%26url=http://vertelevisor.com/tv/documentales/ae.html%26referer=http://vertelevisor.com/
+ 
+#EXTINF:-1 tvg-id="NACIONALES - CANAL-COCINA" tvg-name="NACIONALES - CANAL-COCINA" tvg-logo="http://vertelevisor.com/logos/cocina.png" group-title="ESPAÑA", NACIONALES - CANAL-COCINA
+plugin://plugin.video.SportsDevil/?mode=1&item=catcher%3dstreams%26url=http://vertelevisor.com/tv/nacionales/canal-cocina.html%26referer=http://vertelevisor.com/
+ 
+#EXTINF:-1 tvg-id="DOCUMENTALES - ODISEA" tvg-name="DOCUMENTALES - ODISEA" tvg-logo="http://www.vertelevisor.com/logos/odisea.png" group-title="ESPAÑA", DOCUMENTALES - ODISEA
+plugin://plugin.video.SportsDevil/?mode=1&item=catcher%3dstreams%26url=http://vertelevisor.com/tv/documentales/odisea.html%26referer=http://vertelevisor.com/
+ 
+#EXTINF:-1 tvg-id="DOCUMENTALES - CAZA-Y-PESCA" tvg-name="DOCUMENTALES - CAZA-Y-PESCA" tvg-logo="http://vertelevisor.com/logos/cazapesca.png" group-title="ESPAÑA", DOCUMENTALES - CAZA-Y-PESCA
+plugin://plugin.video.SportsDevil/?mode=1&item=catcher%3dstreams%26url=http://vertelevisor.com/tv/documentales/caza-y-pesca.html%26referer=http://vertelevisor.com/
+ 
+#EXTINF:-1 tvg-id="DOCUMENTALES - CRIMEN-INVESTIGACION" tvg-name="DOCUMENTALES - CRIMEN-INVESTIGACION" tvg-logo="http://vertelevisor.com/logos/ci.png" group-title="ESPAÑA", DOCUMENTALES - CRIMEN-INVESTIGACION
+plugin://plugin.video.SportsDevil/?mode=1&item=catcher%3dstreams%26url=http://vertelevisor.com/tv/documentales/crimen-investigacion.html%26referer=http://vertelevisor.com/
+ 
+#EXTINF:-1 tvg-id="DOCUMENTALES - NATIONAL-GEOGRAPHIC" tvg-name="DOCUMENTALES - NATIONAL-GEOGRAPHIC" tvg-logo="http://vertelevisor.com/logos/national.png" group-title="ESPAÑA", DOCUMENTALES - NATIONAL-GEOGRAPHIC
+plugin://plugin.video.SportsDevil/?mode=1&item=catcher%3dstreams%26url=http://vertelevisor.com/tv/documentales/national-geographic.html%26referer=http://vertelevisor.com/
+ 
+#EXTINF:-1 tvg-id="DOCUMENTALES - NAT-GEO-WILD" tvg-name="DOCUMENTALES - NAT-GEO-WILD" tvg-logo="http://vertelevisor.com/logos/natgeowild.png" group-title="ESPAÑA", DOCUMENTALES - NAT-GEO-WILD
+plugin://plugin.video.SportsDevil/?mode=1&item=catcher%3dstreams%26url=http://vertelevisor.com/tv/documentales/nat-geo-wild.html%26referer=http://vertelevisor.com/
+ 
+#EXTINF:-1 tvg-id="DOCUMENTALES - CANAL-HISTORIA" tvg-name="DOCUMENTALES - CANAL-HISTORIA" tvg-logo="http://vertelevisor.com/logos/Historia.jpg" group-title="ESPAÑA", DOCUMENTALES - CANAL-HISTORIA
+plugin://plugin.video.SportsDevil/?mode=1&item=catcher%3dstreams%26url=http://vertelevisor.com/tv/documentales/canal-historia.html%26referer=http://vertelevisor.com/
+ 
+#EXTINF:-1 tvg-id="MEXICO - ANIMAL-PLANET" tvg-name="MEXICO - ANIMAL-PLANET" tvg-logo="http://vertelevisor.com/logos/animalplanet.png" group-title="ESPAÑA", MEXICO - ANIMAL-PLANET
+plugin://plugin.video.SportsDevil/?mode=1&item=catcher%3dstreams%26url=http://vertelevisor.com/tv/mexico/animal-planet.html%26referer=http://vertelevisor.com/
+ 
+#EXTINF:-1 tvg-id="ARGENTINA - HBO-LATINO" tvg-name="ARGENTINA - HBO-LATINO" tvg-logo="http://vertelevisor.com/logos/HBO-Latino.jpg" group-title="ESPAÑA", ARGENTINA - HBO-LATINO
+plugin://plugin.video.SportsDevil/?mode=1&item=catcher%3dstreams%26url=http://vertelevisor.com/tv/argentina/hbo-latino.html%26referer=http://vertelevisor.com/
+ 
+#EXTINF:-1 tvg-id="ARGENTINA - CINEMAX" tvg-name="ARGENTINA - CINEMAX" tvg-logo="http://vertelevisor.com/logos/cinemax.png" group-title="ESPAÑA", ARGENTINA - CINEMAX
+plugin://plugin.video.SportsDevil/?mode=1&item=catcher%3dstreams%26url=http://vertelevisor.com/tv/argentina/cinemax.html%26referer=http://vertelevisor.com/
+ 
+#EXTINF:-1 tvg-id="MEXICO - TNT" tvg-name="MEXICO - TNT" tvg-logo="http://vertelevisor.com/logos/tnt-latino.png" group-title="ESPAÑA", MEXICO - TNT
+plugin://plugin.video.SportsDevil/?mode=1&item=catcher%3dstreams%26url=http://vertelevisor.com/tv/mexico/tnt.html%26referer=http://vertelevisor.com/
+ 
+#EXTINF:-1 tvg-id="MEXICO - FOX" tvg-name="MEXICO - FOX" tvg-logo="http://vertelevisor.com/logos/Fox-latino.jpg" group-title="ESPAÑA", MEXICO - FOX
+plugin://plugin.video.SportsDevil/?mode=1&item=catcher%3dstreams%26url=http://vertelevisor.com/tv/mexico/fox.html%26referer=http://vertelevisor.com/
+ 
+#EXTINF:-1 tvg-id="DEPORTES - REAL-MADRID-TV" tvg-name="DEPORTES - REAL-MADRID-TV" tvg-logo="http://vertelevisor.com/logos/realmadrid.png" group-title="ESPAÑA", DEPORTES - REAL-MADRID-TV
+plugin://plugin.video.SportsDevil/?mode=1&item=catcher%3dstreams%26url=http://vertelevisor.com/tv/deportes/real-madrid-tv.html%26referer=http://vertelevisor.com/
+ 
+#EXTINF:-1 tvg-id="DEPORTES - BARCA-TV" tvg-name="DEPORTES - BARCA-TV" tvg-logo="http://vertelevisor.com/logos/barcatv.png" group-title="ESPAÑA", DEPORTES - BARCA-TV
+plugin://plugin.video.SportsDevil/?mode=1&item=catcher%3dstreams%26url=http://vertelevisor.com/tv/deportes/barca-tv.html%26referer=http://vertelevisor.com/
+ 
+#EXTINF:-1 tvg-id="DEPORTES - FOX-SPORTS" tvg-name="DEPORTES - FOX-SPORTS" tvg-logo="http://vertelevisor.com/logos/foxsports.png" group-title="ESPAÑA", DEPORTES - FOX-SPORTS
+plugin://plugin.video.SportsDevil/?mode=1&item=catcher%3dstreams%26url=http://vertelevisor.com/tv/deportes/fox-sports.html%26referer=http://vertelevisor.com/
+ 
+#EXTINF:-1 tvg-id="DEPORTES - FOX-SPORTS-2" tvg-name="DEPORTES - FOX-SPORTS-2" tvg-logo="http://vertelevisor.com/logos/foxsports2.png" group-title="ESPAÑA", DEPORTES - FOX-SPORTS-2
+plugin://plugin.video.SportsDevil/?mode=1&item=catcher%3dstreams%26url=http://vertelevisor.com/tv/deportes/fox-sports-2.html%26referer=http://vertelevisor.com/
+ 
+#EXTINF:-1 tvg-id="DEPORTES - DIRECTV-SPORTS" tvg-name="DEPORTES - DIRECTV-SPORTS" tvg-logo="http://vertelevisor.com/logos/directv-sports.png" group-title="ESPAÑA", DEPORTES - DIRECTV-SPORTS
+plugin://plugin.video.SportsDevil/?mode=1&item=catcher%3dstreams%26url=http://vertelevisor.com/tv/deportes/directv-sports.html%26referer=http://vertelevisor.com/
+ 
+#EXTINF:-1 tvg-id="DEPORTES - ESPN-DEPORTES" tvg-name="DEPORTES - ESPN-DEPORTES" tvg-logo="http://vertelevisor.com/logos/espn-latino.png" group-title="ESPAÑA", DEPORTES - ESPN-DEPORTES
+plugin://plugin.video.SportsDevil/?mode=1&item=catcher%3dstreams%26url=http://vertelevisor.com/tv/deportes/espn-deportes.html%26referer=http://vertelevisor.com/
+ 
+#EXTINF:-1 tvg-id="DEPORTES - ESPN-2" tvg-name="DEPORTES - ESPN-2" tvg-logo="http://vertelevisor.com/logos/espn2.png" group-title="ESPAÑA", DEPORTES - ESPN-2
+plugin://plugin.video.SportsDevil/?mode=1&item=catcher%3dstreams%26url=http://vertelevisor.com/tv/deportes/espn-2.html%26referer=http://vertelevisor.com/
+ 
+#EXTINF:-1 tvg-id="PERU - GOL-PERU" tvg-name="PERU - GOL-PERU" tvg-logo="http://vertelevisor.com/logos/Golperu.png" group-title="ESPAÑA", PERU - GOL-PERU
+plugin://plugin.video.SportsDevil/?mode=1&item=catcher%3dstreams%26url=http://vertelevisor.com/tv/peru/gol-peru.html%26referer=http://vertelevisor.com/
+ 
+#EXTINF:-1 tvg-id="DEPORTES - MOTO-GP" tvg-name="DEPORTES - MOTO-GP" tvg-logo="http://vertelevisor.com/logos/motos.png" group-title="ESPAÑA", DEPORTES - MOTO-GP
+plugin://plugin.video.SportsDevil/?mode=1&item=catcher%3dstreams%26url=http://vertelevisor.com/tv/deportes/moto-gp.html%26referer=http://vertelevisor.com/
+ 
+#EXTINF:-1 tvg-id="DEPORTES - FORMULA-1" tvg-name="DEPORTES - FORMULA-1" tvg-logo="http://vertelevisor.com/logos/formula1.png" group-title="ESPAÑA", DEPORTES - FORMULA-1
+plugin://plugin.video.SportsDevil/?mode=1&item=catcher%3dstreams%26url=http://vertelevisor.com/tv/deportes/formula-1.html%26referer=http://vertelevisor.com/
+ 
+#EXTINF:-1 tvg-id="DEPORTES - EUROSPORT" tvg-name="DEPORTES - EUROSPORT" tvg-logo="http://vertelevisor.com/logos/eurosport1.png" group-title="ESPAÑA", DEPORTES - EUROSPORT
+plugin://plugin.video.SportsDevil/?mode=1&item=catcher%3dstreams%26url=http://vertelevisor.com/tv/deportes/eurosport.html%26referer=http://vertelevisor.com/
+ 
+#EXTINF:-1 tvg-id="DEPORTES - EUROSPORT-2" tvg-name="DEPORTES - EUROSPORT-2" tvg-logo="http://vertelevisor.com/logos/eurosport2.png" group-title="ESPAÑA", DEPORTES - EUROSPORT-2
+plugin://plugin.video.SportsDevil/?mode=1&item=catcher%3dstreams%26url=http://vertelevisor.com/tv/deportes/eurosport-2.html%26referer=http://vertelevisor.com/
+ 
+#EXTINF:-1 tvg-id="DEPORTES - TELEDEPORTE" tvg-name="DEPORTES - TELEDEPORTE" tvg-logo="http://vertelevisor.com/logos/teledeporte.png" group-title="ESPAÑA", DEPORTES - TELEDEPORTE
+plugin://plugin.video.SportsDevil/?mode=1&item=catcher%3dstreams%26url=http://vertelevisor.com/tv/deportes/teledeporte.html%26referer=http://vertelevisor.com/
+ 
+#EXTINF:-1 tvg-id="DEPORTES - TYC-SPORTS" tvg-name="DEPORTES - TYC-SPORTS" tvg-logo="http://vertelevisor.com/logos/tyc.png" group-title="ESPAÑA", DEPORTES - TYC-SPORTS
+plugin://plugin.video.SportsDevil/?mode=1&item=catcher%3dstreams%26url=http://vertelevisor.com/tv/deportes/tyc-sports.html%26referer=http://vertelevisor.com/
+ 
+#EXTINF:-1 tvg-id="COLOMBIA - CARACOL-TELEVISION" tvg-name="COLOMBIA - CARACOL-TELEVISION" tvg-logo="http://vertelevisor.com/logos/caracoltv.png" group-title="ESPAÑA", COLOMBIA - CARACOL-TELEVISION
+plugin://plugin.video.SportsDevil/?mode=1&item=catcher%3dstreams%26url=http://vertelevisor.com/tv/colombia/caracol-television.html%26referer=http://vertelevisor.com/
+ 
+#EXTINF:-1 tvg-id="MEXICO - AZTECA-7" tvg-name="MEXICO - AZTECA-7" tvg-logo="http://vertelevisor.com/logos/azteca-7.png" group-title="ESPAÑA", MEXICO - AZTECA-7
+plugin://plugin.video.SportsDevil/?mode=1&item=catcher%3dstreams%26url=http://vertelevisor.com/tv/mexico/azteca-7.html%26referer=http://vertelevisor.com/
+ 
+#EXTINF:-1 tvg-id="FRANCIA - BEIN-SPORT-1" tvg-name="FRANCIA - BEIN-SPORT-1" tvg-logo="http://vertelevisor.com/logos/bein1fr.png" group-title="ESPAÑA", FRANCIA - BEIN-SPORT-1
+plugin://plugin.video.SportsDevil/?mode=1&item=catcher%3dstreams%26url=http://vertelevisor.com/tv/francia/bein-sport-1.html%26referer=http://vertelevisor.com/
+ 
+#EXTINF:-1 tvg-id="FRANCIA - BEIN-SPORT-2" tvg-name="FRANCIA - BEIN-SPORT-2" tvg-logo="http://vertelevisor.com/logos/bein2fr.png" group-title="ESPAÑA", FRANCIA - BEIN-SPORT-2
+plugin://plugin.video.SportsDevil/?mode=1&item=catcher%3dstreams%26url=http://vertelevisor.com/tv/francia/bein-sport-2.html%26referer=http://vertelevisor.com/
+ 
+#EXTINF:-1 tvg-id="FRANCIA - BEIN-SPORT-3" tvg-name="FRANCIA - BEIN-SPORT-3" tvg-logo="http://vertelevisor.com/logos/bein3fr.png" group-title="ESPAÑA", FRANCIA - BEIN-SPORT-3
+plugin://plugin.video.SportsDevil/?mode=1&item=catcher%3dstreams%26url=http://vertelevisor.com/tv/francia/bein-sport-3.html%26referer=http://vertelevisor.com/
+ 
+#EXTINF:-1 tvg-id="FRANCIA - CANAL-PLUS-SPORT" tvg-name="FRANCIA - CANAL-PLUS-SPORT" tvg-logo="http://vertelevisor.com/logos/Canal%2B_Sport_2015.png" group-title="ESPAÑA", FRANCIA - CANAL-PLUS-SPORT
+plugin://plugin.video.SportsDevil/?mode=1&item=catcher%3dstreams%26url=http://vertelevisor.com/tv/francia/canal-plus-sport.html%26referer=http://vertelevisor.com/
+ 
+#EXTINF:-1 tvg-id="USA - SKY-SPORT-1" tvg-name="USA - SKY-SPORT-1" tvg-logo="http://vertelevisor.com/logos/sky1.png" group-title="ESPAÑA", USA - SKY-SPORT-1
+plugin://plugin.video.SportsDevil/?mode=1&item=catcher%3dstreams%26url=http://vertelevisor.com/tv/usa/sky-sport-1.html%26referer=http://vertelevisor.com/
+ 
+#EXTINF:-1 tvg-id="USA - SKY-SPORT-2" tvg-name="USA - SKY-SPORT-2" tvg-logo="http://vertelevisor.com/logos/sky2.png" group-title="ESPAÑA", USA - SKY-SPORT-2
+plugin://plugin.video.SportsDevil/?mode=1&item=catcher%3dstreams%26url=http://vertelevisor.com/tv/usa/sky-sport-2.html%26referer=http://vertelevisor.com/
+ 
+#EXTINF:-1 tvg-id="USA - SKY-SPORT-3" tvg-name="USA - SKY-SPORT-3" tvg-logo="http://vertelevisor.com/logos/sky3.png" group-title="ESPAÑA", USA - SKY-SPORT-3
+plugin://plugin.video.SportsDevil/?mode=1&item=catcher%3dstreams%26url=http://vertelevisor.com/tv/usa/sky-sport-3.html%26referer=http://vertelevisor.com/
+ 
+#EXTINF:-1 tvg-id="USA - SKY-SPORT-4" tvg-name="USA - SKY-SPORT-4" tvg-logo="http://vertelevisor.com/logos/sky4.png" group-title="ESPAÑA", USA - SKY-SPORT-4
+plugin://plugin.video.SportsDevil/?mode=1&item=catcher%3dstreams%26url=http://vertelevisor.com/tv/usa/sky-sport-4.html%26referer=http://vertelevisor.com/
+ 
+#EXTINF:-1 tvg-id="USA - SKY-SPORT-5" tvg-name="USA - SKY-SPORT-5" tvg-logo="http://vertelevisor.com/logos/sky5.png" group-title="ESPAÑA", USA - SKY-SPORT-5
+plugin://plugin.video.SportsDevil/?mode=1&item=catcher%3dstreams%26url=http://vertelevisor.com/tv/usa/sky-sport-5.html%26referer=http://vertelevisor.com/
+ 
+#EXTINF:-1 tvg-id="ALEMANIA - SKY-SPORT-1" tvg-name="ALEMANIA - SKY-SPORT-1" tvg-logo="http://vertelevisor.com/logos/sky1ger.png" group-title="ESPAÑA", ALEMANIA - SKY-SPORT-1
+plugin://plugin.video.SportsDevil/?mode=1&item=catcher%3dstreams%26url=http://vertelevisor.com/tv/alemania/sky-sport-1.html%26referer=http://vertelevisor.com/
+ 
+#EXTINF:-1 tvg-id="ALEMANIA - SKY-SPORT-2" tvg-name="ALEMANIA - SKY-SPORT-2" tvg-logo="http://vertelevisor.com/logos/sky2ger.png" group-title="ESPAÑA", ALEMANIA - SKY-SPORT-2
+plugin://plugin.video.SportsDevil/?mode=1&item=catcher%3dstreams%26url=http://vertelevisor.com/tv/alemania/sky-sport-2.html%26referer=http://vertelevisor.com/
+ 
+#EXTINF:-1 tvg-id="USA - BT-SPORT-1" tvg-name="USA - BT-SPORT-1" tvg-logo="http://vertelevisor.com/logos/btsport1.png" group-title="ESPAÑA", USA - BT-SPORT-1
+plugin://plugin.video.SportsDevil/?mode=1&item=catcher%3dstreams%26url=http://vertelevisor.com/tv/usa/bt-sport-1.html%26referer=http://vertelevisor.com/
+ 
+#EXTINF:-1 tvg-id="USA - BT-SPORT-2" tvg-name="USA - BT-SPORT-2" tvg-logo="http://vertelevisor.com/logos/btsport2.png" group-title="ESPAÑA", USA - BT-SPORT-2
+plugin://plugin.video.SportsDevil/?mode=1&item=catcher%3dstreams%26url=http://vertelevisor.com/tv/usa/bt-sport-2.html%26referer=http://vertelevisor.com/
+#EXTM3U
+#EXTINF:-1 tvg-id="DEPORTES - BEIN-SPORT-LATINO" tvg-name="DEPORTES - BEIN-SPORT-LATINO" tvg-logo="http://vertelevisor.com/logos/bein-latino.png" group-title="ESPAÑA", DEPORTES - BEIN-SPORT-LATINO
+plugin://plugin.video.SportsDevil/?mode=1&item=catcher%3dstreams%26url=http://vertelevisor.com/tv/deportes/bein-sport-latino.html%26referer=http://vertelevisor.com/
+ 
+#EXTINF:-1 tvg-id="COLOMBIA - RCN" tvg-name="COLOMBIA - RCN" tvg-logo="http://vertelevisor.com/logos/rcn.png" group-title="ESPAÑA", COLOMBIA - RCN
+plugin://plugin.video.SportsDevil/?mode=1&item=catcher%3dstreams%26url=http://vertelevisor.com/tv/colombia/rcn.html%26referer=http://vertelevisor.com/
+ 
+#EXTINF:-1 tvg-id="NACIONALES - CANAL-PLUS-1" tvg-name="NACIONALES - CANAL-PLUS-1" tvg-logo="http://vertelevisor.com/logos/canal-cero.png" group-title="ESPAÑA", NACIONALES - CANAL-PLUS-1
+plugin://plugin.video.SportsDevil/?mode=1&item=catcher%3dstreams%26url=http://vertelevisor.com/tv/nacionales/canal-plus-1.html%26referer=http://vertelevisor.com/
+ 
+#EXTINF:-1 tvg-id="NACIONALES - CANAL-PLUS-ESTRENOS" tvg-name="NACIONALES - CANAL-PLUS-ESTRENOS" tvg-logo="http://vertelevisor.com/logos/m-estrenos.png" group-title="ESPAÑA", NACIONALES - CANAL-PLUS-ESTRENOS
+plugin://plugin.video.SportsDevil/?mode=1&item=catcher%3dstreams%26url=http://vertelevisor.com/tv/nacionales/canal-plus-estrenos.html%26referer=http://vertelevisor.com/
+ 
+#EXTINF:-1 tvg-id="NACIONALES - CANAL-PLUS-ACCION" tvg-name="NACIONALES - CANAL-PLUS-ACCION" tvg-logo="http://vertelevisor.com/logos/m-accion.png" group-title="ESPAÑA", NACIONALES - CANAL-PLUS-ACCION
+plugin://plugin.video.SportsDevil/?mode=1&item=catcher%3dstreams%26url=http://vertelevisor.com/tv/nacionales/canal-plus-accion.html%26referer=http://vertelevisor.com/
+ 
+#EXTINF:-1 tvg-id="NACIONALES - CANAL-PLUS-DCINE" tvg-name="NACIONALES - CANAL-PLUS-DCINE" tvg-logo="http://vertelevisor.com/logos/m-dcine.png" group-title="ESPAÑA", NACIONALES - CANAL-PLUS-DCINE
+plugin://plugin.video.SportsDevil/?mode=1&item=catcher%3dstreams%26url=http://vertelevisor.com/tv/nacionales/canal-plus-dcine.html%26referer=http://vertelevisor.com/
+ 
+#EXTINF:-1 tvg-id="NACIONALES - CANAL-PLUS-COMEDIA" tvg-name="NACIONALES - CANAL-PLUS-COMEDIA" tvg-logo="http://vertelevisor.com/logos/m-comedia.png" group-title="ESPAÑA", NACIONALES - CANAL-PLUS-COMEDIA
+plugin://plugin.video.SportsDevil/?mode=1&item=catcher%3dstreams%26url=http://vertelevisor.com/tv/nacionales/canal-plus-comedia.html%26referer=http://vertelevisor.com/
+ 
+#EXTINF:-1 tvg-id="NACIONALES - CANAL-PLUS-SERIES" tvg-name="NACIONALES - CANAL-PLUS-SERIES" tvg-logo="http://vertelevisor.com/logos/m-series.png" group-title="ESPAÑA", NACIONALES - CANAL-PLUS-SERIES
+plugin://plugin.video.SportsDevil/?mode=1&item=catcher%3dstreams%26url=http://vertelevisor.com/tv/nacionales/canal-plus-series.html%26referer=http://vertelevisor.com/
+ 
+#EXTINF:-1 tvg-id="NACIONALES - CANAL-PLUS-TOROS" tvg-name="NACIONALES - CANAL-PLUS-TOROS" tvg-logo="http://vertelevisor.com/logos/torostv.jpg" group-title="ESPAÑA", NACIONALES - CANAL-PLUS-TOROS
+plugin://plugin.video.SportsDevil/?mode=1&item=catcher%3dstreams%26url=http://vertelevisor.com/tv/nacionales/canal-plus-toros.html%26referer=http://vertelevisor.com/
+ 
+#EXTINF:-1 tvg-id="DEPORTES - GOLTV" tvg-name="DEPORTES - GOLTV" tvg-logo="http://vertelevisor.com/imagenes/goltv.jpg" group-title="ESPAÑA", DEPORTES - GOLTV
+plugin://plugin.video.SportsDevil/?mode=1&item=catcher%3dstreams%26url=http://vertelevisor.com/tv/deportes/goltv.html%26referer=http://vertelevisor.com/
+ 
+#EXTINF:-1 tvg-id="DEPORTES - BEIN-SPORT" tvg-name="DEPORTES - BEIN-SPORT" tvg-logo="http://vertelevisor.com/logos/bein-sports.png" group-title="ESPAÑA", DEPORTES - BEIN-SPORT
+plugin://plugin.video.SportsDevil/?mode=1&item=catcher%3dstreams%26url=http://vertelevisor.com/tv/deportes/bein-sport.html%26referer=http://vertelevisor.com/
+ 
+#EXTINF:-1 tvg-id="DEPORTES - BEIN-SPORT-LIGA" tvg-name="DEPORTES - BEIN-SPORT-LIGA" tvg-logo="http://vertelevisor.com/logos/bein-laliga.jpg" group-title="ESPAÑA", DEPORTES - BEIN-SPORT-LIGA
+plugin://plugin.video.SportsDevil/?mode=1&item=catcher%3dstreams%26url=http://vertelevisor.com/tv/deportes/bein-sport-liga.html%26referer=http://vertelevisor.com/
+ 
+#EXTINF:-1 tvg-id="DEPORTES - CANAL-PLUS-LIGA.2" tvg-name="DEPORTES - CANAL-PLUS-LIGA.2" tvg-logo="http://vertelevisor.com/logos/laliga123.jpg" group-title="ESPAÑA", DEPORTES - CANAL-PLUS-LIGA.2
+plugin://plugin.video.SportsDevil/?mode=1&item=catcher%3dstreams%26url=http://vertelevisor.com/tv/deportes/canal-plus-liga.2.html%26referer=http://vertelevisor.com/
+ 
+#EXTINF:-1 tvg-id="DEPORTES - CANAL-PLUS-PARTIDAZO" tvg-name="DEPORTES - CANAL-PLUS-PARTIDAZO" tvg-logo="http://vertelevisor.com/logos/m-partidazo.png" group-title="ESPAÑA", DEPORTES - CANAL-PLUS-PARTIDAZO
+plugin://plugin.video.SportsDevil/?mode=1&item=catcher%3dstreams%26url=http://vertelevisor.com/tv/deportes/canal-plus-partidazo.html%26referer=http://vertelevisor.com/
+ 
+#EXTINF:-1 tvg-id="DEPORTES - CANAL-PLUS-FUTBOL" tvg-name="DEPORTES - CANAL-PLUS-FUTBOL" tvg-logo="http://vertelevisor.com/logos/m-futbol.png" group-title="ESPAÑA", DEPORTES - CANAL-PLUS-FUTBOL
+plugin://plugin.video.SportsDevil/?mode=1&item=catcher%3dstreams%26url=http://vertelevisor.com/tv/deportes/canal-plus-futbol.html%26referer=http://vertelevisor.com/
+ 
+#EXTINF:-1 tvg-id="DEPORTES - CANAL-PLUS-DEPORTES" tvg-name="DEPORTES - CANAL-PLUS-DEPORTES" tvg-logo="http://vertelevisor.com/logos/m-deportes1.png" group-title="ESPAÑA", DEPORTES - CANAL-PLUS-DEPORTES
+plugin://plugin.video.SportsDevil/?mode=1&item=catcher%3dstreams%26url=http://vertelevisor.com/tv/deportes/canal-plus-deportes.html%26referer=http://vertelevisor.com/
+ 
+#EXTINF:-1 tvg-id="DEPORTES - CANAL-PLUS-DEPORTES-2" tvg-name="DEPORTES - CANAL-PLUS-DEPORTES-2" tvg-logo="http://vertelevisor.com/logos/m-deportes2.png" group-title="ESPAÑA", DEPORTES - CANAL-PLUS-DEPORTES-2
+plugin://plugin.video.SportsDevil/?mode=1&item=catcher%3dstreams%26url=http://vertelevisor.com/tv/deportes/canal-plus-deportes-2.html%26referer=http://vertelevisor.com/
+ 
+#EXTINF:-1 tvg-id="DEPORTES - CANAL-PLUS-GOLF" tvg-name="DEPORTES - CANAL-PLUS-GOLF" tvg-logo="http://vertelevisor.com/logos/m-golf.png" group-title="ESPAÑA", DEPORTES - CANAL-PLUS-GOLF
+plugin://plugin.video.SportsDevil/?mode=1&item=catcher%3dstreams%26url=http://vertelevisor.com/tv/deportes/canal-plus-golf.html%26referer=http://vertelevisor.com/
+ 
+#EXTINF:-1 tvg-id="NACIONALES - TCM" tvg-name="NACIONALES - TCM" tvg-logo="http://vertelevisor.com/imagenes/tcm.png" group-title="ESPAÑA", NACIONALES - TCM
+plugin://plugin.video.SportsDevil/?mode=1&item=catcher%3dstreams%26url=http://vertelevisor.com/tv/nacionales/tcm.html%26referer=http://vertelevisor.com/
