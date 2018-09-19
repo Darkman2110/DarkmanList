@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1,ES:SYFY
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/28813.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://163.172.62.63:8000/live/fazeel/fazeel/3049.m3u8
 
 #EXTINF:-1,ES:SYFY HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://tv.proyectox.vip:25461/live/Cesar/cesar/92146.ts
