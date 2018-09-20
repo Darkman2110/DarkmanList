@@ -4,7 +4,7 @@
 http://loadbalancer2.galaxystreamz.xyz:8880/beta/syfyes/chunks.m3u8?nimblesessionid=578505&wmsAuthSign=c2VydmVyX3RpbWU9OS8yMC8yMDE4IDk6NDA6MjkgQU0maGFzaF92YWx1ZT1OVGN6blRCL0ptcWZ5Q25mZm1hUENnPT0mdmFsaWRtaW51dGVzPTI=
 
 #EXTINF:-1,ES:AXN HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://playlist.onlybest.tv/en/channel/88799c05f8ab49c8746d31e3b757b0d5/609/index.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://playlist.onlybest.tv/en/channel/88799c05f8ab49c8746d31e3b757b0d5/610/index.m3u8
 
 #EXTINF:-1,ES:TNT HD
 http://loadbalancer2.galaxystreamz.xyz:8880/beta/tntes/chunks.m3u8?nimblesessionid=578276&wmsAuthSign=c2VydmVyX3RpbWU9OS8yMC8yMDE4IDk6Mzg6MDEgQU0maGFzaF92YWx1ZT1oU0Z4VW9xSlNXNGxDdkc2VC82b2FBPT0mdmFsaWRtaW51dGVzPTI=
@@ -18,4 +18,4 @@ http://loadbalancer2.galaxystreamz.xyz:8880/beta/amces/chunks.m3u8?nimblesession
 
 
 #EXTINF:-1,ES:PRUEBAS HD
-http://playlist.onlybest.tv/en/channel/88799c05f8ab49c8746d31e3b757b0d5/609/index.m3u8
+http://playlist.onlybest.tv/en/channel/88799c05f8ab49c8746d31e3b757b0d5/610/index.m3u8
