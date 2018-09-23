@@ -33,7 +33,7 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]J
 #EXTINF:-1,ES: M LIGA HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url= http://5.189.187.55:8000/live/nour/skype/890.ts
 #EXTINF:-1,ES: M Futbol HD
- http://5.189.187.55:8000/live/nour/skype/2175.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url= http://5.189.187.55:8000/live/nour/skype/2175.ts
  
 #EXTINF:-1,ES: M DEPORTES 2 HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url= http://5.189.187.55:8000/live/nour/skype/2177.ts
