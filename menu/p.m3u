@@ -1,21 +1,26 @@
 #EXTM3U
 
 #EXTINF:-1,ES:SYFY HD
-http://loadbalancer2.galaxystreamz.xyz:8880/beta/syfyes/chunks.m3u8?nimblesessionid=578505&wmsAuthSign=c2VydmVyX3RpbWU9OS8yMC8yMDE4IDk6NDA6MjkgQU0maGFzaF92YWx1ZT1OVGN6blRCL0ptcWZ5Q25mZm1hUENnPT0mdmFsaWRtaW51dGVzPTI=
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://5.189.187.55:8000/live/nour/skype/2092.ts
+
 
 #EXTINF:-1,ES:AXN HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://145.239.130.232:25461/live/Passion-IPTV/f8AXvCAo14/800.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://5.189.187.55:8000/live/nour/skype/2622.ts
+
+
 
 #EXTINF:-1,ES:TNT HD
-http://loadbalancer2.galaxystreamz.xyz:8880/beta/tntes/chunks.m3u8?nimblesessionid=578276&wmsAuthSign=c2VydmVyX3RpbWU9OS8yMC8yMDE4IDk6Mzg6MDEgQU0maGFzaF92YWx1ZT1oU0Z4VW9xSlNXNGxDdkc2VC82b2FBPT0mdmFsaWRtaW51dGVzPTI=
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://5.189.187.55:8000/live/nour/skype/2280.ts
+
 
 #EXTINF:-1,ES:FOX HD
-http://loadbalancer2.galaxystreamz.xyz:8880/beta/foxes/chunks.m3u8?nimblesessionid=579902&wmsAuthSign=c2VydmVyX3RpbWU9OS8yMC8yMDE4IDk6NTQ6MzYgQU0maGFzaF92YWx1ZT01QjJBangzR1dCcC9nd2ZRQ0ViRlBBPT0mdmFsaWRtaW51dGVzPTI=
-
-#EXTINF:-1,ES:AMC HD
-http://loadbalancer2.galaxystreamz.xyz:8880/beta/amces/chunks.m3u8?nimblesessionid=578847&wmsAuthSign=c2VydmVyX3RpbWU9OS8yMC8yMDE4IDk6NDI6MjYgQU0maGFzaF92YWx1ZT1xbktQMkpXWmNLK1gvMitVMWptbEN3PT0mdmFsaWRtaW51dGVzPTI=
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://5.189.187.55:8000/live/nour/skype/2454.ts
 
 
+#EXTINF:-1,ES:HOLLYWOOD HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://5.189.187.55:8000/live/nour/skype/1032.ts
 
-#EXTINF:-1,ES:PRUEBAS HD
-http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/579/index.m3u8
+
+
+
+
