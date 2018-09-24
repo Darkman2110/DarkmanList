@@ -1,0 +1,133 @@
+#EXTM3U
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=
+
+#EXTINF:-1,ES | A Bola TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url= http://iptv-area-51.tv:2095/live/pet/pet/7808.ts
+#EXTINF:-1,ES | Azteca
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptv-area-51.tv:2095/live/pet/pet/13189.ts
+#EXTINF:-1,ES | BOING
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptv-area-51.tv:2095/live/pet/pet/7317.ts
+#EXTINF:-1,ES | Canal Cocina
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptv-area-51.tv:2095/live/pet/pet/7314.ts
+#EXTINF:-1,ES | Comedy Central
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptv-area-51.tv:2095/live/pet/pet/7310.ts
+#EXTINF:-1,ES | Cuatro HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptv-area-51.tv:2095/live/pet/pet/7307.ts
+#EXTINF:-1,ES | Disney Channel
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptv-area-51.tv:2095/live/pet/pet/7306.ts
+#EXTINF:-1,ES | Disney Junior
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptv-area-51.tv:2095/live/pet/pet/7305.ts
+#EXTINF:-1,ES | ESPN 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptv-area-51.tv:2095/live/pet/pet/13182.ts
+#EXTINF:-1,ES | EUROSPORT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptv-area-51.tv:2095/live/pet/pet/7302.ts
+#EXTINF:-1,ES | Energy
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptv-area-51.tv:2095/live/pet/pet/7303.ts
+#EXTINF:-1,ES | FOX HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptv-area-51.tv:2095/live/pet/pet/7300.ts
+#EXTINF:-1,ES | FOX LIFE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptv-area-51.tv:2095/live/pet/pet/7299.ts
+#EXTINF:-1,ES | Fox
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptv-area-51.tv:2095/live/pet/pet/8512.ts
+#EXTINF:-1,ES | Fox Deportes
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptv-area-51.tv:2095/live/pet/pet/8513.ts
+#EXTINF:-1,ES | GALAVISION
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptv-area-51.tv:2095/live/pet/pet/12141.ts
+#EXTINF:-1,ES | HBO Signature
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptv-area-51.tv:2095/live/pet/pet/10917.ts
+#EXTINF:-1,ES | Historia
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptv-area-51.tv:2095/live/pet/pet/7297.ts
+#EXTINF:-1,ES | MTV espana
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptv-area-51.tv:2095/live/pet/pet/7281.ts
+#EXTINF:-1,ES | Mega
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptv-area-51.tv:2095/live/pet/pet/7293.ts
+#EXTINF:-1,ES | Movistar Accion
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptv-area-51.tv:2095/live/pet/pet/7290.ts
+#EXTINF:-1,ES | Movistar Comedia HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptv-area-51.tv:2095/live/pet/pet/7289.ts
+#EXTINF:-1,ES | Movistar DCine
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptv-area-51.tv:2095/live/pet/pet/7288.ts
+#EXTINF:-1,ES | Movistar Estrenos
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptv-area-51.tv:2095/live/pet/pet/7287.ts
+#EXTINF:-1,ES | Movistar F1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptv-area-51.tv:2095/live/pet/pet/7286.ts
+#EXTINF:-1,ES | Movistar Series
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptv-area-51.tv:2095/live/pet/pet/7284.ts
+#EXTINF:-1,ES | Movistar Series Xtra
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptv-area-51.tv:2095/live/pet/pet/7283.ts
+#EXTINF:-1,ES | Movistar Xtra
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptv-area-51.tv:2095/live/pet/pet/7282.ts
+#EXTINF:-1,ES | N Cuatro HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptv-area-51.tv:2095/live/pet/pet/7280.ts
+#EXTINF:-1,ES | Nat Geo Wild
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptv-area-51.tv:2095/live/pet/pet/7279.ts
+#EXTINF:-1,ES | National Geographic
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptv-area-51.tv:2095/live/pet/pet/7278.ts
+#EXTINF:-1,ES | Neox Tv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptv-area-51.tv:2095/live/pet/pet/7277.ts
+#EXTINF:-1,ES | Nova
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptv-area-51.tv:2095/live/pet/pet/7275.ts
+#EXTINF:-1,ES | Paramount Channel
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptv-area-51.tv:2095/live/pet/pet/7273.ts
+#EXTINF:-1,ES | RTVA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptv-area-51.tv:2095/live/pet/pet/7271.ts
+#EXTINF:-1,ES | Sevilla Channel
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptv-area-51.tv:2095/live/pet/pet/7270.ts
+#EXTINF:-1,ES | Sport TV 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptv-area-51.tv:2095/live/pet/pet/7712.ts
+#EXTINF:-1,ES | Sport TV 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptv-area-51.tv:2095/live/pet/pet/7713.ts
+#EXTINF:-1,ES | Sport TV 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptv-area-51.tv:2095/live/pet/pet/7714.ts
+#EXTINF:-1,ES | Sport TV 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptv-area-51.tv:2095/live/pet/pet/7715.ts
+#EXTINF:-1,ES | Sport TV 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptv-area-51.tv:2095/live/pet/pet/7716.ts
+#EXTINF:-1,ES | TELEMUNDO EAST
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptv-area-51.tv:2095/live/pet/pet/4240.ts
+#EXTINF:-1,ES | TELEMUNDO WEST
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptv-area-51.tv:2095/live/pet/pet/12306.ts
+#EXTINF:-1,ES | TNT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptv-area-51.tv:2095/live/pet/pet/7253.ts
+#EXTINF:-1,ES | TV3 Catalynia HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptv-area-51.tv:2095/live/pet/pet/7251.ts
+#EXTINF:-1,ES | TVE LA 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptv-area-51.tv:2095/live/pet/pet/7249.ts
+#EXTINF:-1,ES | TVE LA 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptv-area-51.tv:2095/live/pet/pet/7248.ts
+#EXTINF:-1,ES | Taquilla 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptv-area-51.tv:2095/live/pet/pet/7268.ts
+#EXTINF:-1,ES | Taquilla 10
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptv-area-51.tv:2095/live/pet/pet/7267.ts
+#EXTINF:-1,ES | Taquilla 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptv-area-51.tv:2095/live/pet/pet/7266.ts
+#EXTINF:-1,ES | Taquilla 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptv-area-51.tv:2095/live/pet/pet/7265.ts
+#EXTINF:-1,ES | Taquilla 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptv-area-51.tv:2095/live/pet/pet/7264.ts
+#EXTINF:-1,ES | Taquilla 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptv-area-51.tv:2095/live/pet/pet/12432.ts
+#EXTINF:-1,ES | Taquilla 6
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptv-area-51.tv:2095/live/pet/pet/7262.ts
+#EXTINF:-1,ES | Taquilla 7
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptv-area-51.tv:2095/live/pet/pet/7261.ts
+#EXTINF:-1,ES | Taquilla 8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptv-area-51.tv:2095/live/pet/pet/7260.ts
+#EXTINF:-1,ES | Taquilla 9
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptv-area-51.tv:2095/live/pet/pet/12433.ts
+#EXTINF:-1,ES | Telecinco
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptv-area-51.tv:2095/live/pet/pet/7258.ts
+#EXTINF:-1,ES | Telecinco HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptv-area-51.tv:2095/live/pet/pet/7257.ts
+#EXTINF:-1,ES | Telemax musica
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptv-area-51.tv:2095/live/pet/pet/12524.ts
+#EXTINF:-1,ES | Telepacifico
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptv-area-51.tv:2095/live/pet/pet/7449.ts
+#EXTINF:-1,ES | Telesur
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptv-area-51.tv:2095/live/pet/pet/7255.ts
+#EXTINF:-1,ES | Univision
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptv-area-51.tv:2095/live/pet/pet/7706.ts
+#EXTINF:-1,ES | Univision Deportes
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptv-area-51.tv:2095/live/pet/pet/7368.ts
+#EXTINF:-1,ES | Wapa America
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptv-area-51.tv:2095/live/pet/pet/13190.ts
