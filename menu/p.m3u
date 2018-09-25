@@ -1,16 +1,19 @@
 #EXTM3U
 
 #EXTINF:-1,ES:SYFY HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://5.189.187.55:8000/live/nour/skype/2092.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://185.53.163.220:2015/live/280690/280690/34329.ts
+#EXTINF:-1,ES:SYFY HD 1
+http://163.172.52.83:8000/live/KaqslQwi3Eisqp/T08qRQRtOHdoVb/508.ts
 
 #EXTINF:-1,es_SyFy 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://144.217.72.121:8000/live/nova1764/a1764/2276.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://185.53.163.220:2015/live/280690/280690/34328.ts
 
 #EXTINF:-1,ES:AXN HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://5.189.187.55:8000/live/nour/skype/2622.ts
 
 #EXTINF:-1,ES: AXN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url= http://5.189.187.55:8000/live/nour/skype/2622.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url= http://163.172.52.83:8000/live/KaqslQwi3Eisqp/T08qRQRtOHdoVb/585.ts
+
 
 #EXTINF:-1,es_AXN 1
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://144.217.72.121:8000/live/nova1764/a1764/2332.ts
@@ -31,13 +34,14 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]J
 
 
 #EXTINF:-1,PT-Fox HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://144.217.72.121:8000/live/nova1764/a1764/386.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://185.53.163.220:2015/live/280690/280690/34395.ts
+
 
 #EXTINF:-1,es_TNT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://144.217.72.121:8000/live/nova1764/a1764/2271.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://185.53.163.220:2015/live/280690/280690/34396.ts
   
 #EXTINF:-1,ES:TNT HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://5.189.187.55:8000/live/nour/skype/2280.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://185.53.163.220:2015/live/280690/280690/34323.ts
 
 #EXTINF:-1,es_TCM
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url= http://144.217.72.121:8000/live/nova1764/a1764/2275.ts
