@@ -1,90 +1,84 @@
 #EXTM3U
 
 #EXTINF:-1,ES:SYFY HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://185.53.163.220:2015/live/280690/280690/34329.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]DARKMAN_TV[/COLOR];url=http://185.53.163.220:2015/live/280690/280690/34329.ts
 #EXTINF:-1,ES:SYFY HD 1
-http://163.172.52.83:8000/live/KaqslQwi3Eisqp/T08qRQRtOHdoVb/508.ts
-
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]DARKMAN_TV[/COLOR];url=http://185.53.163.220:2015/live/280690/280690/34328.ts
 #EXTINF:-1,es_SyFy 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://185.53.163.220:2015/live/280690/280690/34328.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]DARKMAN_TV[/COLOR];url=http://185.53.163.220:2015/live/280690/280690/34328.ts
+
 
 #EXTINF:-1,ES:AXN HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://5.189.187.55:8000/live/nour/skype/2622.ts
-
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]DARKMAN_TV[/COLOR];url=http://5.189.187.55:8000/live/nour/skype/2622.ts
 #EXTINF:-1,ES: AXN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url= http://163.172.52.83:8000/live/KaqslQwi3Eisqp/T08qRQRtOHdoVb/585.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]DARKMAN_TV[/COLOR];url=http://163.172.52.83:8000/live/KaqslQwi3Eisqp/T08qRQRtOHdoVb/585.ts
+#EXTINF:-1,ES: AXN 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]DARKMAN_TV[/COLOR];url=http://144.217.72.121:8000/live/nova1764/a1764/2332.ts
+#EXTINF:-1,ES: AXN 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]DARKMAN_TV[/COLOR];url=http://185.53.163.220:2015/live/280690/280690/34441.m3u8
 
 
-#EXTINF:-1,es_AXN 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://144.217.72.121:8000/live/nova1764/a1764/2332.ts
+
 
 #EXTINF:-1,ES: AXN White HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url= http://5.189.187.55:8000/live/nour/skype/970.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]DARKMAN_TV[/COLOR];url=http://5.189.187.55:8000/live/nour/skype/970.ts
 #EXTINF:-1,ES: AXN White
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url= http://5.189.187.55:8000/live/nour/skype/2567.ts
-
-
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]DARKMAN_TV[/COLOR];url=http://5.189.187.55:8000/live/nour/skype/2567.ts
 #EXTINF:-1,es_AXN White 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://144.217.72.121:8000/live/nova1764/a1764/2331.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]DARKMAN_TV[/COLOR];url=http://144.217.72.121:8000/live/nova1764/a1764/2331.ts
 
 
+#EXTINF:-1,ES: AMC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]DARKMAN_TV[/COLOR];url=http://5.189.187.55:8000/live/nour/skype/2742.ts
 #EXTINF:-1,es_AMC 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://144.217.72.121:8000/live/nova1764/a1764/2335.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]DARKMAN_TV[/COLOR];url=http://185.53.163.220:2015/live/280690/280690/34396.ts
+#EXTINF:-1,es_AMC 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]DARKMAN_TV[/COLOR];url=http://185.53.163.220:2015/live/280690/280690/34444.m3u8
 
 
 
-#EXTINF:-1,PT-Fox HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://185.53.163.220:2015/live/280690/280690/34395.ts
+#EXTINF:-1,ES: FOX HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]DARKMAN_TV[/COLOR];url=http://5.189.187.55:8000/live/nour/skype/2454.ts
+#EXTINF:-1,ES: FOX
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]DARKMAN_TV[/COLOR];url=http://5.189.187.55:8000/live/nour/skype/1669.ts
+#EXTINF:-1,ES: FOX 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]DARKMAN_TV[/COLOR];url=http://185.53.163.220:2015/live/280690/280690/34395.ts
 
 
 #EXTINF:-1,es_TNT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://185.53.163.220:2015/live/280690/280690/34396.ts
-  
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]DARKMAN_TV[/COLOR];url=http://185.53.163.220:2015/live/280690/280690/34324.ts 
 #EXTINF:-1,ES:TNT HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://185.53.163.220:2015/live/280690/280690/34323.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]DARKMAN_TV[/COLOR];url=http://185.53.163.220:2015/live/280690/280690/34323.ts
+
 
 #EXTINF:-1,es_TCM
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url= http://144.217.72.121:8000/live/nova1764/a1764/2275.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]DARKMAN_TV[/COLOR];url=http://185.53.163.220:2015/live/280690/280690/34327.ts
 
-
-#EXTINF:-1,ES:FOX HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url= http://5.189.187.55:8000/live/nour/skype/2454.ts
-
-#EXTINF:-1,ES: FOX
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url= http://5.189.187.55:8000/live/nour/skype/1669.ts
 
 #EXTINF:-1,ES:HOLLYWOOD HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://5.189.187.55:8000/live/nour/skype/1032.ts
-
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]DARKMAN_TV[/COLOR];url=http://5.189.187.55:8000/live/nour/skype/1032.ts
 #EXTINF:-1,ES: M ACCION HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://5.189.187.55:8000/live/nour/skype/1675.ts
-
-#EXTINF:-1,ES: AXN White HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url= http://5.189.187.55:8000/live/nour/skype/970.ts
-
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]DARKMAN_TV[/COLOR];url=http://5.189.187.55:8000/live/nour/skype/1675.ts
 #EXTINF:-1,ES: Calle 13 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url= http://5.189.187.55:8000/live/nour/skype/1676.ts
-
-#EXTINF:-1,ES: AMC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url= http://5.189.187.55:8000/live/nour/skype/2742.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]DARKMAN_TV[/COLOR];url= http://5.189.187.55:8000/live/nour/skype/1676.ts
 
 
 
 
 #EXTINF:-1,ES: M LIGA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url= http://5.189.187.55:8000/live/nour/skype/890.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]DARKMAN_TV[/COLOR];url= http://5.189.187.55:8000/live/nour/skype/890.ts
 #EXTINF:-1,ES: M Futbol HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url= http://5.189.187.55:8000/live/nour/skype/2175.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]DARKMAN_TV[/COLOR];url= http://5.189.187.55:8000/live/nour/skype/2175.ts
  
 #EXTINF:-1,ES: M DEPORTES 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url= http://5.189.187.55:8000/live/nour/skype/2177.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]DARKMAN_TV[/COLOR];url= http://5.189.187.55:8000/live/nour/skype/2177.ts
 #EXTINF:-1,ES: M. DEPORTES 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url= http://5.189.187.55:8000/live/nour/skype/2692.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]DARKMAN_TV[/COLOR];url= http://5.189.187.55:8000/live/nour/skype/2692.ts
 #EXTINF:-1,ES: M DEPORTES 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url= http://5.189.187.55:8000/live/nour/skype/2178.ts 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]DARKMAN_TV[/COLOR];url= http://5.189.187.55:8000/live/nour/skype/2178.ts 
  
 #EXTINF:-1,ES: VIAJAR HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url= http://5.189.187.55:8000/live/nour/skype/2452.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]DARKMAN_TV[/COLOR];url= http://5.189.187.55:8000/live/nour/skype/2452.ts
  
  
  
