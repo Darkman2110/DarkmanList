@@ -4,8 +4,6 @@
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]DARKMAN_TV[/COLOR];url=http://185.53.163.220:2015/live/280690/280690/34329.ts
 #EXTINF:-1,ES:SYFY HD 1
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]DARKMAN_TV[/COLOR];url=http://185.53.163.220:2015/live/280690/280690/34328.ts
-#EXTINF:-1,es_SyFy 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]DARKMAN_TV[/COLOR];url=http://185.53.163.220:2015/live/280690/280690/34328.ts
 
 
 #EXTINF:-1,ES:AXN HD
