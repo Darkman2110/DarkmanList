@@ -10,10 +10,7 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR yellow]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR yellow]DARKMAN_TV[/COLOR];url=http://163.172.52.83:8000/live/KaqslQwi3Eisqp/T08qRQRtOHdoVb/585.ts
 #EXTINF:-1,ES: AXN
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR yellow]DARKMAN_TV[/COLOR];url=http://163.172.52.83:8000/live/KaqslQwi3Eisqp/T08qRQRtOHdoVb/585.ts
-#EXTINF:-1,ES: AXN 1
-http://painel.soeu.kim:8080/live/ilidio/ilidio/3331.m3u8
-#EXTINF:-1,ES: AXN 2
-http://185.53.163.220:2015/live/280690/280690/34441.m3u8
+
 
 
 

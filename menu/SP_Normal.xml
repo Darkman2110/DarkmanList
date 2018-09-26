@@ -1,0 +1,491 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<item>
+<title>*** AutoIPTV ***</title>
+<link>https://autoiptv.net</link>
+</item>
+<item>
+<title>https://autoiptv.net</title>
+<link>https://autoiptv.net</link>
+</item>
+<item>
+<title>*** Playlists ***</title>
+<link>https://autoiptv.net/playlists</link>
+</item>
+<item>
+<title>https://autoiptv.net/playlists</title>
+<link>https://autoiptv.net/playlists</link>
+</item>
+<item>
+<title>13 TV | SD</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://streaming.enetres.net:80/091DB7AFBD77442B9BA2F141DCC182F5021/mobile/chunklist.m3u8</link>
+</item>
+<item>
+<title>A PUNT | SD</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=https://cflive-emea.live-delivery.ooyala.com/out/u/jb44pwd2tj7w5/111819/wyYXIxZTE6okZbyKLzxq8TXa4a-SQlAO/cs/d77d4356674b449695b1c0f19fbd6fae_6.m3u8</link>
+</item>
+<item>
+<title>A&E | SD</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://painel.soeu.kim:8080/live/ilidio/ilidio/3328.m3u8</link>
+</item>
+<item>
+<title>ALCARRIA TV | SD</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://217.182.77.27/live/alcarriatv-livestream.m3u8</link>
+</item>
+<item>
+<title>AMC | HD</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://185.53.163.220:2015/live/280690/280690/34444.m3u8</link>
+</item>
+<item>
+<title>AMC | SD</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://painel.soeu.kim:8080/live/ilidio/ilidio/3329.m3u8</link>
+</item>
+<item>
+<title>ANTENA 3 | SD</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://painel.soeu.kim:8080/live/ilidio/ilidio/3330.m3u8</link>
+</item>
+<item>
+<title>AXN | HD</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://painel.soeu.kim:8080/live/ilidio/ilidio/3331.m3u8</link>
+</item>
+<item>
+<title>AXN | SD</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://185.53.163.220:2015/live/280690/280690/34441.m3u8</link>
+</item>
+<item>
+<title>AXN WHITE | HD</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://185.53.163.220:2015/live/280690/280690/34438.m3u8</link>
+</item>
+<item>
+<title>AXN WHITE | SD</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://185.53.163.220:2015/live/280690/280690/34439.m3u8</link>
+</item>
+<item>
+<title>BEIN LA LIGA | HD</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://185.53.163.220:2015/live/280690/280690/34433.m3u8</link>
+</item>
+<item>
+<title>BEIN LA LIGA (1+) | HD</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://painel.soeu.kim:8080/live/ilidio/ilidio/3332.m3u8</link>
+</item>
+<item>
+<title>BEIN LA LIGA 1 | SD</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://185.53.163.220:2015/live/280690/280690/34435.m3u8</link>
+</item>
+<item>
+<title>BEIN LALIGA | SD</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://185.53.163.220:2015/live/280690/280690/34432.m3u8</link>
+</item>
+<item>
+<title>CALLE 13 | HD</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://185.53.163.220:2015/live/280690/280690/34423.m3u8</link>
+</item>
+<item>
+<title>CALLE 13 | SD</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://185.53.163.220:2015/live/280690/280690/34424.m3u8</link>
+</item>
+<item>
+<title>CALLE 13 (1+) | SD</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://painel.soeu.kim:8080/live/ilidio/ilidio/3322.m3u8</link>
+</item>
+<item>
+<title>CANAL 4 | SD</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=https://5940924978228.streamlock.net/Directo2/Directo2/chunklist_w221845664.m3u8</link>
+</item>
+<item>
+<title>CANAL ODISEA | SD</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://185.53.163.220:2015/live/280690/280690/34420.m3u8</link>
+</item>
+<item>
+<title>CANARIA SAT | SD</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://streaming2.mad.idec.net/rtvcnet/rtvcnet.drb.360plr.stream/playlist.m3u8</link>
+</item>
+<item>
+<title>CAZA Y PESCA | SD</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://185.53.163.220:2015/live/280690/280690/34416.m3u8</link>
+</item>
+<item>
+<title>CEUTA TV | SD</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://cls.todostreaming.eu/anguloce/livestream/chunklist.m3u8</link>
+</item>
+<item>
+<title>CLAN TVE | SD</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://185.53.163.220:2015/live/280690/280690/34414.m3u8</link>
+</item>
+<item>
+<title>COMEDY CENTRAL | HD</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://185.53.163.220:2015/live/280690/280690/34412.m3u8</link>
+</item>
+<item>
+<title>COMEDY CENTRAL (1+) | HD</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://painel.soeu.kim:8080/live/ilidio/ilidio/3337.m3u8</link>
+</item>
+<item>
+<title>COSMO | HD</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://185.53.163.220:2015/live/280690/280690/34410.m3u8</link>
+</item>
+<item>
+<title>COSMO | SD</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://185.53.163.220:2015/live/280690/280690/34411.m3u8</link>
+</item>
+<item>
+<title>COSMOS | HD</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://painel.soeu.kim:8080/live/ilidio/ilidio/3326.m3u8</link>
+</item>
+<item>
+<title>COSTA DEL SOL TV | SD</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://cls.todostreaming.eu/benalmadena/webtv/chunklist.m3u8</link>
+</item>
+<item>
+<title>CRIME INVESTIGACION | SD</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://painel.soeu.kim:8080/live/ilidio/ilidio/3338.m3u8</link>
+</item>
+<item>
+<title>CUATRO | SD</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://185.53.163.220:2015/live/280690/280690/34408.m3u8</link>
+</item>
+<item>
+<title>CUATRO (1+) | SD</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://painel.soeu.kim:8080/live/ilidio/ilidio/3339.m3u8</link>
+</item>
+<item>
+<title>FOX | SD</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://painel.soeu.kim:8080/live/ilidio/ilidio/3344.m3u8</link>
+</item>
+<item>
+<title>FOX LIFE | SD</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://painel.soeu.kim:8080/live/ilidio/ilidio/3345.m3u8</link>
+</item>
+<item>
+<title>FUTBALL 1 | SD</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://185.53.163.220:2015/live/280690/280690/14867.m3u8</link>
+</item>
+<item>
+<title>FUTBALL 2 | SD</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://185.53.163.220:2015/live/280690/280690/14866.m3u8</link>
+</item>
+<item>
+<title>GAZETA | HD</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://195.181.160.217:25461/live/7878/7878/8975.m3u8</link>
+</item>
+<item>
+<title>GAZETA (1+) | HD</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://195.181.160.217:25461/live/thales/thales/8975.m3u8</link>
+</item>
+<item>
+<title>GAZETA (2+) | HD</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://playhddigital.me:8081/live/andiptv/p97r1fW9lX/420.m3u8</link>
+</item>
+<item>
+<title>GLOBO | HD</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://195.181.160.217:25461/live/7878/7878/8190.m3u8</link>
+</item>
+<item>
+<title>GLOBO (1+) | HD</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://195.181.160.217:25461/live/thales/thales/8190.m3u8</link>
+</item>
+<item>
+<title>GLOBO (2+) | HD</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://playhddigital.me:8081/live/andiptv/p97r1fW9lX/136.m3u8</link>
+</item>
+<item>
+<title>GLOBO (3+) | HD</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://playhddigital.me:8081/live/andiptv/p97r1fW9lX/567.m3u8</link>
+</item>
+<item>
+<title>GLOBO | SD</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://playhddigital.me:8081/live/andiptv/p97r1fW9lX/53.m3u8</link>
+</item>
+<item>
+<title>GLOBO ALTERNATIVO | SD</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://195.181.160.217:25461/live/thales/thales/11237.m3u8</link>
+</item>
+<item>
+<title>HISTORIA | SD</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://painel.soeu.kim:8080/live/ilidio/ilidio/3346.m3u8</link>
+</item>
+<item>
+<title>HOLLYWOOD | HD</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://painel.soeu.kim:8080/live/ilidio/ilidio/3347.m3u8</link>
+</item>
+<item>
+<title>IMAS TV | SD</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://cls.todostreaming.eu/imastv/livestream/chunklist.m3u8</link>
+</item>
+<item>
+<title>INDEX2500 M3U8 | SD</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://secure-streams.akamaized.net/rt-esp/index2500.m3u8</link>
+</item>
+<item>
+<title>INDEX800 M3U8 | SD</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://secure-streams.akamaized.net/rt-esp/index800.m3u8</link>
+</item>
+<item>
+<title>INFORMACION TV | SD</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://teledifusion.tv:1935/informaciontvlive/informaciontvlive/livestream.m3u8</link>
+</item>
+<item>
+<title>KONIY MIR | HD</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://185.53.163.220:2015/live/280690/280690/14859.m3u8</link>
+</item>
+<item>
+<title>LA 1 | HD</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://painel.soeu.kim:8080/live/ilidio/ilidio/3348.m3u8</link>
+</item>
+<item>
+<title>LA 2 | SD</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://painel.soeu.kim:8080/live/ilidio/ilidio/3349.m3u8</link>
+</item>
+<item>
+<title>LA BANDA | SD</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=https://593fa17dec176.streamlock.net/cslabanda/cslabanda.stream/index.m3u8</link>
+</item>
+<item>
+<title>LA LIGA TV | HD</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://painel.soeu.kim:8080/live/ilidio/ilidio/3350.m3u8</link>
+</item>
+<item>
+<title>LA XARXA | SD</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://video-streaming.laxarxa.com:1935/xal1/mp4:directe/playlist.m3u8</link>
+</item>
+<item>
+<title>LANCELOT TV | SD</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://62.210.141.18:1935/directo/lancelot.television/live.m3u8</link>
+</item>
+<item>
+<title>M ACCI | HD</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://185.53.163.220:2015/live/280690/280690/34376.m3u8</link>
+</item>
+<item>
+<title>M ACCI | SD</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://185.53.163.220:2015/live/280690/280690/34377.m3u8</link>
+</item>
+<item>
+<title>M ACCION | SD</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://painel.soeu.kim:8080/live/ilidio/ilidio/3352.m3u8</link>
+</item>
+<item>
+<title>M COMEDIA | HD</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://185.53.163.220:2015/live/280690/280690/34373.m3u8</link>
+</item>
+<item>
+<title>M COMEDIA | SD</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://painel.soeu.kim:8080/live/ilidio/ilidio/3353.m3u8</link>
+</item>
+<item>
+<title>M DEP 1 | HD</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://185.53.163.220:2015/live/280690/280690/34368.m3u8</link>
+</item>
+<item>
+<title>M DEP 1 | SD</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://185.53.163.220:2015/live/280690/280690/34369.m3u8</link>
+</item>
+<item>
+<title>M DEP 2 | HD</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://185.53.163.220:2015/live/280690/280690/34366.m3u8</link>
+</item>
+<item>
+<title>M DEP 2 | SD</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://185.53.163.220:2015/live/280690/280690/34367.m3u8</link>
+</item>
+<item>
+<title>M DEPORTES | HD</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://painel.soeu.kim:8080/live/ilidio/ilidio/3355.m3u8</link>
+</item>
+<item>
+<title>M DEPORTES 2 | HD</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://painel.soeu.kim:8080/live/ilidio/ilidio/3354.m3u8</link>
+</item>
+<item>
+<title>M ESTRENOS | HD</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://185.53.163.220:2015/live/280690/280690/34379.m3u8</link>
+</item>
+<item>
+<title>M FUTBOL | HD</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://painel.soeu.kim:8080/live/ilidio/ilidio/3356.m3u8</link>
+</item>
+<item>
+<title>M TOROS | SD</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://painel.soeu.kim:8080/live/ilidio/ilidio/3359.m3u8</link>
+</item>
+<item>
+<title>M XTRA | HD</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://185.53.163.220:2015/live/280690/280690/34352.m3u8</link>
+</item>
+<item>
+<title>M XTRA (1+) | HD</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://painel.soeu.kim:8080/live/ilidio/ilidio/3360.m3u8</link>
+</item>
+<item>
+<title>M XTRA | SD</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://185.53.163.220:2015/live/280690/280690/34353.m3u8</link>
+</item>
+<item>
+<title>MATCH | HD</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://185.53.163.220:2015/live/280690/280690/14862.m3u8</link>
+</item>
+<item>
+<title>MATCH! IGRA | HD</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://185.53.163.220:2015/live/280690/280690/14864.m3u8</link>
+</item>
+<item>
+<title>MEGA | SD</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://painel.soeu.kim:8080/live/ilidio/ilidio/3361.m3u8</link>
+</item>
+<item>
+<title>MEZZO | SD</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://185.53.163.220:2015/live/280690/280690/34350.m3u8</link>
+</item>
+<item>
+<title>MIAMI TV | SD</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://spainserver.miamitvchannel.com/miamitv/smil:miamitvspain/playlist.m3u8</link>
+</item>
+<item>
+<title>MIAMI TV ESPANA | SD</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://spainserver.miamitvchannel.com/miamitv/smil:miamitvspain/.m3u8</link>
+</item>
+<item>
+<title>NASH FUTBOL | HD</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://185.53.163.220:2015/live/280690/280690/14861.m3u8</link>
+</item>
+<item>
+<title>NAT GEO WILD | HD</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://painel.soeu.kim:8080/live/ilidio/ilidio/3365.m3u8</link>
+</item>
+<item>
+<title>NAT GEOGRAPHIC | HD</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://painel.soeu.kim:8080/live/ilidio/ilidio/3366.m3u8</link>
+</item>
+<item>
+<title>NAVARRA TV | SD</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://nws.nice264.com/SmilLive/getLiveIOS.smil?stream=NTV_livenatvmb&system=NTV&protocol=http_cupertino/playlist.m3u8</link>
+</item>
+<item>
+<title>NEOX | SD</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://painel.soeu.kim:8080/live/ilidio/ilidio/3324.m3u8</link>
+</item>
+<item>
+<title>NONSTOPEOPLE | SD</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://painel.soeu.kim:8080/live/ilidio/ilidio/3368.m3u8</link>
+</item>
+<item>
+<title>NOVA | SD</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://painel.soeu.kim:8080/live/ilidio/ilidio/3369.m3u8</link>
+</item>
+<item>
+<title>ODISEA | SD</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://painel.soeu.kim:8080/live/ilidio/ilidio/3370.m3u8</link>
+</item>
+<item>
+<title>ONDA ALGECIRAS | SD</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://cls.provideo.es/algecirastv/livestream/playlist.m3u8</link>
+</item>
+<item>
+<title>REAL MADRID TV | SD</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://185.53.163.220:2015/live/280690/280690/34331.m3u8</link>
+</item>
+<item>
+<title>REAL MADRID TV (1+) | SD</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://painel.soeu.kim:8080/live/ilidio/ilidio/3371.m3u8</link>
+</item>
+<item>
+<title>RECORD | SD</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://195.181.160.217:25461/live/7878/7878/10254.m3u8</link>
+</item>
+<item>
+<title>RECORD (1+) | SD</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://195.181.160.217:25461/live/thales/thales/10254.m3u8</link>
+</item>
+<item>
+<title>REDE RECORD | HD</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://playhddigital.me:8081/live/andiptv/p97r1fW9lX/384.m3u8</link>
+</item>
+<item>
+<title>RTV MARBELLA | SD</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://cls.provideo.es/marbellatv/livestream/playlist.m3u8</link>
+</item>
+<item>
+<title>RTVCE | SD</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://teledifusion.tv:1935/rtvcetv/rtvcetvlive/playlist.m3u8</link>
+</item>
+<item>
+<title>SAN ROQUE TV | SD</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://188.165.135.22/sanroque/mystream/chunklist_w1703138822.m3u8</link>
+</item>
+<item>
+<title>SBT INTERIOR | SD</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://195.181.160.217:25461/live/7878/7878/10253.m3u8</link>
+</item>
+<item>
+<title>SKY 1 | SD</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://vietcago.net/vstv/skysp1.m3u8</link>
+</item>
+<item>
+<title>SKY 2 | SD</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://vietcago.net/vstv/skysp2.m3u8</link>
+</item>
+<item>
+<title>SKY 4 | SD</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://vietcago.net/vstv/skysp4.m3u8</link>
+</item>
+<item>
+<title>SYFY | SD</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://painel.soeu.kim:8080/live/ilidio/ilidio/3372.m3u8</link>
+</item>
+<item>
+<title>TAQUILLA 1 | SD</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://painel.soeu.kim:8080/live/ilidio/ilidio/3321.m3u8</link>
+</item>
+<item>
+<title>TAQUILLA 2 | SD</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://painel.soeu.kim:8080/live/ilidio/ilidio/3320.m3u8</link>
+</item>
+<item>
+<title>TAQUILLA 3 | SD</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://painel.soeu.kim:8080/live/ilidio/ilidio/3319.m3u8</link>
+</item>
+<item>
+<title>TAQUILLA 4 | SD</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://painel.soeu.kim:8080/live/ilidio/ilidio/3318.m3u8</link>
+</item>
+<item>
+<title>TAQUILLA 5 | SD</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://painel.soeu.kim:8080/live/ilidio/ilidio/3317.m3u8</link>
+</item>
+<item>
+<title>TELEBILBAO | SD</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://cls.todostreaming.eu/telebilbao/restricted/playlist.m3u8</link>
+</item>
+<item>
+<title>TELECINCO | HD</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://painel.soeu.kim:8080/live/ilidio/ilidio/3373.m3u8</link>
+</item>
+<item>
+<title>TELEDEPORTE | SD</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://painel.soeu.kim:8080/live/ilidio/ilidio/3374.m3u8</link>
+</item>
+<item>
+<title>TELEELX | SD</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://teledifusion.tv:1935/teleelx/teleelxlive/playlist.m3u8</link>
+</item>
+<item>
+<title>TELESAFOR | SD</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://video.telesafor.com/hls/video_low.m3u8</link>
+</item>
+<item>
+<title>TMC | HD</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://painel.soeu.kim:8080/live/ilidio/ilidio/3375.m3u8</link>
+</item>
+<item>
+<title>TNT | HD</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://painel.soeu.kim:8080/live/ilidio/ilidio/3376.m3u8</link>
+</item>
+<item>
+<title>VIAJAR | HD</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://185.53.163.220:2015/live/280690/280690/34321.m3u8</link>
+</item>
+<item>
+<title>VIAJAR (1+) | HD</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://painel.soeu.kim:8080/live/ilidio/ilidio/3377.m3u8</link>
+</item>

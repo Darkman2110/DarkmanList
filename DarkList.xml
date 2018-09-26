@@ -84,12 +84,32 @@
  <channels>
  <channel>
       <name>[COLOR white][COLOR yellow] •  [/COLOR]LISTA CANALES TV-3[/COLOR]</name>
-       <externallink>https://raw.githubusercontent.com/Darkman2110/DarkmanList/master/menu/p2.m3u</externallink>
+       <externallink>https://raw.githubusercontent.com/Darkman2110/DarkmanList/master/menu/SP_Normal.xml</externallink>
 	  <thumbnail>http://zonadjjavi.webcindario.com/Kodi/imagen/deportes.png</thumbnail>
       <fanart>http://zonadjjavi.webcindario.com/fanart.jpg</fanart>
 </channel>
 </channels>
 
+</item>
+<item>
+        <title>[COLOR yellow]                                  LISTA 10[/COLOR]</title>
+        <link>http://ignorame</link>
+        <thumbnail>https://raw.githubusercontent.com/MrTvGratis/TvGratis/master/imagenes%20tvgratis/icon1.png</thumbnail>
+        <fanart>https://raw.githubusercontent.com/MrTvGratis/TvGratis/master/imagenes%20tvgratis/icon1.png</fanart>
+
+<externallink>$doregex[notice]</externallink>
+<regex>
+<name>notice</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+  import xbmc
+  xbmc.executebuiltin("XBMC.Notification(Si no te funciona esta lista,prueba con otra ,10000)")
+  return 'http://xml.autoiptv.net/normal.php?c=SP'
+]]></expres>
+<page></page>
+</regex>
+
+</item>
 <channels>
  <channel>
       <name>[COLOR white][COLOR yellow] •  [/COLOR]ESTRENOS 2017[/COLOR]</name>
